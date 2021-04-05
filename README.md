@@ -1,8 +1,8 @@
 # Pi-hole-lists-backup
-Simple script to backup Pi-hole blacklist and keep up with changes.
+Simple script to back up Pi-hole blacklist and keep up with changes.
 
 ## Background
-Many of the great Pi-hole blocklists randomly disappeared in the past from mirrors and were lost irrevocably.
+Many of the great and valuable Pi-hole blocklists randomly disappeared in the past from mirrors and were lost irrevocably.
 This is a simple solution to back up them and save them from being gone.
 Also, this allows to track recent changes in the lists.
 
