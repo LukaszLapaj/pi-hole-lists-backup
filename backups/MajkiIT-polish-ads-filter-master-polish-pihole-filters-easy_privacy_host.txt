@@ -1,11 +1,11 @@
-#202105230303
+#202106250303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
 # Support: https://github.com/MajkiIT/polish-ads-filter/issues
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2021 Certyficate IT
+# Copyright (C) 2020 Certyficate IT
 #
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 0x1f4b0.com
@@ -50,6 +50,7 @@
 0.0.0.0 a.20minutes.fr
 0.0.0.0 a.artistasdigitais.net
 0.0.0.0 a.beliefnet.com
+0.0.0.0 a.electerious.com
 0.0.0.0 a.evergage.com
 0.0.0.0 a.fdmedia.io
 0.0.0.0 a.fox.com
@@ -284,6 +285,7 @@
 0.0.0.0 a43889.actonservice.com
 0.0.0.0 a43939.actonservice.com
 0.0.0.0 a44112.actonservice.com
+0.0.0.0 a5xo-eng.spankbang.com
 0.0.0.0 a8.01cloud.jp
 0.0.0.0 a8.cyclemarket.jp
 0.0.0.0 a8.denki-koji.work
@@ -382,6 +384,7 @@
 0.0.0.0 aas.visitsaudi.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 ab-machine.forbes.com
 0.0.0.0 abakus.freenet.de
 0.0.0.0 abc.fackelmann.de
 0.0.0.0 abc.pema.cl
@@ -665,6 +668,7 @@
 0.0.0.0 aiea6gaza.com
 0.0.0.0 aikrir.lcwaikiki.com
 0.0.0.0 aip.actonservice.com
+0.0.0.0 air.audioeye.com
 0.0.0.0 ajbeqy.delfi.lt
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aksb-a.akamaihd.net
@@ -887,6 +891,7 @@
 0.0.0.0 analytics.ramiyer.io
 0.0.0.0 analytics.ramiyer.me
 0.0.0.0 analytics.ratioform.it
+0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.rechtslupe.org
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.redlink.com.ar
@@ -1012,6 +1017,7 @@
 0.0.0.0 api.nobeta.com.br
 0.0.0.0 api.weltevree.eu
 0.0.0.0 api.wipmania.com
+0.0.0.0 apm.tnet.nl
 0.0.0.0 app-clicks.firstrepublic.com
 0.0.0.0 app-stats.supernotes.app
 0.0.0.0 app.3d.ultimaker.com
@@ -1109,6 +1115,7 @@
 0.0.0.0 audit.macworld.co.uk
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.pcadvisor.co.uk
+0.0.0.0 audit.shaa.it
 0.0.0.0 authcaptcha.com
 0.0.0.0 avma.avmaplit.com
 0.0.0.0 awaps.yandex.net
@@ -1153,6 +1160,7 @@
 0.0.0.0 bab.frb.io
 0.0.0.0 bablace.com
 0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 bacon.getcarro.com
 0.0.0.0 bacon.section.io
 0.0.0.0 badb5refl.com
 0.0.0.0 baiduccdn1.com
@@ -1216,6 +1224,8 @@
 0.0.0.0 beacons.brandads.net
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beagle.prod.tda.link
+0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beam.giraffe360.com
 0.0.0.0 beam.mjhlifesciences.com
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beaumont.actonservice.com
@@ -1467,6 +1477,7 @@
 0.0.0.0 cjbdme.conquer.org
 0.0.0.0 cjcqls.onbuy.com
 0.0.0.0 ckozwx.n11.com
+0.0.0.0 cl.canva.com
 0.0.0.0 cl.expedia.com
 0.0.0.0 clancy.spiceworks.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -1562,11 +1573,13 @@
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudhosting.actonservice.com
+0.0.0.0 cloudwp.io
 0.0.0.0 cls7.theushuaiaexperience.com
 0.0.0.0 clshkv.labirint.ru
 0.0.0.0 cltgtstor001.blob.core.windows.net
 0.0.0.0 clue6load.com
 0.0.0.0 clvk.viki.io
+0.0.0.0 cm-exchange.toast.com
 0.0.0.0 cm.redbull.com
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmme.actonservice.com
@@ -1844,6 +1857,7 @@
 0.0.0.0 cqpmvc.programme-tv.net
 0.0.0.0 cqpmvc.voici.fr
 0.0.0.0 cqubdd.thisismoney.co.uk
+0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 create.unity.com
 0.0.0.0 create.unity3d.com
 0.0.0.0 creatives.sunmedia.tv
@@ -1914,6 +1928,7 @@
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d.skk.moe
 0.0.0.0 d.sourcepoint.capitalfm.com
+0.0.0.0 d.wi-fi.ru
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
@@ -1966,11 +1981,13 @@
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
+0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
+0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
@@ -2009,6 +2026,7 @@
 0.0.0.0 da.virginmedia.com
 0.0.0.0 daifez.thebay.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
+0.0.0.0 dash.getsitecontrol.com
 0.0.0.0 data-ssl.pnet.co.za
 0.0.0.0 data-ssl.stepstone.at
 0.0.0.0 data-ssl.stepstone.be
@@ -2018,6 +2036,7 @@
 0.0.0.0 data.adlermode.com
 0.0.0.0 data.alexa.com
 0.0.0.0 data.all-in.de
+0.0.0.0 data.beop.io
 0.0.0.0 data.circulate.com
 0.0.0.0 data.collectandgo.be
 0.0.0.0 data.collishop.be
@@ -2266,6 +2285,7 @@
 0.0.0.0 doagpm.promart.pe
 0.0.0.0 docileyellow.club
 0.0.0.0 doja.worten.es
+0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dot-stat.radikal.ru
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dowjones.hb-api.omtrdc.net
@@ -2764,6 +2784,7 @@
 0.0.0.0 events.guesttoguest.com
 0.0.0.0 events.il.fi
 0.0.0.0 events.ingatlan.com
+0.0.0.0 events.jokerly.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.matterport.com
@@ -2822,6 +2843,8 @@
 0.0.0.0 eymiwj.cancan.ro
 0.0.0.0 eymiwj.prosport.ro
 0.0.0.0 f-emc.ngsp.gov.vn
+0.0.0.0 f-log-at.grammarly.io
+0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 f.schemeflood.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 f0nn.oney.fr
@@ -2832,8 +2855,10 @@
 0.0.0.0 fahmta.racefans.net
 0.0.0.0 fandango.hb-api.omtrdc.net
 0.0.0.0 fast.forbes.com
+0.0.0.0 fathom.app.silverbeak.com
 0.0.0.0 fathom.pixeldrain.com
 0.0.0.0 fathom.status.im
+0.0.0.0 fathom.tdvm.net
 0.0.0.0 fazphz.theiconic.com.au
 0.0.0.0 fb_servpub-a.akamaihd.net
 0.0.0.0 fbu8.montecarloluxuryhotels.com
@@ -2926,6 +2951,7 @@
 0.0.0.0 frankwatching.actonservice.com
 0.0.0.0 frbdzc.goguynet.jp
 0.0.0.0 fresh.techdirt.com
+0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 frog9alea.com
 0.0.0.0 froglytics.eventfrog.ch
 0.0.0.0 fs-client-logger.herokuapp.com
@@ -3008,6 +3034,10 @@
 0.0.0.0 g7923373400.co
 0.0.0.0 g8121457735.co
 0.0.0.0 g8319542070.co
+0.0.0.0 g8517626405.co
+0.0.0.0 g8715710740.co
+0.0.0.0 g8913795075.co
+0.0.0.0 g9111879410.co
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.kvideo.io
@@ -3616,7 +3646,6 @@
 0.0.0.0 insights.frenchtogether.com
 0.0.0.0 insights.mckimcg.ca
 0.0.0.0 insights.radiometer.com
-0.0.0.0 insights.samsung.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insights.sport1.de
 0.0.0.0 insights.thisisgrow.com
@@ -3876,10 +3905,10 @@
 0.0.0.0 lgm.averydennison.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 library.westernstatescat.com
-0.0.0.0 licensing.bitmovin.com
 0.0.0.0 licensinginsights.ascap.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 limone.iltrovatore.it
 0.0.0.0 link.admin.kodakmoments.com
 0.0.0.0 link.alerts.busuu.app
 0.0.0.0 link.automated.almosafer.com
@@ -5420,6 +5449,7 @@
 0.0.0.0 mit.dws.de
 0.0.0.0 mit.researchlog.dbresearch.com
 0.0.0.0 mivyyq.safeandfair.com
+0.0.0.0 mjca-yijws.global.ssl.fastly.net
 0.0.0.0 mjeejc.tiki.vn
 0.0.0.0 mjnpya.marktplaats.nl
 0.0.0.0 mjnzmb.jasmine.ua
@@ -5614,6 +5644,7 @@
 0.0.0.0 newsletters.bancsabadell.com
 0.0.0.0 nexioniect.com
 0.0.0.0 nfused.eobuv.com.ua
+0.0.0.0 ngc1.nsm-corp.com
 0.0.0.0 nginfo.industrialinfo.com
 0.0.0.0 nhkoze.saneibd.com
 0.0.0.0 nice3aiea.com
@@ -5954,6 +5985,7 @@
 0.0.0.0 peep1alea.com
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 pemskb.unitedcinemas.jp
+0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.dugout.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performanceplay.co.kr
@@ -5964,6 +5996,7 @@
 0.0.0.0 petjue.lcwaikiki.ru
 0.0.0.0 peuzhq.bookspot.be
 0.0.0.0 pevftg.shopee.sg
+0.0.0.0 pexa.realestate.com.au
 0.0.0.0 pf.newegg.com
 0.0.0.0 pfdqxv.bibloo.ro
 0.0.0.0 pgs.farmprogress.com
@@ -6046,6 +6079,7 @@
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.tuko.co.ke
+0.0.0.0 pixel.videohub.tv
 0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.wp.pl
@@ -6111,6 +6145,7 @@
 0.0.0.0 plausible.notiontweet.app
 0.0.0.0 plausible.nova.app
 0.0.0.0 plausible.nubemia.com
+0.0.0.0 plausible.nuqu.org
 0.0.0.0 plausible.panic.com
 0.0.0.0 plausible.phuctm97.com
 0.0.0.0 plausible.play.date
@@ -6141,6 +6176,7 @@
 0.0.0.0 polobook.club
 0.0.0.0 ponyo.cheriefm.fr
 0.0.0.0 poor5zero.com
+0.0.0.0 porpoise.azettl.net
 0.0.0.0 pos.baidu.com
 0.0.0.0 postgraduate.smu.edu.sg
 0.0.0.0 postgraduate2.smu.edu.sg
@@ -6161,10 +6197,12 @@
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 preferences.acspubs.org
 0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 prf.vagnt.com
 0.0.0.0 prism.noordermeer.ch
 0.0.0.0 prism.pandora.tv
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy.outdoorsg.com
+0.0.0.0 privacyfriendly.brainbits.in
 0.0.0.0 proac.nationwide.com
 0.0.0.0 proactive.base.de
 0.0.0.0 processor.asccommunications.com
@@ -6180,6 +6218,7 @@
 0.0.0.0 promotions.stationcasinos.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 prophet.heise.de
+0.0.0.0 proxy.dzeio.com
 0.0.0.0 proxypage.msn.com
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 prudential.distribution.team.prudential.co.uk
@@ -6361,6 +6400,7 @@
 0.0.0.0 revsci.tvguide.com
 0.0.0.0 rewards.parago.com
 0.0.0.0 reydrj.kozaczek.pl
+0.0.0.0 rfk.biglots.com
 0.0.0.0 rghpjl.tsuchiya-kaban.jp
 0.0.0.0 rgnutc.topcor.ru
 0.0.0.0 rh5i.tradingsat.com
@@ -6429,6 +6469,7 @@
 0.0.0.0 s.allanibutiti.com
 0.0.0.0 s.allbootdisks.com
 0.0.0.0 s.bangkokoutline.com
+0.0.0.0 s.beop.io
 0.0.0.0 s.cameratico.com
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
@@ -6559,6 +6600,7 @@
 0.0.0.0 santuforward.club
 0.0.0.0 sappmetrics.boostmobile.com
 0.0.0.0 sappmetrics.sprint.com
+0.0.0.0 sas.nsm-corp.com
 0.0.0.0 sasc.solidworks.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sats.mailbrew.com
@@ -6767,6 +6809,7 @@
 0.0.0.0 seniorliving.sinairesidences.com
 0.0.0.0 seniorliving.theridgeseniorliving.com
 0.0.0.0 seniorliving.villageshalom.org
+0.0.0.0 sentry.arc.io
 0.0.0.0 serv1swork.com
 0.0.0.0 servcliente.marathon-sports-ec.com
 0.0.0.0 servedby.o2.co.uk
@@ -6818,6 +6861,7 @@
 0.0.0.0 site-stats.supernotes.app
 0.0.0.0 site.firstnet.com
 0.0.0.0 site.johnlewis.com
+0.0.0.0 site24x7rum.eu
 0.0.0.0 sitecatalyst.newsamerica.com
 0.0.0.0 sitecatalyst.work.shiseido.co.jp
 0.0.0.0 siteinfo.libero.it
@@ -7649,6 +7693,7 @@
 0.0.0.0 stat.tvigle.ru
 0.0.0.0 stat.uuu9.com
 0.0.0.0 stat.valica.it
+0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stat.web-regie.com
 0.0.0.0 stat.webevolutis.com
 0.0.0.0 stat.wolterskluwer.com
@@ -7697,6 +7742,7 @@
 0.0.0.0 stats.baby-care.de
 0.0.0.0 stats.bbc.co.uk
 0.0.0.0 stats.belstonevillage.net
+0.0.0.0 stats.biblionumericus.fr
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bildconnect.de
 0.0.0.0 stats.binki.es
@@ -7724,10 +7770,10 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.clickforknowledge.com
-0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.code-it-studio.de
 0.0.0.0 stats.cohere.so
+0.0.0.0 stats.comovee.com
 0.0.0.0 stats.console.dev
 0.0.0.0 stats.contentwritingjobs.com
 0.0.0.0 stats.coop.dk
@@ -7823,6 +7869,7 @@
 0.0.0.0 stats.itsol.it
 0.0.0.0 stats.itweb.co.za
 0.0.0.0 stats.ivankahl.com
+0.0.0.0 stats.jacksellwood.com
 0.0.0.0 stats.jackwhiting.co.uk
 0.0.0.0 stats.jansix.at
 0.0.0.0 stats.jatan.space
@@ -7879,6 +7926,7 @@
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nodehub.io
 0.0.0.0 stats.nota.md
+0.0.0.0 stats.nrcaknights.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.olark.com
 0.0.0.0 stats.onepagelove.com
@@ -7960,6 +8008,7 @@
 0.0.0.0 stats.studypages.com
 0.0.0.0 stats.stylight.it
 0.0.0.0 stats.sublimesecurity.com
+0.0.0.0 stats.suenicholls.com
 0.0.0.0 stats.tazeros.com
 0.0.0.0 stats.tdameritrade.com
 0.0.0.0 stats.technopia.it
@@ -7981,6 +8030,7 @@
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.travel.geek.nz
 0.0.0.0 stats.tresor.one
+0.0.0.0 stats.trimbles.ie
 0.0.0.0 stats.tunt.lv
 0.0.0.0 stats.twhl.xyz
 0.0.0.0 stats.twistage.com
@@ -8015,6 +8065,7 @@
 0.0.0.0 stats.yinyuetai.com
 0.0.0.0 stats.ynet.co.il
 0.0.0.0 stats.yourfone.de
+0.0.0.0 stats.zeitimpuls.at
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stats01.20min.ch
@@ -8024,6 +8075,7 @@
 0.0.0.0 stats2.glamour.com
 0.0.0.0 stats2.teenvogue.com
 0.0.0.0 stats2.tune.pk
+0.0.0.0 stats2.videonow.ru
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statsd.zmags.com
@@ -8067,6 +8119,7 @@
 0.0.0.0 su.addthis.com
 0.0.0.0 sub1.cosmosdirekt.de
 0.0.0.0 subpixel.4players.de
+0.0.0.0 substation.confection.io
 0.0.0.0 success.act-on.com
 0.0.0.0 success.catman.global
 0.0.0.0 success.vertigis.com
@@ -8300,6 +8353,7 @@
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tagm.tchibo.de
+0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.creativille.co.uk
@@ -8465,6 +8519,7 @@
 0.0.0.0 tm1-001.com
 0.0.0.0 tmgr.ccmbg.com
 0.0.0.0 tms-st.cdn.ngenix.net
+0.0.0.0 tms.dmp.wi-fi.ru
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.eharmony.co.uk
 0.0.0.0 tmy8.madeindesign.ch
@@ -8877,6 +8932,7 @@
 0.0.0.0 tracking.cspire.com
 0.0.0.0 tracking.customerly.io
 0.0.0.0 tracking.diet.mayoclinic.org
+0.0.0.0 tracking.drum.io
 0.0.0.0 tracking.dsmmadvantage.com
 0.0.0.0 tracking.ecookie.fr
 0.0.0.0 tracking.edb.gov.sg
@@ -9076,6 +9132,7 @@
 0.0.0.0 trcka8net.irobot-jp.com
 0.0.0.0 trckr.nordiskemedier.dk
 0.0.0.0 trecker.aklamio.com
+0.0.0.0 tredir.go.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tremorhub.com
 0.0.0.0 trends.newsmaxwidget.com
@@ -9379,6 +9436,7 @@
 0.0.0.0 was.vodafone.de
 0.0.0.0 was.vodafone.ie
 0.0.0.0 was.vodafone.nl
+0.0.0.0 wasp.frenchtogether.com
 0.0.0.0 wass.ihsmarkit.com
 0.0.0.0 wat.gogoinflight.com
 0.0.0.0 wats.gogoinflight.com
@@ -9658,6 +9716,7 @@
 0.0.0.0 yzcpqa.gumtree.com
 0.0.0.0 yzxvyl.bestandless.com.au
 0.0.0.0 yzzqza.vanillashu.co.kr
+0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z0uolej1qnxzub1.info
 0.0.0.0 zam.nextinpact.com
 0.0.0.0 zbrfde.ozmall.co.jp

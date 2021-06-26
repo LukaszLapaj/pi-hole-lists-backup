@@ -1,11 +1,11 @@
-#202105230303
+#202106250303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
 # Contact: errorsfilters@certyficate.it 
 # Support: https://github.com/MajkiIT/polish-ads-filter/issues
 # License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-# Copyright (C) 2021 Certyficate IT
+# Copyright (C) 2020 Certyficate IT
 #
 0.0.0.0 023hysj.com
 0.0.0.0 1mp.mobi
@@ -14,6 +14,7 @@
 0.0.0.0 360yield.com
 0.0.0.0 3lift.com
 0.0.0.0 883.engine.mobileapptracking.com
+0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a2dfp.net
@@ -69,6 +70,7 @@
 0.0.0.0 adcash.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcolony.com
+0.0.0.0 adcr.naver.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 addapptr.com
 0.0.0.0 addata.mediacategory.com
@@ -139,7 +141,6 @@
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
-0.0.0.0 ads.mopub.com
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.ookla.com
 0.0.0.0 ads.pdbarea.com
@@ -502,6 +503,7 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 i.singular.net
 0.0.0.0 i.skimresources.com
 0.0.0.0 i2.myapkcdn.in
 0.0.0.0 i2ad.jp
@@ -633,9 +635,9 @@
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 mookie1.com
 0.0.0.0 mopub-win-us-east.bksn.se
+0.0.0.0 mopub.com
 0.0.0.0 morgdm.ru
 0.0.0.0 mprezchc.com
-0.0.0.0 mpx.mopub.com
 0.0.0.0 ms.applvn.com
 0.0.0.0 msads.net
 0.0.0.0 msg.ettoday.net
@@ -720,6 +722,7 @@
 0.0.0.0 popunderz.com
 0.0.0.0 postrelease.com
 0.0.0.0 powerlinks.com
+0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 preitem.wshareit.com
 0.0.0.0 presage.io
 0.0.0.0 projectwonderful.com
@@ -768,6 +771,7 @@
 0.0.0.0 saymedia.com
 0.0.0.0 sc.smardroid.com
 0.0.0.0 scorecardresearch.com
+0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.native123.com
 0.0.0.0 sdk.starbolt.io
@@ -781,13 +785,12 @@
 0.0.0.0 serving-sys.com
 0.0.0.0 sessionm.com
 0.0.0.0 setting.rayjump.com
-0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 shareasale.com
 0.0.0.0 sharethrough.com
 0.0.0.0 silvermob.com
-0.0.0.0 singular.net
 0.0.0.0 sitemaji.com
 0.0.0.0 sitescout.com
+0.0.0.0 skadnetwork.singular.net
 0.0.0.0 smaclick.com
 0.0.0.0 smartadserver.com
 0.0.0.0 smarttds.ru
@@ -821,12 +824,15 @@
 0.0.0.0 switchadhub.com
 0.0.0.0 syndication.trafficreps.com
 0.0.0.0 synthes.vo.llnwd.net
+0.0.0.0 t.singular.net
 0.0.0.0 t3q7af0z.com
 0.0.0.0 t7z.cupid.iqiyi.com
 0.0.0.0 tap-nexus.appspot.com
 0.0.0.0 tapad.com
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
 0.0.0.0 tapit.com
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoy.net
 0.0.0.0 tapjoyads.com
 0.0.0.0 tapone.jp
 0.0.0.0 tappx.com
@@ -859,6 +865,7 @@
 0.0.0.0 tracking.acekoala.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tradeadexchange.com
+0.0.0.0 tradplusad.com
 0.0.0.0 traff10wap.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafmag.com
@@ -890,6 +897,7 @@
 0.0.0.0 velti.com
 0.0.0.0 vidasys.ru
 0.0.0.0 videoplus.vo.llnwd.net
+0.0.0.0 view-prod.ad.singular.net
 0.0.0.0 viewclc.com
 0.0.0.0 vindicosuite.com
 0.0.0.0 vipcpms.com
