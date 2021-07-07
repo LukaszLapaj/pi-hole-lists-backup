@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 05 Jul 2021
+# Updated: 06 Jul 2021
 #LatestVersion 21.03
-# Domain Count: 15013
+# Domain Count: 15003
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -432,13 +432,9 @@ analytics.mercadolibre.com.co #MercadoLibre - Tracker
 analytics.mercadolibre.com.do #MercadoLibre - Tracker
 analytics.mercadolibre.com.ec #MercadoLibre - Tracker
 analytics.mercadolibre.com.gt #MercadoLibre - Tracker
-analytics.mercadolibre.com.hn #MercadoLibre - Tracker
 analytics.mercadolibre.com.mx #MercadoLibre - Tracker
-analytics.mercadolibre.com.ni #MercadoLibre - Tracker
 analytics.mercadolibre.com.pa #MercadoLibre - Tracker
 analytics.mercadolibre.com.pe #MercadoLibre - Tracker
-analytics.mercadolibre.com.py #MercadoLibre - Tracker
-analytics.mercadolibre.com.sv #MercadoLibre - Tracker
 analytics.mercadolibre.com.uy #MercadoLibre - Tracker
 analytics.mercadolibre.com.ve #MercadoLibre - Tracker
 analytics.mercadolivre.com.br #MercadoLibre - Tracker
@@ -536,7 +532,6 @@ appmetrica.yandex.ru #Yandex.Ru - Tracker
 appmetrika.yandex.ru #Yandex.Ru - Tracker
 appnexus.com #AppNexus Inc - Tracker
 appnexus.net #AppNexus Inc - Tracker
-appnexuscloud.com #AppNexus Inc - Tracker
 appsflyer.com #AppsFlyer - Tracker
 appsmonitoring.com #AppDynamics - Tracker
 appstat.petafuel.net #VimPay - Tracker
@@ -697,7 +692,6 @@ brightrollmarketplace.com #BrightRoll - Advertising
 brightroulette.com #BrightRoll - Advertising
 brilig.com #Brilig - Tracker
 brpx.com #Bright Pixel - Tracker
-brpx.io #Bright Pixel - Tracker
 brvideosummit.com #BrightRoll - Advertising
 brvs.com #BrightRoll - Advertising
 brxvideosummit.com #BrightRoll - Advertising
@@ -1756,7 +1750,6 @@ metrics.foxnews.com #foxnews.com - Tracker
 metrics.hackerrank.com #Hackerrank.com - Tracker
 metrics.icloud.com #Apple - Tracker
 metrics.ionos.de #ionos.de - Tracker
-metrics.marksandspencer.com #marksandspencer.com - Tracker
 metrics.plex.tv #plex.tv - Tracker
 metrics.postoffice.co.uk #Postoffice.Co.Uk - Tracker
 metrics.raptr.com #raptr.co - Tracker
@@ -14169,8 +14162,6 @@ smetrics.solarwinds.com #Adobe - Tracker
 smetrics.solinst.com #Adobe - Tracker
 smetrics.sony.co.id #Adobe - Tracker
 smetrics.sony.com.ar #Adobe - Tracker
-smetrics.sony.com.bo #Adobe - Tracker
-smetrics.sony.com.sv #Adobe - Tracker
 smetrics.sony.jp #Adobe - Tracker
 smetrics.sothebys.com #Adobe - Tracker
 smetrics.sourceesb.com #Adobe - Tracker
@@ -14699,7 +14690,6 @@ trafficshop.com #Unknown - Tracker
 trafficstars.com #Trafficstars - Tracker
 trafforsrv.com #Unknown - Tracker
 trafmag.com #TrafMag - Tracker
-trail-web.com #Lead Forensics - Tracker
 trakingtraffic.com #Unknown - Tracker
 traktrafficflow.com #Unknown - Tracker
 travelaudience.com #Amadeus - Advertising
