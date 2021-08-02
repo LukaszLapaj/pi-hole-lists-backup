@@ -25,7 +25,7 @@
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-jtCal1yPaE2jCFEjCzUp5xS9iK32c9PLvWbjpo4bVCC517kn7oemHSND1lApbjGsQOG3IUAflrIUeUubRhsglw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-8ed09a97.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-US/IQhvG9ej4VfjEAZn++Hu2XUgXKUo/3YypnqjP1kjNCWzxGJyNw6JSFeeTcSI5KCDCi/iDdXbzi7i4TA47SQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-512fc842.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-4aeN+n7z72xQWkbUWJZhGRWfN2n69VYjw5hz4I/IwMjAKsz0T+PbC6eILd5S+ccdzPnaE8d27vAae08iitzkYA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-e1a78dfa.js"></script>
   
   <script crossorigin="anonymous" defer="defer" integrity="sha512-5Pwulj9jNU43LQBhJuFtO5iD2vv6fWgh8C8WfN6sjS+5KOzzsWkYZsAxp7L8hJJFqgp/vpYeIkxx1Y2A2XZv7Q==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-e4fc2e96.js"></script>
   
@@ -52,7 +52,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-hgoSKLTlL8I3IWr/TLONCU+N4kdCtdrHCrrud4NKhgRlLrTw0XUPhqBaDdZUiFSzDQRw/nFQ1kw2VeTm0g9+lA==" type="application/javascript" data-module-id="./chunk-profile.js" data-src="https://github.githubassets.com/assets/chunk-profile-860a1228.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-4Xg3IDW6ukiZDStR9gjKuCIvz0ZMxOkYuBD6s1m5n7SvrOCG1Mg8unFMMZHGsWEiK9oAp83tCZEJzV1wpOzAsQ==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-e1783720.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-/fwTpG2i+GCgHEZc/35F+pXdShv1RfJMxyixcTIxzxDdylOWVJvjIWoumYWEPj7gUqBdrWt4SFf989Szmxleaw==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-fdfc13a4.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-3xfvMPfsbvQc8ZVw9KNcI6dCA7dY3mM+2K+/GojyxNTj6OAkCt9cXRyp7TZtPzPlkBHpWVNebJkLG7CfJDlTPw==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-df17ef30.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-D/MxBjtRPjes6DvnYGi2dEH7AQEnLvSvTODabEkSo+1zP6SSEZpb8oF52kFWERA97t1L19fF/P3bn4pgIsMPuA==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-0ff33106.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-SWy36S28Js+/YzsvYgmp+IEdC0qtMcBf6sYhXTEcj1aFPCLPOTOnOKqzFiNyH2oNVDd+u5Qi8eqYINSIu28LFQ==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-496cb7e9.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-SVdK0K69PnQ4FChdpl650OR+vplYWXqddxNkEGKhQf6tkehqvKkFEg5LQSZgCVKt2tfc9CnWJlmKCwbTTipEjg==" type="application/javascript" data-module-id="./chunk-series-table.js" data-src="https://github.githubassets.com/assets/chunk-series-table-49574ad0.js"></script>
@@ -76,8 +76,8 @@
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/064e690211e13a56e21ebd9610d5ec073cc79341d0d076aca38e0e3736695e13/AmnestyTech/investigations" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="investigations/domains.txt at master · AmnestyTech/investigations" /><meta name="twitter:description" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" />
-    <meta property="og:image" content="https://opengraph.githubassets.com/064e690211e13a56e21ebd9610d5ec073cc79341d0d076aca38e0e3736695e13/AmnestyTech/investigations" /><meta property="og:image:alt" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="investigations/domains.txt at master · AmnestyTech/investigations" /><meta property="og:url" content="https://github.com/AmnestyTech/investigations" /><meta property="og:description" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/942cb8ccd658dff8fdbf782e370d604bad9bee2ef41e980d9349a0ce13aabf9f/AmnestyTech/investigations" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="investigations/domains.txt at master · AmnestyTech/investigations" /><meta name="twitter:description" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" />
+    <meta property="og:image" content="https://opengraph.githubassets.com/942cb8ccd658dff8fdbf782e370d604bad9bee2ef41e980d9349a0ce13aabf9f/AmnestyTech/investigations" /><meta property="og:image:alt" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="investigations/domains.txt at master · AmnestyTech/investigations" /><meta property="og:url" content="https://github.com/AmnestyTech/investigations" /><meta property="og:description" content="Indicators from Amnesty International&#39;s investigations - investigations/domains.txt at master · AmnestyTech/investigations" />
 
 
 
@@ -86,7 +86,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="EF14:F9EE:3614003:385B9E2:610670C3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="398d94da262822d1a1f025dd3be55e52364ee2147fead0ce18d2c15d6000ec85" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFRjE0OkY5RUU6MzYxNDAwMzozODVCOUUyOjYxMDY3MEMzIiwidmlzaXRvcl9pZCI6IjE1ODc3MTI5NTU1NTMwNTA4MTkiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="136a26bfc77dea687c62dc680e7c4b1efa92840e6b91a659d547cc129f9cda20" data-pjax-transient="true"/>
+  <meta name="request-id" content="DBB6:FD50:55DB148:58DF59C:6107C24C" data-pjax-transient="true"/><meta name="html-safe-nonce" content="384b54841d372af1d49c646c2b3398148e8b4d81a68e6a491056e7e5ca088118" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJEQkI2OkZENTA6NTVEQjE0ODo1OERGNTlDOjYxMDdDMjRDIiwidmlzaXRvcl9pZCI6IjY2OTczMTY3NjE2OTM4MzE3NTYiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="95cf0fed39efd141ae3b37938be6785bf230899ebcc2b142f24f29877a9b9386" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:142994755" data-pjax-transient>
 
@@ -128,7 +128,7 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta http-equiv="x-pjax-version" content="1ea1f51f096f613bf8406ea1a3c4018f5842e9651ce536b3c092d8c8dffd49bb">
+  <meta http-equiv="x-pjax-version" content="d39a39af41f636019c0f7c4d6a1e61e376082df0d0e490ad3503f8ba9a8847c5">
   
 
     
@@ -342,7 +342,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="z0al0oXceTfI9FROaNyWpv4vcT+vmgGQuZjq9Yoo6NRW+hvo2Ry12gU6KR8eWYAn0l8e6F7pwyaFyjNuv2mEeg==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="KaWA0yulfjJveAcjhV70tFphD0cYp3QGe0ssAh+pxCMA3cUT5YkX/60YTus+v115UD49nbo+fuhkEQc/Viz6Fg==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -613,7 +613,7 @@
         Star
 </span></a>
     <a class="social-count js-social-count" href="/AmnestyTech/investigations/stargazers"
-      aria-label="1087 users starred this repository">
+      aria-label="1095 users starred this repository">
       1.1k
     </a>
 
@@ -627,8 +627,8 @@
           Fork
 </a>
       <a href="/AmnestyTech/investigations/network/members" class="social-count"
-         aria-label="106 users forked this repository">
-        106
+         aria-label="107 users forked this repository">
+        107
       </a>
   </li>
 </ul>
@@ -653,7 +653,7 @@
     
                   <svg class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path></svg>
           <span data-content="Issues">Issues</span>
-            <span title="4" data-view-component="true" class="Counter">4</span>
+            <span title="3" data-view-component="true" class="Counter">3</span>
 
     
 </a></li>
@@ -838,6 +838,7 @@
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
             name-with-owner="QW1uZXN0eVRlY2gvaW52ZXN0aWdhdGlvbnM="
+            prefetch-on-mouseover
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -989,11 +990,11 @@
   <div class="Box-header Box-header--blue Details js-details-container">
       <div class="d-flex flex-items-center">
         <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
-          <a rel="contributor" data-skip-pjax="true" href="/secure411dotorg"><img class="avatar avatar-user" skip_hovercard="13" src="https://avatars.githubusercontent.com/u/655557?s=48&amp;v=4" width="24" height="24" alt="@secure411dotorg" /></a>
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/secure411dotorg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/secure411dotorg"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/655557?s=48&amp;v=4" width="24" height="24" alt="@secure411dotorg" /></a>
         </span>
         <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
           <div class="css-truncate css-truncate-overflow">
-            <a class="text-bold Link--primary" rel="contributor" href="/secure411dotorg">secure411dotorg</a>
+            <a class="text-bold Link--primary" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/secure411dotorg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/secure411dotorg">secure411dotorg</a>
 
               <span class="markdown-title">
                 <a data-pjax="true" title="Removing a dyndns base domain with hundreds of thousands of non-NSO users
@@ -1065,6 +1066,14 @@ dynamic-dns.net is one of the ChangeIP base domains.</pre></div>
         </include-fragment>
       </details-dialog>
     </details>
+      <span class="">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/Te-k/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AmnestyTech/investigations/commits/master/2021-07-18_nso/domains.txt?author=Te-k">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/15989628?s=48&amp;v=4" width="24" height="24" alt="@Te-k" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/secure411dotorg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AmnestyTech/investigations/commits/master/2021-07-18_nso/domains.txt?author=secure411dotorg">
+      <img class="avatar mr-2 avatar-user" src="https://avatars.githubusercontent.com/u/655557?s=48&amp;v=4" width="24" height="24" alt="@secure411dotorg" /> 
+</a>
+</span>
+
   </div>
     </div>
 
