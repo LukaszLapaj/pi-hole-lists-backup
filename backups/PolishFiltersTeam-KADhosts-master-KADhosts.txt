@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 10 Aug 2021, 22:51 UTC+01
-# Version: 2021.8.10.3
+# Last modified: Wed, 11 Aug 2021, 21:07 UTC+02
+# Version: 2021.8.11.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -235,6 +235,7 @@
 0.0.0.0 butysorelpolska.com
 0.0.0.0 butysportowepolska.pl
 0.0.0.0 butysuprassklep.com
+0.0.0.0 butytevapl.com
 0.0.0.0 butyvanspolska.com
 0.0.0.0 butyvibram.com
 0.0.0.0 butyvibram.pl
@@ -520,6 +521,7 @@
 0.0.0.0 fxgm.com
 0.0.0.0 f-ads.pl
 0.0.0.0 gabinetnewline.pl
+0.0.0.0 gaborpolska.com
 0.0.0.0 gadajzdrow.eu
 0.0.0.0 gajoshop.pl
 0.0.0.0 galeriapn.pl
@@ -983,6 +985,7 @@
 0.0.0.0 ninewestpolska.pl
 0.0.0.0 niskamaskincare.pl
 0.0.0.0 noatanice.com
+0.0.0.0 nodiotel.com
 0.0.0.0 nonansklep.pl
 0.0.0.0 noova-po.com
 0.0.0.0 noozy-led.com
@@ -1778,6 +1781,7 @@
 0.0.0.0 www.butysorelpolska.com
 0.0.0.0 www.butysportowepolska.pl
 0.0.0.0 www.butysuprassklep.com
+0.0.0.0 www.butytevapl.com
 0.0.0.0 www.butyvanspolska.com
 0.0.0.0 www.butyvibrams.pl
 0.0.0.0 www.butyvibram.com
@@ -2021,6 +2025,7 @@
 0.0.0.0 www.futurenet.club
 0.0.0.0 www.fxgm.com
 0.0.0.0 www.gabinetnewline.pl
+0.0.0.0 www.gaborpolska.com
 0.0.0.0 www.gadajzdrow.eu
 0.0.0.0 www.gajoshop.pl
 0.0.0.0 www.galeriapn.pl
@@ -2425,6 +2430,7 @@
 0.0.0.0 www.ninewestpolska.pl
 0.0.0.0 www.niskamaskincare.pl
 0.0.0.0 www.noatanice.com
+0.0.0.0 www.nodiotel.com
 0.0.0.0 www.nonansklep.pl
 0.0.0.0 www.northfacepolska.pl
 0.0.0.0 www.northfacespromocja.com
@@ -4018,12 +4024,17 @@
 0.0.0.0 abomfartrdsgdf.webcindario.com
 0.0.0.0 aboutk-24.me
 0.0.0.0 aboutk-448.me
+0.0.0.0 abraa-sklep.pl
+0.0.0.0 abrameble-sklep.pl
+0.0.0.0 abra-sklep.com.pl
+0.0.0.0 abra-sklep.pl
 0.0.0.0 absolutezeros.duckdns.org
 0.0.0.0 abstractway.top
 0.0.0.0 acceuil-serviceclient.com
 0.0.0.0 account.login.appid.customer.online.curriculumvitae.live
 0.0.0.0 account-identifiant.com
 0.0.0.0 account.suspended-netftix.club
+0.0.0.0 acdpedia.com
 0.0.0.0 acena.top
 0.0.0.0 achalasiapedia.com
 0.0.0.0 activation-netflix.com
@@ -4143,6 +4154,7 @@
 0.0.0.0 allegro.lokalnie.work
 0.0.0.0 allegro.net
 0.0.0.0 allegro.pl.lokalnie.me
+0.0.0.0 allegro.su
 0.0.0.0 allegro6.pl
 0.0.0.0 allegro7.pl
 0.0.0.0 allegrolokaline.club
@@ -4363,6 +4375,7 @@
 0.0.0.0 badyna.pl
 0.0.0.0 badznaptak.pl
 0.0.0.0 bagato.space
+0.0.0.0 bagatta.xyz
 0.0.0.0 bahrajn.icu
 0.0.0.0 bajeranckie.pl
 0.0.0.0 bajkowedekoracje.pl
@@ -4555,6 +4568,7 @@
 0.0.0.0 biznesplanet-parlbabnp.com
 0.0.0.0 biznes-24.waw.pl
 0.0.0.0 blablacar.media
+0.0.0.0 blablacarpl.3dkassa.com
 0.0.0.0 blablacar-de.pays-forms.info
 0.0.0.0 blablacar-pay.cc
 0.0.0.0 blablacar-pl.s-wallet.link
@@ -5056,6 +5070,7 @@
 0.0.0.0 d1d15cy6v8ue7s.cloudfront.net
 0.0.0.0 d1dabhqz1aumgb.cloudfront.net
 0.0.0.0 d1dgm85un8b0i2.cloudfront.net
+0.0.0.0 d1djx5v8jd91w3.cloudfront.net
 0.0.0.0 d1dp887k6xxmpr.cloudfront.net
 0.0.0.0 d1drqytzo4er0u.cloudfront.net
 0.0.0.0 d1e4oyhph77ux4.cloudfront.net
@@ -5069,6 +5084,7 @@
 0.0.0.0 d1f5c02sm6dd74.cloudfront.net
 0.0.0.0 d1f8gpi6ilxww2.cloudfront.net
 0.0.0.0 d1fdv4jgqr3t4d.cloudfront.net
+0.0.0.0 d1fg9d79sqjfzq.cloudfront.net
 0.0.0.0 d1fjbm89xo24p6.cloudfront.net
 0.0.0.0 d1fmhzgqmcqfbo.cloudfront.net
 0.0.0.0 d1fo1oa00alucc.cloudfront.net
@@ -5077,6 +5093,7 @@
 0.0.0.0 d1fzamk9me7j6o.cloudfront.net
 0.0.0.0 d1gj2htigwswzh.cloudfront.net
 0.0.0.0 d1gp86p9dfzex5.cloudfront.net
+0.0.0.0 d1gtryny4p8az4.cloudfront.net
 0.0.0.0 d1gwmr7z0m3qwq.cloudfront.net
 0.0.0.0 d1gzcgvjf9a926.cloudfront.net
 0.0.0.0 d1hd2whcxy2oxp.cloudfront.net
@@ -5085,6 +5102,7 @@
 0.0.0.0 d1hynkj1nk81d3.cloudfront.net
 0.0.0.0 d1hz4yymnldxlq.cloudfront.net
 0.0.0.0 d1hzpn8kk3gnkv.cloudfront.net
+0.0.0.0 d1i0ouqn7ffoee.cloudfront.net
 0.0.0.0 d1i3y4y2goiq75.cloudfront.net
 0.0.0.0 d1i4q9c9zj6h3l.cloudfront.net
 0.0.0.0 d1i50q7l6111ik.cloudfront.net
@@ -5124,11 +5142,13 @@
 0.0.0.0 d1npgmnwa6f3fv.cloudfront.net
 0.0.0.0 d1nrc70vcbb0d6.cloudfront.net
 0.0.0.0 d1nrlh17eere7e.cloudfront.net
+0.0.0.0 d1ntk7lackrrau.cloudfront.net
 0.0.0.0 d1nxi3p7g70ljm.cloudfront.net
 0.0.0.0 d1o5ugm4mackrc.cloudfront.net
 0.0.0.0 d1oe5yuuhs2jld.cloudfront.net
 0.0.0.0 d1of11q7gtqib1.cloudfront.net
 0.0.0.0 d1ogtekyfob10l.cloudfront.net
+0.0.0.0 d1oicy4pm7md21.cloudfront.net
 0.0.0.0 d1ombwqw5x2g5l.cloudfront.net
 0.0.0.0 d1op3guu505u9d.cloudfront.net
 0.0.0.0 d1op37io200rlr.cloudfront.net
@@ -5144,6 +5164,7 @@
 0.0.0.0 d1ppczim070vc2.cloudfront.net
 0.0.0.0 d1psigw5qnkx9q.cloudfront.net
 0.0.0.0 d1pu6oqvmclsr4.cloudfront.net
+0.0.0.0 d1pwh56xgp6k6i.cloudfront.net
 0.0.0.0 d1px6astekf6ww.cloudfront.net
 0.0.0.0 d1py9a5qthzddt.cloudfront.net
 0.0.0.0 d1q4t73mxqdf9q.cloudfront.net
@@ -5192,6 +5213,7 @@
 0.0.0.0 d1v301g8ong4b9.cloudfront.net
 0.0.0.0 d1vf46xvd7togb.cloudfront.net
 0.0.0.0 d1vkwbxcnen0ba.cloudfront.net
+0.0.0.0 d1vlmtqf22pjm0.cloudfront.net
 0.0.0.0 d1vmpmjdtnecwz.cloudfront.net
 0.0.0.0 d1vn2puqujfw34.cloudfront.net
 0.0.0.0 d1vo6nhtrg34sk.cloudfront.net
@@ -5201,6 +5223,7 @@
 0.0.0.0 d1vshnrm5muzgi.cloudfront.net
 0.0.0.0 d1w1v3ojv0zhmo.cloudfront.net
 0.0.0.0 d1w1whf5mptrns.cloudfront.net
+0.0.0.0 d1w4tjdfmer9d5.cloudfront.net
 0.0.0.0 d1w6zsw52mj5bj.cloudfront.net
 0.0.0.0 d1w370c0uot9pi.cloudfront.net
 0.0.0.0 d1wce1bf5st3y6.cloudfront.net
@@ -5229,6 +5252,7 @@
 0.0.0.0 d1yusd6jjt2edb.cloudfront.net
 0.0.0.0 d1z6tk6r2eb9nk.cloudfront.net
 0.0.0.0 d1z8e8p90gxgb0.cloudfront.net
+0.0.0.0 d1zdf3hv57qlz7.cloudfront.net
 0.0.0.0 d1zr3we3nyaq0m.cloudfront.net
 0.0.0.0 d1zrl0qvs6rml6.cloudfront.net
 0.0.0.0 d1zy79iyrsz9gx.cloudfront.net
@@ -5237,6 +5261,7 @@
 0.0.0.0 d2aalyghcsczrt.cloudfront.net
 0.0.0.0 d2arfyi5n5d544.cloudfront.net
 0.0.0.0 d2aspbz5jt96sv.cloudfront.net
+0.0.0.0 d2atikgeaydzw3.cloudfront.net
 0.0.0.0 d2axv1wiwg138j.cloudfront.net
 0.0.0.0 d2b0ml8rhb5fu3.cloudfront.net
 0.0.0.0 d2b1y8rzegljk7.cloudfront.net
@@ -5249,6 +5274,7 @@
 0.0.0.0 d2br4kebrim3e4.cloudfront.net
 0.0.0.0 d2c9vnwvkzlcmz.cloudfront.net
 0.0.0.0 d2ce3m25c8c9jp.cloudfront.net
+0.0.0.0 d2cghxmvt951g1.cloudfront.net
 0.0.0.0 d2ci4ioxpuzpnj.cloudfront.net
 0.0.0.0 d2cl0rrdy19x69.cloudfront.net
 0.0.0.0 d2cl8dh9rf47k9.cloudfront.net
@@ -5256,6 +5282,7 @@
 0.0.0.0 d2cmywksbx8l80.cloudfront.net
 0.0.0.0 d2d0reg4k6p6u3.cloudfront.net
 0.0.0.0 d2dc33uf884p25.cloudfront.net
+0.0.0.0 d2dkpayleo0un.cloudfront.net
 0.0.0.0 d2dpni913sh8cs.cloudfront.net
 0.0.0.0 d2dprld5rgjmwz.cloudfront.net
 0.0.0.0 d2ds6cu2y4pkzf.cloudfront.net
@@ -5280,12 +5307,14 @@
 0.0.0.0 d2gs6dyrnlwpz3.cloudfront.net
 0.0.0.0 d2gspr8vzzzo02.cloudfront.net
 0.0.0.0 d2gtva6v5rhcn8.cloudfront.net
+0.0.0.0 d2gv01vbwshzp6.cloudfront.net
 0.0.0.0 d2gvr8mvz21rgb.cloudfront.net
 0.0.0.0 d2gztwgb14h1d.cloudfront.net
 0.0.0.0 d2h1iqzusoe15l.cloudfront.net
 0.0.0.0 d2h42x8kxf8en8.cloudfront.net
 0.0.0.0 d2hcd4yxwqc7un.cloudfront.net
 0.0.0.0 d2hijslwjjb6xf.cloudfront.net
+0.0.0.0 d2hlumb6wd9gpb.cloudfront.net
 0.0.0.0 d2hlyyktja5nbn.cloudfront.net
 0.0.0.0 d2hr0yhxixa9i2.cloudfront.net
 0.0.0.0 d2hxx9arx28rc0.cloudfront.net
@@ -5295,6 +5324,7 @@
 0.0.0.0 d2ihofjajaz51.cloudfront.net
 0.0.0.0 d2ijp7mc5b7l0t.cloudfront.net
 0.0.0.0 d2itysgk5mpvmt.cloudfront.net
+0.0.0.0 d2ivkypbo2hnjg.cloudfront.net
 0.0.0.0 d2iwn9vstu6p12.cloudfront.net
 0.0.0.0 d2jhkxbfpe4nzj.cloudfront.net
 0.0.0.0 d2jssw1nms8kca.cloudfront.net
@@ -5318,6 +5348,7 @@
 0.0.0.0 d2lg05a9nw0qzh.cloudfront.net
 0.0.0.0 d2lgpcvcfvhlng.cloudfront.net
 0.0.0.0 d2lia7e2uhjvv1.cloudfront.net
+0.0.0.0 d2llcktblu90g8.cloudfront.net
 0.0.0.0 d2lvfyezmawtik.cloudfront.net
 0.0.0.0 d2lxl4doqci3po.cloudfront.net
 0.0.0.0 d2lxreexpa5wo2.cloudfront.net
@@ -5348,6 +5379,7 @@
 0.0.0.0 d2ovivg4v0qxjm.cloudfront.net
 0.0.0.0 d2p35bcxelxqzp.cloudfront.net
 0.0.0.0 d2pdgz3r18za9h.cloudfront.net
+0.0.0.0 d2pf8njhd1xw97.cloudfront.net
 0.0.0.0 d2pqkivjf3g5k5.cloudfront.net
 0.0.0.0 d2pubdjkl8dey0.cloudfront.net
 0.0.0.0 d2pv29cip53hjx.cloudfront.net
@@ -5375,6 +5407,7 @@
 0.0.0.0 d2th9vamsn7cws.cloudfront.net
 0.0.0.0 d2tkpj5wh02rma.cloudfront.net
 0.0.0.0 d2toygr4jrqff.cloudfront.net
+0.0.0.0 d2trbrmo86ouhx.cloudfront.net
 0.0.0.0 d2tsykvn82sryi.cloudfront.net
 0.0.0.0 d2tts5jmm7rx4y.cloudfront.net
 0.0.0.0 d2u5hcrs3kmrbd.cloudfront.net
@@ -5386,6 +5419,7 @@
 0.0.0.0 d2um5n7dfo75ip.cloudfront.net
 0.0.0.0 d2uoafa1nn2c1m.cloudfront.net
 0.0.0.0 d2ur41cbocu27e.cloudfront.net
+0.0.0.0 d2v0h4eugmj0e0.cloudfront.net
 0.0.0.0 d2v3t2xy2bzixa.cloudfront.net
 0.0.0.0 d2v6xfwpal48nn.cloudfront.net
 0.0.0.0 d2v9cdutb808au.cloudfront.net
@@ -5458,6 +5492,7 @@
 0.0.0.0 d3dsdxp1xy072f.cloudfront.net
 0.0.0.0 d3dwdys60qg2it.cloudfront.net
 0.0.0.0 d3dwn8a8ey7v02.cloudfront.net
+0.0.0.0 d3dwo32d1bodl7.cloudfront.net
 0.0.0.0 d3ecahaxy1lxw0.cloudfront.net
 0.0.0.0 d3esgegqe8nlw5.cloudfront.net
 0.0.0.0 d3f1i9ucuggoqt.cloudfront.net
@@ -5494,6 +5529,7 @@
 0.0.0.0 d3j9pc7yhichi7.cloudfront.net
 0.0.0.0 d3jdrqwt8yggac.cloudfront.net
 0.0.0.0 d3jfqy3y1871yh.cloudfront.net
+0.0.0.0 d3jmt4bgclserg.cloudfront.net
 0.0.0.0 d3jo72wt2jooqa.cloudfront.net
 0.0.0.0 d3jsabzgdtmdk2.cloudfront.net
 0.0.0.0 d3jughl7k9y4nn.cloudfront.net
@@ -5513,6 +5549,7 @@
 0.0.0.0 d3l9k0igpiir98.cloudfront.net
 0.0.0.0 d3l41d43cmmx14.cloudfront.net
 0.0.0.0 d3lhpgd0g5vizz.cloudfront.net
+0.0.0.0 d3ljxg8hqqnbe2.cloudfront.net
 0.0.0.0 d3lkqbg48rbxq6.cloudfront.net
 0.0.0.0 d3lpe40sekyvz8.cloudfront.net
 0.0.0.0 d3ls93foifsgur.cloudfront.net
@@ -5523,6 +5560,7 @@
 0.0.0.0 d3m18xfmc2vico.cloudfront.net
 0.0.0.0 d3mgm6cwtlqup1.cloudfront.net
 0.0.0.0 d3mh7q8i9nzb8x.cloudfront.net
+0.0.0.0 d3mhu9l62jnz9d.cloudfront.net
 0.0.0.0 d3mmr9yh0jwuka.cloudfront.net
 0.0.0.0 d3mrvu7qsnuh82.cloudfront.net
 0.0.0.0 d3mt6s5xw5coba.cloudfront.net
@@ -5532,6 +5570,7 @@
 0.0.0.0 d3nqn4bwgnt0y6.cloudfront.net
 0.0.0.0 d3o6x6wcpxd286.cloudfront.net
 0.0.0.0 d3o8vhquqriu65.cloudfront.net
+0.0.0.0 d3o82iwteh5930.cloudfront.net
 0.0.0.0 d3o92sis0yji3x.cloudfront.net
 0.0.0.0 d3ocm1z8hwuyod.cloudfront.net
 0.0.0.0 d3od1bbqv35we0.cloudfront.net
@@ -5539,6 +5578,7 @@
 0.0.0.0 d3p2uvksoo8gtw.cloudfront.net
 0.0.0.0 d3p3m76ag9gj6e.cloudfront.net
 0.0.0.0 d3p7tmow1vleoo.cloudfront.net
+0.0.0.0 d3p9urd11864em.cloudfront.net
 0.0.0.0 d3p8992fjphtyl.cloudfront.net
 0.0.0.0 d3pancmty6wurz.cloudfront.net
 0.0.0.0 d3pc390dvpqzsi.cloudfront.net
@@ -5575,8 +5615,10 @@
 0.0.0.0 d3tdnc32pg1dm6.cloudfront.net
 0.0.0.0 d3tgju2fe3if19.cloudfront.net
 0.0.0.0 d3tiz7d9ud4xx9.cloudfront.net
+0.0.0.0 d3tky8lpjrfsj8.cloudfront.net
 0.0.0.0 d3tliv28qjo65s.cloudfront.net
 0.0.0.0 d3tm7ciaxxt9e.cloudfront.net
+0.0.0.0 d3ttzahiln8v3h.cloudfront.net
 0.0.0.0 d3tuedwv4cfy49.cloudfront.net
 0.0.0.0 d3txhvg6pd2tnm.cloudfront.net
 0.0.0.0 d3ty24rr64oej7.cloudfront.net
@@ -5591,6 +5633,7 @@
 0.0.0.0 d3uqzpy84i2hpj.cloudfront.net
 0.0.0.0 d3utuzchmic93v.cloudfront.net
 0.0.0.0 d3uzs860dh2t89.cloudfront.net
+0.0.0.0 d3v5w54hvs4cd2.cloudfront.net
 0.0.0.0 d3v6pvlv2uk27.cloudfront.net
 0.0.0.0 d3v735z3cvlhwa.cloudfront.net
 0.0.0.0 d3vee4git4hon8.cloudfront.net
@@ -5599,6 +5642,7 @@
 0.0.0.0 d3vsohfrronl5v.cloudfront.net
 0.0.0.0 d3w2owmgrmxb09.cloudfront.net
 0.0.0.0 d3xcq298rmf22.cloudfront.net
+0.0.0.0 d3xqd8akoif8x.cloudfront.net
 0.0.0.0 d3zbdw24b8urd.cloudfront.net
 0.0.0.0 d4ayw5nfinkhq.cloudfront.net
 0.0.0.0 d4bpupunkqyi4.cloudfront.net
@@ -5652,6 +5696,7 @@
 0.0.0.0 d13nkb5i8odvp3.cloudfront.net
 0.0.0.0 d13onk45obj98q.cloudfront.net
 0.0.0.0 d13p8pjfjewrpo.cloudfront.net
+0.0.0.0 d13pjwmrumgl42.cloudfront.net
 0.0.0.0 d13rhj8kcfcgm9.cloudfront.net
 0.0.0.0 d13sef6b8sjqq8.cloudfront.net
 0.0.0.0 d13ub5kvqkmcvg.cloudfront.net
@@ -5666,6 +5711,7 @@
 0.0.0.0 d15rn4ctl3ccx9.cloudfront.net
 0.0.0.0 d15wvgj5a0usjv.cloudfront.net
 0.0.0.0 d15yxhpa7xaoip.cloudfront.net
+0.0.0.0 d16ilntxav66az.cloudfront.net
 0.0.0.0 d16tca2zprdjy7.cloudfront.net
 0.0.0.0 d16tiy94lroira.cloudfront.net
 0.0.0.0 d16yglk64kx91u.cloudfront.net
@@ -5674,6 +5720,7 @@
 0.0.0.0 d17lk891ih32q5.cloudfront.net
 0.0.0.0 d17yvqksnax2ok.cloudfront.net
 0.0.0.0 d17zroorb9xkez.cloudfront.net
+0.0.0.0 d18a9fzbyapsw3.cloudfront.net
 0.0.0.0 d18c2mnk8xpfaf.cloudfront.net
 0.0.0.0 d18h28i6i4tnmo.cloudfront.net
 0.0.0.0 d18jntihm91nh.cloudfront.net
@@ -5742,6 +5789,7 @@
 0.0.0.0 d29g6ewww58gsz.cloudfront.net
 0.0.0.0 d30hbt0rlpewjj.cloudfront.net
 0.0.0.0 d31hwl7tvoqtpd.cloudfront.net
+0.0.0.0 d31hyeb87xiu57.cloudfront.net
 0.0.0.0 d31jymef52qqtc.cloudfront.net
 0.0.0.0 d31mncwu8lg9dk.cloudfront.net
 0.0.0.0 d31oh3uvgfar0b.cloudfront.net
@@ -5775,9 +5823,12 @@
 0.0.0.0 d35ri9cffg1wdn.cloudfront.net
 0.0.0.0 d35s76ui8ol8u7.cloudfront.net
 0.0.0.0 d35zh4mwcg70bq.cloudfront.net
+0.0.0.0 d36b095s8coxxh.cloudfront.net
 0.0.0.0 d36bok8k8k1n1l.cloudfront.net
+0.0.0.0 d36idbpjsv9i1q.cloudfront.net
 0.0.0.0 d36judyoxgl2zo.cloudfront.net
 0.0.0.0 d36nbgnuno71tn.cloudfront.net
+0.0.0.0 d36v93ldmqhsw0.cloudfront.net
 0.0.0.0 d36w05gbxhfc2q.cloudfront.net
 0.0.0.0 d37e1bmc7n43pm.cloudfront.net
 0.0.0.0 d37ir791zli9ha.cloudfront.net
@@ -5787,6 +5838,7 @@
 0.0.0.0 d38d6vjyuuw2sl.cloudfront.net
 0.0.0.0 d38hd4yfpoebhc.cloudfront.net
 0.0.0.0 d38y9r31gvgr18.cloudfront.net
+0.0.0.0 d38yty1w0833qv.cloudfront.net
 0.0.0.0 d39pe27rsfvxd7.cloudfront.net
 0.0.0.0 d39rpvvlkl2oml.cloudfront.net
 0.0.0.0 d44xt3mhfaa25.cloudfront.net
@@ -5798,14 +5850,17 @@
 0.0.0.0 d115gu3rhihzw6.cloudfront.net
 0.0.0.0 d126jrntbygbj6.cloudfront.net
 0.0.0.0 d138l6i2f1ss16.cloudfront.net
+0.0.0.0 d160l2q9cwoi8b.cloudfront.net
 0.0.0.0 d164h0umjxw0m5.cloudfront.net
 0.0.0.0 d164v294oy2ks9.cloudfront.net
 0.0.0.0 d168u5ovk0xpjb.cloudfront.net
 0.0.0.0 d169a6pnr5n4h2.cloudfront.net
 0.0.0.0 d182p0mo6pnsdg.cloudfront.net
+0.0.0.0 d187swsqhr3yxk.cloudfront.net
 0.0.0.0 d189rg7gxa6i7e.cloudfront.net
 0.0.0.0 d190i45p2m3hbk.cloudfront.net
 0.0.0.0 d235p9jy8mgkg1.cloudfront.net
+0.0.0.0 d245ux7i0s6isv.cloudfront.net
 0.0.0.0 d246aj2kyx0kq6.cloudfront.net
 0.0.0.0 d260ptyfdzr11n.cloudfront.net
 0.0.0.0 d270mmppqyrxvh.cloudfront.net
@@ -5816,6 +5871,7 @@
 0.0.0.0 d301v60xcaq10j.cloudfront.net
 0.0.0.0 d309g6di7or6ss.cloudfront.net
 0.0.0.0 d319m84sy1h0f2.cloudfront.net
+0.0.0.0 d328v6v3jxsx2e.cloudfront.net
 0.0.0.0 d331dfj0rjel0i.cloudfront.net
 0.0.0.0 d348tliqr8e092.cloudfront.net
 0.0.0.0 d353opvralusbw.cloudfront.net
@@ -5837,15 +5893,20 @@
 0.0.0.0 d2480izb76j167.cloudfront.net
 0.0.0.0 d2841o99ubdi90.cloudfront.net
 0.0.0.0 d2998nypt519a0.cloudfront.net
+0.0.0.0 d3105ctrvf462g.cloudfront.net
 0.0.0.0 d3140e6j71f9hm.cloudfront.net
 0.0.0.0 d03307.top
+0.0.0.0 d3457wu0iznoe4.cloudfront.net
 0.0.0.0 d3513xcfpbcnht.cloudfront.net
 0.0.0.0 d3877taz1legt5.cloudfront.net
 0.0.0.0 d3889itag5jgx6.cloudfront.net
 0.0.0.0 d3968odjr2hy3o.cloudfront.net
+0.0.0.0 d8629xs437w2v.cloudfront.net
 0.0.0.0 d16026ycio8a62.cloudfront.net
+0.0.0.0 d17269dvo4vbnw.cloudfront.net
 0.0.0.0 d34725q6gy71zj.cloudfront.net
 0.0.0.0 da01odyv8jm54.cloudfront.net
+0.0.0.0 da1wg8kx26nwf.cloudfront.net
 0.0.0.0 da7itbt696zyr.cloudfront.net
 0.0.0.0 da510upvjb0v0.cloudfront.net
 0.0.0.0 dac24nse4s4d7.cloudfront.net
@@ -5883,10 +5944,12 @@
 0.0.0.0 daxioma.com
 0.0.0.0 daxkapital.com
 0.0.0.0 dazhbuupola9m.cloudfront.net
+0.0.0.0 db0ild0kb4um3.cloudfront.net
 0.0.0.0 db8pg3je9y3ei.cloudfront.net
 0.0.0.0 dbamyociebie.click
 0.0.0.0 dbd3bzqstwii6.cloudfront.net
 0.0.0.0 dbd8zrlvot44b.cloudfront.net
+0.0.0.0 dbnte2xuhesyf.cloudfront.net
 0.0.0.0 dbsi2ch5zzf08.cloudfront.net
 0.0.0.0 dbwdjzfb0dnja.cloudfront.net
 0.0.0.0 dbzbwpin45yzaprezvut6i5gjy--online-mbank-pl.translate.goog
@@ -5988,6 +6051,7 @@
 0.0.0.0 dgvy364dlcxc3.cloudfront.net
 0.0.0.0 dgxjsagdxl0xn.cloudfront.net
 0.0.0.0 dgy6k9lzaqiwn.cloudfront.net
+0.0.0.0 dgygzoiark48g.cloudfront.net
 0.0.0.0 dhc6wkg91bshz.cloudfront.net
 0.0.0.0 dhcouriers.com
 0.0.0.0 dhhfxb5eyj88f.cloudfront.net
@@ -6004,6 +6068,7 @@
 0.0.0.0 dhy91igedferm.cloudfront.net
 0.0.0.0 di3kgulwn8pf0.cloudfront.net
 0.0.0.0 di6bbajj28ymz.cloudfront.net
+0.0.0.0 di9iwv3abis8q.cloudfront.net
 0.0.0.0 dib0b8ebxchvs.cloudfront.net
 0.0.0.0 dietasekret.pl
 0.0.0.0 differentpplz.top
@@ -6014,6 +6079,7 @@
 0.0.0.0 directionxanc2021.ddns.net
 0.0.0.0 dirproperties.com
 0.0.0.0 discorcl.link
+0.0.0.0 discord-nitro.su
 0.0.0.0 discsplay.com
 0.0.0.0 distracted-babbage-7a44a8.netlify.app
 0.0.0.0 divisionart.pl
@@ -6073,6 +6139,7 @@
 0.0.0.0 dmkszjwmkjx8k.cloudfront.net
 0.0.0.0 dmnsn8xidceg0.cloudfront.net
 0.0.0.0 dmqxrk27t97xo.cloudfront.net
+0.0.0.0 dmt4dumgq62gv.cloudfront.net
 0.0.0.0 dmuwshlrslrqn.cloudfront.net
 0.0.0.0 dmv4iguknv69q.cloudfront.net
 0.0.0.0 dmyvao51x5jfs.cloudfront.net
@@ -6208,6 +6275,7 @@
 0.0.0.0 dpd-pi.id458759.me
 0.0.0.0 dpd-pl-qpuq.ownoffferta.cc
 0.0.0.0 dpd-pl-tjn.id-048357.me
+0.0.0.0 dpd-pl.id-3489.me
 0.0.0.0 dpd-przesylki.pl
 0.0.0.0 dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk
 0.0.0.0 dpd.id-101371.me
@@ -6255,13 +6323,16 @@
 0.0.0.0 dsw8jvs2jf1m1.cloudfront.net
 0.0.0.0 dswj6vzp9lacv.cloudfront.net
 0.0.0.0 dsyxuog2w7vdz.cloudfront.net
+0.0.0.0 dt741wawpv01o.cloudfront.net
 0.0.0.0 dtcvp5x34aags.cloudfront.net
 0.0.0.0 dtech.host
 0.0.0.0 dtfodjgrril93.cloudfront.net
 0.0.0.0 dtmx.pl
+0.0.0.0 dts1kxf374pxw.cloudfront.net
 0.0.0.0 dtyx37y4l24ta.cloudfront.net
 0.0.0.0 du5p13zqpcet3.cloudfront.net
 0.0.0.0 du6al4tu98t29.cloudfront.net
+0.0.0.0 duaiy3uxu4vzd.cloudfront.net
 0.0.0.0 dub8434o6oib8.cloudfront.net
 0.0.0.0 duft-punk.xyz
 0.0.0.0 duiwcg72w56ze.cloudfront.net
@@ -6278,6 +6349,7 @@
 0.0.0.0 dv46z6n7h2vbw.cloudfront.net
 0.0.0.0 dva0tsa91cw5m.cloudfront.net
 0.0.0.0 dvhaaubsngg1m.cloudfront.net
+0.0.0.0 dvioaj7wq2gpq.cloudfront.net
 0.0.0.0 dw02dd3e60dvv.cloudfront.net
 0.0.0.0 dw4akpdl00jvn.cloudfront.net
 0.0.0.0 dwf.life
@@ -6326,6 +6398,7 @@
 0.0.0.0 dzqiq5qkuyda9.cloudfront.net
 0.0.0.0 dzrnmrvdsvuqf.cloudfront.net
 0.0.0.0 dzzavzp9iptuv.cloudfront.net
+0.0.0.0 e.paczkxups.com
 0.0.0.0 e.paczkyups.com
 0.0.0.0 e9b0y8.webwave.dev
 0.0.0.0 earncash.press
@@ -6421,8 +6494,10 @@
 0.0.0.0 energetyczna.store
 0.0.0.0 energetyczna.xyz
 0.0.0.0 energialandia.waw.pl
+0.0.0.0 energiatwoja.waw.pl
 0.0.0.0 energiawypadek.waw.pl
 0.0.0.0 energia-landia.waw.pl
+0.0.0.0 energia-twoja.waw.pl
 0.0.0.0 energia-wypadek.waw.pl
 0.0.0.0 energikundservice.se
 0.0.0.0 energpl.xyz
@@ -6644,6 +6719,7 @@
 0.0.0.0 fbvverifier.mypi.co
 0.0.0.0 fbweryfikacja.cf
 0.0.0.0 fbweryfikacja.ga
+0.0.0.0 fbweryfikacja.tk
 0.0.0.0 fb-ads.me
 0.0.0.0 fb-ads-business.com
 0.0.0.0 fb-business.net
@@ -7299,6 +7375,7 @@
 0.0.0.0 infomacjeonline.rf.gd
 0.0.0.0 infopodatek.net
 0.0.0.0 inforadiogazeta.site
+0.0.0.0 infordrogowe.h2g.pl
 0.0.0.0 inform.legalprod.xyz
 0.0.0.0 inform.rorinv.site
 0.0.0.0 informacja.cc
@@ -7503,6 +7580,7 @@
 0.0.0.0 inpost-h.id-048357.me
 0.0.0.0 inpost-info.com
 0.0.0.0 inpost-i.id-9843.me
+0.0.0.0 inpost-j.id-9484.me
 0.0.0.0 inpost-kod.com
 0.0.0.0 inpost-kody.net
 0.0.0.0 inpost-kurier24.com
@@ -7526,6 +7604,7 @@
 0.0.0.0 inpost-order.pl-id11873189.xyz
 0.0.0.0 inpost-order.pl-id12043000.xyz
 0.0.0.0 inpost-order.pl-id12274778.xyz
+0.0.0.0 inpost-order.pl-id12779606.xyz
 0.0.0.0 inpost-order.pl-id14144075.xyz
 0.0.0.0 inpost-order.pl-id14873912.xyz
 0.0.0.0 inpost-order.pl-id18062242.xyz
@@ -7542,6 +7621,7 @@
 0.0.0.0 inpost-order.pl-id39592096.xyz
 0.0.0.0 inpost-order.pl-id39999493.xyz
 0.0.0.0 inpost-order.pl-id40624597.xyz
+0.0.0.0 inpost-order.pl-id40719497.xyz
 0.0.0.0 inpost-order.pl-id41815853.xyz
 0.0.0.0 inpost-order.pl-id42170318.xyz
 0.0.0.0 inpost-order.pl-id45917677.xyz
@@ -7560,6 +7640,7 @@
 0.0.0.0 inpost-order.pl-id67598643.xyz
 0.0.0.0 inpost-order.pl-id68896994.xyz
 0.0.0.0 inpost-order.pl-id69069606.xyz
+0.0.0.0 inpost-order.pl-id69822218.xyz
 0.0.0.0 inpost-order.pl-id72465947.xyz
 0.0.0.0 inpost-order.pl-id73915347.xyz
 0.0.0.0 inpost-order.pl-id74244312.xyz
@@ -7571,6 +7652,7 @@
 0.0.0.0 inpost-order.pl-id82571828.xyz
 0.0.0.0 inpost-order.pl-id85944668.xyz
 0.0.0.0 inpost-order.pl-id86275767.xyz
+0.0.0.0 inpost-order.pl-id86360563.xyz
 0.0.0.0 inpost-order.pl-id86817971.xyz
 0.0.0.0 inpost-order.pl-id86870340.xyz
 0.0.0.0 inpost-order.pl-id86935828.xyz
@@ -7635,15 +7717,18 @@
 0.0.0.0 inpost-pl.safe-delivery.one
 0.0.0.0 inpost-pl.secure-money.icu
 0.0.0.0 inpost-pl.security-delivery.icu
+0.0.0.0 inpost-p.id-9484.me
 0.0.0.0 inpost-rl.id847363.me
 0.0.0.0 inpost-r.id-65393.me
 0.0.0.0 inpost-security.icu
 0.0.0.0 inpost-s.id-13549.me
 0.0.0.0 inpost-terms.icu
 0.0.0.0 inpost-t.id-0687.me
+0.0.0.0 inpost-w.id-3489.me
 0.0.0.0 inpost-x.id-43895.me
 0.0.0.0 inpost-y.id-65393.me
 0.0.0.0 inpost-zamowienie.pl
+0.0.0.0 inpost-z.id-9484.me
 0.0.0.0 inpost.dostawa24-fun.club
 0.0.0.0 inpost.dostawa24-fun.digital
 0.0.0.0 inpost.dostawa-orders.casa
@@ -7694,6 +7779,7 @@
 0.0.0.0 inpost.pl-getexpres.cyou
 0.0.0.0 inpost.pl-getexpres.icu
 0.0.0.0 inpost.pl-getexpres.xyz
+0.0.0.0 inpost.pl-getpaid.cyou
 0.0.0.0 inpost.pl-getwallet.cyou
 0.0.0.0 inpost.pl-give-cash.cyou
 0.0.0.0 inpost.pl-give-cash.shop
@@ -7703,6 +7789,7 @@
 0.0.0.0 inpost.pl-goodordered.xyz
 0.0.0.0 inpost.pl-goodorders.icu
 0.0.0.0 inpost.pl-goodorders.xyz
+0.0.0.0 inpost.pl-gotpay.icu
 0.0.0.0 inpost.pl-gotwallet.cyou
 0.0.0.0 inpost.pl-gotwallet.icu
 0.0.0.0 inpost.pl-gotwallet.xyz
@@ -7737,15 +7824,24 @@
 0.0.0.0 inpost.pl-itemspays.pw
 0.0.0.0 inpost.pl-itemzpaying.pw
 0.0.0.0 inpost.pl-live-delivery.icu
+0.0.0.0 inpost.pl-orderpaid.cyou
+0.0.0.0 inpost.pl-paid.icu
+0.0.0.0 inpost.pl-paid.xyz
+0.0.0.0 inpost.pl-paidcash.icu
 0.0.0.0 inpost.pl-paidgo.cyou
 0.0.0.0 inpost.pl-paidgo.icu
 0.0.0.0 inpost.pl-paidgo.shop
 0.0.0.0 inpost.pl-paidgo.xyz
+0.0.0.0 inpost.pl-paidmoney.cyou
+0.0.0.0 inpost.pl-paidmoney.xyz
+0.0.0.0 inpost.pl-paidorder.xyz
 0.0.0.0 inpost.pl-paidwallets.cyou
 0.0.0.0 inpost.pl-paycombuy.pw
 0.0.0.0 inpost.pl-payforitem.site
 0.0.0.0 inpost.pl-payingtrans.pw
 0.0.0.0 inpost.pl-payitems.pw
+0.0.0.0 inpost.pl-pays.cyou
+0.0.0.0 inpost.pl-pays.icu
 0.0.0.0 inpost.pl-payswallets.cyou
 0.0.0.0 inpost.pl-payswallets.icu
 0.0.0.0 inpost.pl-payswallets.xyz
@@ -7789,11 +7885,15 @@
 0.0.0.0 inpost.pl-safe.service-secure.cyou
 0.0.0.0 inpost.pl-safe.service-secure.rest
 0.0.0.0 inpost.pl-safe.service-secure.space
+0.0.0.0 inpost.pl-savedpay.cyou
+0.0.0.0 inpost.pl-savedpay.icu
+0.0.0.0 inpost.pl-savepaid.cyou
 0.0.0.0 inpost.pl-sendorder.cyou
 0.0.0.0 inpost.pl-sendorder.icu
 0.0.0.0 inpost.pl-sendorder.xyz
 0.0.0.0 inpost.pl-transbuy.pw
 0.0.0.0 inpost.pl-transbuyitemsget.site
+0.0.0.0 inpost.pl-transcomtopay.site
 0.0.0.0 inpost.pl-transpaycom.pw
 0.0.0.0 inpost.pl-transpayenig.pw
 0.0.0.0 inpost.pl-wallet.cyou
@@ -7833,6 +7933,7 @@
 0.0.0.0 inpost.wygeneruj-kod.me
 0.0.0.0 inprost24.net
 0.0.0.0 inqost.net
+0.0.0.0 insms.xyz
 0.0.0.0 instacarpool.co.uk
 0.0.0.0 instagarm.pl
 0.0.0.0 instagramrule.com
@@ -8343,6 +8444,7 @@
 0.0.0.0 liversely.com
 0.0.0.0 liviosklep.pl
 0.0.0.0 lkinvest.onelasinvee77.site
+0.0.0.0 lk.sms-safe.xyz
 0.0.0.0 lldi.pl
 0.0.0.0 lloto.xyz
 0.0.0.0 lnfo.web-chat.eu
@@ -8419,6 +8521,7 @@
 0.0.0.0 lotosgr-pl.info
 0.0.0.0 lotosinvest.info
 0.0.0.0 lotospl.website
+0.0.0.0 lotospollska-info.site
 0.0.0.0 lotosqw.info
 0.0.0.0 lotoss1-pl.site
 0.0.0.0 lotoss-pl.site
@@ -8631,6 +8734,7 @@
 0.0.0.0 mercuryo.co.com
 0.0.0.0 mergedocsnow.com
 0.0.0.0 merrellsklepolska.com
+0.0.0.0 mesms.xyz
 0.0.0.0 mesohair.pl
 0.0.0.0 messenger-lite.com
 0.0.0.0 metaltechnics.pl
@@ -9360,6 +9464,7 @@
 0.0.0.0 olx-dostawk.pl
 0.0.0.0 olx-dostawka-pl.cyou
 0.0.0.0 olx-dostawke.pl
+0.0.0.0 olx-d.id-3489.me
 0.0.0.0 olx-d.id-76565.me
 0.0.0.0 olx-e.id877899.me
 0.0.0.0 olx-e.pl
@@ -9413,6 +9518,7 @@
 0.0.0.0 olx-order.pl-id01989664.xyz
 0.0.0.0 olx-order.pl-id02215574.xyz
 0.0.0.0 olx-order.pl-id04381830.xyz
+0.0.0.0 olx-order.pl-id05665343.xyz
 0.0.0.0 olx-order.pl-id06396225.xyz
 0.0.0.0 olx-order.pl-id06493422.xyz
 0.0.0.0 olx-order.pl-id09281909.xyz
@@ -9421,6 +9527,7 @@
 0.0.0.0 olx-order.pl-id10398028.xyz
 0.0.0.0 olx-order.pl-id11393049.xyz
 0.0.0.0 olx-order.pl-id12192231.xyz
+0.0.0.0 olx-order.pl-id12779606.xyz
 0.0.0.0 olx-order.pl-id14873912.xyz
 0.0.0.0 olx-order.pl-id16044155.xyz
 0.0.0.0 olx-order.pl-id16709392.xyz
@@ -9428,6 +9535,7 @@
 0.0.0.0 olx-order.pl-id19744089.xyz
 0.0.0.0 olx-order.pl-id19932972.xyz
 0.0.0.0 olx-order.pl-id19998915.xyz
+0.0.0.0 olx-order.pl-id20102569.xyz
 0.0.0.0 olx-order.pl-id21512257.xyz
 0.0.0.0 olx-order.pl-id22042243.xyz
 0.0.0.0 olx-order.pl-id22851431.xyz
@@ -9446,6 +9554,7 @@
 0.0.0.0 olx-order.pl-id38571035.xyz
 0.0.0.0 olx-order.pl-id38753098.xyz
 0.0.0.0 olx-order.pl-id39999493.xyz
+0.0.0.0 olx-order.pl-id40719497.xyz
 0.0.0.0 olx-order.pl-id41815853.xyz
 0.0.0.0 olx-order.pl-id42877746.xyz
 0.0.0.0 olx-order.pl-id44043325.xyz
@@ -9460,6 +9569,7 @@
 0.0.0.0 olx-order.pl-id53823746.xyz
 0.0.0.0 olx-order.pl-id54077844.xyz
 0.0.0.0 olx-order.pl-id54421094.xyz
+0.0.0.0 olx-order.pl-id55035541.xyz
 0.0.0.0 olx-order.pl-id56147885.xyz
 0.0.0.0 olx-order.pl-id57358184.xyz
 0.0.0.0 olx-order.pl-id57430602.xyz
@@ -9535,6 +9645,7 @@
 0.0.0.0 olx-pl.myowndostawa24.live
 0.0.0.0 olx-pl.myowndostawa24.xyz
 0.0.0.0 olx-pl.net
+0.0.0.0 olx-pl.nfotyjen.tk
 0.0.0.0 olx-pl.oferto.cc
 0.0.0.0 olx-pl.online
 0.0.0.0 olx-pl.org
@@ -9737,14 +9848,23 @@
 0.0.0.0 olx.pl-getchecks.cyou
 0.0.0.0 olx.pl-getchecks.icu
 0.0.0.0 olx.pl-getchecks.xyz
+0.0.0.0 olx.pl-getdelivery.cyou
+0.0.0.0 olx.pl-getdelivery.icu
+0.0.0.0 olx.pl-getdelivery.xyz
 0.0.0.0 olx.pl-getexpres.xyz
 0.0.0.0 olx.pl-getexpress.cyou
 0.0.0.0 olx.pl-getexpress.icu
 0.0.0.0 olx.pl-getexpress.xyz
+0.0.0.0 olx.pl-getpaid.cyou
+0.0.0.0 olx.pl-getpaid.icu
+0.0.0.0 olx.pl-getpaid.xyz
 0.0.0.0 olx.pl-getwallets.cyou
 0.0.0.0 olx.pl-getwallets.icu
 0.0.0.0 olx.pl-getwallets.xyz
 0.0.0.0 olx.pl-goodorders.xyz
+0.0.0.0 olx.pl-gotpaid.icu
+0.0.0.0 olx.pl-gotpays.cyou
+0.0.0.0 olx.pl-gotpays.icu
 0.0.0.0 olx.pl-gotwallet.cyou
 0.0.0.0 olx.pl-gotwallet.icu
 0.0.0.0 olx.pl-havecash.cyou
@@ -9806,8 +9926,14 @@
 0.0.0.0 olx.pl-money.online
 0.0.0.0 olx.pl-money.site
 0.0.0.0 olx.pl-money.website
+0.0.0.0 olx.pl-orderpaid.cyou
+0.0.0.0 olx.pl-orderpays.cyou
+0.0.0.0 olx.pl-orderspaid.cyou
 0.0.0.0 olx.pl-paidexpress.xyz
 0.0.0.0 olx.pl-paidgo.icu
+0.0.0.0 olx.pl-paidmoney.cyou
+0.0.0.0 olx.pl-paidmoney.xyz
+0.0.0.0 olx.pl-paidorder.xyz
 0.0.0.0 olx.pl-paidwallet.cyou
 0.0.0.0 olx.pl-paidwallet.xyz
 0.0.0.0 olx.pl-paidwallets.cyou
@@ -9818,6 +9944,8 @@
 0.0.0.0 olx.pl-payforitcom.site
 0.0.0.0 olx.pl-paygo.icu
 0.0.0.0 olx.pl-paygo.work
+0.0.0.0 olx.pl-pays.cyou
+0.0.0.0 olx.pl-pays.icu
 0.0.0.0 olx.pl-paysexpress.cyou
 0.0.0.0 olx.pl-paysexpress.icu
 0.0.0.0 olx.pl-paysgo.cyou
@@ -9842,6 +9970,8 @@
 0.0.0.0 olx.pl-postpay.xyz
 0.0.0.0 olx.pl-postpays.icu
 0.0.0.0 olx.pl-postpays.xyz
+0.0.0.0 olx.pl-receivepaid.cyou
+0.0.0.0 olx.pl-receivepaid.icu
 0.0.0.0 olx.pl-refundcash.cyou
 0.0.0.0 olx.pl-refundcash.icu
 0.0.0.0 olx.pl-refundcash.xyz
@@ -9865,9 +9995,12 @@
 0.0.0.0 olx.pl-safe.secure-dostawa.rest
 0.0.0.0 olx.pl-safe.service-secure.rest
 0.0.0.0 olx.pl-safe.service-secure.work
+0.0.0.0 olx.pl-savedpay.cyou
+0.0.0.0 olx.pl-savedpay.icu
 0.0.0.0 olx.pl-savedwallet.cyou
 0.0.0.0 olx.pl-savedwallet.icu
 0.0.0.0 olx.pl-savedwallet.xyz
+0.0.0.0 olx.pl-savepaid.cyou
 0.0.0.0 olx.pl-savewallets.xyz
 0.0.0.0 olx.pl-suspend.xyz
 0.0.0.0 olx.pl-suspended.icu
@@ -10151,6 +10284,7 @@
 0.0.0.0 o-net4.pl
 0.0.0.0 p0czta.net
 0.0.0.0 p0dpf6.webwave.dev
+0.0.0.0 p0rtal-register.tk
 0.0.0.0 p8dfy0.webwave.dev
 0.0.0.0 paarla.com
 0.0.0.0 pacificinvestmentsltd.com
@@ -10464,6 +10598,7 @@
 0.0.0.0 payolx126.info
 0.0.0.0 payolx130.info
 0.0.0.0 payolx133.info
+0.0.0.0 payolx139.info
 0.0.0.0 payones.net
 0.0.0.0 payorte.net
 0.0.0.0 paypalticket-id-2e382123.com
@@ -10968,6 +11103,7 @@
 0.0.0.0 poczta-order.pl-id80914635.xyz
 0.0.0.0 poczta-order.pl-id81479747.xyz
 0.0.0.0 poczta-order.pl-id86008556.xyz
+0.0.0.0 poczta-order.pl-id86360563.xyz
 0.0.0.0 poczta-order.pl-id97693066.xyz
 0.0.0.0 poczta-polska.eu
 0.0.0.0 poczta-polska.me
@@ -10984,11 +11120,13 @@
 0.0.0.0 poczta.pl-easypaid.xyz
 0.0.0.0 poczta.pl-fastexpress.icu
 0.0.0.0 poczta.pl-fastexpress.xyz
+0.0.0.0 poczta.pl-gotpaid.icu
 0.0.0.0 poczta.pl-gotpaid.work
 0.0.0.0 poczta.pl-id16077216.xyz
 0.0.0.0 poczta.pl-id21631582.xyz
 0.0.0.0 poczta.pl-id58215739.xyz
 0.0.0.0 poczta.pl-ordered.work
+0.0.0.0 poczta.pl-orderpaid.cyou
 0.0.0.0 poczta.pl-paygo.cyou
 0.0.0.0 poczta.pl-paygo.icu
 0.0.0.0 poczta.pl-paygo.shop
@@ -11765,6 +11903,7 @@
 0.0.0.0 server292369.nazwa.pl
 0.0.0.0 server296055.nazwa.pl
 0.0.0.0 server296160.nazwa.pl
+0.0.0.0 server298635.nazwa.pl
 0.0.0.0 server358928.nazwa.pl
 0.0.0.0 server365449.nazwa.pl
 0.0.0.0 server388782.nazwa.pl
@@ -11776,6 +11915,7 @@
 0.0.0.0 server443353.nazwa.pl
 0.0.0.0 server461004.nazwa.pl
 0.0.0.0 server501775.nazwa.pl
+0.0.0.0 server512269.nazwa.pl
 0.0.0.0 server529789.nazwa.pl
 0.0.0.0 server530103.nazwa.pl
 0.0.0.0 server574533.nazwa.pl
@@ -11791,6 +11931,7 @@
 0.0.0.0 server867898.nazwa.pl
 0.0.0.0 server870179.nazwa.pl
 0.0.0.0 server872071.nazwa.pl
+0.0.0.0 server885510.nazwa.pl
 0.0.0.0 server929027.nazwa.pl
 0.0.0.0 server969249.nazwa.pl
 0.0.0.0 server973203.nazwa.pl
@@ -11961,6 +12102,7 @@
 0.0.0.0 sms-safe.xyz
 0.0.0.0 sms-secure.one
 0.0.0.0 sms-za-darmo.pl
+0.0.0.0 sms.pl-id12779606.xyz
 0.0.0.0 sms.pl-id56147885.xyz
 0.0.0.0 smushgame.com
 0.0.0.0 sne.bydgoszcz.pl
@@ -12051,6 +12193,7 @@
 0.0.0.0 srednioraznakilkalat.space
 0.0.0.0 srv38989.seohost.com.pl
 0.0.0.0 srv39168.seohost.com.pl
+0.0.0.0 srv39355.seohost.com.pl
 0.0.0.0 ssll-payu.com
 0.0.0.0 ssl-cert.pl
 0.0.0.0 sso-cloud-idea.at
@@ -12500,6 +12643,7 @@
 0.0.0.0 truegamers.ga
 0.0.0.0 trust.lew.orfininfo.xyz
 0.0.0.0 trustmybox.org
+0.0.0.0 trustwallet.busy-burnell.143-198-165-133.plesk.page
 0.0.0.0 truyenthongbatdiet.online
 0.0.0.0 trwogaca.icu
 0.0.0.0 tryplaybest.com
@@ -12529,6 +12673,7 @@
 0.0.0.0 tvn24.club
 0.0.0.0 tvn24polska.eu
 0.0.0.0 tvn24-uwaga.pl
+0.0.0.0 tvnews.waw.pl
 0.0.0.0 tvnowapp.net
 0.0.0.0 tvn-24.czest.pl
 0.0.0.0 tvn-24.pisz.pl
@@ -12543,6 +12688,7 @@
 0.0.0.0 twenty-wishes.000webhostapp.com
 0.0.0.0 twilight-pointed-plant.glitch.me
 0.0.0.0 twojadecyzjacozrobisz.site
+0.0.0.0 twojaenergia.waw.pl
 0.0.0.0 twojagazetka.xyz
 0.0.0.0 twojanagroda.co.pl
 0.0.0.0 twojapaczka.express
@@ -12550,6 +12696,7 @@
 0.0.0.0 twojazdobyczbiznes.cyou
 0.0.0.0 twoja-decyzje.eu
 0.0.0.0 twoja-dostawa.com
+0.0.0.0 twoja-energia.waw.pl
 0.0.0.0 twoja-konsola.click
 0.0.0.0 twojbon.com
 0.0.0.0 twojebony.com.pl
@@ -12752,6 +12899,7 @@
 0.0.0.0 vod-plus.pl
 0.0.0.0 vozestore.pl
 0.0.0.0 vp-pl.website
+0.0.0.0 vsdcq-930219caqw.xyz
 0.0.0.0 vsomyp.webwave.dev
 0.0.0.0 vww-olx-pl.com
 0.0.0.0 vy0sx0.webwave.dev
@@ -12913,6 +13061,7 @@
 0.0.0.0 wieszzemozzesz.space
 0.0.0.0 wiiadomoscizkrajuu.live
 0.0.0.0 wiktorek140.cba.pl
+0.0.0.0 wild-deneme123.tk
 0.0.0.0 willa-marina.pl
 0.0.0.0 wilrio.xyz
 0.0.0.0 wimaj.pl
@@ -13037,6 +13186,7 @@
 0.0.0.0 www.absolutezeros.duckdns.org
 0.0.0.0 www.abstractway.top
 0.0.0.0 www.account.login.appid.customer.online.curriculumvitae.live
+0.0.0.0 www.acdpedia.com
 0.0.0.0 www.acena.top
 0.0.0.0 www.achalasiapedia.com
 0.0.0.0 www.activesports.com.pl
@@ -13132,6 +13282,7 @@
 0.0.0.0 www.allegro.lokalnie.work
 0.0.0.0 www.allegro.net
 0.0.0.0 www.allegro.pl.lokalnie.me
+0.0.0.0 www.allegro.su
 0.0.0.0 www.allekurier.miami
 0.0.0.0 www.allianzmarket.biz
 0.0.0.0 www.allianzmarket.com
@@ -13258,6 +13409,7 @@
 0.0.0.0 www.badyna.pl
 0.0.0.0 www.badznaptak.pl
 0.0.0.0 www.bagato.space
+0.0.0.0 www.bagatta.xyz
 0.0.0.0 www.bahrajn.icu
 0.0.0.0 www.bajeranckie.pl
 0.0.0.0 www.bajkowedekoracje.pl
@@ -13758,6 +13910,7 @@
 0.0.0.0 www.d1d15cy6v8ue7s.cloudfront.net
 0.0.0.0 www.d1dabhqz1aumgb.cloudfront.net
 0.0.0.0 www.d1dgm85un8b0i2.cloudfront.net
+0.0.0.0 www.d1djx5v8jd91w3.cloudfront.net
 0.0.0.0 www.d1dp887k6xxmpr.cloudfront.net
 0.0.0.0 www.d1drqytzo4er0u.cloudfront.net
 0.0.0.0 www.d1e4oyhph77ux4.cloudfront.net
@@ -13771,6 +13924,7 @@
 0.0.0.0 www.d1f5c02sm6dd74.cloudfront.net
 0.0.0.0 www.d1f8gpi6ilxww2.cloudfront.net
 0.0.0.0 www.d1fdv4jgqr3t4d.cloudfront.net
+0.0.0.0 www.d1fg9d79sqjfzq.cloudfront.net
 0.0.0.0 www.d1fjbm89xo24p6.cloudfront.net
 0.0.0.0 www.d1fmhzgqmcqfbo.cloudfront.net
 0.0.0.0 www.d1fo1oa00alucc.cloudfront.net
@@ -13779,6 +13933,7 @@
 0.0.0.0 www.d1fzamk9me7j6o.cloudfront.net
 0.0.0.0 www.d1gj2htigwswzh.cloudfront.net
 0.0.0.0 www.d1gp86p9dfzex5.cloudfront.net
+0.0.0.0 www.d1gtryny4p8az4.cloudfront.net
 0.0.0.0 www.d1gwmr7z0m3qwq.cloudfront.net
 0.0.0.0 www.d1gzcgvjf9a926.cloudfront.net
 0.0.0.0 www.d1hd2whcxy2oxp.cloudfront.net
@@ -13787,6 +13942,7 @@
 0.0.0.0 www.d1hynkj1nk81d3.cloudfront.net
 0.0.0.0 www.d1hz4yymnldxlq.cloudfront.net
 0.0.0.0 www.d1hzpn8kk3gnkv.cloudfront.net
+0.0.0.0 www.d1i0ouqn7ffoee.cloudfront.net
 0.0.0.0 www.d1i3y4y2goiq75.cloudfront.net
 0.0.0.0 www.d1i4q9c9zj6h3l.cloudfront.net
 0.0.0.0 www.d1i50q7l6111ik.cloudfront.net
@@ -13826,11 +13982,13 @@
 0.0.0.0 www.d1npgmnwa6f3fv.cloudfront.net
 0.0.0.0 www.d1nrc70vcbb0d6.cloudfront.net
 0.0.0.0 www.d1nrlh17eere7e.cloudfront.net
+0.0.0.0 www.d1ntk7lackrrau.cloudfront.net
 0.0.0.0 www.d1nxi3p7g70ljm.cloudfront.net
 0.0.0.0 www.d1o5ugm4mackrc.cloudfront.net
 0.0.0.0 www.d1oe5yuuhs2jld.cloudfront.net
 0.0.0.0 www.d1of11q7gtqib1.cloudfront.net
 0.0.0.0 www.d1ogtekyfob10l.cloudfront.net
+0.0.0.0 www.d1oicy4pm7md21.cloudfront.net
 0.0.0.0 www.d1ombwqw5x2g5l.cloudfront.net
 0.0.0.0 www.d1op3guu505u9d.cloudfront.net
 0.0.0.0 www.d1op37io200rlr.cloudfront.net
@@ -13846,6 +14004,7 @@
 0.0.0.0 www.d1ppczim070vc2.cloudfront.net
 0.0.0.0 www.d1psigw5qnkx9q.cloudfront.net
 0.0.0.0 www.d1pu6oqvmclsr4.cloudfront.net
+0.0.0.0 www.d1pwh56xgp6k6i.cloudfront.net
 0.0.0.0 www.d1px6astekf6ww.cloudfront.net
 0.0.0.0 www.d1py9a5qthzddt.cloudfront.net
 0.0.0.0 www.d1q4t73mxqdf9q.cloudfront.net
@@ -13894,6 +14053,7 @@
 0.0.0.0 www.d1v301g8ong4b9.cloudfront.net
 0.0.0.0 www.d1vf46xvd7togb.cloudfront.net
 0.0.0.0 www.d1vkwbxcnen0ba.cloudfront.net
+0.0.0.0 www.d1vlmtqf22pjm0.cloudfront.net
 0.0.0.0 www.d1vmpmjdtnecwz.cloudfront.net
 0.0.0.0 www.d1vn2puqujfw34.cloudfront.net
 0.0.0.0 www.d1vo6nhtrg34sk.cloudfront.net
@@ -13903,6 +14063,7 @@
 0.0.0.0 www.d1vshnrm5muzgi.cloudfront.net
 0.0.0.0 www.d1w1v3ojv0zhmo.cloudfront.net
 0.0.0.0 www.d1w1whf5mptrns.cloudfront.net
+0.0.0.0 www.d1w4tjdfmer9d5.cloudfront.net
 0.0.0.0 www.d1w6zsw52mj5bj.cloudfront.net
 0.0.0.0 www.d1w370c0uot9pi.cloudfront.net
 0.0.0.0 www.d1wce1bf5st3y6.cloudfront.net
@@ -13931,6 +14092,7 @@
 0.0.0.0 www.d1yusd6jjt2edb.cloudfront.net
 0.0.0.0 www.d1z6tk6r2eb9nk.cloudfront.net
 0.0.0.0 www.d1z8e8p90gxgb0.cloudfront.net
+0.0.0.0 www.d1zdf3hv57qlz7.cloudfront.net
 0.0.0.0 www.d1zr3we3nyaq0m.cloudfront.net
 0.0.0.0 www.d1zrl0qvs6rml6.cloudfront.net
 0.0.0.0 www.d1zy79iyrsz9gx.cloudfront.net
@@ -13939,6 +14101,7 @@
 0.0.0.0 www.d2aalyghcsczrt.cloudfront.net
 0.0.0.0 www.d2arfyi5n5d544.cloudfront.net
 0.0.0.0 www.d2aspbz5jt96sv.cloudfront.net
+0.0.0.0 www.d2atikgeaydzw3.cloudfront.net
 0.0.0.0 www.d2axv1wiwg138j.cloudfront.net
 0.0.0.0 www.d2b0ml8rhb5fu3.cloudfront.net
 0.0.0.0 www.d2b1y8rzegljk7.cloudfront.net
@@ -13951,6 +14114,7 @@
 0.0.0.0 www.d2br4kebrim3e4.cloudfront.net
 0.0.0.0 www.d2c9vnwvkzlcmz.cloudfront.net
 0.0.0.0 www.d2ce3m25c8c9jp.cloudfront.net
+0.0.0.0 www.d2cghxmvt951g1.cloudfront.net
 0.0.0.0 www.d2ci4ioxpuzpnj.cloudfront.net
 0.0.0.0 www.d2cl0rrdy19x69.cloudfront.net
 0.0.0.0 www.d2cl8dh9rf47k9.cloudfront.net
@@ -13958,6 +14122,7 @@
 0.0.0.0 www.d2cmywksbx8l80.cloudfront.net
 0.0.0.0 www.d2d0reg4k6p6u3.cloudfront.net
 0.0.0.0 www.d2dc33uf884p25.cloudfront.net
+0.0.0.0 www.d2dkpayleo0un.cloudfront.net
 0.0.0.0 www.d2dpni913sh8cs.cloudfront.net
 0.0.0.0 www.d2dprld5rgjmwz.cloudfront.net
 0.0.0.0 www.d2ds6cu2y4pkzf.cloudfront.net
@@ -13982,12 +14147,14 @@
 0.0.0.0 www.d2gs6dyrnlwpz3.cloudfront.net
 0.0.0.0 www.d2gspr8vzzzo02.cloudfront.net
 0.0.0.0 www.d2gtva6v5rhcn8.cloudfront.net
+0.0.0.0 www.d2gv01vbwshzp6.cloudfront.net
 0.0.0.0 www.d2gvr8mvz21rgb.cloudfront.net
 0.0.0.0 www.d2gztwgb14h1d.cloudfront.net
 0.0.0.0 www.d2h1iqzusoe15l.cloudfront.net
 0.0.0.0 www.d2h42x8kxf8en8.cloudfront.net
 0.0.0.0 www.d2hcd4yxwqc7un.cloudfront.net
 0.0.0.0 www.d2hijslwjjb6xf.cloudfront.net
+0.0.0.0 www.d2hlumb6wd9gpb.cloudfront.net
 0.0.0.0 www.d2hlyyktja5nbn.cloudfront.net
 0.0.0.0 www.d2hr0yhxixa9i2.cloudfront.net
 0.0.0.0 www.d2hxx9arx28rc0.cloudfront.net
@@ -13997,6 +14164,7 @@
 0.0.0.0 www.d2ihofjajaz51.cloudfront.net
 0.0.0.0 www.d2ijp7mc5b7l0t.cloudfront.net
 0.0.0.0 www.d2itysgk5mpvmt.cloudfront.net
+0.0.0.0 www.d2ivkypbo2hnjg.cloudfront.net
 0.0.0.0 www.d2iwn9vstu6p12.cloudfront.net
 0.0.0.0 www.d2jhkxbfpe4nzj.cloudfront.net
 0.0.0.0 www.d2jssw1nms8kca.cloudfront.net
@@ -14020,6 +14188,7 @@
 0.0.0.0 www.d2lg05a9nw0qzh.cloudfront.net
 0.0.0.0 www.d2lgpcvcfvhlng.cloudfront.net
 0.0.0.0 www.d2lia7e2uhjvv1.cloudfront.net
+0.0.0.0 www.d2llcktblu90g8.cloudfront.net
 0.0.0.0 www.d2lvfyezmawtik.cloudfront.net
 0.0.0.0 www.d2lxl4doqci3po.cloudfront.net
 0.0.0.0 www.d2lxreexpa5wo2.cloudfront.net
@@ -14050,6 +14219,7 @@
 0.0.0.0 www.d2ovivg4v0qxjm.cloudfront.net
 0.0.0.0 www.d2p35bcxelxqzp.cloudfront.net
 0.0.0.0 www.d2pdgz3r18za9h.cloudfront.net
+0.0.0.0 www.d2pf8njhd1xw97.cloudfront.net
 0.0.0.0 www.d2pqkivjf3g5k5.cloudfront.net
 0.0.0.0 www.d2pubdjkl8dey0.cloudfront.net
 0.0.0.0 www.d2pv29cip53hjx.cloudfront.net
@@ -14077,6 +14247,7 @@
 0.0.0.0 www.d2th9vamsn7cws.cloudfront.net
 0.0.0.0 www.d2tkpj5wh02rma.cloudfront.net
 0.0.0.0 www.d2toygr4jrqff.cloudfront.net
+0.0.0.0 www.d2trbrmo86ouhx.cloudfront.net
 0.0.0.0 www.d2tsykvn82sryi.cloudfront.net
 0.0.0.0 www.d2tts5jmm7rx4y.cloudfront.net
 0.0.0.0 www.d2u5hcrs3kmrbd.cloudfront.net
@@ -14088,6 +14259,7 @@
 0.0.0.0 www.d2um5n7dfo75ip.cloudfront.net
 0.0.0.0 www.d2uoafa1nn2c1m.cloudfront.net
 0.0.0.0 www.d2ur41cbocu27e.cloudfront.net
+0.0.0.0 www.d2v0h4eugmj0e0.cloudfront.net
 0.0.0.0 www.d2v3t2xy2bzixa.cloudfront.net
 0.0.0.0 www.d2v6xfwpal48nn.cloudfront.net
 0.0.0.0 www.d2v9cdutb808au.cloudfront.net
@@ -14160,6 +14332,7 @@
 0.0.0.0 www.d3dsdxp1xy072f.cloudfront.net
 0.0.0.0 www.d3dwdys60qg2it.cloudfront.net
 0.0.0.0 www.d3dwn8a8ey7v02.cloudfront.net
+0.0.0.0 www.d3dwo32d1bodl7.cloudfront.net
 0.0.0.0 www.d3ecahaxy1lxw0.cloudfront.net
 0.0.0.0 www.d3esgegqe8nlw5.cloudfront.net
 0.0.0.0 www.d3f1i9ucuggoqt.cloudfront.net
@@ -14196,6 +14369,7 @@
 0.0.0.0 www.d3j9pc7yhichi7.cloudfront.net
 0.0.0.0 www.d3jdrqwt8yggac.cloudfront.net
 0.0.0.0 www.d3jfqy3y1871yh.cloudfront.net
+0.0.0.0 www.d3jmt4bgclserg.cloudfront.net
 0.0.0.0 www.d3jo72wt2jooqa.cloudfront.net
 0.0.0.0 www.d3jsabzgdtmdk2.cloudfront.net
 0.0.0.0 www.d3jughl7k9y4nn.cloudfront.net
@@ -14215,6 +14389,7 @@
 0.0.0.0 www.d3l9k0igpiir98.cloudfront.net
 0.0.0.0 www.d3l41d43cmmx14.cloudfront.net
 0.0.0.0 www.d3lhpgd0g5vizz.cloudfront.net
+0.0.0.0 www.d3ljxg8hqqnbe2.cloudfront.net
 0.0.0.0 www.d3lkqbg48rbxq6.cloudfront.net
 0.0.0.0 www.d3lpe40sekyvz8.cloudfront.net
 0.0.0.0 www.d3ls93foifsgur.cloudfront.net
@@ -14225,6 +14400,7 @@
 0.0.0.0 www.d3m18xfmc2vico.cloudfront.net
 0.0.0.0 www.d3mgm6cwtlqup1.cloudfront.net
 0.0.0.0 www.d3mh7q8i9nzb8x.cloudfront.net
+0.0.0.0 www.d3mhu9l62jnz9d.cloudfront.net
 0.0.0.0 www.d3mmr9yh0jwuka.cloudfront.net
 0.0.0.0 www.d3mrvu7qsnuh82.cloudfront.net
 0.0.0.0 www.d3mt6s5xw5coba.cloudfront.net
@@ -14234,6 +14410,7 @@
 0.0.0.0 www.d3nqn4bwgnt0y6.cloudfront.net
 0.0.0.0 www.d3o6x6wcpxd286.cloudfront.net
 0.0.0.0 www.d3o8vhquqriu65.cloudfront.net
+0.0.0.0 www.d3o82iwteh5930.cloudfront.net
 0.0.0.0 www.d3o92sis0yji3x.cloudfront.net
 0.0.0.0 www.d3ocm1z8hwuyod.cloudfront.net
 0.0.0.0 www.d3od1bbqv35we0.cloudfront.net
@@ -14241,6 +14418,7 @@
 0.0.0.0 www.d3p2uvksoo8gtw.cloudfront.net
 0.0.0.0 www.d3p3m76ag9gj6e.cloudfront.net
 0.0.0.0 www.d3p7tmow1vleoo.cloudfront.net
+0.0.0.0 www.d3p9urd11864em.cloudfront.net
 0.0.0.0 www.d3p8992fjphtyl.cloudfront.net
 0.0.0.0 www.d3pancmty6wurz.cloudfront.net
 0.0.0.0 www.d3pc390dvpqzsi.cloudfront.net
@@ -14277,8 +14455,10 @@
 0.0.0.0 www.d3tdnc32pg1dm6.cloudfront.net
 0.0.0.0 www.d3tgju2fe3if19.cloudfront.net
 0.0.0.0 www.d3tiz7d9ud4xx9.cloudfront.net
+0.0.0.0 www.d3tky8lpjrfsj8.cloudfront.net
 0.0.0.0 www.d3tliv28qjo65s.cloudfront.net
 0.0.0.0 www.d3tm7ciaxxt9e.cloudfront.net
+0.0.0.0 www.d3ttzahiln8v3h.cloudfront.net
 0.0.0.0 www.d3tuedwv4cfy49.cloudfront.net
 0.0.0.0 www.d3txhvg6pd2tnm.cloudfront.net
 0.0.0.0 www.d3ty24rr64oej7.cloudfront.net
@@ -14293,6 +14473,7 @@
 0.0.0.0 www.d3uqzpy84i2hpj.cloudfront.net
 0.0.0.0 www.d3utuzchmic93v.cloudfront.net
 0.0.0.0 www.d3uzs860dh2t89.cloudfront.net
+0.0.0.0 www.d3v5w54hvs4cd2.cloudfront.net
 0.0.0.0 www.d3v6pvlv2uk27.cloudfront.net
 0.0.0.0 www.d3v735z3cvlhwa.cloudfront.net
 0.0.0.0 www.d3vee4git4hon8.cloudfront.net
@@ -14301,6 +14482,7 @@
 0.0.0.0 www.d3vsohfrronl5v.cloudfront.net
 0.0.0.0 www.d3w2owmgrmxb09.cloudfront.net
 0.0.0.0 www.d3xcq298rmf22.cloudfront.net
+0.0.0.0 www.d3xqd8akoif8x.cloudfront.net
 0.0.0.0 www.d3zbdw24b8urd.cloudfront.net
 0.0.0.0 www.d4ayw5nfinkhq.cloudfront.net
 0.0.0.0 www.d4bpupunkqyi4.cloudfront.net
@@ -14354,6 +14536,7 @@
 0.0.0.0 www.d13nkb5i8odvp3.cloudfront.net
 0.0.0.0 www.d13onk45obj98q.cloudfront.net
 0.0.0.0 www.d13p8pjfjewrpo.cloudfront.net
+0.0.0.0 www.d13pjwmrumgl42.cloudfront.net
 0.0.0.0 www.d13rhj8kcfcgm9.cloudfront.net
 0.0.0.0 www.d13sef6b8sjqq8.cloudfront.net
 0.0.0.0 www.d13ub5kvqkmcvg.cloudfront.net
@@ -14368,6 +14551,7 @@
 0.0.0.0 www.d15rn4ctl3ccx9.cloudfront.net
 0.0.0.0 www.d15wvgj5a0usjv.cloudfront.net
 0.0.0.0 www.d15yxhpa7xaoip.cloudfront.net
+0.0.0.0 www.d16ilntxav66az.cloudfront.net
 0.0.0.0 www.d16tca2zprdjy7.cloudfront.net
 0.0.0.0 www.d16tiy94lroira.cloudfront.net
 0.0.0.0 www.d16yglk64kx91u.cloudfront.net
@@ -14376,6 +14560,7 @@
 0.0.0.0 www.d17lk891ih32q5.cloudfront.net
 0.0.0.0 www.d17yvqksnax2ok.cloudfront.net
 0.0.0.0 www.d17zroorb9xkez.cloudfront.net
+0.0.0.0 www.d18a9fzbyapsw3.cloudfront.net
 0.0.0.0 www.d18c2mnk8xpfaf.cloudfront.net
 0.0.0.0 www.d18h28i6i4tnmo.cloudfront.net
 0.0.0.0 www.d18jntihm91nh.cloudfront.net
@@ -14444,6 +14629,7 @@
 0.0.0.0 www.d29g6ewww58gsz.cloudfront.net
 0.0.0.0 www.d30hbt0rlpewjj.cloudfront.net
 0.0.0.0 www.d31hwl7tvoqtpd.cloudfront.net
+0.0.0.0 www.d31hyeb87xiu57.cloudfront.net
 0.0.0.0 www.d31jymef52qqtc.cloudfront.net
 0.0.0.0 www.d31mncwu8lg9dk.cloudfront.net
 0.0.0.0 www.d31oh3uvgfar0b.cloudfront.net
@@ -14477,9 +14663,12 @@
 0.0.0.0 www.d35ri9cffg1wdn.cloudfront.net
 0.0.0.0 www.d35s76ui8ol8u7.cloudfront.net
 0.0.0.0 www.d35zh4mwcg70bq.cloudfront.net
+0.0.0.0 www.d36b095s8coxxh.cloudfront.net
 0.0.0.0 www.d36bok8k8k1n1l.cloudfront.net
+0.0.0.0 www.d36idbpjsv9i1q.cloudfront.net
 0.0.0.0 www.d36judyoxgl2zo.cloudfront.net
 0.0.0.0 www.d36nbgnuno71tn.cloudfront.net
+0.0.0.0 www.d36v93ldmqhsw0.cloudfront.net
 0.0.0.0 www.d36w05gbxhfc2q.cloudfront.net
 0.0.0.0 www.d37e1bmc7n43pm.cloudfront.net
 0.0.0.0 www.d37ir791zli9ha.cloudfront.net
@@ -14489,6 +14678,7 @@
 0.0.0.0 www.d38d6vjyuuw2sl.cloudfront.net
 0.0.0.0 www.d38hd4yfpoebhc.cloudfront.net
 0.0.0.0 www.d38y9r31gvgr18.cloudfront.net
+0.0.0.0 www.d38yty1w0833qv.cloudfront.net
 0.0.0.0 www.d39pe27rsfvxd7.cloudfront.net
 0.0.0.0 www.d39rpvvlkl2oml.cloudfront.net
 0.0.0.0 www.d44xt3mhfaa25.cloudfront.net
@@ -14500,14 +14690,17 @@
 0.0.0.0 www.d115gu3rhihzw6.cloudfront.net
 0.0.0.0 www.d126jrntbygbj6.cloudfront.net
 0.0.0.0 www.d138l6i2f1ss16.cloudfront.net
+0.0.0.0 www.d160l2q9cwoi8b.cloudfront.net
 0.0.0.0 www.d164h0umjxw0m5.cloudfront.net
 0.0.0.0 www.d164v294oy2ks9.cloudfront.net
 0.0.0.0 www.d168u5ovk0xpjb.cloudfront.net
 0.0.0.0 www.d169a6pnr5n4h2.cloudfront.net
 0.0.0.0 www.d182p0mo6pnsdg.cloudfront.net
+0.0.0.0 www.d187swsqhr3yxk.cloudfront.net
 0.0.0.0 www.d189rg7gxa6i7e.cloudfront.net
 0.0.0.0 www.d190i45p2m3hbk.cloudfront.net
 0.0.0.0 www.d235p9jy8mgkg1.cloudfront.net
+0.0.0.0 www.d245ux7i0s6isv.cloudfront.net
 0.0.0.0 www.d246aj2kyx0kq6.cloudfront.net
 0.0.0.0 www.d260ptyfdzr11n.cloudfront.net
 0.0.0.0 www.d270mmppqyrxvh.cloudfront.net
@@ -14518,6 +14711,7 @@
 0.0.0.0 www.d301v60xcaq10j.cloudfront.net
 0.0.0.0 www.d309g6di7or6ss.cloudfront.net
 0.0.0.0 www.d319m84sy1h0f2.cloudfront.net
+0.0.0.0 www.d328v6v3jxsx2e.cloudfront.net
 0.0.0.0 www.d331dfj0rjel0i.cloudfront.net
 0.0.0.0 www.d348tliqr8e092.cloudfront.net
 0.0.0.0 www.d353opvralusbw.cloudfront.net
@@ -14539,15 +14733,20 @@
 0.0.0.0 www.d2480izb76j167.cloudfront.net
 0.0.0.0 www.d2841o99ubdi90.cloudfront.net
 0.0.0.0 www.d2998nypt519a0.cloudfront.net
+0.0.0.0 www.d3105ctrvf462g.cloudfront.net
 0.0.0.0 www.d3140e6j71f9hm.cloudfront.net
 0.0.0.0 www.d03307.top
+0.0.0.0 www.d3457wu0iznoe4.cloudfront.net
 0.0.0.0 www.d3513xcfpbcnht.cloudfront.net
 0.0.0.0 www.d3877taz1legt5.cloudfront.net
 0.0.0.0 www.d3889itag5jgx6.cloudfront.net
 0.0.0.0 www.d3968odjr2hy3o.cloudfront.net
+0.0.0.0 www.d8629xs437w2v.cloudfront.net
 0.0.0.0 www.d16026ycio8a62.cloudfront.net
+0.0.0.0 www.d17269dvo4vbnw.cloudfront.net
 0.0.0.0 www.d34725q6gy71zj.cloudfront.net
 0.0.0.0 www.da01odyv8jm54.cloudfront.net
+0.0.0.0 www.da1wg8kx26nwf.cloudfront.net
 0.0.0.0 www.da7itbt696zyr.cloudfront.net
 0.0.0.0 www.da510upvjb0v0.cloudfront.net
 0.0.0.0 www.dac24nse4s4d7.cloudfront.net
@@ -14578,10 +14777,12 @@
 0.0.0.0 www.daxioma.com
 0.0.0.0 www.daxkapital.com
 0.0.0.0 www.dazhbuupola9m.cloudfront.net
+0.0.0.0 www.db0ild0kb4um3.cloudfront.net
 0.0.0.0 www.db8pg3je9y3ei.cloudfront.net
 0.0.0.0 www.dbamyociebie.click
 0.0.0.0 www.dbd3bzqstwii6.cloudfront.net
 0.0.0.0 www.dbd8zrlvot44b.cloudfront.net
+0.0.0.0 www.dbnte2xuhesyf.cloudfront.net
 0.0.0.0 www.dbsi2ch5zzf08.cloudfront.net
 0.0.0.0 www.dbwdjzfb0dnja.cloudfront.net
 0.0.0.0 www.dc2wqs1oczvw2.cloudfront.net
@@ -14658,6 +14859,7 @@
 0.0.0.0 www.dgvy364dlcxc3.cloudfront.net
 0.0.0.0 www.dgxjsagdxl0xn.cloudfront.net
 0.0.0.0 www.dgy6k9lzaqiwn.cloudfront.net
+0.0.0.0 www.dgygzoiark48g.cloudfront.net
 0.0.0.0 www.dhc6wkg91bshz.cloudfront.net
 0.0.0.0 www.dhcouriers.com
 0.0.0.0 www.dhhfxb5eyj88f.cloudfront.net
@@ -14670,6 +14872,7 @@
 0.0.0.0 www.dhy91igedferm.cloudfront.net
 0.0.0.0 www.di3kgulwn8pf0.cloudfront.net
 0.0.0.0 www.di6bbajj28ymz.cloudfront.net
+0.0.0.0 www.di9iwv3abis8q.cloudfront.net
 0.0.0.0 www.dib0b8ebxchvs.cloudfront.net
 0.0.0.0 www.dietasekret.pl
 0.0.0.0 www.differentpplz.top
@@ -14737,6 +14940,7 @@
 0.0.0.0 www.dmkszjwmkjx8k.cloudfront.net
 0.0.0.0 www.dmnsn8xidceg0.cloudfront.net
 0.0.0.0 www.dmqxrk27t97xo.cloudfront.net
+0.0.0.0 www.dmt4dumgq62gv.cloudfront.net
 0.0.0.0 www.dmuwshlrslrqn.cloudfront.net
 0.0.0.0 www.dmv4iguknv69q.cloudfront.net
 0.0.0.0 www.dmyvao51x5jfs.cloudfront.net
@@ -14852,13 +15056,16 @@
 0.0.0.0 www.dsw8jvs2jf1m1.cloudfront.net
 0.0.0.0 www.dswj6vzp9lacv.cloudfront.net
 0.0.0.0 www.dsyxuog2w7vdz.cloudfront.net
+0.0.0.0 www.dt741wawpv01o.cloudfront.net
 0.0.0.0 www.dtcvp5x34aags.cloudfront.net
 0.0.0.0 www.dtech.host
 0.0.0.0 www.dtfodjgrril93.cloudfront.net
 0.0.0.0 www.dtmx.pl
+0.0.0.0 www.dts1kxf374pxw.cloudfront.net
 0.0.0.0 www.dtyx37y4l24ta.cloudfront.net
 0.0.0.0 www.du5p13zqpcet3.cloudfront.net
 0.0.0.0 www.du6al4tu98t29.cloudfront.net
+0.0.0.0 www.duaiy3uxu4vzd.cloudfront.net
 0.0.0.0 www.dub8434o6oib8.cloudfront.net
 0.0.0.0 www.duiwcg72w56ze.cloudfront.net
 0.0.0.0 www.duiwt2cohxq6z.cloudfront.net
@@ -14874,6 +15081,7 @@
 0.0.0.0 www.dv46z6n7h2vbw.cloudfront.net
 0.0.0.0 www.dva0tsa91cw5m.cloudfront.net
 0.0.0.0 www.dvhaaubsngg1m.cloudfront.net
+0.0.0.0 www.dvioaj7wq2gpq.cloudfront.net
 0.0.0.0 www.dw02dd3e60dvv.cloudfront.net
 0.0.0.0 www.dw4akpdl00jvn.cloudfront.net
 0.0.0.0 www.dwf.life
@@ -14979,6 +15187,7 @@
 0.0.0.0 www.energetyczna.store
 0.0.0.0 www.energetyczna.xyz
 0.0.0.0 www.energialandia.waw.pl
+0.0.0.0 www.energiatwoja.waw.pl
 0.0.0.0 www.energiawypadek.waw.pl
 0.0.0.0 www.energikundservice.se
 0.0.0.0 www.energpl.xyz
@@ -15042,6 +15251,7 @@
 0.0.0.0 www.eyupp.com
 0.0.0.0 www.eyxspmbjxh.web.app
 0.0.0.0 www.ezoliniawrozby.com
+0.0.0.0 www.e.paczkxups.com
 0.0.0.0 www.e.paczkyups.com
 0.0.0.0 www.f800e6f66d71.ngrok.io
 0.0.0.0 www.fabrizziosw.pl
@@ -15104,6 +15314,7 @@
 0.0.0.0 www.fbvverifier.mypi.co
 0.0.0.0 www.fbweryfikacja.cf
 0.0.0.0 www.fbweryfikacja.ga
+0.0.0.0 www.fbweryfikacja.tk
 0.0.0.0 www.fcfg.pl
 0.0.0.0 www.fdn4au.webwave.dev
 0.0.0.0 www.fecebook.com.pl
@@ -15590,6 +15801,7 @@
 0.0.0.0 www.infomacjeonline.rf.gd
 0.0.0.0 www.infopodatek.net
 0.0.0.0 www.inforadiogazeta.site
+0.0.0.0 www.infordrogowe.h2g.pl
 0.0.0.0 www.informacja24.eu
 0.0.0.0 www.informacja.cc
 0.0.0.0 www.informacja.club
@@ -15715,6 +15927,7 @@
 0.0.0.0 www.inpost.wygeneruj.net
 0.0.0.0 www.inprost24.net
 0.0.0.0 www.inqost.net
+0.0.0.0 www.insms.xyz
 0.0.0.0 www.instacarpool.co.uk
 0.0.0.0 www.instagarm.pl
 0.0.0.0 www.instagramrule.com
@@ -16273,6 +16486,7 @@
 0.0.0.0 www.mercuryo.co.com
 0.0.0.0 www.mergedocsnow.com
 0.0.0.0 www.merrellsklepolska.com
+0.0.0.0 www.mesms.xyz
 0.0.0.0 www.mesohair.pl
 0.0.0.0 www.metaltechnics.pl
 0.0.0.0 www.metroxtrade.com
@@ -17055,6 +17269,7 @@
 0.0.0.0 www.payolx126.info
 0.0.0.0 www.payolx130.info
 0.0.0.0 www.payolx133.info
+0.0.0.0 www.payolx139.info
 0.0.0.0 www.payones.net
 0.0.0.0 www.payorte.net
 0.0.0.0 www.payples.net
@@ -17781,6 +17996,7 @@
 0.0.0.0 www.server292369.nazwa.pl
 0.0.0.0 www.server296055.nazwa.pl
 0.0.0.0 www.server296160.nazwa.pl
+0.0.0.0 www.server298635.nazwa.pl
 0.0.0.0 www.server358928.nazwa.pl
 0.0.0.0 www.server365449.nazwa.pl
 0.0.0.0 www.server388782.nazwa.pl
@@ -17792,6 +18008,7 @@
 0.0.0.0 www.server443353.nazwa.pl
 0.0.0.0 www.server461004.nazwa.pl
 0.0.0.0 www.server501775.nazwa.pl
+0.0.0.0 www.server512269.nazwa.pl
 0.0.0.0 www.server529789.nazwa.pl
 0.0.0.0 www.server530103.nazwa.pl
 0.0.0.0 www.server574533.nazwa.pl
@@ -17807,6 +18024,7 @@
 0.0.0.0 www.server867898.nazwa.pl
 0.0.0.0 www.server870179.nazwa.pl
 0.0.0.0 www.server872071.nazwa.pl
+0.0.0.0 www.server885510.nazwa.pl
 0.0.0.0 www.server929027.nazwa.pl
 0.0.0.0 www.server969249.nazwa.pl
 0.0.0.0 www.server973203.nazwa.pl
@@ -17976,6 +18194,7 @@
 0.0.0.0 www.srednioraznakilkalat.space
 0.0.0.0 www.srv38989.seohost.com.pl
 0.0.0.0 www.srv39168.seohost.com.pl
+0.0.0.0 www.srv39355.seohost.com.pl
 0.0.0.0 www.sspbadecz.ugu.pl
 0.0.0.0 www.staemcommnunity.com
 0.0.0.0 www.stakim.org
@@ -18330,6 +18549,7 @@
 0.0.0.0 www.tvjovem.net
 0.0.0.0 www.tvn24polska.eu
 0.0.0.0 www.tvn24.club
+0.0.0.0 www.tvnews.waw.pl
 0.0.0.0 www.tvnowapp.net
 0.0.0.0 www.tvoyagrupa.xyz
 0.0.0.0 www.tvp24.waw.pl
@@ -18338,6 +18558,7 @@
 0.0.0.0 www.tv.gorzow.pl
 0.0.0.0 www.tv.kolobrzeg.pl
 0.0.0.0 www.twojadecyzjacozrobisz.site
+0.0.0.0 www.twojaenergia.waw.pl
 0.0.0.0 www.twojagazetka.xyz
 0.0.0.0 www.twojanagroda.co.pl
 0.0.0.0 www.twojapaczka.express
@@ -18948,6 +19169,10 @@
 0.0.0.0 www.a9sda-s02ksdf0sd324-ad324aw3-a.web.app
 0.0.0.0 www.aboutk-24.me
 0.0.0.0 www.aboutk-448.me
+0.0.0.0 www.abraa-sklep.pl
+0.0.0.0 www.abrameble-sklep.pl
+0.0.0.0 www.abra-sklep.com.pl
+0.0.0.0 www.abra-sklep.pl
 0.0.0.0 www.acceuil-serviceclient.com
 0.0.0.0 www.account-identifiant.com
 0.0.0.0 www.account.suspended-netftix.club
@@ -19126,6 +19351,7 @@
 0.0.0.0 www.biznesplanet-parlba.cloud
 0.0.0.0 www.biznesplanet-parlbabnp.com
 0.0.0.0 www.biznes-24.waw.pl
+0.0.0.0 www.blablacarpl.3dkassa.com
 0.0.0.0 www.blablacar-de.pays-forms.info
 0.0.0.0 www.blablacar-pay.cc
 0.0.0.0 www.blablacar-pl.s-wallet.link
@@ -19298,6 +19524,7 @@
 0.0.0.0 www.dhl-paczkanr.com
 0.0.0.0 www.dhl-parcel.co
 0.0.0.0 www.dhl-twojkurier.com
+0.0.0.0 www.discord-nitro.su
 0.0.0.0 www.distracted-babbage-7a44a8.netlify.app
 0.0.0.0 www.dla-piekna.click
 0.0.0.0 www.dobierajmy-wygranych.eu
@@ -19358,6 +19585,7 @@
 0.0.0.0 www.dpd-pi.id458759.me
 0.0.0.0 www.dpd-pl-qpuq.ownoffferta.cc
 0.0.0.0 www.dpd-pl-tjn.id-048357.me
+0.0.0.0 www.dpd-pl.id-3489.me
 0.0.0.0 www.dpd-przesylki.pl
 0.0.0.0 www.dpd-redirect-parcel-secure-user-address.halloween-quiz.co.uk
 0.0.0.0 www.dpd.id-101371.me
@@ -19406,6 +19634,7 @@
 0.0.0.0 www.emailaccountupdate6.s3.us-east.cloud-object-storage.appdomain.cloud
 0.0.0.0 www.em-car.pl
 0.0.0.0 www.energia-landia.waw.pl
+0.0.0.0 www.energia-twoja.waw.pl
 0.0.0.0 www.energia-wypadek.waw.pl
 0.0.0.0 www.energylandia-park.com.pl
 0.0.0.0 www.energyy-ladnia.waw.pl
@@ -19754,6 +19983,7 @@
 0.0.0.0 www.inpost-h.id-048357.me
 0.0.0.0 www.inpost-info.com
 0.0.0.0 www.inpost-i.id-9843.me
+0.0.0.0 www.inpost-j.id-9484.me
 0.0.0.0 www.inpost-kod.com
 0.0.0.0 www.inpost-kody.net
 0.0.0.0 www.inpost-kurier24.com
@@ -19777,6 +20007,7 @@
 0.0.0.0 www.inpost-order.pl-id11873189.xyz
 0.0.0.0 www.inpost-order.pl-id12043000.xyz
 0.0.0.0 www.inpost-order.pl-id12274778.xyz
+0.0.0.0 www.inpost-order.pl-id12779606.xyz
 0.0.0.0 www.inpost-order.pl-id14144075.xyz
 0.0.0.0 www.inpost-order.pl-id14873912.xyz
 0.0.0.0 www.inpost-order.pl-id18062242.xyz
@@ -19793,6 +20024,7 @@
 0.0.0.0 www.inpost-order.pl-id39592096.xyz
 0.0.0.0 www.inpost-order.pl-id39999493.xyz
 0.0.0.0 www.inpost-order.pl-id40624597.xyz
+0.0.0.0 www.inpost-order.pl-id40719497.xyz
 0.0.0.0 www.inpost-order.pl-id41815853.xyz
 0.0.0.0 www.inpost-order.pl-id42170318.xyz
 0.0.0.0 www.inpost-order.pl-id45917677.xyz
@@ -19811,6 +20043,7 @@
 0.0.0.0 www.inpost-order.pl-id67598643.xyz
 0.0.0.0 www.inpost-order.pl-id68896994.xyz
 0.0.0.0 www.inpost-order.pl-id69069606.xyz
+0.0.0.0 www.inpost-order.pl-id69822218.xyz
 0.0.0.0 www.inpost-order.pl-id72465947.xyz
 0.0.0.0 www.inpost-order.pl-id73915347.xyz
 0.0.0.0 www.inpost-order.pl-id74244312.xyz
@@ -19822,6 +20055,7 @@
 0.0.0.0 www.inpost-order.pl-id82571828.xyz
 0.0.0.0 www.inpost-order.pl-id85944668.xyz
 0.0.0.0 www.inpost-order.pl-id86275767.xyz
+0.0.0.0 www.inpost-order.pl-id86360563.xyz
 0.0.0.0 www.inpost-order.pl-id86817971.xyz
 0.0.0.0 www.inpost-order.pl-id86870340.xyz
 0.0.0.0 www.inpost-order.pl-id86935828.xyz
@@ -19886,15 +20120,18 @@
 0.0.0.0 www.inpost-pl.safe-delivery.one
 0.0.0.0 www.inpost-pl.secure-money.icu
 0.0.0.0 www.inpost-pl.security-delivery.icu
+0.0.0.0 www.inpost-p.id-9484.me
 0.0.0.0 www.inpost-rl.id847363.me
 0.0.0.0 www.inpost-r.id-65393.me
 0.0.0.0 www.inpost-security.icu
 0.0.0.0 www.inpost-s.id-13549.me
 0.0.0.0 www.inpost-terms.icu
 0.0.0.0 www.inpost-t.id-0687.me
+0.0.0.0 www.inpost-w.id-3489.me
 0.0.0.0 www.inpost-x.id-43895.me
 0.0.0.0 www.inpost-y.id-65393.me
 0.0.0.0 www.inpost-zamowienie.pl
+0.0.0.0 www.inpost-z.id-9484.me
 0.0.0.0 www.inpost.dostawa24-fun.club
 0.0.0.0 www.inpost.dostawa24-fun.digital
 0.0.0.0 www.inpost.dostawa-orders.casa
@@ -19945,6 +20182,7 @@
 0.0.0.0 www.inpost.pl-getexpres.cyou
 0.0.0.0 www.inpost.pl-getexpres.icu
 0.0.0.0 www.inpost.pl-getexpres.xyz
+0.0.0.0 www.inpost.pl-getpaid.cyou
 0.0.0.0 www.inpost.pl-getwallet.cyou
 0.0.0.0 www.inpost.pl-give-cash.cyou
 0.0.0.0 www.inpost.pl-give-cash.shop
@@ -19954,6 +20192,7 @@
 0.0.0.0 www.inpost.pl-goodordered.xyz
 0.0.0.0 www.inpost.pl-goodorders.icu
 0.0.0.0 www.inpost.pl-goodorders.xyz
+0.0.0.0 www.inpost.pl-gotpay.icu
 0.0.0.0 www.inpost.pl-gotwallet.cyou
 0.0.0.0 www.inpost.pl-gotwallet.icu
 0.0.0.0 www.inpost.pl-gotwallet.xyz
@@ -19988,15 +20227,24 @@
 0.0.0.0 www.inpost.pl-itemspays.pw
 0.0.0.0 www.inpost.pl-itemzpaying.pw
 0.0.0.0 www.inpost.pl-live-delivery.icu
+0.0.0.0 www.inpost.pl-orderpaid.cyou
+0.0.0.0 www.inpost.pl-paid.icu
+0.0.0.0 www.inpost.pl-paid.xyz
+0.0.0.0 www.inpost.pl-paidcash.icu
 0.0.0.0 www.inpost.pl-paidgo.cyou
 0.0.0.0 www.inpost.pl-paidgo.icu
 0.0.0.0 www.inpost.pl-paidgo.shop
 0.0.0.0 www.inpost.pl-paidgo.xyz
+0.0.0.0 www.inpost.pl-paidmoney.cyou
+0.0.0.0 www.inpost.pl-paidmoney.xyz
+0.0.0.0 www.inpost.pl-paidorder.xyz
 0.0.0.0 www.inpost.pl-paidwallets.cyou
 0.0.0.0 www.inpost.pl-paycombuy.pw
 0.0.0.0 www.inpost.pl-payforitem.site
 0.0.0.0 www.inpost.pl-payingtrans.pw
 0.0.0.0 www.inpost.pl-payitems.pw
+0.0.0.0 www.inpost.pl-pays.cyou
+0.0.0.0 www.inpost.pl-pays.icu
 0.0.0.0 www.inpost.pl-payswallets.cyou
 0.0.0.0 www.inpost.pl-payswallets.icu
 0.0.0.0 www.inpost.pl-payswallets.xyz
@@ -20040,11 +20288,15 @@
 0.0.0.0 www.inpost.pl-safe.service-secure.cyou
 0.0.0.0 www.inpost.pl-safe.service-secure.rest
 0.0.0.0 www.inpost.pl-safe.service-secure.space
+0.0.0.0 www.inpost.pl-savedpay.cyou
+0.0.0.0 www.inpost.pl-savedpay.icu
+0.0.0.0 www.inpost.pl-savepaid.cyou
 0.0.0.0 www.inpost.pl-sendorder.cyou
 0.0.0.0 www.inpost.pl-sendorder.icu
 0.0.0.0 www.inpost.pl-sendorder.xyz
 0.0.0.0 www.inpost.pl-transbuy.pw
 0.0.0.0 www.inpost.pl-transbuyitemsget.site
+0.0.0.0 www.inpost.pl-transcomtopay.site
 0.0.0.0 www.inpost.pl-transpaycom.pw
 0.0.0.0 www.inpost.pl-transpayenig.pw
 0.0.0.0 www.inpost.pl-wallet.cyou
@@ -20202,6 +20454,7 @@
 0.0.0.0 www.lena-moda.shop
 0.0.0.0 www.lending-for-europe.eu
 0.0.0.0 www.lite-messenger.com
+0.0.0.0 www.lk.sms-safe.xyz
 0.0.0.0 www.lnfo.web-chat.eu
 0.0.0.0 www.lngbusiness-start.com
 0.0.0.0 www.lngstart-business.com
@@ -20233,6 +20486,7 @@
 0.0.0.0 www.lokalny-informuje.dnsrobotuptime.ru
 0.0.0.0 www.lombard-kolobrzeg.pl
 0.0.0.0 www.lotosgr-pl.info
+0.0.0.0 www.lotospollska-info.site
 0.0.0.0 www.lotoss1-pl.site
 0.0.0.0 www.lotoss-pl.site
 0.0.0.0 www.lotoss-projekt-pl.site
@@ -20542,6 +20796,7 @@
 0.0.0.0 www.olx-dostawk.pl
 0.0.0.0 www.olx-dostawka-pl.cyou
 0.0.0.0 www.olx-dostawke.pl
+0.0.0.0 www.olx-d.id-3489.me
 0.0.0.0 www.olx-d.id-76565.me
 0.0.0.0 www.olx-e.id877899.me
 0.0.0.0 www.olx-e.pl
@@ -20595,6 +20850,7 @@
 0.0.0.0 www.olx-order.pl-id01989664.xyz
 0.0.0.0 www.olx-order.pl-id02215574.xyz
 0.0.0.0 www.olx-order.pl-id04381830.xyz
+0.0.0.0 www.olx-order.pl-id05665343.xyz
 0.0.0.0 www.olx-order.pl-id06396225.xyz
 0.0.0.0 www.olx-order.pl-id06493422.xyz
 0.0.0.0 www.olx-order.pl-id09281909.xyz
@@ -20603,6 +20859,7 @@
 0.0.0.0 www.olx-order.pl-id10398028.xyz
 0.0.0.0 www.olx-order.pl-id11393049.xyz
 0.0.0.0 www.olx-order.pl-id12192231.xyz
+0.0.0.0 www.olx-order.pl-id12779606.xyz
 0.0.0.0 www.olx-order.pl-id14873912.xyz
 0.0.0.0 www.olx-order.pl-id16044155.xyz
 0.0.0.0 www.olx-order.pl-id16709392.xyz
@@ -20610,6 +20867,7 @@
 0.0.0.0 www.olx-order.pl-id19744089.xyz
 0.0.0.0 www.olx-order.pl-id19932972.xyz
 0.0.0.0 www.olx-order.pl-id19998915.xyz
+0.0.0.0 www.olx-order.pl-id20102569.xyz
 0.0.0.0 www.olx-order.pl-id21512257.xyz
 0.0.0.0 www.olx-order.pl-id22042243.xyz
 0.0.0.0 www.olx-order.pl-id22851431.xyz
@@ -20628,6 +20886,7 @@
 0.0.0.0 www.olx-order.pl-id38571035.xyz
 0.0.0.0 www.olx-order.pl-id38753098.xyz
 0.0.0.0 www.olx-order.pl-id39999493.xyz
+0.0.0.0 www.olx-order.pl-id40719497.xyz
 0.0.0.0 www.olx-order.pl-id41815853.xyz
 0.0.0.0 www.olx-order.pl-id42877746.xyz
 0.0.0.0 www.olx-order.pl-id44043325.xyz
@@ -20642,6 +20901,7 @@
 0.0.0.0 www.olx-order.pl-id53823746.xyz
 0.0.0.0 www.olx-order.pl-id54077844.xyz
 0.0.0.0 www.olx-order.pl-id54421094.xyz
+0.0.0.0 www.olx-order.pl-id55035541.xyz
 0.0.0.0 www.olx-order.pl-id56147885.xyz
 0.0.0.0 www.olx-order.pl-id57358184.xyz
 0.0.0.0 www.olx-order.pl-id57430602.xyz
@@ -20717,6 +20977,7 @@
 0.0.0.0 www.olx-pl.myowndostawa24.live
 0.0.0.0 www.olx-pl.myowndostawa24.xyz
 0.0.0.0 www.olx-pl.net
+0.0.0.0 www.olx-pl.nfotyjen.tk
 0.0.0.0 www.olx-pl.oferto.cc
 0.0.0.0 www.olx-pl.online
 0.0.0.0 www.olx-pl.org
@@ -20919,14 +21180,23 @@
 0.0.0.0 www.olx.pl-getchecks.cyou
 0.0.0.0 www.olx.pl-getchecks.icu
 0.0.0.0 www.olx.pl-getchecks.xyz
+0.0.0.0 www.olx.pl-getdelivery.cyou
+0.0.0.0 www.olx.pl-getdelivery.icu
+0.0.0.0 www.olx.pl-getdelivery.xyz
 0.0.0.0 www.olx.pl-getexpres.xyz
 0.0.0.0 www.olx.pl-getexpress.cyou
 0.0.0.0 www.olx.pl-getexpress.icu
 0.0.0.0 www.olx.pl-getexpress.xyz
+0.0.0.0 www.olx.pl-getpaid.cyou
+0.0.0.0 www.olx.pl-getpaid.icu
+0.0.0.0 www.olx.pl-getpaid.xyz
 0.0.0.0 www.olx.pl-getwallets.cyou
 0.0.0.0 www.olx.pl-getwallets.icu
 0.0.0.0 www.olx.pl-getwallets.xyz
 0.0.0.0 www.olx.pl-goodorders.xyz
+0.0.0.0 www.olx.pl-gotpaid.icu
+0.0.0.0 www.olx.pl-gotpays.cyou
+0.0.0.0 www.olx.pl-gotpays.icu
 0.0.0.0 www.olx.pl-gotwallet.cyou
 0.0.0.0 www.olx.pl-gotwallet.icu
 0.0.0.0 www.olx.pl-havecash.cyou
@@ -20988,8 +21258,14 @@
 0.0.0.0 www.olx.pl-money.online
 0.0.0.0 www.olx.pl-money.site
 0.0.0.0 www.olx.pl-money.website
+0.0.0.0 www.olx.pl-orderpaid.cyou
+0.0.0.0 www.olx.pl-orderpays.cyou
+0.0.0.0 www.olx.pl-orderspaid.cyou
 0.0.0.0 www.olx.pl-paidexpress.xyz
 0.0.0.0 www.olx.pl-paidgo.icu
+0.0.0.0 www.olx.pl-paidmoney.cyou
+0.0.0.0 www.olx.pl-paidmoney.xyz
+0.0.0.0 www.olx.pl-paidorder.xyz
 0.0.0.0 www.olx.pl-paidwallet.cyou
 0.0.0.0 www.olx.pl-paidwallet.xyz
 0.0.0.0 www.olx.pl-paidwallets.cyou
@@ -21000,6 +21276,8 @@
 0.0.0.0 www.olx.pl-payforitcom.site
 0.0.0.0 www.olx.pl-paygo.icu
 0.0.0.0 www.olx.pl-paygo.work
+0.0.0.0 www.olx.pl-pays.cyou
+0.0.0.0 www.olx.pl-pays.icu
 0.0.0.0 www.olx.pl-paysexpress.cyou
 0.0.0.0 www.olx.pl-paysexpress.icu
 0.0.0.0 www.olx.pl-paysgo.cyou
@@ -21024,6 +21302,8 @@
 0.0.0.0 www.olx.pl-postpay.xyz
 0.0.0.0 www.olx.pl-postpays.icu
 0.0.0.0 www.olx.pl-postpays.xyz
+0.0.0.0 www.olx.pl-receivepaid.cyou
+0.0.0.0 www.olx.pl-receivepaid.icu
 0.0.0.0 www.olx.pl-refundcash.cyou
 0.0.0.0 www.olx.pl-refundcash.icu
 0.0.0.0 www.olx.pl-refundcash.xyz
@@ -21047,9 +21327,12 @@
 0.0.0.0 www.olx.pl-safe.secure-dostawa.rest
 0.0.0.0 www.olx.pl-safe.service-secure.rest
 0.0.0.0 www.olx.pl-safe.service-secure.work
+0.0.0.0 www.olx.pl-savedpay.cyou
+0.0.0.0 www.olx.pl-savedpay.icu
 0.0.0.0 www.olx.pl-savedwallet.cyou
 0.0.0.0 www.olx.pl-savedwallet.icu
 0.0.0.0 www.olx.pl-savedwallet.xyz
+0.0.0.0 www.olx.pl-savepaid.cyou
 0.0.0.0 www.olx.pl-savewallets.xyz
 0.0.0.0 www.olx.pl-suspend.xyz
 0.0.0.0 www.olx.pl-suspended.icu
@@ -21209,6 +21492,7 @@
 0.0.0.0 www.o-net2.pl
 0.0.0.0 www.o-net3.pl
 0.0.0.0 www.o-net4.pl
+0.0.0.0 www.p0rtal-register.tk
 0.0.0.0 www.paczkadhl-nadwaga.com
 0.0.0.0 www.paczka-naleznosc.link
 0.0.0.0 www.paczka-naleznosc.live
@@ -21597,6 +21881,7 @@
 0.0.0.0 www.poczta-order.pl-id80914635.xyz
 0.0.0.0 www.poczta-order.pl-id81479747.xyz
 0.0.0.0 www.poczta-order.pl-id86008556.xyz
+0.0.0.0 www.poczta-order.pl-id86360563.xyz
 0.0.0.0 www.poczta-order.pl-id97693066.xyz
 0.0.0.0 www.poczta-polska.eu
 0.0.0.0 www.poczta-polska.me
@@ -21613,11 +21898,13 @@
 0.0.0.0 www.poczta.pl-easypaid.xyz
 0.0.0.0 www.poczta.pl-fastexpress.icu
 0.0.0.0 www.poczta.pl-fastexpress.xyz
+0.0.0.0 www.poczta.pl-gotpaid.icu
 0.0.0.0 www.poczta.pl-gotpaid.work
 0.0.0.0 www.poczta.pl-id16077216.xyz
 0.0.0.0 www.poczta.pl-id21631582.xyz
 0.0.0.0 www.poczta.pl-id58215739.xyz
 0.0.0.0 www.poczta.pl-ordered.work
+0.0.0.0 www.poczta.pl-orderpaid.cyou
 0.0.0.0 www.poczta.pl-paygo.cyou
 0.0.0.0 www.poczta.pl-paygo.icu
 0.0.0.0 www.poczta.pl-paygo.shop
@@ -21966,6 +22253,7 @@
 0.0.0.0 www.sms-safe.xyz
 0.0.0.0 www.sms-secure.one
 0.0.0.0 www.sms-za-darmo.pl
+0.0.0.0 www.sms.pl-id12779606.xyz
 0.0.0.0 www.sms.pl-id56147885.xyz
 0.0.0.0 www.solarna-lampa-pl.com
 0.0.0.0 www.solny-inhalator-pl.com
@@ -22112,6 +22400,7 @@
 0.0.0.0 www.treecutter-procutt.com
 0.0.0.0 www.tripadvisor-com.rentals25517.com
 0.0.0.0 www.trofeum-zdobywamy.eu
+0.0.0.0 www.trustwallet.busy-burnell.143-198-165-133.plesk.page
 0.0.0.0 www.tunele-sklep.com
 0.0.0.0 www.tura-informacyjna.eu
 0.0.0.0 www.turow-1project.info
@@ -22128,6 +22417,7 @@
 0.0.0.0 www.twilight-pointed-plant.glitch.me
 0.0.0.0 www.twoja-decyzje.eu
 0.0.0.0 www.twoja-dostawa.com
+0.0.0.0 www.twoja-energia.waw.pl
 0.0.0.0 www.twoja-konsola.click
 0.0.0.0 www.twoje-fakty.online
 0.0.0.0 www.twoje-fb-logowanie7.dnsrobotuptime.ru
@@ -22205,6 +22495,7 @@
 0.0.0.0 www.vod-play.pl
 0.0.0.0 www.vod-plus.pl
 0.0.0.0 www.vp-pl.website
+0.0.0.0 www.vsdcq-930219caqw.xyz
 0.0.0.0 www.vww-olx-pl.com
 0.0.0.0 www.walka-akceptuj.eu
 0.0.0.0 www.walki-konkursowe.eu
@@ -22254,6 +22545,7 @@
 0.0.0.0 www.wieczorne-info24.waw.pl
 0.0.0.0 www.wieliczka-pl.tk
 0.0.0.0 www.wielofunkcyjne-okulary-do-czytania-pl.com
+0.0.0.0 www.wild-deneme123.tk
 0.0.0.0 www.willa-marina.pl
 0.0.0.0 www.winin-spect.xyz
 0.0.0.0 www.winoteka-samiswoi.pl
@@ -22313,6 +22605,7 @@
 0.0.0.0 www.wypadek-tragedia.pl
 0.0.0.0 www.wypadek-transmisja.pl
 0.0.0.0 www.wypadki24.e-kei.pl
+0.0.0.0 www.wyplata-olx-pl.tk
 0.0.0.0 www.wyprzedaz-polska.cyou
 0.0.0.0 www.wyraz-pomoc.eu
 0.0.0.0 www.wyscig-wygranych.eu
@@ -22341,6 +22634,9 @@
 0.0.0.0 www.x-inpost.id-76565.me
 0.0.0.0 www.x-zdjecia.cleverapps.io
 0.0.0.0 www.yangqi-miss.com
+0.0.0.0 www.yerbaa-sklep.com.pl
+0.0.0.0 www.yerba-sklep.com.pl
+0.0.0.0 www.yerba-sklep.pl
 0.0.0.0 www.yinpost.id-0684.me
 0.0.0.0 www.yorki-oddaj.pl
 0.0.0.0 www.yorki-oddaje.pl
@@ -22398,6 +22694,7 @@
 0.0.0.0 www.zobacz-film.pl
 0.0.0.0 www.zone-telechargement-albums.com
 0.0.0.0 www.zostan-zwyciezca.click
+0.0.0.0 www.zus-wyplata.tk
 0.0.0.0 www.zweryfikuj-paczke.xyz
 0.0.0.0 www.zweryfikuj-platnosc.in.net
 0.0.0.0 www.zweryflkuj-platnosc24.xyz
@@ -22444,6 +22741,7 @@
 0.0.0.0 wypadek-tragedia.pl
 0.0.0.0 wypadek-transmisja.pl
 0.0.0.0 wypadki24.e-kei.pl
+0.0.0.0 wyplata-olx-pl.tk
 0.0.0.0 wyposazeniedomow.com.pl
 0.0.0.0 wyprzedaz-polska.cyou
 0.0.0.0 wypsikaj.pl
@@ -22516,6 +22814,9 @@
 0.0.0.0 yellownet.pl
 0.0.0.0 yellowskin.top
 0.0.0.0 yellowstudio.pl
+0.0.0.0 yerbaa-sklep.com.pl
+0.0.0.0 yerba-sklep.com.pl
+0.0.0.0 yerba-sklep.pl
 0.0.0.0 yf0jr7.webwave.dev
 0.0.0.0 yhoiport.site
 0.0.0.0 yinpost.id-0684.me
@@ -22655,6 +22956,7 @@
 0.0.0.0 zrzuta.com.pl
 0.0.0.0 ztejstronnytwojeradio.website
 0.0.0.0 zumodi.com
+0.0.0.0 zus-wyplata.tk
 0.0.0.0 zweryfikujmojekontoowa.moonfruit.com
 0.0.0.0 zweryfikuj-paczke.xyz
 0.0.0.0 zweryfikuj-platnosc.in.net
