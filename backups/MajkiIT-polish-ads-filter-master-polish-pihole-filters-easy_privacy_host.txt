@@ -1,4 +1,4 @@
-#202108150303
+#202108270303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -866,7 +866,6 @@
 0.0.0.0 analitica.webrpp.com
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analyselog.dx.com
-0.0.0.0 analysis.shinobi.jp
 0.0.0.0 analytic.ae.com
 0.0.0.0 analytic.cibc.com
 0.0.0.0 analytic.rollout.io
@@ -968,6 +967,7 @@
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.gvim.mobi
+0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.haworth.com
 0.0.0.0 analytics.hayneedle.com
 0.0.0.0 analytics.hermesworld.com
@@ -1114,6 +1114,7 @@
 0.0.0.0 analytics.villagehouse.jp
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.whotargets.me
 0.0.0.0 analytics.wildtangent.com
@@ -1267,7 +1268,6 @@
 0.0.0.0 atxslk.galamart.ru
 0.0.0.0 audev.zeit.de
 0.0.0.0 audience-mostread.r7.com
-0.0.0.0 audience.acpm.fr
 0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
 0.0.0.0 audiencia.r7.com
@@ -1662,6 +1662,7 @@
 0.0.0.0 ches5sort.com
 0.0.0.0 chevalierusa.actonservice.com
 0.0.0.0 chic9usia.com
+0.0.0.0 chickensstation.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 chip2gift.com
 0.0.0.0 chmproxy.bid
@@ -1682,6 +1683,7 @@
 0.0.0.0 citizensclimate.actonservice.com
 0.0.0.0 ciyacton.ciy.com
 0.0.0.0 cjgffo.thesportsedit.com
+0.0.0.0 ck.connatix.com
 0.0.0.0 ckozwx.n11.com
 0.0.0.0 cl.canva.com
 0.0.0.0 cla.actonservice.com
@@ -1740,7 +1742,6 @@
 0.0.0.0 click1.e.thechive.com
 0.0.0.0 click1.mail.paltalkpeople.com
 0.0.0.0 click2.email.ticketmaster.com
-0.0.0.0 clickmail.stubhub.com
 0.0.0.0 clicks-test.info.theiconic.com.au
 0.0.0.0 clicks.6thstreet.com
 0.0.0.0 clicks.burgerking.co.uk
@@ -1957,7 +1958,6 @@
 0.0.0.0 contact.sjdaccountancy.com
 0.0.0.0 contact.tsr-net.co.jp
 0.0.0.0 contactcenter.presenceco.com
-0.0.0.0 contactforms.53.com
 0.0.0.0 contacto.gtc.com.gt
 0.0.0.0 contadores.miarroba.com
 0.0.0.0 contadores.miarroba.es
@@ -1991,6 +1991,7 @@
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 conveyor.lewcoinc.com
 0.0.0.0 convsgmp.taboola.com
+0.0.0.0 cookie-guard-erdee.ey.r.appspot.com
 0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 cookiejar.atea.no
 0.0.0.0 cookies.engage.russellinvestments.com
@@ -2239,7 +2240,9 @@
 0.0.0.0 da.netease.com
 0.0.0.0 dacocorp.actonservice.com
 0.0.0.0 daifez.thebay.com
+0.0.0.0 damageddistance.com
 0.0.0.0 dana8herb.com
+0.0.0.0 dapperfloor.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 dash.getsitecontrol.com
 0.0.0.0 data-ssl.pnet.co.za
@@ -3030,6 +3033,7 @@
 0.0.0.0 eumeainfo.motorolasolutions.com
 0.0.0.0 euronewsgroup.hb.omtrdc.net
 0.0.0.0 eurotax-pl.autovistagroup.com
+0.0.0.0 ev.tpocdm.com
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.contactatonce.com.au
@@ -3580,6 +3584,7 @@
 0.0.0.0 hallmarkcom.hb.omtrdc.net
 0.0.0.0 halospring.club
 0.0.0.0 hambtr.unilife.co.jp
+0.0.0.0 hanaana.socialblade.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
 0.0.0.0 harm6stop.com
@@ -4059,6 +4064,7 @@
 0.0.0.0 jinair.sc.jinair.com
 0.0.0.0 jknarp.kakaku.com
 0.0.0.0 jln3.clstudios.com
+0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jo2f.cheque-cadhoc.fr
 0.0.0.0 joastb.idealista.com
 0.0.0.0 johannes.voith.com
@@ -5123,6 +5129,7 @@
 0.0.0.0 marketing6.directimpactinc.com
 0.0.0.0 marketingautomation.impexium.net
 0.0.0.0 marketingus.hso.com
+0.0.0.0 martech.condenastdigital.com
 0.0.0.0 marx7loki.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mass1soma.com
@@ -5141,6 +5148,7 @@
 0.0.0.0 mcdmetric.aaa.com
 0.0.0.0 mcdmetrics.aaa.com
 0.0.0.0 mckbpe.united-arrows.co.jp
+0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mczpco.darty.com
@@ -6242,7 +6250,6 @@
 0.0.0.0 my.iheartradio.com
 0.0.0.0 my.stbarth.com
 0.0.0.0 my.usq.edu.au
-0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 myhome.usg.com
 0.0.0.0 mypension.efscle.com
 0.0.0.0 myrfdq.emmi.jp
@@ -6672,6 +6679,7 @@
 0.0.0.0 p.barrera.io
 0.0.0.0 p.classroombookings.com
 0.0.0.0 p.clvs7.com
+0.0.0.0 p.data.cctv.com
 0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.fairspot.host
 0.0.0.0 p.gazeta.pl
@@ -6958,6 +6966,7 @@
 0.0.0.0 pqn7.cheque-dejeuner.fr
 0.0.0.0 pr.ameba.jp
 0.0.0.0 pr.blogflux.com
+0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-auth.playbuzz.com
@@ -8861,7 +8870,6 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sourcepoint.vice.com
-0.0.0.0 sourcepointcmp.bloomberg.com
 0.0.0.0 sowa.carhartt.com
 0.0.0.0 soxnwz.lg.com
 0.0.0.0 sp.app.com
@@ -9272,6 +9280,7 @@
 0.0.0.0 stat.novinky.cz
 0.0.0.0 stat.nyheter24.se
 0.0.0.0 stat.ouedkniss.com
+0.0.0.0 stat.ovh
 0.0.0.0 stat.ppstream.com
 0.0.0.0 stat.pravmir.ru
 0.0.0.0 stat.prawo.pl
@@ -9557,6 +9566,7 @@
 0.0.0.0 stats.safeway.com
 0.0.0.0 stats.sawlive.tv
 0.0.0.0 stats.scalgo.com
+0.0.0.0 stats.screenresolution.org
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.sec.telefonica.com
 0.0.0.0 stats.seedr.com
@@ -9697,6 +9707,7 @@
 0.0.0.0 sufesj.shop4runners.com
 0.0.0.0 sugh8yami.com
 0.0.0.0 sugs.m.sm.cn
+0.0.0.0 sulkycook.com
 0.0.0.0 suncanny.marvel.com
 0.0.0.0 supertraders.info
 0.0.0.0 supplychain.kinaxis.com
@@ -9897,7 +9908,6 @@
 0.0.0.0 t0y.toyota.ca
 0.0.0.0 t1.stadiumgoods.com
 0.0.0.0 t2.hulu.com
-0.0.0.0 t2.huluim.com
 0.0.0.0 t2.t2b.click
 0.0.0.0 t9h2.ricardocuisine.com
 0.0.0.0 t9k3a.jeanpaulfortin.com
@@ -10064,7 +10074,6 @@
 0.0.0.0 theaba.actonservice.com
 0.0.0.0 thebdx.actonservice.com
 0.0.0.0 thermocalc.actonservice.com
-0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 thomastorch.com
 0.0.0.0 thomson.hb-api.omtrdc.net
 0.0.0.0 thomsonreuters.actonservice.com
@@ -10431,6 +10440,7 @@
 0.0.0.0 track.leady.cz
 0.0.0.0 track.lexico.com
 0.0.0.0 track.mailerlite.com
+0.0.0.0 track.mp4.center
 0.0.0.0 track.mycliplister.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.noddus.com
@@ -10777,23 +10787,19 @@
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 trecker.aklamio.com
 0.0.0.0 tredir.go.com
-0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tremorhub.com
 0.0.0.0 trends.newsmaxwidget.com
-0.0.0.0 trf.intuitwebsites.com
 0.0.0.0 triconah.actonservice.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 trk.absuite.com.br
 0.0.0.0 trk.adbutter.net
 0.0.0.0 trk.atxwest.com
 0.0.0.0 trk.bc.shutterfly.com
-0.0.0.0 trk.bhs4.com
 0.0.0.0 trk.blume2000.de
 0.0.0.0 trk.business.westernunion.ch
 0.0.0.0 trk.business.westernunion.com
 0.0.0.0 trk.channelfutures.com
 0.0.0.0 trk.chegg.com
-0.0.0.0 trk.cloudsna.com
 0.0.0.0 trk.contentmarketinginstitute.com
 0.0.0.0 trk.coteriefashionevents.com
 0.0.0.0 trk.darkreading.com
@@ -10801,7 +10807,6 @@
 0.0.0.0 trk.designnews.com
 0.0.0.0 trk.dmwest.com
 0.0.0.0 trk.drdobbs.com
-0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.fensi.plus
 0.0.0.0 trk.fr.business.westernunion.ca
 0.0.0.0 trk.fr.business.westernunion.ch
@@ -10820,12 +10825,9 @@
 0.0.0.0 trk.nuernberger.de
 0.0.0.0 trk.nuernberger.digital
 0.0.0.0 trk.optum.com
-0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.plastecwest.com
 0.0.0.0 trk.s.sephora.com
-0.0.0.0 trk.sele.co
 0.0.0.0 trk.techtarget.com
-0.0.0.0 trk.vindicosuite.com
 0.0.0.0 trk.webhostingtalk.com
 0.0.0.0 trk.westpackshow.com
 0.0.0.0 trklink.luisaviaroma.com
@@ -10852,7 +10854,6 @@
 0.0.0.0 tspmagic.tumblr.com
 0.0.0.0 tst16infra.com
 0.0.0.0 ttcu-union.actonservice.com
-0.0.0.0 ttdetect.staticimgfarm.com
 0.0.0.0 ttfpil.2dehands.be
 0.0.0.0 tukuru.cotta.jp
 0.0.0.0 tula9mari.com
@@ -11364,6 +11365,7 @@
 0.0.0.0 zfzhwz.hema.nl
 0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zio.xcar.com.cn
+0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 zkbyhx.tropicfeel.com
 0.0.0.0 zkc5.fleurancenature.fr
 0.0.0.0 zkmvjm.f1news.ru
