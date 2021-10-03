@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 01 Oct 2021, 21:08 UTC+02
-# Version: 2021.10.1.2
+# Last modified: Sat, 02 Oct 2021, 21:08 UTC+02
+# Version: 2021.10.2.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Repository: https://github.com/PolishFiltersTeam/KADhosts
@@ -131,7 +131,6 @@
 0.0.0.0 barwin4.com
 0.0.0.0 baseny.club
 0.0.0.0 baseny220.com
-0.0.0.0 baskar8.com
 0.0.0.0 basnogorach.pl
 0.0.0.0 bazartani.pl
 0.0.0.0 bazasprawdzianow.pl
@@ -1668,7 +1667,6 @@
 0.0.0.0 www.barwin4.com
 0.0.0.0 www.baseny220.com
 0.0.0.0 www.baseny.club
-0.0.0.0 www.baskar8.com
 0.0.0.0 www.basnogorach.pl
 0.0.0.0 www.bazartani.pl
 0.0.0.0 www.bazasprawdzianow.pl
@@ -4239,6 +4237,8 @@
 0.0.0.0 allegrou.pl
 0.0.0.0 allegro-ajk.id-4391.me
 0.0.0.0 allegro-credit.info
+0.0.0.0 allegro-gbjs.pl-id66424107.xyz
+0.0.0.0 allegro-igmr.pl-id56643255.xyz
 0.0.0.0 allegro-jvs.id-1949.me
 0.0.0.0 allegro-llokallnie.online
 0.0.0.0 allegro-llokalnie.site
@@ -4292,6 +4292,7 @@
 0.0.0.0 altrabuty.pl
 0.0.0.0 altyn.xyz
 0.0.0.0 amainves.digserpro.xyz
+0.0.0.0 amakeshpl.xyz
 0.0.0.0 amariceo.duckdns.org
 0.0.0.0 amarketingceitu5.info
 0.0.0.0 amazone-protectionrl8up8e6tcdfaiwzrvgp.com
@@ -4539,6 +4540,7 @@
 0.0.0.0 bardziejzlooozone24.space
 0.0.0.0 bardzoprzyddatneinfo.club
 0.0.0.0 bardzorozniacasiepolska.website
+0.0.0.0 bargaindomainnames.com
 0.0.0.0 barralek.wixsite.com
 0.0.0.0 bartopecal.com
 0.0.0.0 barziz.com
@@ -5049,8 +5051,10 @@
 0.0.0.0 breadgsrtiaief.com
 0.0.0.0 breadkgrief.com
 0.0.0.0 breakingfooty.com
+0.0.0.0 breakthing5.com
 0.0.0.0 breavdmgbrcief.com
 0.0.0.0 brehrass.com
+0.0.0.0 bremosa.com
 0.0.0.0 brewboys.nl
 0.0.0.0 brewingcloud.com
 0.0.0.0 bricaeca.com
@@ -5129,6 +5133,7 @@
 0.0.0.0 buscarjeep.com
 0.0.0.0 businessinsider.pisz.pl
 0.0.0.0 businessinsider.waw.pl
+0.0.0.0 businessnews24.pl
 0.0.0.0 businessshorka.info
 0.0.0.0 business-chat-commands.com
 0.0.0.0 business-command.com
@@ -5187,7 +5192,7 @@
 0.0.0.0 bzn.c0.pl
 0.0.0.0 b-s500.com
 0.0.0.0 b-time.online
-0.0.0.0 b=time.pw
+0.0.0.0 b-time.pw
 0.0.0.0 c.gazrosnew.xyz
 0.0.0.0 c1t.gentrad.xyz
 0.0.0.0 c2jz7f.webwave.dev
@@ -5455,6 +5460,7 @@
 0.0.0.0 conlet.info
 0.0.0.0 connessionedati.com
 0.0.0.0 considerrevive.info
+0.0.0.0 consilium-global.com
 0.0.0.0 constitutivelystertors.info
 0.0.0.0 constrainthead.info
 0.0.0.0 constructionzone1.com
@@ -5567,6 +5573,7 @@
 0.0.0.0 credito.com.pl
 0.0.0.0 credity.se
 0.0.0.0 credit-agricole-fr.de.cool
+0.0.0.0 creoup.com
 0.0.0.0 crimson-koalas.com
 0.0.0.0 criptoeconomia.com.br
 0.0.0.0 cripto-valuta.net
@@ -8302,6 +8309,7 @@
 0.0.0.0 finance-eu.info
 0.0.0.0 finance-lotos.online
 0.0.0.0 finance-lotos.website
+0.0.0.0 finance-pl.site
 0.0.0.0 financial.org
 0.0.0.0 financialmarketsworld.com
 0.0.0.0 financial-freedom.xyz
@@ -8904,6 +8912,7 @@
 0.0.0.0 hitprodukt.pl
 0.0.0.0 hjkotor.site
 0.0.0.0 hlestersmith.com
+0.0.0.0 hmmochi.com
 0.0.0.0 hodime.xyz
 0.0.0.0 hodowlafanaberia.pl
 0.0.0.0 hoganpolska.com
@@ -9259,6 +9268,7 @@
 0.0.0.0 inpostodbior.com
 0.0.0.0 inpostpl.com
 0.0.0.0 inpost-agtd.pl-id04399419.xyz
+0.0.0.0 inpost-agtd.pl-id54503522.xyz
 0.0.0.0 inpost-agtd.pl-id59514574.xyz
 0.0.0.0 inpost-alam.id8341.me
 0.0.0.0 inpost-a.id-43980.me
@@ -9279,12 +9289,14 @@
 0.0.0.0 inpost-dwn.detail-pl.me
 0.0.0.0 inpost-eoaw.id-845.me
 0.0.0.0 inpost-esd.id9030.me
+0.0.0.0 inpost-gbjs.pl-id66424107.xyz
 0.0.0.0 inpost-gbjs.pl-id87684857.xyz
 0.0.0.0 inpost-generator.net
 0.0.0.0 inpost-gxuc.id-2011.me
 0.0.0.0 inpost-g.id-43980.me
 0.0.0.0 inpost-hhke.id-4365.me
 0.0.0.0 inpost-hhsq.id9030.me
+0.0.0.0 inpost-igmr.pl-id56643255.xyz
 0.0.0.0 inpost-igmr.pl-id91152350.xyz
 0.0.0.0 inpost-igmr.pl-id92205870.xyz
 0.0.0.0 inpost-info.com
@@ -9410,6 +9422,7 @@
 0.0.0.0 inpost.pl-savedpay.cyou
 0.0.0.0 inpost.pl-savedpay.icu
 0.0.0.0 inpost.pl-savepaid.cyou
+0.0.0.0 inpost.pl-track-id2648.xyz
 0.0.0.0 inpost.pl.aus-payforitto.pw
 0.0.0.0 inpost.post-derive.com
 0.0.0.0 inpost.post-dostawa.com
@@ -9973,6 +9986,7 @@
 0.0.0.0 labebe.com
 0.0.0.0 labersa.com
 0.0.0.0 labmedica.pl
+0.0.0.0 ladnebutysport.pl
 0.0.0.0 ladysklep.com.pl
 0.0.0.0 lajkpanel.pl
 0.0.0.0 lajlaa.com
@@ -11342,6 +11356,7 @@
 0.0.0.0 olx.olxkontosos.casa
 0.0.0.0 olx.olxkontosos.cyou
 0.0.0.0 olx.olxkontosos.shop
+0.0.0.0 olx.payd01.online
 0.0.0.0 olx.payd17.info
 0.0.0.0 olx.paymenting.pl
 0.0.0.0 olx.pays38.info
@@ -11469,11 +11484,14 @@
 0.0.0.0 olx-express-delivery.pl
 0.0.0.0 olx-finansowanie.cam
 0.0.0.0 olx-g.pl
+0.0.0.0 olx-gbjs.pl-id66424107.xyz
 0.0.0.0 olx-gbjs.pl-id91152350.xyz
 0.0.0.0 olx-ginza.com
 0.0.0.0 olx-g.id-43980.me
 0.0.0.0 olx-h.pl
 0.0.0.0 olx-i.pl
+0.0.0.0 olx-igmr.pl-id26622125.xyz
+0.0.0.0 olx-igmr.pl-id56643255.xyz
 0.0.0.0 olx-igmr.pl-id85504502.xyz
 0.0.0.0 olx-igmr.pl-id91152350.xyz
 0.0.0.0 olx-informacja.pl
@@ -13133,6 +13151,8 @@
 0.0.0.0 pocztawponline.com
 0.0.0.0 poczta-email.online
 0.0.0.0 poczta-email.site
+0.0.0.0 poczta-gbjs.pl-id66424107.xyz
+0.0.0.0 poczta-igmr.pl-id56643255.xyz
 0.0.0.0 poczta-login-neostrada.com
 0.0.0.0 poczta-mobile.pl
 0.0.0.0 poczta-o2.pl
@@ -13776,6 +13796,7 @@
 0.0.0.0 qubittech.dev
 0.0.0.0 quebocalyalbum.byethost6.com
 0.0.0.0 quickbookseastafrica.com
+0.0.0.0 quintonroberts.com
 0.0.0.0 quizteslxpl.2.pl-invest.store
 0.0.0.0 quiz-fun.com.my
 0.0.0.0 quliq.xyz
@@ -14103,6 +14124,7 @@
 0.0.0.0 santanderinvest.com
 0.0.0.0 santanderpl.com
 0.0.0.0 santander-accountpayments.com
+0.0.0.0 santander-bank-polska.robo71.com
 0.0.0.0 santander-identity.com
 0.0.0.0 santander-mobile.com
 0.0.0.0 santander-payments4.com
@@ -14376,6 +14398,7 @@
 0.0.0.0 skecherssklep.com
 0.0.0.0 skecherssklep.pl
 0.0.0.0 skecherswarszawa.com
+0.0.0.0 skelenron-xyz.preview-domain.com
 0.0.0.0 skeptive.com
 0.0.0.0 skidrowcrack.com
 0.0.0.0 skinfars.com
@@ -14491,6 +14514,7 @@
 0.0.0.0 smushgame.com
 0.0.0.0 sne.bydgoszcz.pl
 0.0.0.0 sneakerspace.pl
+0.0.0.0 sneakerz2020.com
 0.0.0.0 sniadaniowaklasa.pl
 0.0.0.0 snohmtegam.xyz
 0.0.0.0 socialadvertise.com
@@ -14529,10 +14553,12 @@
 0.0.0.0 spectralanddotech.com
 0.0.0.0 spectrumprayer.info
 0.0.0.0 specyfika.xn.pl
+0.0.0.0 spedmania.com
 0.0.0.0 speedd.net
 0.0.0.0 speedkredyt.pl
 0.0.0.0 speed-dates.pl
 0.0.0.0 spektrapay.com
+0.0.0.0 sperrybuty.com
 0.0.0.0 sperrypolska.com
 0.0.0.0 spewsbleareyed.info
 0.0.0.0 spikefootwear.com
@@ -14597,6 +14623,7 @@
 0.0.0.0 sprzeda-firmy.online
 0.0.0.0 sprzeda-firmy.xyz
 0.0.0.0 sprzetprawd.life
+0.0.0.0 sprzet-sport.com
 0.0.0.0 spr-nr94851.net
 0.0.0.0 squaredguanins.info
 0.0.0.0 squashconstant.info
@@ -15262,6 +15289,7 @@
 0.0.0.0 transportuje.net
 0.0.0.0 transportujemy.net
 0.0.0.0 transporty24.net
+0.0.0.0 trans-act.com
 0.0.0.0 trappdf.com
 0.0.0.0 travpayments.com
 0.0.0.0 treatheeter.site
@@ -15403,6 +15431,7 @@
 0.0.0.0 tykazy.boxing-club-legenda-ufa.ru
 0.0.0.0 tylkodojdziedosiebie.club
 0.0.0.0 tytfgn688hceb.web.app
+0.0.0.0 tzaupye.top
 0.0.0.0 tzr.grejt.pl
 0.0.0.0 u4803kjf03-955jkajfy5-n5892l56n-3576c5.netlify.app
 0.0.0.0 u19432194.ct.sendgrid.net
@@ -16350,6 +16379,7 @@
 0.0.0.0 www.altrabuty.pl
 0.0.0.0 www.altyn.xyz
 0.0.0.0 www.amainves.digserpro.xyz
+0.0.0.0 www.amakeshpl.xyz
 0.0.0.0 www.amariceo.duckdns.org
 0.0.0.0 www.amarketingceitu5.info
 0.0.0.0 www.ambrosiaenterprise.biz
@@ -16530,6 +16560,7 @@
 0.0.0.0 www.bardziejzlooozone24.space
 0.0.0.0 www.bardzoprzyddatneinfo.club
 0.0.0.0 www.bardzorozniacasiepolska.website
+0.0.0.0 www.bargaindomainnames.com
 0.0.0.0 www.barralek.wixsite.com
 0.0.0.0 www.bartopecal.com
 0.0.0.0 www.barziz.com
@@ -16792,8 +16823,10 @@
 0.0.0.0 www.breadgsrtiaief.com
 0.0.0.0 www.breadkgrief.com
 0.0.0.0 www.breakingfooty.com
+0.0.0.0 www.breakthing5.com
 0.0.0.0 www.breavdmgbrcief.com
 0.0.0.0 www.brehrass.com
+0.0.0.0 www.bremosa.com
 0.0.0.0 www.brewboys.nl
 0.0.0.0 www.brewingcloud.com
 0.0.0.0 www.bricaeca.com
@@ -16847,6 +16880,7 @@
 0.0.0.0 www.buscarjeep.com
 0.0.0.0 www.businessinsider.pisz.pl
 0.0.0.0 www.businessinsider.waw.pl
+0.0.0.0 www.businessnews24.pl
 0.0.0.0 www.businessshorka.info
 0.0.0.0 www.businnewsnow.site
 0.0.0.0 www.businnewsnow.space
@@ -17146,6 +17180,7 @@
 0.0.0.0 www.credit24online.com
 0.0.0.0 www.credito.com.pl
 0.0.0.0 www.credity.se
+0.0.0.0 www.creoup.com
 0.0.0.0 www.criptoeconomia.com.br
 0.0.0.0 www.cristal2017.argo.host
 0.0.0.0 www.criticisedduennaships.info
@@ -20051,6 +20086,7 @@
 0.0.0.0 www.hitprodukt.pl
 0.0.0.0 www.hjkotor.site
 0.0.0.0 www.hlestersmith.com
+0.0.0.0 www.hmmochi.com
 0.0.0.0 www.hodime.xyz
 0.0.0.0 www.hodowlafanaberia.pl
 0.0.0.0 www.hoganpolska.com
@@ -20722,6 +20758,7 @@
 0.0.0.0 www.labebe.com
 0.0.0.0 www.labersa.com
 0.0.0.0 www.labmedica.pl
+0.0.0.0 www.ladnebutysport.pl
 0.0.0.0 www.ladysklep.com.pl
 0.0.0.0 www.lajkpanel.pl
 0.0.0.0 www.lajlaa.com
@@ -21788,6 +21825,7 @@
 0.0.0.0 www.olx.olxkontosos.casa
 0.0.0.0 www.olx.olxkontosos.cyou
 0.0.0.0 www.olx.olxkontosos.shop
+0.0.0.0 www.olx.payd01.online
 0.0.0.0 www.olx.payd17.info
 0.0.0.0 www.olx.paymenting.pl
 0.0.0.0 www.olx.pays38.info
@@ -23040,6 +23078,7 @@
 0.0.0.0 www.qubit.life
 0.0.0.0 www.quebocalyalbum.byethost6.com
 0.0.0.0 www.quickbookseastafrica.com
+0.0.0.0 www.quintonroberts.com
 0.0.0.0 www.quliq.xyz
 0.0.0.0 www.qumbutam.com
 0.0.0.0 www.quotex.io
@@ -23562,6 +23601,7 @@
 0.0.0.0 www.sms.mba
 0.0.0.0 www.smushgame.com
 0.0.0.0 www.sneakerspace.pl
+0.0.0.0 www.sneakerz2020.com
 0.0.0.0 www.sne.bydgoszcz.pl
 0.0.0.0 www.sniadaniowaklasa.pl
 0.0.0.0 www.snohmtegam.xyz
@@ -23596,9 +23636,11 @@
 0.0.0.0 www.spectralanddotech.com
 0.0.0.0 www.spectrumprayer.info
 0.0.0.0 www.specyfika.xn.pl
+0.0.0.0 www.spedmania.com
 0.0.0.0 www.speedd.net
 0.0.0.0 www.speedkredyt.pl
 0.0.0.0 www.spektrapay.com
+0.0.0.0 www.sperrybuty.com
 0.0.0.0 www.sperrypolska.com
 0.0.0.0 www.spewsbleareyed.info
 0.0.0.0 www.spikefootwear.com
@@ -24240,6 +24282,7 @@
 0.0.0.0 www.tylkodojdziedosiebie.club
 0.0.0.0 www.tytfgn688hceb.web.app
 0.0.0.0 www.ty.lepiejodpocznij.rest
+0.0.0.0 www.tzaupye.top
 0.0.0.0 www.tzr.grejt.pl
 0.0.0.0 www.u19432194.ct.sendgrid.net
 0.0.0.0 www.uayu6abnioaji.bar
@@ -25202,6 +25245,8 @@
 0.0.0.0 www.allegrolokalnie-pl.payregisway.pw
 0.0.0.0 www.allegro-ajk.id-4391.me
 0.0.0.0 www.allegro-credit.info
+0.0.0.0 www.allegro-gbjs.pl-id66424107.xyz
+0.0.0.0 www.allegro-igmr.pl-id56643255.xyz
 0.0.0.0 www.allegro-jvs.id-1949.me
 0.0.0.0 www.allegro-llokallnie.online
 0.0.0.0 www.allegro-llokalnie.site
@@ -25584,7 +25629,7 @@
 0.0.0.0 www.bylismy-zawsze.pl
 0.0.0.0 www.b-s500.com
 0.0.0.0 www.b-time.online
-0.0.0.0 www.b=time.pw
+0.0.0.0 www.b-time.pw
 0.0.0.0 www.ca24-login.com
 0.0.0.0 www.ca24-logowanie.com
 0.0.0.0 www.ca24-online.com
@@ -25649,6 +25694,7 @@
 0.0.0.0 www.compte.b-cdn.net
 0.0.0.0 www.computer-arts.info
 0.0.0.0 www.confirmation.orders-olx.com
+0.0.0.0 www.consilium-global.com
 0.0.0.0 www.contact-tracing-app.site
 0.0.0.0 www.contact-update.centrum24consumer.me
 0.0.0.0 www.cool-shop.pl
@@ -26002,6 +26048,7 @@
 0.0.0.0 www.finance-eu.info
 0.0.0.0 www.finance-lotos.online
 0.0.0.0 www.finance-lotos.website
+0.0.0.0 www.finance-pl.site
 0.0.0.0 www.financial-freedom.xyz
 0.0.0.0 www.financial-times-appp.github.io
 0.0.0.0 www.finanse.blogujer-teraz.xyz
@@ -26251,6 +26298,7 @@
 0.0.0.0 www.inposta-order.pw
 0.0.0.0 www.inposta-site.pw
 0.0.0.0 www.inpost-agtd.pl-id04399419.xyz
+0.0.0.0 www.inpost-agtd.pl-id54503522.xyz
 0.0.0.0 www.inpost-agtd.pl-id59514574.xyz
 0.0.0.0 www.inpost-alam.id8341.me
 0.0.0.0 www.inpost-a.id-43980.me
@@ -26271,12 +26319,14 @@
 0.0.0.0 www.inpost-dwn.detail-pl.me
 0.0.0.0 www.inpost-eoaw.id-845.me
 0.0.0.0 www.inpost-esd.id9030.me
+0.0.0.0 www.inpost-gbjs.pl-id66424107.xyz
 0.0.0.0 www.inpost-gbjs.pl-id87684857.xyz
 0.0.0.0 www.inpost-generator.net
 0.0.0.0 www.inpost-gxuc.id-2011.me
 0.0.0.0 www.inpost-g.id-43980.me
 0.0.0.0 www.inpost-hhke.id-4365.me
 0.0.0.0 www.inpost-hhsq.id9030.me
+0.0.0.0 www.inpost-igmr.pl-id56643255.xyz
 0.0.0.0 www.inpost-igmr.pl-id91152350.xyz
 0.0.0.0 www.inpost-igmr.pl-id92205870.xyz
 0.0.0.0 www.inpost-info.com
@@ -26402,6 +26452,7 @@
 0.0.0.0 www.inpost.pl-savedpay.cyou
 0.0.0.0 www.inpost.pl-savedpay.icu
 0.0.0.0 www.inpost.pl-savepaid.cyou
+0.0.0.0 www.inpost.pl-track-id2648.xyz
 0.0.0.0 www.inpost.pl.aus-payforitto.pw
 0.0.0.0 www.inpost.post-derive.com
 0.0.0.0 www.inpost.post-dostawa.com
@@ -26950,11 +27001,14 @@
 0.0.0.0 www.olx-express-delivery.pl
 0.0.0.0 www.olx-finansowanie.cam
 0.0.0.0 www.olx-g.pl
+0.0.0.0 www.olx-gbjs.pl-id66424107.xyz
 0.0.0.0 www.olx-gbjs.pl-id91152350.xyz
 0.0.0.0 www.olx-ginza.com
 0.0.0.0 www.olx-g.id-43980.me
 0.0.0.0 www.olx-h.pl
 0.0.0.0 www.olx-i.pl
+0.0.0.0 www.olx-igmr.pl-id26622125.xyz
+0.0.0.0 www.olx-igmr.pl-id56643255.xyz
 0.0.0.0 www.olx-igmr.pl-id85504502.xyz
 0.0.0.0 www.olx-igmr.pl-id91152350.xyz
 0.0.0.0 www.olx-informacja.pl
@@ -27733,6 +27787,8 @@
 0.0.0.0 www.pocztasystem-adminhelpdesk990.000webhostapp.com
 0.0.0.0 www.poczta-email.online
 0.0.0.0 www.poczta-email.site
+0.0.0.0 www.poczta-gbjs.pl-id66424107.xyz
+0.0.0.0 www.poczta-igmr.pl-id56643255.xyz
 0.0.0.0 www.poczta-login-neostrada.com
 0.0.0.0 www.poczta-mobile.pl
 0.0.0.0 www.poczta-o2.pl
@@ -28072,6 +28128,7 @@
 0.0.0.0 www.samsung-akcja.e-kei.pl
 0.0.0.0 www.sancang-movies.com
 0.0.0.0 www.santander-accountpayments.com
+0.0.0.0 www.santander-bank-polska.robo71.com
 0.0.0.0 www.santander-identity.com
 0.0.0.0 www.santander-mobile.com
 0.0.0.0 www.santander-payments4.com
@@ -28134,6 +28191,7 @@
 0.0.0.0 www.sitesecure-online-official.com
 0.0.0.0 www.site-online-officialsecure.com
 0.0.0.0 www.skandal-onet.waw.pl
+0.0.0.0 www.skelenron-xyz.preview-domain.com
 0.0.0.0 www.sklep-bobas.pl
 0.0.0.0 www.sklep-denley.pl
 0.0.0.0 www.sklep-domodi.com.pl
@@ -28199,6 +28257,7 @@
 0.0.0.0 www.sprzedaz-nr-940031.in.net
 0.0.0.0 www.sprzeda-firmy.online
 0.0.0.0 www.sprzeda-firmy.xyz
+0.0.0.0 www.sprzet-sport.com
 0.0.0.0 www.spr-nr94851.net
 0.0.0.0 www.srodek-na-pluskwy-pl.com
 0.0.0.0 www.ssll-payu.com
@@ -28349,6 +28408,7 @@
 0.0.0.0 www.transfer-olx.gq
 0.0.0.0 www.transmisja-szkola209.ct8.pl
 0.0.0.0 www.transmisje-szkole.ct8.pl
+0.0.0.0 www.trans-act.com
 0.0.0.0 www.treecutter-procutt.com
 0.0.0.0 www.tripadvisor-com.rentals25517.com
 0.0.0.0 www.trofeum-zdobywamy.eu
