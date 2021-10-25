@@ -5678,12 +5678,6 @@
 # [iclickyou.com]
 127.0.0.1 iclickyou.com
 
-# [icloseli.com]
-127.0.0.1 ads.icloseli.com
-127.0.0.1 api.icloseli.com
-127.0.0.1 esd.icloseli.com
-127.0.0.1 relaycn.icloseli.com
-
 # [icloud.com]
 127.0.0.1 metrics.icloud.com
 
@@ -6697,9 +6691,6 @@
 
 # [licdn.com]
 127.0.0.1 snap.licdn.com
-
-# [licensebuttons.net]
-127.0.0.1 licensebuttons.net
 
 # [liftoff.io]
 127.0.0.1 adexp.liftoff.io
@@ -8313,9 +8304,6 @@
 
 # [onecount.net]
 127.0.0.1 validate.onecount.net
-
-# [onedrive.com]
-23.77.251.5 image.mail.onedrive.com
 
 # [onefeed.co.uk]
 127.0.0.1 tracking.onefeed.co.uk
