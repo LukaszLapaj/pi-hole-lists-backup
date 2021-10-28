@@ -8,7 +8,7 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
-# Last updated: Sat, 23 Oct 2021 at 17:39:48 GMT
+# Last updated: Thu, 28 Oct 2021 at 02:58:33 GMT
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -1037,6 +1037,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 linkcounter.com
 0.0.0.0 linkcounter.pornosite.com
 0.0.0.0 linktrack.bravenet.com
+0.0.0.0 listen.audiohook.com
 0.0.0.0 livestats.atlanta-airport.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loc1.hitsprocessor.com
