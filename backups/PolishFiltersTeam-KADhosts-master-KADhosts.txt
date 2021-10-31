@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 29 Oct 2021, 21:09 UTC+02
-# Version: 2021.10.29.2
+# Last modified: Sat, 30 Oct 2021, 21:09 UTC+02
+# Version: 2021.10.30.2
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4317,9 +4317,11 @@
 0.0.0.0 allegrolokalnie.pl.transpbuyitemss.pw
 0.0.0.0 allegrolokalnie.site
 0.0.0.0 allegrolokalnie-pl.payregisway.pw
+0.0.0.0 allegrolokalnie-pl.090334.space
 0.0.0.0 allegrolokalnie-pl.112121.space
 0.0.0.0 allegrolokalnie-pl.138095.space
 0.0.0.0 allegrolokalnie-pl.140093.space
+0.0.0.0 allegrolokalnie-pl.6839312.space
 0.0.0.0 allegrolokalnii.digital
 0.0.0.0 allegropay08.info
 0.0.0.0 allegropayu.com
@@ -5038,6 +5040,7 @@
 0.0.0.0 bos-logowanie-24.com
 0.0.0.0 boulevardcapivari.com
 0.0.0.0 boxdelivery.org
+0.0.0.0 boxesfly.com
 0.0.0.0 boxsec.org
 0.0.0.0 boxshop24.pl
 0.0.0.0 boxti.com.br
@@ -7633,6 +7636,7 @@
 0.0.0.0 doplac-teraz24.xyz
 0.0.0.0 dopomoga.tech
 0.0.0.0 doradca318.rest
+0.0.0.0 doreczeniedhl.com
 0.0.0.0 doreczyciel24.net
 0.0.0.0 doreczyciele.net
 0.0.0.0 doski.by
@@ -8231,6 +8235,7 @@
 0.0.0.0 e-gazeta.osc-fr1.scalingo.io
 0.0.0.0 e-gliwice.xyz
 0.0.0.0 e-infonet-24.pl
+0.0.0.0 e-interia24.pl
 0.0.0.0 e-linda.com
 0.0.0.0 e-mailprywatnosc.online
 0.0.0.0 e-mailprywatnosc.site
@@ -9428,6 +9433,7 @@
 0.0.0.0 info983.site
 0.0.0.0 info394290.wixsite.com
 0.0.0.0 infobore.xyz
+0.0.0.0 infodlawas.waw.pl
 0.0.0.0 infoee.gitlab.io
 0.0.0.0 infofakty24.pl
 0.0.0.0 infofito.com
@@ -9521,16 +9527,22 @@
 0.0.0.0 informator-reg.pl
 0.0.0.0 informator-reg.site
 0.0.0.0 informel.longinves.xyz
+0.0.0.0 informujemycie.waw.pl
 0.0.0.0 informujemykazdego.xyz
 0.0.0.0 informujemywas.pl
+0.0.0.0 informujemywas.waw.pl
+0.0.0.0 informujemy-cie.waw.pl
 0.0.0.0 informujemy-kazdego.dnsrobotuptime.ru
 0.0.0.0 informujemy-kazdego.xyz
 0.0.0.0 informujemy-prosto-z-polski.dnsrobotuptime.ru
+0.0.0.0 informujemy-was.waw.pl
 0.0.0.0 informujemy-wszystkich.dnsrobotuptime.ru
 0.0.0.0 informujemy-wszystkich.xyz
 0.0.0.0 informujemy-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 informujemy-z-polski.dnsrobotuptime.ru
+0.0.0.0 informujmywas.waw.pl
 0.0.0.0 informujmy-kazdego.pl
+0.0.0.0 informujmy-was.waw.pl
 0.0.0.0 inform-sms.pw
 0.0.0.0 infosandiego.wixsite.com
 0.0.0.0 infoswiat.hekko24.pl
@@ -9538,6 +9550,7 @@
 0.0.0.0 infotrust.coocoldini.xyz
 0.0.0.0 info-3.me
 0.0.0.0 info-dla-kazdego.xyz
+0.0.0.0 info-dla-was.waw.pl
 0.0.0.0 info-inpost.pl
 0.0.0.0 info-od-policji.dnsrobotuptime.ru
 0.0.0.0 info-paczka.net
@@ -9732,6 +9745,7 @@
 0.0.0.0 inpost-xsbo.id-1349.me
 0.0.0.0 inpost-ygtp.id-1039.me
 0.0.0.0 inpost-zamowienie.pl
+0.0.0.0 inpost.bezpieczna-oferta.com
 0.0.0.0 inpost.dostawa24-fun.club
 0.0.0.0 inpost.dostawa-orders.casa
 0.0.0.0 inpost.dostawa-safety.miami
@@ -9753,6 +9767,7 @@
 0.0.0.0 inpost.pl-gotpay.icu
 0.0.0.0 inpost.pl-id49549138.xyz
 0.0.0.0 inpost.pl-info-trackcode-id734564.xyz
+0.0.0.0 inpost.pl-info-trackcode-id983781.xyz
 0.0.0.0 inpost.pl-kontos-oferta.club
 0.0.0.0 inpost.pl-numer-sciezki-id861234.xyz
 0.0.0.0 inpost.pl-numer-sciezki-id874321.xyz
@@ -9767,6 +9782,7 @@
 0.0.0.0 inpost.pl-savedpay.cyou
 0.0.0.0 inpost.pl-savedpay.icu
 0.0.0.0 inpost.pl-savepaid.cyou
+0.0.0.0 inpost.pl-trackcode-info-id478915.xyz
 0.0.0.0 inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 inpost.pl-zamowienia.club
 0.0.0.0 inpost.pl.aus-payforitto.pw
@@ -11603,6 +11619,7 @@
 0.0.0.0 niemozemyznalezc.website
 0.0.0.0 niemozeszuddawac.site
 0.0.0.0 niepsodziewanki24.xyz
+0.0.0.0 niespotykane.cfolks.pl
 0.0.0.0 niespotykanewpollsce.site
 0.0.0.0 nietrzzrzebazatopllacic.space
 0.0.0.0 nieuciekaj.online
@@ -12165,6 +12182,7 @@
 0.0.0.0 olx-pl.74882.space
 0.0.0.0 olx-pl.94385.xyz
 0.0.0.0 olx-pl.112121.space
+0.0.0.0 olx-pl.474873.space
 0.0.0.0 olx-pl.dostawa-safety.art
 0.0.0.0 olx-pl.dostawa-safety.quest
 0.0.0.0 olx-pl.eu-pay.site
@@ -12843,6 +12861,7 @@
 0.0.0.0 paczktdpd.com
 0.0.0.0 paczta.net
 0.0.0.0 paczta24.net
+0.0.0.0 paczteks24.net
 0.0.0.0 pacztex.com
 0.0.0.0 pacztex.net
 0.0.0.0 pacztowy.net
@@ -13733,6 +13752,7 @@
 0.0.0.0 pl-program.biz
 0.0.0.0 pl-program.us
 0.0.0.0 pl-program.xyz
+0.0.0.0 pl-progr-neu.maxfakt.xyz
 0.0.0.0 pl-pro.program-pro1.site
 0.0.0.0 pl-react-prog.criptfast.xyz
 0.0.0.0 pl-receive.xyz
@@ -15778,6 +15798,7 @@
 0.0.0.0 szalik.cyou
 0.0.0.0 szalonerabaty.com
 0.0.0.0 szansaonline.click
+0.0.0.0 szczegolowa.pl
 0.0.0.0 szczepieniebezigiel.net
 0.0.0.0 szczepieniebezigly.info
 0.0.0.0 szczepieniebezigly.la
@@ -15876,6 +15897,7 @@
 0.0.0.0 tastebuddy.se
 0.0.0.0 tasty-gossip.com
 0.0.0.0 tauron.surge.sh
+0.0.0.0 taycan.com.pl
 0.0.0.0 taylorspub.com
 0.0.0.0 tdggrthhbfgnahnmstjasrmst.myartsonline.com
 0.0.0.0 tdradi-xyz.preview-domain.com
@@ -16612,6 +16634,7 @@
 0.0.0.0 vinted-pl.online
 0.0.0.0 vinted-sqfd.id-1349.me
 0.0.0.0 vinted.dostawa-safety.digital
+0.0.0.0 vinted.first-order.online
 0.0.0.0 vipshorka.info
 0.0.0.0 viralka.pl
 0.0.0.0 virgilio2021.com
@@ -17126,6 +17149,7 @@
 0.0.0.0 ww.paczkbdpd.com
 0.0.0.0 ww.paczkcdpd.com
 0.0.0.0 ww.paczkddpd.com
+0.0.0.0 ww.paczkfdpd.com
 0.0.0.0 ww.paczkidpd.com
 0.0.0.0 ww.paczkjdpd.com
 0.0.0.0 ww.paczkldpd.com
@@ -17812,6 +17836,7 @@
 0.0.0.0 www.bostoncosmo.com
 0.0.0.0 www.boulevardcapivari.com
 0.0.0.0 www.boxdelivery.org
+0.0.0.0 www.boxesfly.com
 0.0.0.0 www.boxsec.org
 0.0.0.0 www.boxshop24.pl
 0.0.0.0 www.boxti.com.br
@@ -20109,6 +20134,7 @@
 0.0.0.0 www.dopduv87yijyr.cloudfront.net
 0.0.0.0 www.dopomoga.tech
 0.0.0.0 www.doradca318.rest
+0.0.0.0 www.doreczeniedhl.com
 0.0.0.0 www.doreczyciel24.net
 0.0.0.0 www.doreczyciele.net
 0.0.0.0 www.doski.by
@@ -21427,6 +21453,7 @@
 0.0.0.0 www.info983.site
 0.0.0.0 www.info394290.wixsite.com
 0.0.0.0 www.infobore.xyz
+0.0.0.0 www.infodlawas.waw.pl
 0.0.0.0 www.infoee.gitlab.io
 0.0.0.0 www.infofakty24.pl
 0.0.0.0 www.infofito.com
@@ -21488,8 +21515,11 @@
 0.0.0.0 www.informacyjnie.elk.pl
 0.0.0.0 www.informacyjnie.radom.pl
 0.0.0.0 www.informel.longinves.xyz
+0.0.0.0 www.informujemycie.waw.pl
 0.0.0.0 www.informujemykazdego.xyz
 0.0.0.0 www.informujemywas.pl
+0.0.0.0 www.informujemywas.waw.pl
+0.0.0.0 www.informujmywas.waw.pl
 0.0.0.0 www.inform.ingl.dingocif.site
 0.0.0.0 www.inform.legalprod.xyz
 0.0.0.0 www.infosandiego.wixsite.com
@@ -22866,6 +22896,7 @@
 0.0.0.0 www.niemozeszuddawac.site
 0.0.0.0 www.niepsodziewanki24.xyz
 0.0.0.0 www.niespotykanewpollsce.site
+0.0.0.0 www.niespotykane.cfolks.pl
 0.0.0.0 www.nietrzzrzebazatopllacic.space
 0.0.0.0 www.nieuciekaj.online
 0.0.0.0 www.niewiarygodne.cfolks.pl
@@ -23588,6 +23619,7 @@
 0.0.0.0 www.paczktdpd.com
 0.0.0.0 www.paczta24.net
 0.0.0.0 www.paczta.net
+0.0.0.0 www.paczteks24.net
 0.0.0.0 www.pacztex.com
 0.0.0.0 www.pacztex.net
 0.0.0.0 www.pacztowy.net
@@ -25381,6 +25413,7 @@
 0.0.0.0 www.szalik.cyou
 0.0.0.0 www.szalonerabaty.com
 0.0.0.0 www.szansaonline.click
+0.0.0.0 www.szczegolowa.pl
 0.0.0.0 www.szczepieniebezigiel.net
 0.0.0.0 www.szczepieniebezigly.info
 0.0.0.0 www.szczepieniebezigly.la
@@ -25460,6 +25493,7 @@
 0.0.0.0 www.tasectan.se
 0.0.0.0 www.tastebuddy.se
 0.0.0.0 www.tauron.surge.sh
+0.0.0.0 www.taycan.com.pl
 0.0.0.0 www.taylorspub.com
 0.0.0.0 www.tdggrthhbfgnahnmstjasrmst.myartsonline.com
 0.0.0.0 www.teacus.xyz
@@ -26354,6 +26388,7 @@
 0.0.0.0 www.ww.paczkbdpd.com
 0.0.0.0 www.ww.paczkcdpd.com
 0.0.0.0 www.ww.paczkddpd.com
+0.0.0.0 www.ww.paczkfdpd.com
 0.0.0.0 www.ww.paczkidpd.com
 0.0.0.0 www.ww.paczkjdpd.com
 0.0.0.0 www.ww.paczkldpd.com
@@ -26405,6 +26440,7 @@
 0.0.0.0 www.wysymdhl.com
 0.0.0.0 www.wysyndhl.com
 0.0.0.0 www.wysysdhl.com
+0.0.0.0 www.wyszukujemy.waw.pl
 0.0.0.0 www.wywiaddlawidzoow.cyou
 0.0.0.0 www.wyznajemyprawde.icu
 0.0.0.0 www.wyznaniefaktyczne.casa
@@ -26881,9 +26917,11 @@
 0.0.0.0 www.aliegro-lokainle-159752.live
 0.0.0.0 www.aliegro-lokalnie-oferta-626841.in.net
 0.0.0.0 www.allegrolokalnie-pl.payregisway.pw
+0.0.0.0 www.allegrolokalnie-pl.090334.space
 0.0.0.0 www.allegrolokalnie-pl.112121.space
 0.0.0.0 www.allegrolokalnie-pl.138095.space
 0.0.0.0 www.allegrolokalnie-pl.140093.space
+0.0.0.0 www.allegrolokalnie-pl.6839312.space
 0.0.0.0 www.allegro-ajk.id-4391.me
 0.0.0.0 www.allegro-llokallnie.online
 0.0.0.0 www.allegro-llokalnie.site
@@ -27544,6 +27582,7 @@
 0.0.0.0 www.e-gazeta.osc-fr1.scalingo.io
 0.0.0.0 www.e-gliwice.xyz
 0.0.0.0 www.e-infonet-24.pl
+0.0.0.0 www.e-interia24.pl
 0.0.0.0 www.e-linda.com
 0.0.0.0 www.e-mailprywatnosc.online
 0.0.0.0 www.e-mailprywatnosc.site
@@ -27902,17 +27941,21 @@
 0.0.0.0 www.informacyjny-punkt.eu
 0.0.0.0 www.informator-reg.pl
 0.0.0.0 www.informator-reg.site
+0.0.0.0 www.informujemy-cie.waw.pl
 0.0.0.0 www.informujemy-kazdego.dnsrobotuptime.ru
 0.0.0.0 www.informujemy-kazdego.xyz
 0.0.0.0 www.informujemy-prosto-z-polski.dnsrobotuptime.ru
+0.0.0.0 www.informujemy-was.waw.pl
 0.0.0.0 www.informujemy-wszystkich.dnsrobotuptime.ru
 0.0.0.0 www.informujemy-wszystkich.xyz
 0.0.0.0 www.informujemy-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 www.informujemy-z-polski.dnsrobotuptime.ru
 0.0.0.0 www.informujmy-kazdego.pl
+0.0.0.0 www.informujmy-was.waw.pl
 0.0.0.0 www.inform-sms.pw
 0.0.0.0 www.info-3.me
 0.0.0.0 www.info-dla-kazdego.xyz
+0.0.0.0 www.info-dla-was.waw.pl
 0.0.0.0 www.info-inpost.pl
 0.0.0.0 www.info-od-policji.dnsrobotuptime.ru
 0.0.0.0 www.info-paczka.net
@@ -28044,6 +28087,7 @@
 0.0.0.0 www.inpost-xsbo.id-1349.me
 0.0.0.0 www.inpost-ygtp.id-1039.me
 0.0.0.0 www.inpost-zamowienie.pl
+0.0.0.0 www.inpost.bezpieczna-oferta.com
 0.0.0.0 www.inpost.dostawa24-fun.club
 0.0.0.0 www.inpost.dostawa-orders.casa
 0.0.0.0 www.inpost.dostawa-safety.miami
@@ -28065,6 +28109,7 @@
 0.0.0.0 www.inpost.pl-gotpay.icu
 0.0.0.0 www.inpost.pl-id49549138.xyz
 0.0.0.0 www.inpost.pl-info-trackcode-id734564.xyz
+0.0.0.0 www.inpost.pl-info-trackcode-id983781.xyz
 0.0.0.0 www.inpost.pl-kontos-oferta.club
 0.0.0.0 www.inpost.pl-numer-sciezki-id861234.xyz
 0.0.0.0 www.inpost.pl-numer-sciezki-id874321.xyz
@@ -28079,6 +28124,7 @@
 0.0.0.0 www.inpost.pl-savedpay.cyou
 0.0.0.0 www.inpost.pl-savedpay.icu
 0.0.0.0 www.inpost.pl-savepaid.cyou
+0.0.0.0 www.inpost.pl-trackcode-info-id478915.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 www.inpost.pl-zamowienia.club
 0.0.0.0 www.inpost.pl.aus-payforitto.pw
@@ -28862,6 +28908,7 @@
 0.0.0.0 www.olx-pl.74882.space
 0.0.0.0 www.olx-pl.94385.xyz
 0.0.0.0 www.olx-pl.112121.space
+0.0.0.0 www.olx-pl.474873.space
 0.0.0.0 www.olx-pl.dostawa-safety.art
 0.0.0.0 www.olx-pl.dostawa-safety.quest
 0.0.0.0 www.olx-pl.eu-pay.site
@@ -29564,6 +29611,7 @@
 0.0.0.0 www.pl-program.biz
 0.0.0.0 www.pl-program.us
 0.0.0.0 www.pl-program.xyz
+0.0.0.0 www.pl-progr-neu.maxfakt.xyz
 0.0.0.0 www.pl-pro.program-pro1.site
 0.0.0.0 www.pl-react-prog.criptfast.xyz
 0.0.0.0 www.pl-receive.xyz
@@ -30433,6 +30481,7 @@
 0.0.0.0 www.vinted-pl.online
 0.0.0.0 www.vinted-sqfd.id-1349.me
 0.0.0.0 www.vinted.dostawa-safety.digital
+0.0.0.0 www.vinted.first-order.online
 0.0.0.0 www.virtualna-polska.pl
 0.0.0.0 www.visa-payment.sytes.net
 0.0.0.0 www.vlogboard-com.preview-domain.com
@@ -30790,6 +30839,7 @@
 0.0.0.0 wysymdhl.com
 0.0.0.0 wysyndhl.com
 0.0.0.0 wysysdhl.com
+0.0.0.0 wyszukujemy.waw.pl
 0.0.0.0 wywiaddlawidzoow.cyou
 0.0.0.0 wyznajemyprawde.icu
 0.0.0.0 wyznaniefaktyczne.casa
