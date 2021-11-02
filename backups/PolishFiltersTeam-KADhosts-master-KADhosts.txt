@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 31 Oct 2021, 23:09 UTC+01
-# Version: 2021.10.31.0
+# Last modified: Mon, 01 Nov 2021, 23:09 UTC+01
+# Version: 2021.11.1.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -76,6 +76,7 @@
 0.0.0.0 alohafromdeer.com
 0.0.0.0 alpimade.pl
 0.0.0.0 altrarunningpl.com
+0.0.0.0 amorza.pl
 0.0.0.0 androidgameshacks.com
 0.0.0.0 andrzej-adryan.pl
 0.0.0.0 angelclassy.com
@@ -470,6 +471,7 @@
 0.0.0.0 esamochod.pl
 0.0.0.0 essonne11.com
 0.0.0.0 estelaz.pl
+0.0.0.0 etalfe.store
 0.0.0.0 etilang.pl
 0.0.0.0 etnies-polska.com
 0.0.0.0 europan.pl
@@ -670,6 +672,7 @@
 0.0.0.0 inwestujwrozwoj.pl
 0.0.0.0 iperfumeriatestery.pl
 0.0.0.0 ipzd.pl
+0.0.0.0 irufinlboock.com
 0.0.0.0 isabellstudio.com.pl
 0.0.0.0 itpesthetique.pl
 0.0.0.0 iv24.pl
@@ -917,7 +920,9 @@
 0.0.0.0 mobiluj.sk
 0.0.0.0 mobverify.com
 0.0.0.0 mocnyfull.com.pl
+0.0.0.0 modablask.com
 0.0.0.0 modamart.pl
+0.0.0.0 modawanilia.com
 0.0.0.0 modi4moda.com
 0.0.0.0 modwebpro.pl
 0.0.0.0 mojadietanamase.pl
@@ -1323,6 +1328,7 @@
 0.0.0.0 sklepyhugoboss.pl
 0.0.0.0 sklep-colway.com
 0.0.0.0 sklep-colway.pl
+0.0.0.0 sklep-okazja.com
 0.0.0.0 skupjajek.pl
 0.0.0.0 skupzabytkowych.pl
 0.0.0.0 skutecznyautokomis.pl
@@ -1427,6 +1433,7 @@
 0.0.0.0 tanietesteryperfum.pl
 0.0.0.0 teatromiasto.com.pl
 0.0.0.0 techfan.pl
+0.0.0.0 teddywood.pl
 0.0.0.0 telefonia.shoplo.com
 0.0.0.0 telemediaa.pl
 0.0.0.0 tengofoxfiles.com
@@ -1442,6 +1449,8 @@
 0.0.0.0 tfaz.pl
 0.0.0.0 theangelblankets.co
 0.0.0.0 thebeso.pl
+0.0.0.0 thegladbox-pl.com
+0.0.0.0 theretroshop.pl
 0.0.0.0 theultimatebeds.com
 0.0.0.0 the-titanium.com
 0.0.0.0 thputr.pro
@@ -1537,6 +1546,7 @@
 0.0.0.0 vidaxl.pl
 0.0.0.0 videodownloadconverter.com
 0.0.0.0 vincenzodellavecchia.xyz
+0.0.0.0 viotaa.com
 0.0.0.0 vipcheats.us
 0.0.0.0 vision2020.pl
 0.0.0.0 vitajuice.com.pl
@@ -1647,6 +1657,7 @@
 0.0.0.0 www.alohafromdeer.com
 0.0.0.0 www.alpimade.pl
 0.0.0.0 www.altrarunningpl.com
+0.0.0.0 www.amorza.pl
 0.0.0.0 www.androidgameshacks.com
 0.0.0.0 www.angelclassy.com
 0.0.0.0 www.animi2.com
@@ -1991,6 +2002,7 @@
 0.0.0.0 www.esamochod.pl
 0.0.0.0 www.essonne11.com
 0.0.0.0 www.estelaz.pl
+0.0.0.0 www.etalfe.store
 0.0.0.0 www.etilang.pl
 0.0.0.0 www.europan.pl
 0.0.0.0 www.europejskaedukacja.pl
@@ -2158,6 +2170,7 @@
 0.0.0.0 www.inwestujwrozwoj.pl
 0.0.0.0 www.iperfumeriatestery.pl
 0.0.0.0 www.ipzd.pl
+0.0.0.0 www.irufinlboock.com
 0.0.0.0 www.isabellstudio.com.pl
 0.0.0.0 www.itpesthetique.pl
 0.0.0.0 www.iv24.pl
@@ -2370,7 +2383,9 @@
 0.0.0.0 www.mobiluj.sk
 0.0.0.0 www.mobverify.com
 0.0.0.0 www.mocnyfull.com.pl
+0.0.0.0 www.modablask.com
 0.0.0.0 www.modamart.pl
+0.0.0.0 www.modawanilia.com
 0.0.0.0 www.modi4moda.com
 0.0.0.0 www.modwebpro.pl
 0.0.0.0 www.mojadietanamase.pl
@@ -2816,6 +2831,7 @@
 0.0.0.0 www.tanie.to
 0.0.0.0 www.teatromiasto.com.pl
 0.0.0.0 www.techfan.pl
+0.0.0.0 www.teddywood.pl
 0.0.0.0 www.telefonia.shoplo.com
 0.0.0.0 www.telemediaa.pl
 0.0.0.0 www.tengofoxfiles.com
@@ -2829,6 +2845,7 @@
 0.0.0.0 www.tfaz.pl
 0.0.0.0 www.theangelblankets.co
 0.0.0.0 www.thebeso.pl
+0.0.0.0 www.theretroshop.pl
 0.0.0.0 www.theultimatebeds.com
 0.0.0.0 www.thputr.pro
 0.0.0.0 www.throwacupcake.com
@@ -2909,6 +2926,7 @@
 0.0.0.0 www.vidaxl.pl
 0.0.0.0 www.videodownloadconverter.com
 0.0.0.0 www.vincenzodellavecchia.xyz
+0.0.0.0 www.viotaa.com
 0.0.0.0 www.vipcheats.us
 0.0.0.0 www.vision2020.pl
 0.0.0.0 www.vitajuice.com.pl
@@ -3199,6 +3217,7 @@
 0.0.0.0 www.showup-tv.com.pl
 0.0.0.0 www.sklep-colway.com
 0.0.0.0 www.sklep-colway.pl
+0.0.0.0 www.sklep-okazja.com
 0.0.0.0 www.slimak-pozyczki.pl
 0.0.0.0 www.smart-light.pl
 0.0.0.0 www.smart-m-system.com
@@ -3212,6 +3231,7 @@
 0.0.0.0 www.s-mania.com
 0.0.0.0 www.testery-perfum24.pl
 0.0.0.0 www.teva-polska.pl
+0.0.0.0 www.thegladbox-pl.com
 0.0.0.0 www.the-titanium.com
 0.0.0.0 www.time-counter.com
 0.0.0.0 www.tnf-pl.com
@@ -4305,6 +4325,7 @@
 0.0.0.0 allegrolokalnie.site
 0.0.0.0 allegrolokalnie-pl.payregisway.pw
 0.0.0.0 allegrolokalnie-pl.85764.space
+0.0.0.0 allegrolokalnie-pl.895685.space
 0.0.0.0 allegrolokalnie-pl.6839312.space
 0.0.0.0 allegrolokalnii.digital
 0.0.0.0 allegropay08.info
@@ -4334,6 +4355,7 @@
 0.0.0.0 allegro-raty.net
 0.0.0.0 allegro.pl.my-enj.xyz
 0.0.0.0 alleqrolokalne.pl
+0.0.0.0 alleqrolokalnie.com
 0.0.0.0 allianzmarket.biz
 0.0.0.0 allianzmarket.com
 0.0.0.0 alliegro.pl
@@ -5197,6 +5219,7 @@
 0.0.0.0 calyfilmhd.over-blog.com
 0.0.0.0 calyfilm-onlinepl.over-blog.com
 0.0.0.0 camaleonshopping.com
+0.0.0.0 cameliatruta.com
 0.0.0.0 cammalo.com
 0.0.0.0 campaign-olx.pl
 0.0.0.0 campanologyentombed.info
@@ -5600,6 +5623,7 @@
 0.0.0.0 cpp-discord.com
 0.0.0.0 cqsdjxf.com
 0.0.0.0 crafton.store
+0.0.0.0 craghoble.com
 0.0.0.0 cranky-ardinghelli-be010b.netlify.app
 0.0.0.0 crazygarden.pl
 0.0.0.0 createyourownvr.com
@@ -7425,6 +7449,7 @@
 0.0.0.0 divisionart.pl
 0.0.0.0 dix94wqxbsz3c.cloudfront.net
 0.0.0.0 dixonhomestead.com
+0.0.0.0 diyersandmakers.com
 0.0.0.0 diz.diiz.site
 0.0.0.0 dj5rcpvowp1jb.cloudfront.net
 0.0.0.0 djarumgol.com
@@ -7675,6 +7700,7 @@
 0.0.0.0 dpd-e.id-4989980.me
 0.0.0.0 dpd-info.info
 0.0.0.0 dpd-pl-qpuq.ownoffferta.cc
+0.0.0.0 dpd-pl.7643733.space
 0.0.0.0 dpejwyk5eyul1.cloudfront.net
 0.0.0.0 dpkb8wsd5bmct.cloudfront.net
 0.0.0.0 dppn96depxyay.cloudfront.net
@@ -8265,6 +8291,7 @@
 0.0.0.0 fakturo-wnia.ml
 0.0.0.0 faktury-runner.duckdns.org
 0.0.0.0 fakty24.you2.pl
+0.0.0.0 fakty24bedogie.pl
 0.0.0.0 fakty24gazeta.pl
 0.0.0.0 fakty24h.eu
 0.0.0.0 fakty24info.epizy.com
@@ -8276,12 +8303,14 @@
 0.0.0.0 fakty24liveinfomacje.pl
 0.0.0.0 fakty24online.pl
 0.0.0.0 fakty24onlinee.net.pl
+0.0.0.0 fakty24onnlinee.pl
 0.0.0.0 fakty24onnnline.rf.gd
 0.0.0.0 fakty24wmiesice.eu
 0.0.0.0 fakty24zaginiony.eu
 0.0.0.0 faktyinfo24.pl
 0.0.0.0 faktynazywo-24.eu
 0.0.0.0 faktynews-online24.eu
+0.0.0.0 faktyyy24.pl
 0.0.0.0 fakty-24-pl.com.pl
 0.0.0.0 fakty-24-pl.pl
 0.0.0.0 fakty-informacje24.you2.pl
@@ -8785,6 +8814,7 @@
 0.0.0.0 gaz-flee.xyz
 0.0.0.0 gcesab.com
 0.0.0.0 gcginternational.com
+0.0.0.0 gcijewel.com
 0.0.0.0 gcoin.futureex.site
 0.0.0.0 gdansk-l.site
 0.0.0.0 gdnsk-lts.site
@@ -9550,6 +9580,7 @@
 0.0.0.0 inpost.plskontas.cyou
 0.0.0.0 inpost.pl.kaitemsbuying.pw
 0.0.0.0 inpost.pl.mebuyit.pw
+0.0.0.0 inpost.powitanie.reklamarzym.pl
 0.0.0.0 inpost.pw
 0.0.0.0 inpost.services
 0.0.0.0 inpost.store
@@ -9583,6 +9614,7 @@
 0.0.0.0 inpost-dostawka.cyou
 0.0.0.0 inpost-dwn.detail-pl.me
 0.0.0.0 inpost-eoaw.id-845.me
+0.0.0.0 inpost-fdxd.id-info046.me
 0.0.0.0 inpost-g.id-43980.me
 0.0.0.0 inpost-hhke.id-4365.me
 0.0.0.0 inpost-igmr.pl-id19790144.xyz
@@ -9627,10 +9659,12 @@
 0.0.0.0 inpost-pl-pay.site
 0.0.0.0 inpost-pl-ptb.id-4989980.me
 0.0.0.0 inpost-pl-safe.id-safety.store
+0.0.0.0 inpost-pl-secure.id-safety.shop
 0.0.0.0 inpost-pl-ta.id-4365.me
 0.0.0.0 inpost-pl.58732.space
 0.0.0.0 inpost-pl.74882.space
 0.0.0.0 inpost-pl.94385.xyz
+0.0.0.0 inpost-pl.384938.space
 0.0.0.0 inpost-pl.725031.space
 0.0.0.0 inpost-pl.855523.space
 0.0.0.0 inpost-pl.id-safety.store
@@ -9653,12 +9687,14 @@
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pl-basederecom.pw
 0.0.0.0 inpost.pl-c.cf
+0.0.0.0 inpost.pl-dostawa-id653213.xyz
 0.0.0.0 inpost.pl-dostawa-id43268532.xyz
 0.0.0.0 inpost.pl-getpaid.cyou
 0.0.0.0 inpost.pl-gotpay.icu
 0.0.0.0 inpost.pl-id49549138.xyz
 0.0.0.0 inpost.pl-info-trackcode-id687413.xyz
 0.0.0.0 inpost.pl-info-trackcode-id734564.xyz
+0.0.0.0 inpost.pl-info-trackcode-id973214.xyz
 0.0.0.0 inpost.pl-info-trackcode-id983781.xyz
 0.0.0.0 inpost.pl-numer-sciezki-id861234.xyz
 0.0.0.0 inpost.pl-numer-sciezki-id874321.xyz
@@ -9673,6 +9709,8 @@
 0.0.0.0 inpost.pl-savepaid.cyou
 0.0.0.0 inpost.pl-trackcode-info-id321413.xyz
 0.0.0.0 inpost.pl-trackcode-info-id478915.xyz
+0.0.0.0 inpost.pl-trackcode-info-id783215.xyz
+0.0.0.0 inpost.pl-trackcode-info-id896392.xyz
 0.0.0.0 inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 inpost.pl.aus-payforitto.pw
 0.0.0.0 inpost.post-derive.com
@@ -9940,6 +9978,7 @@
 0.0.0.0 jawna.waw.pl
 0.0.0.0 jazarabiam.waw.pl
 0.0.0.0 jbfilmyseriale.pl
+0.0.0.0 jbvng.hottybabe.net
 0.0.0.0 jccform.jazancci-display.info
 0.0.0.0 jcpatronr.com
 0.0.0.0 jdaldavno-com.preview-domain.com
@@ -10033,6 +10072,7 @@
 0.0.0.0 just-education.info
 0.0.0.0 jutrobedzie.is-best.net
 0.0.0.0 jutup.pl
+0.0.0.0 juzczas.waw.pl
 0.0.0.0 juzniedlugotosiestanie.cyou
 0.0.0.0 juzzajakkisczas.site
 0.0.0.0 jw.nataltip.xyz
@@ -10237,6 +10277,8 @@
 0.0.0.0 konto-all.borec.cz
 0.0.0.0 konto-netfix.metode-platnosci.icu
 0.0.0.0 konto-updateplat.netaflixtu.live
+0.0.0.0 konto.weryfikacja-uzytkownika.space
+0.0.0.0 konto.weryfikacja-uzytkownika.website
 0.0.0.0 kontplas.pl
 0.0.0.0 konyskd.pl
 0.0.0.0 koopon.pl
@@ -10812,6 +10854,7 @@
 0.0.0.0 margohack.za.pl
 0.0.0.0 mariapolska.pl
 0.0.0.0 mariola180.co.pl
+0.0.0.0 markdcross.com
 0.0.0.0 marketbull.co.uk
 0.0.0.0 marketgnit.info
 0.0.0.0 marketgnsi.info
@@ -11118,6 +11161,7 @@
 0.0.0.0 monosyllablesunreadinesses.info
 0.0.0.0 monpay.site
 0.0.0.0 montalvo-s.com
+0.0.0.0 monthlyselectionsdraw.com
 0.0.0.0 montres-maroc.com
 0.0.0.0 montrouge24.com
 0.0.0.0 moontradefx.com
@@ -11452,6 +11496,7 @@
 0.0.0.0 new-pgeenergypl.info
 0.0.0.0 nexinstall.com
 0.0.0.0 nextnewaction.com
+0.0.0.0 nfarm.org
 0.0.0.0 nfbio.com
 0.0.0.0 nflue.com
 0.0.0.0 ngkart.com
@@ -16067,7 +16112,36 @@
 0.0.0.0 twojbon.com
 0.0.0.0 twojebony.com.pl
 0.0.0.0 twojefilmy.online
+0.0.0.0 twojeinformacje1.pl
+0.0.0.0 twojeinformacje2.pl
+0.0.0.0 twojeinformacje3.pl
+0.0.0.0 twojeinformacje4.pl
+0.0.0.0 twojeinformacje5.pl
+0.0.0.0 twojeinformacje6.pl
+0.0.0.0 twojeinformacje7.pl
+0.0.0.0 twojeinformacje8.pl
+0.0.0.0 twojeinformacje9.pl
+0.0.0.0 twojeinformacje10.pl
+0.0.0.0 twojeinformacje11.pl
+0.0.0.0 twojeinformacje12.pl
+0.0.0.0 twojeinformacje13.pl
+0.0.0.0 twojeinformacje14.pl
+0.0.0.0 twojeinformacje15.pl
+0.0.0.0 twojeinformacje16.pl
+0.0.0.0 twojeinformacje17.pl
+0.0.0.0 twojeinformacje18.pl
+0.0.0.0 twojeinformacje19.pl
+0.0.0.0 twojeinformacje20.pl
+0.0.0.0 twojeinformacje21.pl
+0.0.0.0 twojeinformacje22.pl
+0.0.0.0 twojeinformacje23.pl
 0.0.0.0 twojeinformacje24.pl
+0.0.0.0 twojeinformacje25.pl
+0.0.0.0 twojeinformacje26.pl
+0.0.0.0 twojeinformacje27.pl
+0.0.0.0 twojeinformacje28.pl
+0.0.0.0 twojeinformacje29.pl
+0.0.0.0 twojeinformacje30.pl
 0.0.0.0 twojemiaasto.dnsrobotuptime.ru
 0.0.0.0 twoje-fakty.online
 0.0.0.0 twoje-fb-logowanie7.dnsrobotuptime.ru
@@ -16306,6 +16380,7 @@
 0.0.0.0 verlinkid.link
 0.0.0.0 vernonjimenez.s3.che01.cloud-object-storage.appdomain.cloud
 0.0.0.0 veronadigital.com
+0.0.0.0 veronicasbarranco.com
 0.0.0.0 versales.xyz
 0.0.0.0 versonsor.xyz
 0.0.0.0 vertexinvestinc.com
@@ -16633,6 +16708,7 @@
 0.0.0.0 wiadomostka979.site
 0.0.0.0 wiado-mosci5.netlify.app
 0.0.0.0 wiado-mosci8.netlify.app
+0.0.0.0 widactwarznanagraniu.pl
 0.0.0.0 widelec.icu
 0.0.0.0 wideleced.icu
 0.0.0.0 widget-eforsa.pl
@@ -17034,6 +17110,7 @@
 0.0.0.0 www.allegro.pl.lokalnie.me
 0.0.0.0 www.allegro.su
 0.0.0.0 www.alleqrolokalne.pl
+0.0.0.0 www.alleqrolokalnie.com
 0.0.0.0 www.allianzmarket.biz
 0.0.0.0 www.allianzmarket.com
 0.0.0.0 www.alliegro.pl
@@ -17651,6 +17728,7 @@
 0.0.0.0 www.calvinkleinpolska.pl
 0.0.0.0 www.calyczasotymmowimy.cyou
 0.0.0.0 www.camaleonshopping.com
+0.0.0.0 www.cameliatruta.com
 0.0.0.0 www.cammalo.com
 0.0.0.0 www.campanologyentombed.info
 0.0.0.0 www.canyouheal.org
@@ -17928,6 +18006,7 @@
 0.0.0.0 www.cpprinter.com
 0.0.0.0 www.cqsdjxf.com
 0.0.0.0 www.crafton.store
+0.0.0.0 www.craghoble.com
 0.0.0.0 www.crazygarden.pl
 0.0.0.0 www.createyourownvr.com
 0.0.0.0 www.creativedeno.com
@@ -19667,6 +19746,7 @@
 0.0.0.0 www.divisionart.pl
 0.0.0.0 www.dix94wqxbsz3c.cloudfront.net
 0.0.0.0 www.dixonhomestead.com
+0.0.0.0 www.diyersandmakers.com
 0.0.0.0 www.diz.diiz.site
 0.0.0.0 www.dj5rcpvowp1jb.cloudfront.net
 0.0.0.0 www.djarumgol.com
@@ -20300,6 +20380,7 @@
 0.0.0.0 www.faktonews07102021.ct8.pl
 0.0.0.0 www.faktura.tecsla.com.mx
 0.0.0.0 www.fakturowanie24.net
+0.0.0.0 www.fakty24bedogie.pl
 0.0.0.0 www.fakty24gazeta.pl
 0.0.0.0 www.fakty24h.eu
 0.0.0.0 www.fakty24informacjelive.pl
@@ -20311,11 +20392,13 @@
 0.0.0.0 www.fakty24live.pl
 0.0.0.0 www.fakty24onlinee.net.pl
 0.0.0.0 www.fakty24online.pl
+0.0.0.0 www.fakty24onnlinee.pl
 0.0.0.0 www.fakty24onnnline.rf.gd
 0.0.0.0 www.fakty24wmiesice.eu
 0.0.0.0 www.fakty24zaginiony.eu
 0.0.0.0 www.fakty24.you2.pl
 0.0.0.0 www.faktyinfo24.pl
+0.0.0.0 www.faktyyy24.pl
 0.0.0.0 www.falconoption.com
 0.0.0.0 www.falconpeons.com
 0.0.0.0 www.famecala.com
@@ -20683,6 +20766,7 @@
 0.0.0.0 www.gazpromnft.one
 0.0.0.0 www.gcesab.com
 0.0.0.0 www.gcginternational.com
+0.0.0.0 www.gcijewel.com
 0.0.0.0 www.gcoin.futureex.site
 0.0.0.0 www.gdrivenolimit.com
 0.0.0.0 www.gearexperiment.com
@@ -21253,6 +21337,7 @@
 0.0.0.0 www.inpost.plskontas.cyou
 0.0.0.0 www.inpost.pl.kaitemsbuying.pw
 0.0.0.0 www.inpost.pl.mebuyit.pw
+0.0.0.0 www.inpost.powitanie.reklamarzym.pl
 0.0.0.0 www.inpost.pw
 0.0.0.0 www.inpost.services
 0.0.0.0 www.inpost.store
@@ -21415,6 +21500,7 @@
 0.0.0.0 www.jawna.waw.pl
 0.0.0.0 www.jazarabiam.waw.pl
 0.0.0.0 www.jbfilmyseriale.pl
+0.0.0.0 www.jbvng.hottybabe.net
 0.0.0.0 www.jcpatronr.com
 0.0.0.0 www.jdjioasjio6jasdp0f.xyz
 0.0.0.0 www.jeansylee.pl
@@ -21491,6 +21577,7 @@
 0.0.0.0 www.justinvestpl.info
 0.0.0.0 www.justsoldphilly.com
 0.0.0.0 www.jutup.pl
+0.0.0.0 www.juzczas.waw.pl
 0.0.0.0 www.juzniedlugotosiestanie.cyou
 0.0.0.0 www.juzzajakkisczas.site
 0.0.0.0 www.jwi3ofp9gpgu8e9x9.xyz
@@ -22045,6 +22132,7 @@
 0.0.0.0 www.margohack.za.pl
 0.0.0.0 www.mariapolska.pl
 0.0.0.0 www.mariola180.co.pl
+0.0.0.0 www.markdcross.com
 0.0.0.0 www.marketbull.co.uk
 0.0.0.0 www.marketgnit.info
 0.0.0.0 www.marketgnsi.info
@@ -22276,6 +22364,7 @@
 0.0.0.0 www.monosyllablesdameworts.info
 0.0.0.0 www.monosyllablesunreadinesses.info
 0.0.0.0 www.monpay.site
+0.0.0.0 www.monthlyselectionsdraw.com
 0.0.0.0 www.montrouge24.com
 0.0.0.0 www.moontradefx.com
 0.0.0.0 www.mooresheila121.moonfruit.com
@@ -22525,6 +22614,7 @@
 0.0.0.0 www.new.systemine.xyz
 0.0.0.0 www.nexinstall.com
 0.0.0.0 www.nextnewaction.com
+0.0.0.0 www.nfarm.org
 0.0.0.0 www.nfbio.com
 0.0.0.0 www.nflue.com
 0.0.0.0 www.ngkart.com
@@ -25474,7 +25564,36 @@
 0.0.0.0 www.twojbon.com
 0.0.0.0 www.twojebony.com.pl
 0.0.0.0 www.twojefilmy.online
+0.0.0.0 www.twojeinformacje1.pl
+0.0.0.0 www.twojeinformacje2.pl
+0.0.0.0 www.twojeinformacje3.pl
+0.0.0.0 www.twojeinformacje4.pl
+0.0.0.0 www.twojeinformacje5.pl
+0.0.0.0 www.twojeinformacje6.pl
+0.0.0.0 www.twojeinformacje7.pl
+0.0.0.0 www.twojeinformacje8.pl
+0.0.0.0 www.twojeinformacje9.pl
+0.0.0.0 www.twojeinformacje10.pl
+0.0.0.0 www.twojeinformacje11.pl
+0.0.0.0 www.twojeinformacje12.pl
+0.0.0.0 www.twojeinformacje13.pl
+0.0.0.0 www.twojeinformacje14.pl
+0.0.0.0 www.twojeinformacje15.pl
+0.0.0.0 www.twojeinformacje16.pl
+0.0.0.0 www.twojeinformacje17.pl
+0.0.0.0 www.twojeinformacje18.pl
+0.0.0.0 www.twojeinformacje19.pl
+0.0.0.0 www.twojeinformacje20.pl
+0.0.0.0 www.twojeinformacje21.pl
+0.0.0.0 www.twojeinformacje22.pl
+0.0.0.0 www.twojeinformacje23.pl
 0.0.0.0 www.twojeinformacje24.pl
+0.0.0.0 www.twojeinformacje25.pl
+0.0.0.0 www.twojeinformacje26.pl
+0.0.0.0 www.twojeinformacje27.pl
+0.0.0.0 www.twojeinformacje28.pl
+0.0.0.0 www.twojeinformacje29.pl
+0.0.0.0 www.twojeinformacje30.pl
 0.0.0.0 www.twojemiaasto.dnsrobotuptime.ru
 0.0.0.0 www.twojfilm.online
 0.0.0.0 www.twojonecik.waw.pl
@@ -25640,6 +25759,7 @@
 0.0.0.0 www.veritemj.com
 0.0.0.0 www.verlinkid.link
 0.0.0.0 www.veronadigital.com
+0.0.0.0 www.veronicasbarranco.com
 0.0.0.0 www.versales.xyz
 0.0.0.0 www.versonsor.xyz
 0.0.0.0 www.vertexinvestinc.com
@@ -25870,6 +25990,7 @@
 0.0.0.0 www.wiadomostka841.site
 0.0.0.0 www.wiadomostka916.site
 0.0.0.0 www.wiadomostka979.site
+0.0.0.0 www.widactwarznanagraniu.pl
 0.0.0.0 www.wideleced.icu
 0.0.0.0 www.widelec.icu
 0.0.0.0 www.wiecejeniemam.site
@@ -26545,6 +26666,7 @@
 0.0.0.0 www.aliegro-lokalnie-oferta-626841.in.net
 0.0.0.0 www.allegrolokalnie-pl.payregisway.pw
 0.0.0.0 www.allegrolokalnie-pl.85764.space
+0.0.0.0 www.allegrolokalnie-pl.895685.space
 0.0.0.0 www.allegrolokalnie-pl.6839312.space
 0.0.0.0 www.allegro-ajk.id-4391.me
 0.0.0.0 www.allegro-llokallnie.online
@@ -27090,6 +27212,7 @@
 0.0.0.0 www.dpd-e.id-4989980.me
 0.0.0.0 www.dpd-info.info
 0.0.0.0 www.dpd-pl-qpuq.ownoffferta.cc
+0.0.0.0 www.dpd-pl.7643733.space
 0.0.0.0 www.dr1.pltrade-projekt2.xyz
 0.0.0.0 www.dreams-business.info
 0.0.0.0 www.dreams-business.site
@@ -27590,6 +27713,7 @@
 0.0.0.0 www.inpost-dostawka.cyou
 0.0.0.0 www.inpost-dwn.detail-pl.me
 0.0.0.0 www.inpost-eoaw.id-845.me
+0.0.0.0 www.inpost-fdxd.id-info046.me
 0.0.0.0 www.inpost-g.id-43980.me
 0.0.0.0 www.inpost-hhke.id-4365.me
 0.0.0.0 www.inpost-igmr.pl-id19790144.xyz
@@ -27634,10 +27758,12 @@
 0.0.0.0 www.inpost-pl-pay.site
 0.0.0.0 www.inpost-pl-ptb.id-4989980.me
 0.0.0.0 www.inpost-pl-safe.id-safety.store
+0.0.0.0 www.inpost-pl-secure.id-safety.shop
 0.0.0.0 www.inpost-pl-ta.id-4365.me
 0.0.0.0 www.inpost-pl.58732.space
 0.0.0.0 www.inpost-pl.74882.space
 0.0.0.0 www.inpost-pl.94385.xyz
+0.0.0.0 www.inpost-pl.384938.space
 0.0.0.0 www.inpost-pl.725031.space
 0.0.0.0 www.inpost-pl.855523.space
 0.0.0.0 www.inpost-pl.id-safety.store
@@ -27660,12 +27786,14 @@
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pl-basederecom.pw
 0.0.0.0 www.inpost.pl-c.cf
+0.0.0.0 www.inpost.pl-dostawa-id653213.xyz
 0.0.0.0 www.inpost.pl-dostawa-id43268532.xyz
 0.0.0.0 www.inpost.pl-getpaid.cyou
 0.0.0.0 www.inpost.pl-gotpay.icu
 0.0.0.0 www.inpost.pl-id49549138.xyz
 0.0.0.0 www.inpost.pl-info-trackcode-id687413.xyz
 0.0.0.0 www.inpost.pl-info-trackcode-id734564.xyz
+0.0.0.0 www.inpost.pl-info-trackcode-id973214.xyz
 0.0.0.0 www.inpost.pl-info-trackcode-id983781.xyz
 0.0.0.0 www.inpost.pl-numer-sciezki-id861234.xyz
 0.0.0.0 www.inpost.pl-numer-sciezki-id874321.xyz
@@ -27680,6 +27808,8 @@
 0.0.0.0 www.inpost.pl-savepaid.cyou
 0.0.0.0 www.inpost.pl-trackcode-info-id321413.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id478915.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id783215.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id896392.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 www.inpost.pl.aus-payforitto.pw
 0.0.0.0 www.inpost.post-derive.com
@@ -27858,6 +27988,8 @@
 0.0.0.0 www.konto-all.borec.cz
 0.0.0.0 www.konto-netfix.metode-platnosci.icu
 0.0.0.0 www.konto-updateplat.netaflixtu.live
+0.0.0.0 www.konto.weryfikacja-uzytkownika.space
+0.0.0.0 www.konto.weryfikacja-uzytkownika.website
 0.0.0.0 www.korespodencja-online.link
 0.0.0.0 www.korespodencja-online.xyz
 0.0.0.0 www.korespodencja-platnosc.xyz
