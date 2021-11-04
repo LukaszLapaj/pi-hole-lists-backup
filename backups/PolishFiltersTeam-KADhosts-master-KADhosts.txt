@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Tue, 02 Nov 2021, 23:09 UTC+01
-# Version: 2021.11.2.4
+# Last modified: Wed, 03 Nov 2021, 23:10 UTC+01
+# Version: 2021.11.3.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -577,6 +577,7 @@
 0.0.0.0 geoxsklep.com
 0.0.0.0 gepard-mobilian.pl
 0.0.0.0 getcouponsfast.com
+0.0.0.0 getdataback.pl
 0.0.0.0 ggetlbd.com
 0.0.0.0 gikon.pl
 0.0.0.0 gim6-rzeszow.pl
@@ -2090,6 +2091,7 @@
 0.0.0.0 www.geoxpolska.com
 0.0.0.0 www.geoxsklep.com
 0.0.0.0 www.getcouponsfast.com
+0.0.0.0 www.getdataback.pl
 0.0.0.0 www.ggetlbd.com
 0.0.0.0 www.gikon.pl
 0.0.0.0 www.gimnazjumniedrzwica.pl
@@ -3959,8 +3961,10 @@
 0.0.0.0 2xsms.xyz
 0.0.0.0 2xy2a2jgnepm6fxp69zxu9h0br.fixiy.pro
 0.0.0.0 2xy2a6thaa9vxa8.fixiy.pro
+0.0.0.0 2xy2athp2k7bb11zwu8f6wr.fixly.sbs
 0.0.0.0 2xy2bt4ux6cmv2u3.fixiy.pro
 0.0.0.0 2zhhgj85xjhrc0u3.fixiy.pro
+0.0.0.0 2zhhgj85xjhrc0u3.fixly.sbs
 0.0.0.0 2-remove-virus.com
 0.0.0.0 3dsecure-pay.com
 0.0.0.0 03e1i.csb.app
@@ -3990,6 +3994,7 @@
 0.0.0.0 5tysiecy.pl
 0.0.0.0 5u-wypadki.waw.pl
 0.0.0.0 5xb7ebagxucr20u3.fixiy.pro
+0.0.0.0 5xb7ebagxucr20u3.fixly.sbs
 0.0.0.0 6b-informacjepl.waw.pl
 0.0.0.0 6c2453dabd3776274.temporary.link
 0.0.0.0 6m.pl
@@ -4048,6 +4053,7 @@
 0.0.0.0 30minutetechbriefings.com
 0.0.0.0 31c5ff24944432411.temporary.link
 0.0.0.0 32testing.com
+0.0.0.0 50np97y3.fixly.sbs
 0.0.0.0 60dnipremium.cloud
 0.0.0.0 62.up-official.site
 0.0.0.0 78-informacjepl.waw.pl
@@ -4944,6 +4950,7 @@
 0.0.0.0 biucora.com
 0.0.0.0 biurko.cyou
 0.0.0.0 biuro-detektywi.eu
+0.0.0.0 biuro-ruchu-drogowego.waw.pl
 0.0.0.0 bizipromo.com
 0.0.0.0 biznesdowygrania.cyou
 0.0.0.0 biznesinpro.pl
@@ -5261,6 +5268,7 @@
 0.0.0.0 caropeyo.com
 0.0.0.0 carroemotors.com
 0.0.0.0 carsfreaks.pl
+0.0.0.0 casa-bachmann.de
 0.0.0.0 cashforgoldandsilver.com
 0.0.0.0 cashmaster.infinitypl.xyz
 0.0.0.0 cashmaster.space
@@ -5644,6 +5652,7 @@
 0.0.0.0 cpn-offers.live
 0.0.0.0 cpprinter.com
 0.0.0.0 cpp-discord.com
+0.0.0.0 cpreal.top
 0.0.0.0 cqsdjxf.com
 0.0.0.0 crafton.store
 0.0.0.0 craghoble.com
@@ -5721,6 +5730,7 @@
 0.0.0.0 cuse.xyz
 0.0.0.0 customernoble.com
 0.0.0.0 customerstack.net
+0.0.0.0 customy-shop.com
 0.0.0.0 cutdoor.top
 0.0.0.0 cutdryfinance.com
 0.0.0.0 cutess.pl
@@ -6766,7 +6776,9 @@
 0.0.0.0 d8k8yw18dq88h.cloudfront.net
 0.0.0.0 d8nbw94ijwuz8.cloudfront.net
 0.0.0.0 d8ngmj8j0pkyemnr3jaj8.fixiy.pro
+0.0.0.0 d8ngmj8j0pkyemnr3jaj8.fixly.sbs
 0.0.0.0 d8ngmj9hmygrdnmk3w.fixiy.pro
+0.0.0.0 d8ngmjbdp6k9p223.fixly.sbs
 0.0.0.0 d8qnwy97s4e37.cloudfront.net
 0.0.0.0 d8ygmywl0ctae.cloudfront.net
 0.0.0.0 d8zjz4k1qejn0.cloudfront.net
@@ -7522,6 +7534,7 @@
 0.0.0.0 dlaludzi.space
 0.0.0.0 dlaludzi.xyz
 0.0.0.0 dlamnietoboomba24.online
+0.0.0.0 dlanazwy.pl
 0.0.0.0 dlaogrodu.com
 0.0.0.0 dlatychcozapomnieli.club
 0.0.0.0 dla-piekna.click
@@ -7593,6 +7606,7 @@
 0.0.0.0 dobresformulowannie24.site
 0.0.0.0 dobrezpokazanaredakcja.cyou
 0.0.0.0 dobre-filmy.pl
+0.0.0.0 dobre-info.waw.pl
 0.0.0.0 dobre-porady.waw.pl
 0.0.0.0 dobrydzien.xyz
 0.0.0.0 dobrywpllywnato24.site
@@ -7785,6 +7799,7 @@
 0.0.0.0 drjvk7xs0ql4d.cloudfront.net
 0.0.0.0 droga-dalej.ml
 0.0.0.0 drogowe-akcje.ct8.pl
+0.0.0.0 drogowy-wypadek.info
 0.0.0.0 drsamidavid.com
 0.0.0.0 drsbootspl.com
 0.0.0.0 drsilva.com.br
@@ -7829,6 +7844,7 @@
 0.0.0.0 duiwcg72w56ze.cloudfront.net
 0.0.0.0 duiwt2cohxq6z.cloudfront.net
 0.0.0.0 duk4hvro5c2y2.cloudfront.net
+0.0.0.0 dukemotivation.com
 0.0.0.0 dulawa.pl
 0.0.0.0 dultrasolutions.duckdns.org
 0.0.0.0 duoi54cdyk0ms.cloudfront.net
@@ -8114,6 +8130,7 @@
 0.0.0.0 enerreplo.site
 0.0.0.0 enerreplo.space
 0.0.0.0 enevislimited.com
+0.0.0.0 engildsempiricisms.com
 0.0.0.0 engineeringbybirk.com
 0.0.0.0 enklawy.pl
 0.0.0.0 enoughinvest.com
@@ -8239,6 +8256,7 @@
 0.0.0.0 e-capitaloption.com
 0.0.0.0 e-cigler.pl
 0.0.0.0 e-dziennik.xyz
+0.0.0.0 e-fakty24.pl
 0.0.0.0 e-filmy24.pl
 0.0.0.0 e-gazeta.osc-fr1.scalingo.io
 0.0.0.0 e-gliwice.xyz
@@ -8284,6 +8302,7 @@
 0.0.0.0 fabsinternational.com
 0.0.0.0 faceb00kwatchvideo.pl
 0.0.0.0 facebcok.com.pl
+0.0.0.0 facebok-desktop.pev.pl
 0.0.0.0 facebook.biz.pl
 0.0.0.0 facebook.m918kiss.my
 0.0.0.0 facebookcom-43632337.techsso.com
@@ -8312,6 +8331,9 @@
 0.0.0.0 faksowy.is-best.net
 0.0.0.0 fakt11.seohost.com.pl
 0.0.0.0 fakt24informacyjne.pl
+0.0.0.0 fakt24online.com.pl
+0.0.0.0 fakt24online.net.pl
+0.0.0.0 fakt24online.pl
 0.0.0.0 faktinvestmetns.mya5.ru
 0.0.0.0 faktmiejski.eu
 0.0.0.0 faktonews07102021.ct8.pl
@@ -8334,10 +8356,14 @@
 0.0.0.0 fakty24liveinfomacje.pl
 0.0.0.0 fakty24online.pl
 0.0.0.0 fakty24onlinee.net.pl
+0.0.0.0 fakty24onlineee.pl
 0.0.0.0 fakty24onnlinee.pl
 0.0.0.0 fakty24onnnline.rf.gd
 0.0.0.0 fakty24wmiesice.eu
 0.0.0.0 fakty24zaginiony.eu
+0.0.0.0 fakty24-24.pl
+0.0.0.0 fakty24-online.pl
+0.0.0.0 fakty24-polska.waw.pl
 0.0.0.0 faktyinfo24.pl
 0.0.0.0 faktynazywo-24.eu
 0.0.0.0 faktynews-online24.eu
@@ -8576,6 +8602,7 @@
 0.0.0.0 fitoffer.top
 0.0.0.0 fit-poradnik.pl
 0.0.0.0 fixly.pro
+0.0.0.0 fixly.sbs
 0.0.0.0 fixly.work
 0.0.0.0 fkty24info.pl
 0.0.0.0 fktymiastowe24.pl
@@ -8636,6 +8663,7 @@
 0.0.0.0 foteczki-wyciek.eu
 0.0.0.0 fotki.cleverapps.io
 0.0.0.0 fotki-wersow.mypressonline.com
+0.0.0.0 fotki-zobacz.eu
 0.0.0.0 fotokraj.com
 0.0.0.0 fotoljilja.com
 0.0.0.0 fotopisik24.net
@@ -8918,6 +8946,7 @@
 0.0.0.0 gfhjkldcfvfg.moonfruit.com
 0.0.0.0 gfxroyal.com
 0.0.0.0 ggewgwegwe.001www.com
+0.0.0.0 ghaaiokl.net
 0.0.0.0 ghivalla.com
 0.0.0.0 ghjhtjysrejlyrjtydftmyhcuydft.web.app
 0.0.0.0 ghldemo.com
@@ -9358,6 +9387,7 @@
 0.0.0.0 iesshow.in
 0.0.0.0 iet.ifnprog.xyz
 0.0.0.0 if873a.webwave.dev
+0.0.0.0 ifakty24.pl
 0.0.0.0 iforexgain.com
 0.0.0.0 ifranchisetalk.com
 0.0.0.0 igenpod.com
@@ -9441,6 +9471,7 @@
 0.0.0.0 infogog.coocoldini.xyz
 0.0.0.0 infogoog.coocoldini.xyz
 0.0.0.0 infogoogl.coocoldini.xyz
+0.0.0.0 infolinia-drogowa.waw.pl
 0.0.0.0 infomacjeonline.rf.gd
 0.0.0.0 infonet-24.net.pl
 0.0.0.0 infonet-24.pl
@@ -9538,6 +9569,7 @@
 0.0.0.0 informujemy-wszystkich.xyz
 0.0.0.0 informujemy-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 informujemy-z-polski.dnsrobotuptime.ru
+0.0.0.0 informuje-ciebie.waw.pl
 0.0.0.0 informujmywas.waw.pl
 0.0.0.0 informujmy-kazdego.pl
 0.0.0.0 informujmy-was.waw.pl
@@ -9658,6 +9690,7 @@
 0.0.0.0 inpost-lgye.id-845.me
 0.0.0.0 inpost-mobile.pl
 0.0.0.0 inpost-oferta.su
+0.0.0.0 inpost-oferta.id-info0545.me
 0.0.0.0 inpost-oplata.site
 0.0.0.0 inpost-o.id-9843.me
 0.0.0.0 inpost-paczka.top
@@ -9693,12 +9726,15 @@
 0.0.0.0 inpost-pl-pay.site
 0.0.0.0 inpost-pl-ptb.id-4989980.me
 0.0.0.0 inpost-pl-safe.id-safety.store
+0.0.0.0 inpost-pl-secure.id-safety.sbs
 0.0.0.0 inpost-pl-secure.id-safety.shop
 0.0.0.0 inpost-pl-ta.id-4365.me
 0.0.0.0 inpost-pl.58732.space
 0.0.0.0 inpost-pl.74882.space
+0.0.0.0 inpost-pl.84529.space
 0.0.0.0 inpost-pl.94385.xyz
 0.0.0.0 inpost-pl.384938.space
+0.0.0.0 inpost-pl.549084.space
 0.0.0.0 inpost-pl.725031.space
 0.0.0.0 inpost-pl.785923.space
 0.0.0.0 inpost-pl.855523.space
@@ -9742,12 +9778,14 @@
 0.0.0.0 inpost.pl-pays.cyou
 0.0.0.0 inpost.pl-pays.icu
 0.0.0.0 inpost.pl-poczta-id489376.xyz
+0.0.0.0 inpost.pl-poczta-id897543.xyz
 0.0.0.0 inpost.pl-savedpay.cyou
 0.0.0.0 inpost.pl-savedpay.icu
 0.0.0.0 inpost.pl-savepaid.cyou
 0.0.0.0 inpost.pl-trackcode-info-id321413.xyz
 0.0.0.0 inpost.pl-trackcode-info-id478915.xyz
 0.0.0.0 inpost.pl-trackcode-info-id783215.xyz
+0.0.0.0 inpost.pl-trackcode-info-id785634.xyz
 0.0.0.0 inpost.pl-trackcode-info-id896392.xyz
 0.0.0.0 inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 inpost.pl.aus-payforitto.pw
@@ -9979,6 +10017,7 @@
 0.0.0.0 izlogin-webmail.web.app
 0.0.0.0 i-apartamenty.pl
 0.0.0.0 i-chomik.pl
+0.0.0.0 i-fakty24.pl
 0.0.0.0 i-films.pl
 0.0.0.0 i-filmy.pl
 0.0.0.0 i-inpost.polska24-dostawa24.shop
@@ -10132,12 +10171,15 @@
 0.0.0.0 kaloszehunterdamskie.com
 0.0.0.0 kalota.xyz
 0.0.0.0 kalynnecurley.com
+0.0.0.0 kamera-drogowa.waw.pl
 0.0.0.0 kamera-szkolna.ct8.pl
 0.0.0.0 kamery-wypadek.waw.pl
 0.0.0.0 kamienicabytow.pl
 0.0.0.0 kampaniareklamowa.com.pl
 0.0.0.0 kampkit.com
 0.0.0.0 kamyki.icu
+0.0.0.0 kanal-informacyjny.waw.pl
+0.0.0.0 kanal-telewizyjny.waw.pl
 0.0.0.0 kancelariabaszczyn.pl
 0.0.0.0 kandydujmy-wszyscy.eu
 0.0.0.0 kangura.icu
@@ -10292,6 +10334,7 @@
 0.0.0.0 komornik-gov24.com
 0.0.0.0 komory.cyou
 0.0.0.0 kompasy.icu
+0.0.0.0 kompresory160.com
 0.0.0.0 kompresory200.com
 0.0.0.0 kompresory210.com
 0.0.0.0 komputery-szczytno.pl
@@ -10320,6 +10363,8 @@
 0.0.0.0 konto-all.borec.cz
 0.0.0.0 konto-netfix.metode-platnosci.icu
 0.0.0.0 konto-updateplat.netaflixtu.live
+0.0.0.0 konto.walidacja-uzytkownika.online
+0.0.0.0 konto.walidacja-uzytkownika.website
 0.0.0.0 konto.weryfikacja-uzytkownika.space
 0.0.0.0 konto.weryfikacja-uzytkownika.website
 0.0.0.0 kontplas.pl
@@ -10466,6 +10511,7 @@
 0.0.0.0 lavacross.com
 0.0.0.0 laventanadevangogh.com
 0.0.0.0 lavesim.com
+0.0.0.0 laviniia.com
 0.0.0.0 lavozunida.com
 0.0.0.0 layuripatisserie.com
 0.0.0.0 la-furniture.com
@@ -10626,6 +10672,8 @@
 0.0.0.0 logowanie-facebook.mcjust.pl
 0.0.0.0 logowanie-potwierdz.xyz
 0.0.0.0 logowanie-wieku.xyz
+0.0.0.0 logowan-4224.xyz
+0.0.0.0 logowan-8234.xyz
 0.0.0.0 lojho.xyz
 0.0.0.0 lokaineogloszenie.live
 0.0.0.0 lokainie.life
@@ -11360,6 +11408,7 @@
 0.0.0.0 nagrania-energylandia.waw.pl
 0.0.0.0 nagrania-informacje24.eu
 0.0.0.0 nagrania-z-wypadku.waw.pl
+0.0.0.0 nagranie.info
 0.0.0.0 nagranie24.ehost.pl
 0.0.0.0 nagranie-energylandia.pl
 0.0.0.0 nagroda.myartsonline.com
@@ -11384,6 +11433,7 @@
 0.0.0.0 namierz-telefon.pl
 0.0.0.0 namomiya.com
 0.0.0.0 nanakov.com
+0.0.0.0 nanimaly-shop.myshopify.com
 0.0.0.0 nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 0.0.0.0 naomilaser.com
 0.0.0.0 napewnosieopplaci.website
@@ -11414,6 +11464,7 @@
 0.0.0.0 naszewiadomosci.xyz
 0.0.0.0 naszewywiady.club
 0.0.0.0 naszezabrze.online
+0.0.0.0 nasze-miasto.info
 0.0.0.0 nasze-miasto.k99k.com.pl
 0.0.0.0 naszglos24.laohost.net
 0.0.0.0 naszpakiet.xyz
@@ -11472,6 +11523,7 @@
 0.0.0.0 netfilxbillingsupport.top
 0.0.0.0 netflix.pl.murataydeniz.com.tr
 0.0.0.0 netflix2021.pl
+0.0.0.0 netflix-lp.anetaradecka.pl
 0.0.0.0 netflix-mail.info
 0.0.0.0 netflix-update.platnosci.tttt-security.com
 0.0.0.0 netflix.com.co.3meseshtml.ga
@@ -11758,6 +11810,7 @@
 0.0.0.0 odlbieraj-paczke.in.net
 0.0.0.0 odlbieram.in.net
 0.0.0.0 odlotowy-bon.click
+0.0.0.0 odnajdzmy.pl
 0.0.0.0 odnasdlawaspolska.cyou
 0.0.0.0 odnasdokladniedlawas.website
 0.0.0.0 odniesieniedozycia.online
@@ -11896,6 +11949,7 @@
 0.0.0.0 olx.pl.topaybbitfor.pw
 0.0.0.0 olx.pl.transbuyingite.pw
 0.0.0.0 olx.pl.wysylka.net
+0.0.0.0 olx.pl.wysylka.shop
 0.0.0.0 olx.przewiezienie.pl
 0.0.0.0 olx.rwpay.ru
 0.0.0.0 olx.so
@@ -12105,6 +12159,7 @@
 0.0.0.0 olx-pl-platnosci.info
 0.0.0.0 olx-pl-receive.xyz
 0.0.0.0 olx-pl-safe.dostawa-safety.name
+0.0.0.0 olx-pl-secure.id-safety.sbs
 0.0.0.0 olx-pl-ys.detail-pl.me
 0.0.0.0 olx-pl-zff.id-43980.me
 0.0.0.0 olx-pl.3dsellp-r.com
@@ -12113,6 +12168,7 @@
 0.0.0.0 olx-pl.94385.xyz
 0.0.0.0 olx-pl.378493.space
 0.0.0.0 olx-pl.474873.space
+0.0.0.0 olx-pl.549084.space
 0.0.0.0 olx-pl.eu-pay.site
 0.0.0.0 olx-pl.ez-pays.ru
 0.0.0.0 olx-pl.iso-pay.net.ru
@@ -12310,6 +12366,7 @@
 0.0.0.0 onliine.pl
 0.0.0.0 online.natenczas.online
 0.0.0.0 online1.natenczas.online
+0.0.0.0 online24fakt.pl
 0.0.0.0 online24fakty.epizy.com
 0.0.0.0 onlineaccessonlineacesonlineacess.weebly.com
 0.0.0.0 onlinecda.pl
@@ -12339,6 +12396,8 @@
 0.0.0.0 online-securesite-official.com
 0.0.0.0 online-tv.pl
 0.0.0.0 online.acc-1258.xyz
+0.0.0.0 online.my-1240.xyz
+0.0.0.0 online.profile-5991.xyz
 0.0.0.0 onlyfiles.net
 0.0.0.0 onlyforhelp755.bar
 0.0.0.0 onlyinstafans.com
@@ -12848,6 +12907,7 @@
 0.0.0.0 pathfindermas.com
 0.0.0.0 patrickdlg.com
 0.0.0.0 patrzonline.pl
+0.0.0.0 patternpl.plgoodnewspl.site
 0.0.0.0 pattern-trader.app
 0.0.0.0 pattertrade.shop
 0.0.0.0 pat-l1fe.xyz
@@ -13311,6 +13371,7 @@
 0.0.0.0 pierwszywiersz.pl
 0.0.0.0 pieski-pomoc.xyz
 0.0.0.0 pies-do-oddania.dnsrobotuptime.ru
+0.0.0.0 pilkarskikup.com
 0.0.0.0 pillyways.xyz
 0.0.0.0 pilnie-sprzedam.waw.pl
 0.0.0.0 pilnosc117.rest
@@ -13330,6 +13391,7 @@
 0.0.0.0 piosenkanaszkle.pl
 0.0.0.0 piotrprzewozy.pl
 0.0.0.0 piotrsza.pl
+0.0.0.0 piotr-zyla.info
 0.0.0.0 pipeliningnorthdakota.com
 0.0.0.0 pipey.net
 0.0.0.0 pirteali.com
@@ -13624,6 +13686,7 @@
 0.0.0.0 pl-payed.xyz
 0.0.0.0 pl-payouts.work
 0.0.0.0 pl-platnosci.online
+0.0.0.0 pl-poczta-id691234.xyz
 0.0.0.0 pl-posts.xyz
 0.0.0.0 pl-proffit.com
 0.0.0.0 pl-profit.site
@@ -13786,6 +13849,7 @@
 0.0.0.0 pogotowie.pcserwis.c0.pl
 0.0.0.0 pogotowie-komputerowe-serwis.pl
 0.0.0.0 pogotowie-komputerowe-warszawa.com.pl
+0.0.0.0 pogotowie-ratunkowe.info
 0.0.0.0 pogrzeb.icu
 0.0.0.0 poinformowanni.cyou
 0.0.0.0 poinformujemy7.pl
@@ -13819,6 +13883,7 @@
 0.0.0.0 polandwebmailupgrade.weebly.com
 0.0.0.0 poland-businesslotos.website
 0.0.0.0 poland-dostawa.com
+0.0.0.0 poland-inv.web.app
 0.0.0.0 poland-invest.site
 0.0.0.0 poland-lotos.online
 0.0.0.0 poland-lotos.site
@@ -13906,6 +13971,7 @@
 0.0.0.0 polska-dostawa.online
 0.0.0.0 polska-dostawka.club
 0.0.0.0 polska-grupa.site
+0.0.0.0 polska-inv.web.app
 0.0.0.0 polska-lts.site
 0.0.0.0 polska-nasze-info24.x9.eu
 0.0.0.0 polska-oferla.club
@@ -14022,6 +14088,7 @@
 0.0.0.0 poscavie.xyz
 0.0.0.0 posciele.za.pl
 0.0.0.0 poscig996.rest
+0.0.0.0 posrednikow.pl
 0.0.0.0 posss.xyz
 0.0.0.0 posswiectylkonatochwile.club
 0.0.0.0 postadzz.000webhostapp.com
@@ -14225,6 +14292,7 @@
 0.0.0.0 proga-pl-opp.eraplnew.site
 0.0.0.0 programm-pat.xyz
 0.0.0.0 programtop-group.us
+0.0.0.0 programu.pl
 0.0.0.0 program-max.site
 0.0.0.0 program-poland.biz
 0.0.0.0 program-topcourse.biz
@@ -14434,6 +14502,7 @@
 0.0.0.0 radiorage.com
 0.0.0.0 radiorodzinnypolska.site
 0.0.0.0 radio-stargard.onrender.com
+0.0.0.0 radio-zakopane.waw.pl
 0.0.0.0 radnost-com.preview-domain.com
 0.0.0.0 raiderdrama.com
 0.0.0.0 rajska-wyspa.click
@@ -14691,6 +14760,7 @@
 0.0.0.0 rozsylajmy-razem.pl
 0.0.0.0 rr7x.com
 0.0.0.0 rsocial.info
+0.0.0.0 ruch-drogowy.waw.pl
 0.0.0.0 rundaglasogon.se
 0.0.0.0 run-germany.com
 0.0.0.0 ruralizedundefined.info
@@ -14836,6 +14906,7 @@
 0.0.0.0 scriptsdoneright.com
 0.0.0.0 scrubhayana.com
 0.0.0.0 sculptureco.com.au
+0.0.0.0 sdnot.com
 0.0.0.0 sdorliner.com
 0.0.0.0 sdx.pl
 0.0.0.0 seamcommunlty.com
@@ -15364,6 +15435,7 @@
 0.0.0.0 standingtotheend.org
 0.0.0.0 stanik.cyou
 0.0.0.0 stanislaw.org.pl
+0.0.0.0 stanowi.pl
 0.0.0.0 star.futureex.site
 0.0.0.0 starajsieotozebybylo.site
 0.0.0.0 stardomminefx.com
@@ -15468,6 +15540,7 @@
 0.0.0.0 store.apps.googleplay.pro
 0.0.0.0 storiiia.com
 0.0.0.0 strangefullthiggngs.com
+0.0.0.0 straszny-wypadek.info
 0.0.0.0 strategia-firm.xyz
 0.0.0.0 strategia-zasobw.xyz
 0.0.0.0 stravel.info
@@ -15617,6 +15690,7 @@
 0.0.0.0 synderiliyo.com
 0.0.0.0 sypialnia700.rest
 0.0.0.0 syst.tesprograam.xyz
+0.0.0.0 system.otworit01.xyz
 0.0.0.0 system.slmicrocredit.com
 0.0.0.0 systemchlodzeniamglapl.com
 0.0.0.0 systemrealvibe.com
@@ -16031,10 +16105,12 @@
 0.0.0.0 towszystkobywyjasnialo.website
 0.0.0.0 toyella.com
 0.0.0.0 toylessinterpolative.info
+0.0.0.0 tozestaw.pl
 0.0.0.0 to-dla-was.newuptimedns.ru
 0.0.0.0 to-dla-was-wszystkich.newuptimedns.ru
 0.0.0.0 to-dla-wszystkich.newuptimedns.ru
 0.0.0.0 to-polska-mysl.xyz
+0.0.0.0 tpay.order-received.online
 0.0.0.0 tpc.hu
 0.0.0.0 tpxy8hy.cn
 0.0.0.0 trackandnow.site
@@ -16528,6 +16604,7 @@
 0.0.0.0 vsomyp.webwave.dev
 0.0.0.0 vulkanvegasbonus.helpinghandimmigration.com
 0.0.0.0 vu-wypadki.waw.pl
+0.0.0.0 vv.paczkhdpd.com
 0.0.0.0 vvirtualna-polska.pl
 0.0.0.0 vww-olx-pl.com
 0.0.0.0 vy0sx0.webwave.dev
@@ -16584,6 +16661,7 @@
 0.0.0.0 waznesprawy.site
 0.0.0.0 waznesprawypolakkow.space
 0.0.0.0 waznesprawywpolscee.online
+0.0.0.0 wazne-informacje.pl
 0.0.0.0 wazvolev.pl
 0.0.0.0 wazycrohke.com
 0.0.0.0 wbijasz.pl
@@ -16923,6 +17001,8 @@
 0.0.0.0 wpad.software
 0.0.0.0 wpad.space
 0.0.0.0 wpad.trade
+0.0.0.0 wpadka-nauczycielki.pl
+0.0.0.0 wpadka-nauczycielki.waw.pl
 0.0.0.0 wpadkowo.pl
 0.0.0.0 wpcljm.webwave.dev
 0.0.0.0 wpelnizadowoleni.site
@@ -17002,6 +17082,7 @@
 0.0.0.0 ww.paczkcdpd.com
 0.0.0.0 ww.paczkddpd.com
 0.0.0.0 ww.paczkfdpd.com
+0.0.0.0 ww.paczkhdpd.com
 0.0.0.0 ww.paczkidpd.com
 0.0.0.0 ww.paczkjdpd.com
 0.0.0.0 ww.paczkldpd.com
@@ -18089,6 +18170,7 @@
 0.0.0.0 www.cpagrip.com
 0.0.0.0 www.cpcontacts.luvisaloon.com
 0.0.0.0 www.cpprinter.com
+0.0.0.0 www.cpreal.top
 0.0.0.0 www.cqsdjxf.com
 0.0.0.0 www.crafton.store
 0.0.0.0 www.craghoble.com
@@ -19181,7 +19263,9 @@
 0.0.0.0 www.d8k8yw18dq88h.cloudfront.net
 0.0.0.0 www.d8nbw94ijwuz8.cloudfront.net
 0.0.0.0 www.d8ngmj8j0pkyemnr3jaj8.fixiy.pro
+0.0.0.0 www.d8ngmj8j0pkyemnr3jaj8.fixly.sbs
 0.0.0.0 www.d8ngmj9hmygrdnmk3w.fixiy.pro
+0.0.0.0 www.d8ngmjbdp6k9p223.fixly.sbs
 0.0.0.0 www.d8qnwy97s4e37.cloudfront.net
 0.0.0.0 www.d8ygmywl0ctae.cloudfront.net
 0.0.0.0 www.d8zjz4k1qejn0.cloudfront.net
@@ -19880,6 +19964,7 @@
 0.0.0.0 www.dlaludzi.space
 0.0.0.0 www.dlaludzi.xyz
 0.0.0.0 www.dlamnietoboomba24.online
+0.0.0.0 www.dlanazwy.pl
 0.0.0.0 www.dlaogrodu.com
 0.0.0.0 www.dlatychcozapomnieli.club
 0.0.0.0 www.dldesrat214ro.cloudfront.net
@@ -20105,6 +20190,7 @@
 0.0.0.0 www.duiwcg72w56ze.cloudfront.net
 0.0.0.0 www.duiwt2cohxq6z.cloudfront.net
 0.0.0.0 www.duk4hvro5c2y2.cloudfront.net
+0.0.0.0 www.dukemotivation.com
 0.0.0.0 www.dulawa.pl
 0.0.0.0 www.dultrasolutions.duckdns.org
 0.0.0.0 www.duoi54cdyk0ms.cloudfront.net
@@ -20330,6 +20416,7 @@
 0.0.0.0 www.enerreplo.site
 0.0.0.0 www.enerreplo.space
 0.0.0.0 www.enevislimited.com
+0.0.0.0 www.engildsempiricisms.com
 0.0.0.0 www.engineeringbybirk.com
 0.0.0.0 www.enklawy.pl
 0.0.0.0 www.enoughinvest.com
@@ -20464,6 +20551,9 @@
 0.0.0.0 www.fak24ty.pl
 0.0.0.0 www.fakt11.seohost.com.pl
 0.0.0.0 www.fakt24informacyjne.pl
+0.0.0.0 www.fakt24online.com.pl
+0.0.0.0 www.fakt24online.net.pl
+0.0.0.0 www.fakt24online.pl
 0.0.0.0 www.faktinvestmetns.mya5.ru
 0.0.0.0 www.faktmiejski.eu
 0.0.0.0 www.faktonews07102021.ct8.pl
@@ -20479,6 +20569,7 @@
 0.0.0.0 www.fakty24info.pl
 0.0.0.0 www.fakty24liveinfomacje.pl
 0.0.0.0 www.fakty24live.pl
+0.0.0.0 www.fakty24onlineee.pl
 0.0.0.0 www.fakty24onlinee.net.pl
 0.0.0.0 www.fakty24online.pl
 0.0.0.0 www.fakty24onnlinee.pl
@@ -20668,6 +20759,7 @@
 0.0.0.0 www.fitnesstips.pl
 0.0.0.0 www.fitoffer.top
 0.0.0.0 www.fixly.pro
+0.0.0.0 www.fixly.sbs
 0.0.0.0 www.fixly.work
 0.0.0.0 www.fkty24info.pl
 0.0.0.0 www.fktymiastowe24.pl
@@ -20886,6 +20978,7 @@
 0.0.0.0 www.gewer.site
 0.0.0.0 www.gfhjkldcfvfg.moonfruit.com
 0.0.0.0 www.gfxroyal.com
+0.0.0.0 www.ghaaiokl.net
 0.0.0.0 www.ghivalla.com
 0.0.0.0 www.ghjhtjysrejlyrjtydftmyhcuydft.web.app
 0.0.0.0 www.ghldemo.com
@@ -21243,6 +21336,7 @@
 0.0.0.0 www.iesshow.in
 0.0.0.0 www.iet.ifnprog.xyz
 0.0.0.0 www.if873a.webwave.dev
+0.0.0.0 www.ifakty24.pl
 0.0.0.0 www.iforexgain.com
 0.0.0.0 www.ifranchisetalk.com
 0.0.0.0 www.igenpod.com
@@ -21806,6 +21900,7 @@
 0.0.0.0 www.komolot.gitlab.io
 0.0.0.0 www.komory.cyou
 0.0.0.0 www.kompasy.icu
+0.0.0.0 www.kompresory160.com
 0.0.0.0 www.kompresory200.com
 0.0.0.0 www.kompresory210.com
 0.0.0.0 www.komunikat021.site
@@ -21936,6 +22031,7 @@
 0.0.0.0 www.lavacross.com
 0.0.0.0 www.laventanadevangogh.com
 0.0.0.0 www.lavesim.com
+0.0.0.0 www.laviniia.com
 0.0.0.0 www.lavozunida.com
 0.0.0.0 www.layuripatisserie.com
 0.0.0.0 www.lds.biz
@@ -22573,6 +22669,7 @@
 0.0.0.0 www.naftgaz.loxpozo.site
 0.0.0.0 www.nagliwice.xyz
 0.0.0.0 www.nagranie24.ehost.pl
+0.0.0.0 www.nagranie.info
 0.0.0.0 www.nagroda.myartsonline.com
 0.0.0.0 www.nagroderia.pl
 0.0.0.0 www.nagrodyshein.pl
@@ -22881,6 +22978,7 @@
 0.0.0.0 www.odessa.com.pl
 0.0.0.0 www.odj4s702.web.app
 0.0.0.0 www.odlbieram.in.net
+0.0.0.0 www.odnajdzmy.pl
 0.0.0.0 www.odnasdlawaspolska.cyou
 0.0.0.0 www.odnasdokladniedlawas.website
 0.0.0.0 www.odniesieniedozycia.online
@@ -23035,6 +23133,7 @@
 0.0.0.0 www.olx.pl.topaybbitfor.pw
 0.0.0.0 www.olx.pl.transbuyingite.pw
 0.0.0.0 www.olx.pl.wysylka.net
+0.0.0.0 www.olx.pl.wysylka.shop
 0.0.0.0 www.olx.przewiezienie.pl
 0.0.0.0 www.olx.rwpay.ru
 0.0.0.0 www.olx.so
@@ -23078,6 +23177,7 @@
 0.0.0.0 www.onliine.pl
 0.0.0.0 www.online1.natenczas.online
 0.0.0.0 www.online24fakty.epizy.com
+0.0.0.0 www.online24fakt.pl
 0.0.0.0 www.onlineaccessonlineacesonlineacess.weebly.com
 0.0.0.0 www.onlinecda.pl
 0.0.0.0 www.onlinecinema.eu
@@ -23523,6 +23623,7 @@
 0.0.0.0 www.pathfindermas.com
 0.0.0.0 www.patrickdlg.com
 0.0.0.0 www.patrzonline.pl
+0.0.0.0 www.patternpl.plgoodnewspl.site
 0.0.0.0 www.pattertrade.shop
 0.0.0.0 www.paulotu.com
 0.0.0.0 www.pavlowsz.pl
@@ -23756,6 +23857,7 @@
 0.0.0.0 www.piena.fun
 0.0.0.0 www.pieprzyc.com
 0.0.0.0 www.pierwszywiersz.pl
+0.0.0.0 www.pilkarskikup.com
 0.0.0.0 www.pillyways.xyz
 0.0.0.0 www.pilnosc117.rest
 0.0.0.0 www.pilnosc171.rest
@@ -24061,6 +24163,7 @@
 0.0.0.0 www.poscavie.xyz
 0.0.0.0 www.posciele.za.pl
 0.0.0.0 www.poscig996.rest
+0.0.0.0 www.posrednikow.pl
 0.0.0.0 www.posss.xyz
 0.0.0.0 www.posswiectylkonatochwile.club
 0.0.0.0 www.postanowcossobie24.space
@@ -24194,6 +24297,7 @@
 0.0.0.0 www.profitmaximum.pl
 0.0.0.0 www.profitrevolution.live
 0.0.0.0 www.proft.work
+0.0.0.0 www.programu.pl
 0.0.0.0 www.progressrules.com
 0.0.0.0 www.progritro.site
 0.0.0.0 www.progte.statnew78.xyz
@@ -24627,6 +24731,7 @@
 0.0.0.0 www.scriptsdoneright.com
 0.0.0.0 www.scrubhayana.com
 0.0.0.0 www.sculptureco.com.au
+0.0.0.0 www.sdnot.com
 0.0.0.0 www.sdorliner.com
 0.0.0.0 www.sdx.pl
 0.0.0.0 www.seamcommunlty.com
@@ -25030,6 +25135,7 @@
 0.0.0.0 www.standingtotheend.org
 0.0.0.0 www.stanik.cyou
 0.0.0.0 www.stanislaw.org.pl
+0.0.0.0 www.stanowi.pl
 0.0.0.0 www.starajsieotozebybylo.site
 0.0.0.0 www.stardomminefx.com
 0.0.0.0 www.starfirejunction.com
@@ -25231,6 +25337,7 @@
 0.0.0.0 www.systemchlodzeniamglapl.com
 0.0.0.0 www.systemrealvibe.com
 0.0.0.0 www.systemrma.pl
+0.0.0.0 www.system.otworit01.xyz
 0.0.0.0 www.system.slmicrocredit.com
 0.0.0.0 www.syst.tesprograam.xyz
 0.0.0.0 www.sytedec.com
@@ -25551,6 +25658,7 @@
 0.0.0.0 www.towszystkobywyjasnialo.website
 0.0.0.0 www.toyella.com
 0.0.0.0 www.toylessinterpolative.info
+0.0.0.0 www.tozestaw.pl
 0.0.0.0 www.tpc.hu
 0.0.0.0 www.tpxy8hy.cn
 0.0.0.0 www.trackandnow.site
@@ -25916,6 +26024,7 @@
 0.0.0.0 www.vpncollective.com
 0.0.0.0 www.vsomyp.webwave.dev
 0.0.0.0 www.vulkanvegasbonus.helpinghandimmigration.com
+0.0.0.0 www.vv.paczkhdpd.com
 0.0.0.0 www.vy0sx0.webwave.dev
 0.0.0.0 www.vzgvl7.webwave.dev
 0.0.0.0 www.w2ofvb.webwave.dev
@@ -26246,6 +26355,7 @@
 0.0.0.0 www.ww.paczkcdpd.com
 0.0.0.0 www.ww.paczkddpd.com
 0.0.0.0 www.ww.paczkfdpd.com
+0.0.0.0 www.ww.paczkhdpd.com
 0.0.0.0 www.ww.paczkidpd.com
 0.0.0.0 www.ww.paczkjdpd.com
 0.0.0.0 www.ww.paczkldpd.com
@@ -26350,6 +26460,7 @@
 0.0.0.0 www.xyysyndromepedia.com
 0.0.0.0 www.xztongneng.com
 0.0.0.0 www.yablinasto.com
+0.0.0.0 www.yaboris.com
 0.0.0.0 www.yahuslot.com
 0.0.0.0 www.yahyas.info
 0.0.0.0 www.yallafreelancers.com
@@ -26417,6 +26528,7 @@
 0.0.0.0 www.zawiadomienie141.site
 0.0.0.0 www.zawiadomienie196.site
 0.0.0.0 www.zawiadomienie226.site
+0.0.0.0 www.zawiadomienie338.site
 0.0.0.0 www.zawiadomienie354.site
 0.0.0.0 www.zawiadomienie437.site
 0.0.0.0 www.zawiadomienie463.site
@@ -26577,8 +26689,10 @@
 0.0.0.0 www.2xsms.xyz
 0.0.0.0 www.2xy2a2jgnepm6fxp69zxu9h0br.fixiy.pro
 0.0.0.0 www.2xy2a6thaa9vxa8.fixiy.pro
+0.0.0.0 www.2xy2athp2k7bb11zwu8f6wr.fixly.sbs
 0.0.0.0 www.2xy2bt4ux6cmv2u3.fixiy.pro
 0.0.0.0 www.2zhhgj85xjhrc0u3.fixiy.pro
+0.0.0.0 www.2zhhgj85xjhrc0u3.fixly.sbs
 0.0.0.0 www.2-remove-virus.com
 0.0.0.0 www.3dsecure-pay.com
 0.0.0.0 www.03e1i.csb.app
@@ -26608,6 +26722,7 @@
 0.0.0.0 www.5tysiecy.pl
 0.0.0.0 www.5u-wypadki.waw.pl
 0.0.0.0 www.5xb7ebagxucr20u3.fixiy.pro
+0.0.0.0 www.5xb7ebagxucr20u3.fixly.sbs
 0.0.0.0 www.6b-informacjepl.waw.pl
 0.0.0.0 www.6c2453dabd3776274.temporary.link
 0.0.0.0 www.6m.pl
@@ -26666,6 +26781,7 @@
 0.0.0.0 www.30minutetechbriefings.com
 0.0.0.0 www.31c5ff24944432411.temporary.link
 0.0.0.0 www.32testing.com
+0.0.0.0 www.50np97y3.fixly.sbs
 0.0.0.0 www.60dnipremium.cloud
 0.0.0.0 www.62.up-official.site
 0.0.0.0 www.78-informacjepl.waw.pl
@@ -26961,6 +27077,7 @@
 0.0.0.0 www.bit-capitals.com
 0.0.0.0 www.bit-pl.web.app
 0.0.0.0 www.biuro-detektywi.eu
+0.0.0.0 www.biuro-ruchu-drogowego.waw.pl
 0.0.0.0 www.biznesowa-strategia.waw.pl
 0.0.0.0 www.biznesowe20-hw.site
 0.0.0.0 www.biznesowe27-u.site
@@ -27061,6 +27178,7 @@
 0.0.0.0 www.calyfilmhd.over-blog.com
 0.0.0.0 www.calyfilm-onlinepl.over-blog.com
 0.0.0.0 www.campaign-olx.pl
+0.0.0.0 www.casa-bachmann.de
 0.0.0.0 www.cashmaster-summer.fun
 0.0.0.0 www.cashmaster-summer.site
 0.0.0.0 www.cashmaster-summer.space
@@ -27201,6 +27319,7 @@
 0.0.0.0 www.cta-ventil.eu
 0.0.0.0 www.cure.milon-fit.ru
 0.0.0.0 www.currentlydating-location.com
+0.0.0.0 www.customy-shop.com
 0.0.0.0 www.cute-gossip.com
 0.0.0.0 www.czarna-lista.k99k.com.pl
 0.0.0.0 www.czarna-lista.k99k.pl
@@ -27279,6 +27398,7 @@
 0.0.0.0 www.dnb-outlook.com
 0.0.0.0 www.dobra-bramka-sms.pl
 0.0.0.0 www.dobre-filmy.pl
+0.0.0.0 www.dobre-info.waw.pl
 0.0.0.0 www.dobre-porady.waw.pl
 0.0.0.0 www.dobry-biznes-onet.tokoapril.com
 0.0.0.0 www.dobry-biznes-pudelek.tokoapril.com
@@ -27353,6 +27473,7 @@
 0.0.0.0 www.dream-invest.online
 0.0.0.0 www.droga-dalej.ml
 0.0.0.0 www.drogowe-akcje.ct8.pl
+0.0.0.0 www.drogowy-wypadek.info
 0.0.0.0 www.dr-saadoun-dentiste.fr
 0.0.0.0 www.dsads123a.is-best.net
 0.0.0.0 www.duft-punk.xyz
@@ -27432,6 +27553,7 @@
 0.0.0.0 www.e-capitaloption.com
 0.0.0.0 www.e-cigler.pl
 0.0.0.0 www.e-dziennik.xyz
+0.0.0.0 www.e-fakty24.pl
 0.0.0.0 www.e-filmy24.pl
 0.0.0.0 www.e-gazeta.osc-fr1.scalingo.io
 0.0.0.0 www.e-gliwice.xyz
@@ -27468,6 +27590,7 @@
 0.0.0.0 www.e-wymiana.com
 0.0.0.0 www.e-yourmovies.com
 0.0.0.0 www.f1-informacjepl.waw.pl
+0.0.0.0 www.facebok-desktop.pev.pl
 0.0.0.0 www.facebookcom-43632337.techsso.com
 0.0.0.0 www.facebookcom-49851167.techsso.com
 0.0.0.0 www.facebook-account.xyz
@@ -27484,6 +27607,9 @@
 0.0.0.0 www.fakturo-wnia.gq
 0.0.0.0 www.fakturo-wnia.ml
 0.0.0.0 www.faktury-runner.duckdns.org
+0.0.0.0 www.fakty24-24.pl
+0.0.0.0 www.fakty24-online.pl
+0.0.0.0 www.fakty24-polska.waw.pl
 0.0.0.0 www.faktynazywo-24.eu
 0.0.0.0 www.faktynews-online24.eu
 0.0.0.0 www.fakty-24-pl.com.pl
@@ -27553,6 +27679,7 @@
 0.0.0.0 www.forma-utrzymaj.eu
 0.0.0.0 www.foteczki-wyciek.eu
 0.0.0.0 www.fotki-wersow.mypressonline.com
+0.0.0.0 www.fotki-zobacz.eu
 0.0.0.0 www.fotos.vote-in.eu
 0.0.0.0 www.foto-cloud.o99o.net.pl
 0.0.0.0 www.foto-cloud.org
@@ -27760,6 +27887,7 @@
 0.0.0.0 www.industry-pl.site
 0.0.0.0 www.infasd2a.is-best.net
 0.0.0.0 www.infa-z-polski.dnsrobotuptime.ru
+0.0.0.0 www.infolinia-drogowa.waw.pl
 0.0.0.0 www.infonet-24.net.pl
 0.0.0.0 www.infonet-24.pl
 0.0.0.0 www.infonet-24-online.pl
@@ -27799,6 +27927,7 @@
 0.0.0.0 www.informujemy-wszystkich.xyz
 0.0.0.0 www.informujemy-ze-swiata.dnsrobotuptime.ru
 0.0.0.0 www.informujemy-z-polski.dnsrobotuptime.ru
+0.0.0.0 www.informuje-ciebie.waw.pl
 0.0.0.0 www.informujmy-kazdego.pl
 0.0.0.0 www.informujmy-was.waw.pl
 0.0.0.0 www.inform-sms.pw
@@ -27854,6 +27983,7 @@
 0.0.0.0 www.inpost-lgye.id-845.me
 0.0.0.0 www.inpost-mobile.pl
 0.0.0.0 www.inpost-oferta.su
+0.0.0.0 www.inpost-oferta.id-info0545.me
 0.0.0.0 www.inpost-oplata.site
 0.0.0.0 www.inpost-o.id-9843.me
 0.0.0.0 www.inpost-paczka.top
@@ -27889,12 +28019,15 @@
 0.0.0.0 www.inpost-pl-pay.site
 0.0.0.0 www.inpost-pl-ptb.id-4989980.me
 0.0.0.0 www.inpost-pl-safe.id-safety.store
+0.0.0.0 www.inpost-pl-secure.id-safety.sbs
 0.0.0.0 www.inpost-pl-secure.id-safety.shop
 0.0.0.0 www.inpost-pl-ta.id-4365.me
 0.0.0.0 www.inpost-pl.58732.space
 0.0.0.0 www.inpost-pl.74882.space
+0.0.0.0 www.inpost-pl.84529.space
 0.0.0.0 www.inpost-pl.94385.xyz
 0.0.0.0 www.inpost-pl.384938.space
+0.0.0.0 www.inpost-pl.549084.space
 0.0.0.0 www.inpost-pl.725031.space
 0.0.0.0 www.inpost-pl.785923.space
 0.0.0.0 www.inpost-pl.855523.space
@@ -27938,12 +28071,14 @@
 0.0.0.0 www.inpost.pl-pays.cyou
 0.0.0.0 www.inpost.pl-pays.icu
 0.0.0.0 www.inpost.pl-poczta-id489376.xyz
+0.0.0.0 www.inpost.pl-poczta-id897543.xyz
 0.0.0.0 www.inpost.pl-savedpay.cyou
 0.0.0.0 www.inpost.pl-savedpay.icu
 0.0.0.0 www.inpost.pl-savepaid.cyou
 0.0.0.0 www.inpost.pl-trackcode-info-id321413.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id478915.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id783215.xyz
+0.0.0.0 www.inpost.pl-trackcode-info-id785634.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id896392.xyz
 0.0.0.0 www.inpost.pl-trackcode-info-id983713.xyz
 0.0.0.0 www.inpost.pl.aus-payforitto.pw
@@ -28052,6 +28187,7 @@
 0.0.0.0 www.izlogin-webmail.web.app
 0.0.0.0 www.i-apartamenty.pl
 0.0.0.0 www.i-chomik.pl
+0.0.0.0 www.i-fakty24.pl
 0.0.0.0 www.i-films.pl
 0.0.0.0 www.i-filmy.pl
 0.0.0.0 www.i-inpost.polska24-dostawa24.shop
@@ -28079,8 +28215,11 @@
 0.0.0.0 www.just-bussiness.website
 0.0.0.0 www.just-education.info
 0.0.0.0 www.jutrobedzie.is-best.net
+0.0.0.0 www.kamera-drogowa.waw.pl
 0.0.0.0 www.kamera-szkolna.ct8.pl
 0.0.0.0 www.kamery-wypadek.waw.pl
+0.0.0.0 www.kanal-informacyjny.waw.pl
+0.0.0.0 www.kanal-telewizyjny.waw.pl
 0.0.0.0 www.kandydujmy-wszyscy.eu
 0.0.0.0 www.karnia-polska.checkout-x.com
 0.0.0.0 www.karta-swiateczna.eu
@@ -28127,6 +28266,8 @@
 0.0.0.0 www.konto-all.borec.cz
 0.0.0.0 www.konto-netfix.metode-platnosci.icu
 0.0.0.0 www.konto-updateplat.netaflixtu.live
+0.0.0.0 www.konto.walidacja-uzytkownika.online
+0.0.0.0 www.konto.walidacja-uzytkownika.website
 0.0.0.0 www.konto.weryfikacja-uzytkownika.space
 0.0.0.0 www.konto.weryfikacja-uzytkownika.website
 0.0.0.0 www.korespodencja-online.link
@@ -28197,6 +28338,8 @@
 0.0.0.0 www.logowanie-facebook.mcjust.pl
 0.0.0.0 www.logowanie-potwierdz.xyz
 0.0.0.0 www.logowanie-wieku.xyz
+0.0.0.0 www.logowan-4224.xyz
+0.0.0.0 www.logowan-8234.xyz
 0.0.0.0 www.lokainle-ogloszenia.xyz
 0.0.0.0 www.lokainle-pl-ogloszeniie-129803.space
 0.0.0.0 www.lokalna-941866.in.net
@@ -28426,9 +28569,11 @@
 0.0.0.0 www.najnowsze-informacje.com
 0.0.0.0 www.najsmieszniejsze-na-fb.eu
 0.0.0.0 www.namierz-telefon.pl
+0.0.0.0 www.nanimaly-shop.myshopify.com
 0.0.0.0 www.nastepstwo-pomozmy.eu
 0.0.0.0 www.nasza-lokalnie24.online
 0.0.0.0 www.naszemiasto-informacje24.eu
+0.0.0.0 www.nasze-miasto.info
 0.0.0.0 www.nasze-miasto.k99k.com.pl
 0.0.0.0 www.nasz--kraj-info.x9.eu
 0.0.0.0 www.naturalna-selekcja.eu
@@ -28442,6 +28587,7 @@
 0.0.0.0 www.nebertole-site.preview-domain.com
 0.0.0.0 www.nematrod-com.preview-domain.com
 0.0.0.0 www.nermal-sklep.pl
+0.0.0.0 www.netflix-lp.anetaradecka.pl
 0.0.0.0 www.netflix-mail.info
 0.0.0.0 www.netflix-update.platnosci.tttt-security.com
 0.0.0.0 www.netflix.com.co.3meseshtml.ga
@@ -28697,6 +28843,7 @@
 0.0.0.0 www.olx-pl-platnosci.info
 0.0.0.0 www.olx-pl-receive.xyz
 0.0.0.0 www.olx-pl-safe.dostawa-safety.name
+0.0.0.0 www.olx-pl-secure.id-safety.sbs
 0.0.0.0 www.olx-pl-ys.detail-pl.me
 0.0.0.0 www.olx-pl-zff.id-43980.me
 0.0.0.0 www.olx-pl.3dsellp-r.com
@@ -28705,6 +28852,7 @@
 0.0.0.0 www.olx-pl.94385.xyz
 0.0.0.0 www.olx-pl.378493.space
 0.0.0.0 www.olx-pl.474873.space
+0.0.0.0 www.olx-pl.549084.space
 0.0.0.0 www.olx-pl.eu-pay.site
 0.0.0.0 www.olx-pl.ez-pays.ru
 0.0.0.0 www.olx-pl.iso-pay.net.ru
@@ -28875,6 +29023,8 @@
 0.0.0.0 www.online-securesite-official.com
 0.0.0.0 www.online-tv.pl
 0.0.0.0 www.online.acc-1258.xyz
+0.0.0.0 www.online.my-1240.xyz
+0.0.0.0 www.online.profile-5991.xyz
 0.0.0.0 www.open-roll.com
 0.0.0.0 www.operator-24.xyz
 0.0.0.0 www.operator-gsm.pl
@@ -29189,6 +29339,7 @@
 0.0.0.0 www.pies-do-oddania.dnsrobotuptime.ru
 0.0.0.0 www.pilnie-sprzedam.waw.pl
 0.0.0.0 www.pin-odbioru.com
+0.0.0.0 www.piotr-zyla.info
 0.0.0.0 www.pismo-online.link
 0.0.0.0 www.pismo-online.xyz
 0.0.0.0 www.pismo-platnosc.site
@@ -29351,6 +29502,7 @@
 0.0.0.0 www.pl-payed.xyz
 0.0.0.0 www.pl-payouts.work
 0.0.0.0 www.pl-platnosci.online
+0.0.0.0 www.pl-poczta-id691234.xyz
 0.0.0.0 www.pl-posts.xyz
 0.0.0.0 www.pl-proffit.com
 0.0.0.0 www.pl-profit.site
@@ -29424,10 +29576,12 @@
 0.0.0.0 www.poduszka-rozciagajaca-szyje-pl.com
 0.0.0.0 www.pogotowie-komputerowe-serwis.pl
 0.0.0.0 www.pogotowie-komputerowe-warszawa.com.pl
+0.0.0.0 www.pogotowie-ratunkowe.info
 0.0.0.0 www.pokaz-mozna24.space
 0.0.0.0 www.polandbudim-invpro.info
 0.0.0.0 www.poland-businesslotos.website
 0.0.0.0 www.poland-dostawa.com
+0.0.0.0 www.poland-inv.web.app
 0.0.0.0 www.poland-invest.site
 0.0.0.0 www.poland-lotos.online
 0.0.0.0 www.poland-lotos.site
@@ -29476,6 +29630,7 @@
 0.0.0.0 www.polska-dostawa.online
 0.0.0.0 www.polska-dostawka.club
 0.0.0.0 www.polska-grupa.site
+0.0.0.0 www.polska-inv.web.app
 0.0.0.0 www.polska-lts.site
 0.0.0.0 www.polska-nasze-info24.x9.eu
 0.0.0.0 www.polska-oferla.club
@@ -29677,6 +29832,7 @@
 0.0.0.0 www.quiz-fun.com.my
 0.0.0.0 www.radical-skitter-tilapia.glitch.me
 0.0.0.0 www.radio-stargard.onrender.com
+0.0.0.0 www.radio-zakopane.waw.pl
 0.0.0.0 www.radnost-com.preview-domain.com
 0.0.0.0 www.rajska-wyspa.click
 0.0.0.0 www.rano-gazeta.tokoapril.com
@@ -29738,6 +29894,7 @@
 0.0.0.0 www.rozliczenie-pradu.net
 0.0.0.0 www.rozpoznaj-go.gq
 0.0.0.0 www.rozsylajmy-razem.pl
+0.0.0.0 www.ruch-drogowy.waw.pl
 0.0.0.0 www.run-germany.com
 0.0.0.0 www.ruralvia-es.cfolks.pl
 0.0.0.0 www.ruralvia-refosnage.com
@@ -29931,6 +30088,7 @@
 0.0.0.0 www.stomatologia-w.lublin.lu
 0.0.0.0 www.stop-szczepionkom.waw.pl
 0.0.0.0 www.stop-zylakom.com
+0.0.0.0 www.straszny-wypadek.info
 0.0.0.0 www.strategia-firm.xyz
 0.0.0.0 www.strategia-zasobw.xyz
 0.0.0.0 www.streaming-builder.com
@@ -30066,6 +30224,7 @@
 0.0.0.0 www.to-dla-was-wszystkich.newuptimedns.ru
 0.0.0.0 www.to-dla-wszystkich.newuptimedns.ru
 0.0.0.0 www.to-polska-mysl.xyz
+0.0.0.0 www.tpay.order-received.online
 0.0.0.0 www.track-cheaters.com
 0.0.0.0 www.trade-labs.com
 0.0.0.0 www.trade-olx.pl
@@ -30203,6 +30362,7 @@
 0.0.0.0 www.wartdron-xyz.preview-domain.com
 0.0.0.0 www.waybud-mexx1.info
 0.0.0.0 www.waypl-program.info
+0.0.0.0 www.wazne-informacje.pl
 0.0.0.0 www.wdpd.id-87233.me
 0.0.0.0 www.webdisk.2blogi-zfinansowe.xyz
 0.0.0.0 www.webdisk.bl2ogi-finansowe.xyz
@@ -30289,6 +30449,8 @@
 0.0.0.0 www.world-leader.website
 0.0.0.0 www.world-poland.biz
 0.0.0.0 www.wow.info247-pl.com
+0.0.0.0 www.wpadka-nauczycielki.pl
+0.0.0.0 www.wpadka-nauczycielki.waw.pl
 0.0.0.0 www.wpiata-paczkomat.host
 0.0.0.0 www.wplata-inpost.cyou
 0.0.0.0 www.wplata-paczkomat-24.space
@@ -30347,12 +30509,19 @@
 0.0.0.0 www.wybor-podpunktu.eu
 0.0.0.0 www.wydanie-polskie24.cyou
 0.0.0.0 www.wydarzenia-online.waw.pl
+0.0.0.0 www.wydarzenia-polska.waw.pl
+0.0.0.0 www.wydarzenia-wideo.waw.pl
+0.0.0.0 www.wydzial-ruchu.pl
+0.0.0.0 www.wydzial-ruchu.waw.pl
 0.0.0.0 www.wygraj-iphone-x.tujest.pl
 0.0.0.0 www.wykaz.5p.pl
 0.0.0.0 www.wylaczone.5p.pl
+0.0.0.0 www.wypadek-drogowy.info
 0.0.0.0 www.wypadek-szaflary.waw.pl
 0.0.0.0 www.wypadek-zakopianka.waw.pl
 0.0.0.0 www.wypadki24.e-kei.pl
+0.0.0.0 www.wypadki-drogowe.info
+0.0.0.0 www.wypadki-drogowe.waw.pl
 0.0.0.0 www.wyprzedaz-polska.cyou
 0.0.0.0 www.wysylka-olx.me
 0.0.0.0 www.wysylka-olx.pl
@@ -30401,6 +30570,7 @@
 0.0.0.0 www.yrehrher.001www.com
 0.0.0.0 www.yuan-online.com
 0.0.0.0 www.zadbana-ty.click
+0.0.0.0 www.zaginione-osoby.waw.pl
 0.0.0.0 www.zaginiony-24.eu
 0.0.0.0 www.zahlen-bitcoin.com
 0.0.0.0 www.zakaznlka-mbank.sk.swtest.ru
@@ -30479,7 +30649,11 @@
 0.0.0.0 wydarzeniaprzeszle.space
 0.0.0.0 wydarzeniaroku020.site
 0.0.0.0 wydarzenia-online.waw.pl
+0.0.0.0 wydarzenia-polska.waw.pl
+0.0.0.0 wydarzenia-wideo.waw.pl
 0.0.0.0 wydarzenie24.elk.pl
+0.0.0.0 wydzial-ruchu.pl
+0.0.0.0 wydzial-ruchu.waw.pl
 0.0.0.0 wygodnybiznespolska.cyou
 0.0.0.0 wygrajjzyciie.site
 0.0.0.0 wygraj-iphone-x.tujest.pl
@@ -30492,9 +30666,12 @@
 0.0.0.0 wylaczone.5p.pl
 0.0.0.0 wymierneeffekty.site
 0.0.0.0 wypadekenergia.waw.pl
+0.0.0.0 wypadek-drogowy.info
 0.0.0.0 wypadek-szaflary.waw.pl
 0.0.0.0 wypadek-zakopianka.waw.pl
 0.0.0.0 wypadki24.e-kei.pl
+0.0.0.0 wypadki-drogowe.info
+0.0.0.0 wypadki-drogowe.waw.pl
 0.0.0.0 wyposazeniedomow.com.pl
 0.0.0.0 wyprzedaz-polska.cyou
 0.0.0.0 wypsikaj.pl
@@ -30595,6 +30772,7 @@
 0.0.0.0 x-zdjecia.cleverapps.io
 0.0.0.0 ya.sv
 0.0.0.0 yablinasto.com
+0.0.0.0 yaboris.com
 0.0.0.0 yahuslot.com
 0.0.0.0 yahyas.info
 0.0.0.0 yallafreelancers.com
@@ -30657,6 +30835,7 @@
 0.0.0.0 zadbana-ty.click
 0.0.0.0 zaebpozno.site
 0.0.0.0 zaginieni24.pl
+0.0.0.0 zaginione-osoby.waw.pl
 0.0.0.0 zaginiony-24.eu
 0.0.0.0 zahlen-bitcoin.com
 0.0.0.0 zajonc.de
@@ -30708,6 +30887,7 @@
 0.0.0.0 zawiadomienie141.site
 0.0.0.0 zawiadomienie196.site
 0.0.0.0 zawiadomienie226.site
+0.0.0.0 zawiadomienie338.site
 0.0.0.0 zawiadomienie354.site
 0.0.0.0 zawiadomienie437.site
 0.0.0.0 zawiadomienie463.site
