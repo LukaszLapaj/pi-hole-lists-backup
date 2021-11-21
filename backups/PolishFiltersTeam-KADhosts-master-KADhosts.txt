@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 19 Nov 2021, 23:10 UTC+01
-# Version: 2021.11.19.3
+# Last modified: Sun, 21 Nov 2021, 00:31 UTC+01
+# Version: 2021.11.21.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -146,6 +146,7 @@
 0.0.0.0 best2018games.com
 0.0.0.0 bestbook-library.com
 0.0.0.0 bestcena.pl
+0.0.0.0 bestnfast.pl
 0.0.0.0 bestofelektro.pl
 0.0.0.0 bestphoneapps.mobi
 0.0.0.0 bestpromocenter.com
@@ -428,6 +429,7 @@
 0.0.0.0 dr-polska.com
 0.0.0.0 dstreet.pl
 0.0.0.0 dubaikidcare.com
+0.0.0.0 duirundbaill.com
 0.0.0.0 duramo.pl
 0.0.0.0 dwnlad.ws
 0.0.0.0 dworeknasprzedaz.pl
@@ -825,6 +827,7 @@
 0.0.0.0 lokten.com
 0.0.0.0 loktrk.com
 0.0.0.0 lolalynch.pl
+0.0.0.0 lombardfhu.net
 0.0.0.0 lombardzik.net
 0.0.0.0 lomzynskie.pl
 0.0.0.0 longup.co
@@ -1032,6 +1035,7 @@
 0.0.0.0 odchudzaniezpasja.pl
 0.0.0.0 oderkaopole.pl
 0.0.0.0 odevo.pl
+0.0.0.0 oepanee.com
 0.0.0.0 ofertabuty.top
 0.0.0.0 ogladajfilmy.pl
 0.0.0.0 ogladamy24.pl
@@ -1374,6 +1378,7 @@
 0.0.0.0 soulate.com
 0.0.0.0 sowaksiazki.pl
 0.0.0.0 spark-agd.pl
+0.0.0.0 spdobropole.pl
 0.0.0.0 speedyshare.com
 0.0.0.0 spesgarden.pl
 0.0.0.0 spinwithvegas.com
@@ -1489,6 +1494,7 @@
 0.0.0.0 tomaszrabinski.pl
 0.0.0.0 tomasz-madej.pl
 0.0.0.0 toms-polska.com
+0.0.0.0 toomde.com
 0.0.0.0 topbateria.pl
 0.0.0.0 topceny.pl
 0.0.0.0 topoeia.com
@@ -1587,6 +1593,7 @@
 0.0.0.0 w65.pl
 0.0.0.0 wabs.pl
 0.0.0.0 wagner-wellness.pl
+0.0.0.0 wanblcokrolre.com
 0.0.0.0 wartagdynia.pl
 0.0.0.0 wartomiec.pl
 0.0.0.0 warttigiano.com
@@ -1730,6 +1737,7 @@
 0.0.0.0 www.berutiful.com
 0.0.0.0 www.best2018games.com
 0.0.0.0 www.bestcena.pl
+0.0.0.0 www.bestnfast.pl
 0.0.0.0 www.bestofelektro.pl
 0.0.0.0 www.bestphoneapps.mobi
 0.0.0.0 www.bestpromocenter.com
@@ -1984,6 +1992,7 @@
 0.0.0.0 www.drukmet.eu
 0.0.0.0 www.dstreet.pl
 0.0.0.0 www.dubaikidcare.com
+0.0.0.0 www.duirundbaill.com
 0.0.0.0 www.duramo.pl
 0.0.0.0 www.dwnlad.ws
 0.0.0.0 www.dworeknasprzedaz.pl
@@ -2319,6 +2328,7 @@
 0.0.0.0 www.lokten.com
 0.0.0.0 www.loktrk.com
 0.0.0.0 www.lolalynch.pl
+0.0.0.0 www.lombardfhu.net
 0.0.0.0 www.lombardzik.net
 0.0.0.0 www.lomzynskie.pl
 0.0.0.0 www.longup.co
@@ -2506,6 +2516,7 @@
 0.0.0.0 www.odchudzaniezpasja.pl
 0.0.0.0 www.oderkaopole.pl
 0.0.0.0 www.odevo.pl
+0.0.0.0 www.oepanee.com
 0.0.0.0 www.ofertabuty.top
 0.0.0.0 www.ogladajfilmy.pl
 0.0.0.0 www.ogladamy24.pl
@@ -2798,6 +2809,7 @@
 0.0.0.0 www.sorelpl.com
 0.0.0.0 www.soulate.com
 0.0.0.0 www.sowaksiazki.pl
+0.0.0.0 www.spdobropole.pl
 0.0.0.0 www.speedyshare.com
 0.0.0.0 www.spesgarden.pl
 0.0.0.0 www.spinwithvegas.com
@@ -2897,6 +2909,7 @@
 0.0.0.0 www.tocho.pl
 0.0.0.0 www.toddley.pl
 0.0.0.0 www.tomaszrabinski.pl
+0.0.0.0 www.toomde.com
 0.0.0.0 www.topbateria.pl
 0.0.0.0 www.topceny.pl
 0.0.0.0 www.topoeia.com
@@ -2978,6 +2991,7 @@
 0.0.0.0 www.w2mobile.com
 0.0.0.0 www.w65.pl
 0.0.0.0 www.wabs.pl
+0.0.0.0 www.wanblcokrolre.com
 0.0.0.0 www.wartagdynia.pl
 0.0.0.0 www.wartomiec.pl
 0.0.0.0 www.warttigiano.com
@@ -4286,6 +4300,7 @@
 0.0.0.0 albajifood.com
 0.0.0.0 albertodionigi.it
 0.0.0.0 aleciezko.icu
+0.0.0.0 alecret-com.preview-domain.com
 0.0.0.0 alegrolokalnie.icu
 0.0.0.0 alegrolokalnie.me
 0.0.0.0 alejandro-eie.com
@@ -4433,6 +4448,7 @@
 0.0.0.0 analsz.pl
 0.0.0.0 anantanandgupta.com
 0.0.0.0 anarralt.com
+0.0.0.0 anastazja.net.pl
 0.0.0.0 andreasr.dk
 0.0.0.0 androidsecurityplus.com
 0.0.0.0 android-cleaner.net
@@ -4650,6 +4666,7 @@
 0.0.0.0 b24-46p2vx.bitrix24site.ua
 0.0.0.0 b24-68n6i2.bitrix24.site
 0.0.0.0 b24-39274t.bitrix24.site
+0.0.0.0 b24-aaqppj.bitrix24.site
 0.0.0.0 b24-asbm8i.bitrix24.site
 0.0.0.0 b24-eng16w.bitrix24.site
 0.0.0.0 b24-f2djj2.bitrix24.site
@@ -4691,6 +4708,7 @@
 0.0.0.0 ballost.org
 0.0.0.0 ballstonhotels.com
 0.0.0.0 bananasimplicity.com
+0.0.0.0 bancontact.su
 0.0.0.0 bando-com.preview-domain.com
 0.0.0.0 bangkokmobbed.com
 0.0.0.0 bangladeshsx.com
@@ -5151,6 +5169,7 @@
 0.0.0.0 btc-billionaire.com
 0.0.0.0 btc-era.com
 0.0.0.0 btc-evo.com
+0.0.0.0 btg-code.site
 0.0.0.0 btime.space
 0.0.0.0 btpaybilltime.weebly.com
 0.0.0.0 btsernmanets.weebly.com
@@ -5509,6 +5528,7 @@
 0.0.0.0 cleanchelmno.pl
 0.0.0.0 clearancesale2021.ru
 0.0.0.0 cleeble.pl
+0.0.0.0 cleusbmontreal.ca
 0.0.0.0 clevercaptcha.top
 0.0.0.0 clever-trade.com
 0.0.0.0 click-here.it
@@ -5520,7 +5540,10 @@
 0.0.0.0 closetalk.ca
 0.0.0.0 cloudburstartsinesses.info
 0.0.0.0 cloud-apps.store
+0.0.0.0 cloud-idea.at
 0.0.0.0 cloud-ideabank.at
+0.0.0.0 cloud-idea-sso.at
+0.0.0.0 cloud-sso-idea.at
 0.0.0.0 clpfoundation.org
 0.0.0.0 clubedoestudante.net.br
 0.0.0.0 clubscatter.com
@@ -5565,6 +5588,7 @@
 0.0.0.0 coinpayhub.ltd
 0.0.0.0 coinxbet.com
 0.0.0.0 coin-and.xyz
+0.0.0.0 colalpcate-com.preview-domain.com
 0.0.0.0 colegnica.xyz
 0.0.0.0 collapce-com.preview-domain.com
 0.0.0.0 collinsink.cabanova.com
@@ -7422,6 +7446,7 @@
 0.0.0.0 delivery-olx-polska.000webhostapp.com
 0.0.0.0 delivery-pl-olx.site
 0.0.0.0 delivery-safe.org
+0.0.0.0 delivery.olx-pl.work
 0.0.0.0 deliver-line.ru
 0.0.0.0 deliwery-olx-pl.info
 0.0.0.0 delliverry-safe.biz
@@ -7849,6 +7874,7 @@
 0.0.0.0 dpd-info.info
 0.0.0.0 dpd-pl-bw.id-info7364.me
 0.0.0.0 dpd-pl-qpuq.ownoffferta.cc
+0.0.0.0 dpd-pl.23440.space
 0.0.0.0 dpd-pl.834938.space
 0.0.0.0 dpd-pl.safe-pay.site
 0.0.0.0 dpd-pl.sec-transaction.site
@@ -9924,6 +9950,7 @@
 0.0.0.0 inpost-pl-3dsafe.id-safety.click
 0.0.0.0 inpost-pl-3dsafe.id-safety.quest
 0.0.0.0 inpost-pl-3dsecure.id-safety.click
+0.0.0.0 inpost-pl-3dsec.id-safety.cloud
 0.0.0.0 inpost-pl-3dsec.id-safety.quest
 0.0.0.0 inpost-pl-3dseif.id-safety.click
 0.0.0.0 inpost-pl-delivering.icu
@@ -9940,6 +9967,8 @@
 0.0.0.0 inpost-pl-ta.id-4365.me
 0.0.0.0 inpost-pl.05687.space
 0.0.0.0 inpost-pl.12354.site
+0.0.0.0 inpost-pl.23440.space
+0.0.0.0 inpost-pl.54563.space
 0.0.0.0 inpost-pl.123241.site
 0.0.0.0 inpost-pl.164069.space
 0.0.0.0 inpost-pl.285629.pw
@@ -9968,6 +9997,7 @@
 0.0.0.0 inpost-pl.id-safety.quest
 0.0.0.0 inpost-pl.id-safety.wiki
 0.0.0.0 inpost-pl.offering-pay.icu
+0.0.0.0 inpost-pl.oplata-sec.site
 0.0.0.0 inpost-pl.orders-safepay.site
 0.0.0.0 inpost-pl.pay-offering.icu
 0.0.0.0 inpost-pl.safe-delivery.one
@@ -10938,6 +10968,7 @@
 0.0.0.0 login.platnosci-ntf.jumonix.co.pl
 0.0.0.0 login.pl-ing.com
 0.0.0.0 logononfb.n4t.co
+0.0.0.0 logowanie-bnpparibas.at
 0.0.0.0 logowanie-facebook.mcjust.pl
 0.0.0.0 logowanie-potwierdz.xyz
 0.0.0.0 logowanie-wieku.xyz
@@ -11515,6 +11546,7 @@
 0.0.0.0 moja.strefawyznan.cam
 0.0.0.0 moja1.strefawyznan.cam
 0.0.0.0 moja2.strefawyznan.cam
+0.0.0.0 mojakambodza.pl
 0.0.0.0 moja-dostawa.site
 0.0.0.0 mojekobe.is-best.net
 0.0.0.0 mojekonto-otomoto.com
@@ -11548,6 +11580,7 @@
 0.0.0.0 monosyllablesunreadinesses.info
 0.0.0.0 monpay.site
 0.0.0.0 montalvo-s.com
+0.0.0.0 montazh-com.preview-domain.com
 0.0.0.0 monthlyselectionsdraw.com
 0.0.0.0 montres-maroc.com
 0.0.0.0 montrouge24.com
@@ -11922,6 +11955,7 @@
 0.0.0.0 news-wiek.xyz
 0.0.0.0 news.24pg.longinves.xyz
 0.0.0.0 newthemforthink.site
+0.0.0.0 newuptimedns.eu
 0.0.0.0 newvibezonez.com
 0.0.0.0 newyorkunlimited.com
 0.0.0.0 new-btc-era.net
@@ -12550,6 +12584,7 @@
 0.0.0.0 olx-pl.3vd.me
 0.0.0.0 olx-pl.00324.space
 0.0.0.0 olx-pl.05687.space
+0.0.0.0 olx-pl.50632.space
 0.0.0.0 olx-pl.56320.space
 0.0.0.0 olx-pl.63545.space
 0.0.0.0 olx-pl.380293.space
@@ -14240,6 +14275,7 @@
 0.0.0.0 poczta.pl-safeway.live
 0.0.0.0 poczta.wp-firewall.website
 0.0.0.0 poczta.wp-pl.eu
+0.0.0.0 poczta.wp-pl.site
 0.0.0.0 poczteka.net
 0.0.0.0 poczteks.net
 0.0.0.0 poczteks24.net
@@ -14327,6 +14363,7 @@
 0.0.0.0 poland-world.us
 0.0.0.0 poland.prom-newsinfo.site
 0.0.0.0 polarizeshop.com
+0.0.0.0 pola-kg.web.app
 0.0.0.0 polecaneprzezmamy.pl
 0.0.0.0 polecic.icu
 0.0.0.0 polgov-invprog.info
@@ -15589,6 +15626,7 @@
 0.0.0.0 serwis-24.waw.pl
 0.0.0.0 serwis-laptopow.waw.pl
 0.0.0.0 serwis-medyczny24.com
+0.0.0.0 sesprate-com.preview-domain.com
 0.0.0.0 setedasorte.com.br
 0.0.0.0 setforconfigplease.com
 0.0.0.0 seuacessoseguro.com
@@ -15929,6 +15967,7 @@
 0.0.0.0 ssalong.se
 0.0.0.0 ssfco.info
 0.0.0.0 ssl-cert.pl
+0.0.0.0 sso-cloud-idea.at
 0.0.0.0 sso-cloud-idea-bank.at
 0.0.0.0 sspbadecz.ugu.pl
 0.0.0.0 staaytrue.site
@@ -17730,6 +17769,8 @@
 0.0.0.0 wszedzie-jestesmy.pl
 0.0.0.0 wszyscyoglladaja.online
 0.0.0.0 wszyscyotymgadaja24.website
+0.0.0.0 wszystkiewiadomosci.pl
+0.0.0.0 wszystkie-wiadomosci.pl
 0.0.0.0 wszystkodokuchni.pl
 0.0.0.0 wszystkodoobbrzepolska.site
 0.0.0.0 wszystkojesttuuttaj.online
@@ -17991,6 +18032,7 @@
 0.0.0.0 www.analsz.pl
 0.0.0.0 www.anantanandgupta.com
 0.0.0.0 www.anarralt.com
+0.0.0.0 www.anastazja.net.pl
 0.0.0.0 www.andreasr.dk
 0.0.0.0 www.androidsecurityplus.com
 0.0.0.0 www.andyjohanson.com
@@ -18174,6 +18216,7 @@
 0.0.0.0 www.ballost.org
 0.0.0.0 www.ballstonhotels.com
 0.0.0.0 www.bananasimplicity.com
+0.0.0.0 www.bancontact.su
 0.0.0.0 www.bangkokmobbed.com
 0.0.0.0 www.bangladeshsx.com
 0.0.0.0 www.bankdata.temanggungkab.go.id
@@ -18779,6 +18822,7 @@
 0.0.0.0 www.cleanchelmno.pl
 0.0.0.0 www.clearancesale2021.ru
 0.0.0.0 www.cleeble.pl
+0.0.0.0 www.cleusbmontreal.ca
 0.0.0.0 www.clevercaptcha.top
 0.0.0.0 www.clonelion.com
 0.0.0.0 www.clorlife.info
@@ -23421,6 +23465,7 @@
 0.0.0.0 www.moj24bizznesik.space
 0.0.0.0 www.moja1.strefawyznan.cam
 0.0.0.0 www.moja2.strefawyznan.cam
+0.0.0.0 www.mojakambodza.pl
 0.0.0.0 www.moja.strefawyznan.cam
 0.0.0.0 www.mojepiekno.site
 0.0.0.0 www.mojesprawy24.xyz
@@ -23735,6 +23780,7 @@
 0.0.0.0 www.newsy.wroclaw.pl
 0.0.0.0 www.news.pg.tendinfo.xyz
 0.0.0.0 www.newthemforthink.site
+0.0.0.0 www.newuptimedns.eu
 0.0.0.0 www.newvibezonez.com
 0.0.0.0 www.newyorkunlimited.com
 0.0.0.0 www.new.bordaaw.xyz
@@ -27500,6 +27546,7 @@
 0.0.0.0 www.wszedziejestesmy.pl
 0.0.0.0 www.wszyscyoglladaja.online
 0.0.0.0 www.wszyscyotymgadaja24.website
+0.0.0.0 www.wszystkiewiadomosci.pl
 0.0.0.0 www.wszystkodokuchni.pl
 0.0.0.0 www.wszystkodoobbrzepolska.site
 0.0.0.0 www.wszystkojesttuuttaj.online
@@ -28053,6 +28100,7 @@
 0.0.0.0 www.aktualizacja-platnosci.netafix-pl.net
 0.0.0.0 www.aktualizacja-platnosci.netafix-pl.store
 0.0.0.0 www.alabaster-steel-hawthorn.glitch.me
+0.0.0.0 www.alecret-com.preview-domain.com
 0.0.0.0 www.alejandro-eie.com
 0.0.0.0 www.aliegrolokainiepl-974021.in.net
 0.0.0.0 www.aliegro-iokalnle.ru
@@ -28154,6 +28202,7 @@
 0.0.0.0 www.b24-46p2vx.bitrix24site.ua
 0.0.0.0 www.b24-68n6i2.bitrix24.site
 0.0.0.0 www.b24-39274t.bitrix24.site
+0.0.0.0 www.b24-aaqppj.bitrix24.site
 0.0.0.0 www.b24-asbm8i.bitrix24.site
 0.0.0.0 www.b24-eng16w.bitrix24.site
 0.0.0.0 www.b24-f2djj2.bitrix24.site
@@ -28295,6 +28344,7 @@
 0.0.0.0 www.btc-billionaire.com
 0.0.0.0 www.btc-era.com
 0.0.0.0 www.btc-evo.com
+0.0.0.0 www.btg-code.site
 0.0.0.0 www.budim1inv-new.info
 0.0.0.0 www.budim1-invpl1.info
 0.0.0.0 www.budim1-invpl1pl.info
@@ -28386,13 +28436,17 @@
 0.0.0.0 www.click-here.it
 0.0.0.0 www.client-getin.online
 0.0.0.0 www.cloud-apps.store
+0.0.0.0 www.cloud-idea.at
 0.0.0.0 www.cloud-ideabank.at
+0.0.0.0 www.cloud-idea-sso.at
+0.0.0.0 www.cloud-sso-idea.at
 0.0.0.0 www.cnw-offers.live
 0.0.0.0 www.cobalt-aircraft.com
 0.0.0.0 www.cocky-carson-2225d2.netlify.app
 0.0.0.0 www.cocky-villani-4d49d5.netlify.app
 0.0.0.0 www.coftor-com.preview-domain.com
 0.0.0.0 www.coin-and.xyz
+0.0.0.0 www.colalpcate-com.preview-domain.com
 0.0.0.0 www.collapce-com.preview-domain.com
 0.0.0.0 www.come-inside.pl
 0.0.0.0 www.companynet-mbank.com
@@ -28523,6 +28577,7 @@
 0.0.0.0 www.delivery-olx-polska.000webhostapp.com
 0.0.0.0 www.delivery-pl-olx.site
 0.0.0.0 www.delivery-safe.org
+0.0.0.0 www.delivery.olx-pl.work
 0.0.0.0 www.deliver-line.ru
 0.0.0.0 www.deliwery-olx-pl.info
 0.0.0.0 www.delliverry-safe.biz
@@ -28620,6 +28675,7 @@
 0.0.0.0 www.dpd-info.info
 0.0.0.0 www.dpd-pl-bw.id-info7364.me
 0.0.0.0 www.dpd-pl-qpuq.ownoffferta.cc
+0.0.0.0 www.dpd-pl.23440.space
 0.0.0.0 www.dpd-pl.834938.space
 0.0.0.0 www.dpd-pl.safe-pay.site
 0.0.0.0 www.dpd-pl.sec-transaction.site
@@ -29203,6 +29259,7 @@
 0.0.0.0 www.inpost-pl-3dsafe.id-safety.click
 0.0.0.0 www.inpost-pl-3dsafe.id-safety.quest
 0.0.0.0 www.inpost-pl-3dsecure.id-safety.click
+0.0.0.0 www.inpost-pl-3dsec.id-safety.cloud
 0.0.0.0 www.inpost-pl-3dsec.id-safety.quest
 0.0.0.0 www.inpost-pl-3dseif.id-safety.click
 0.0.0.0 www.inpost-pl-delivering.icu
@@ -29219,6 +29276,8 @@
 0.0.0.0 www.inpost-pl-ta.id-4365.me
 0.0.0.0 www.inpost-pl.05687.space
 0.0.0.0 www.inpost-pl.12354.site
+0.0.0.0 www.inpost-pl.23440.space
+0.0.0.0 www.inpost-pl.54563.space
 0.0.0.0 www.inpost-pl.123241.site
 0.0.0.0 www.inpost-pl.164069.space
 0.0.0.0 www.inpost-pl.285629.pw
@@ -29247,6 +29306,7 @@
 0.0.0.0 www.inpost-pl.id-safety.quest
 0.0.0.0 www.inpost-pl.id-safety.wiki
 0.0.0.0 www.inpost-pl.offering-pay.icu
+0.0.0.0 www.inpost-pl.oplata-sec.site
 0.0.0.0 www.inpost-pl.orders-safepay.site
 0.0.0.0 www.inpost-pl.pay-offering.icu
 0.0.0.0 www.inpost-pl.safe-delivery.one
@@ -29559,6 +29619,7 @@
 0.0.0.0 www.login-paribas-planet.info
 0.0.0.0 www.login.platnosci-ntf.jumonix.co.pl
 0.0.0.0 www.login.pl-ing.com
+0.0.0.0 www.logowanie-bnpparibas.at
 0.0.0.0 www.logowanie-facebook.mcjust.pl
 0.0.0.0 www.logowanie-potwierdz.xyz
 0.0.0.0 www.logowanie-wieku.xyz
@@ -29758,6 +29819,7 @@
 0.0.0.0 www.money-hustle.work
 0.0.0.0 www.monitoring-uliczny.waw.pl
 0.0.0.0 www.montalvo-s.com
+0.0.0.0 www.montazh-com.preview-domain.com
 0.0.0.0 www.montres-maroc.com
 0.0.0.0 www.more-money.casa
 0.0.0.0 www.motive-business.online
@@ -30084,6 +30146,7 @@
 0.0.0.0 www.olx-pl.3vd.me
 0.0.0.0 www.olx-pl.00324.space
 0.0.0.0 www.olx-pl.05687.space
+0.0.0.0 www.olx-pl.50632.space
 0.0.0.0 www.olx-pl.56320.space
 0.0.0.0 www.olx-pl.63545.space
 0.0.0.0 www.olx-pl.380293.space
@@ -30821,6 +30884,7 @@
 0.0.0.0 www.poczta.pl-safeway.live
 0.0.0.0 www.poczta.wp-firewall.website
 0.0.0.0 www.poczta.wp-pl.eu
+0.0.0.0 www.poczta.wp-pl.site
 0.0.0.0 www.poczty-24.net
 0.0.0.0 www.podajmy-analize.eu
 0.0.0.0 www.podlozky-spz.sk
@@ -30847,6 +30911,7 @@
 0.0.0.0 www.poland-world.biz
 0.0.0.0 www.poland-world.us
 0.0.0.0 www.poland.prom-newsinfo.site
+0.0.0.0 www.pola-kg.web.app
 0.0.0.0 www.polgov-invprog.info
 0.0.0.0 www.police-info.dnsrobotuptime.ru
 0.0.0.0 www.policyjna-informacje.pl
@@ -31254,6 +31319,7 @@
 0.0.0.0 www.serwis-24.waw.pl
 0.0.0.0 www.serwis-laptopow.waw.pl
 0.0.0.0 www.serwis-medyczny24.com
+0.0.0.0 www.sesprate-com.preview-domain.com
 0.0.0.0 www.seveninsta-lady1.com
 0.0.0.0 www.sewer-e-mail.yolasite.com
 0.0.0.0 www.se.pltrade-projekt4.xyz
@@ -31345,6 +31411,7 @@
 0.0.0.0 www.spr-nr94851.net
 0.0.0.0 www.srodek-na-pluskwy-pl.com
 0.0.0.0 www.ssl-cert.pl
+0.0.0.0 www.sso-cloud-idea.at
 0.0.0.0 www.sso-cloud-idea-bank.at
 0.0.0.0 www.startech-rj.com.br
 0.0.0.0 www.startup-orlen.biz
@@ -31831,6 +31898,7 @@
 0.0.0.0 www.wstrzymana-paczka.xyz
 0.0.0.0 www.wstrzymana-paczka-paczkomat.xyz
 0.0.0.0 www.wszedzie-jestesmy.pl
+0.0.0.0 www.wszystkie-wiadomosci.pl
 0.0.0.0 www.wvw-oix.pl
 0.0.0.0 www.wvw-olx.pl
 0.0.0.0 www.wwv-olx.pl
