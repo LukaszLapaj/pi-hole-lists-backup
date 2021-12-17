@@ -1,5 +1,5 @@
 # Title: Smart-TV Blocklist for Pi-hole
-# Version: 10July2021v1
+# Version: 15December2021v1
 # Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 # Please help with collecting domains!
 # It could occur that the TV fails to receive new updates, or that other apps or services no longer work. Please report such an incident.
@@ -98,7 +98,7 @@ smartshare.lgtvsdp.com
 us.ad.lgsmartad.com
 us.ibs.lgappstv.com
 us.info.lgsmartad.com
-us.lgtvsdp.com
+#us.lgtvsdp.com # #117
 us.rdx2.lgtvsdp.com
 yumenetworks.com
 aic-ngfts.lge.com
@@ -125,7 +125,6 @@ connecttv.pelmorex.com # weather app tracking
 Coordinator-Production-28516768.us-east-1.elb.amazonaws.com
 cpu.samsungelectronics.com
 d179kwmlpc4o47.cloudfront.net
-d179kwmlpc4o47.cloudfront.net
 d1jwpcr0q4pcq0.cloudfront.net
 d1oxlq5h9kq8q5.cloudfront.net # app icons in samsung app store
 d2tnx644ijgq6i.cloudfront.net
@@ -137,7 +136,7 @@ fkp.samsungcloudsolution.com
 fkp.samsungcloudsolution.net
 game.internetat.tv
 gld.samsungosp.com
-gpm.samsungqbe.com
+#gpm.samsungqbe.com # Numerous connection problems, e.g. #82
 i-stream.pl
 log-1.samsungacr.com
 log-2.samsungacr.com
@@ -190,16 +189,13 @@ zpu.samsungelectronics.com
 xpu.samsungelectronics.com
 ypu.samsungelectronics.com
 vd.contents.prod.eu.s3.amazonaws.com
-log-ingestion-eu.samsungacr.com
 data.arqiva.tv
 cloud.arqiva.tv
-ad.samsungadhub.com
 ads.aimitv.com
-d37ju0xanoz6gh.cloudfront.net
-rd.samsungadhub.com
-samsungadhub.com
 samsungads.com
 gamespromotion.samsungcloudsolution.com
+# https://github.com/Perflyst/PiHoleBlocklist/issues/112
+tvx.adgrx.com
 #auth.samsungosp.com # if blocked, samsung accounts will fail to authenticate
 #cdn.samsungcloudsolution.com # System update check on Samsung UE40F5500
 #infolink.pavv.co.kr # Needed for appstore and login on Samsung UE40F5500
@@ -261,7 +257,6 @@ advertising.com
 #apicache.vudu.com # needed for Vudu's app, see issue22
 cdn.smartclip.net
 #cdns-content.dzcdn.net # https://oisd.nl/excludes.php?w=cdns-content.dzcdn.net
-cert-test.sandbox.google.com
 database01p.anixe.net
 de.ioam.de
 #drscdn.500px.org # blocks 500px on desktop
@@ -343,3 +338,7 @@ mitv.tracking.intl.miui.com
 tracking.intl.miui.com
 data.mistat.intl.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
+
+# Android TV (including Nvidia Shield TV)
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
