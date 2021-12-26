@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Fri, 24 Dec 2021, 23:10 UTC+01
-# Version: 2021.12.24.3
+# Last modified: Sat, 25 Dec 2021, 23:09 UTC+01
+# Version: 2021.12.25.3
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4351,10 +4351,12 @@
 0.0.0.0 allegrolokalnie-pl-3dsec.dostawa-ids.xyz
 0.0.0.0 allegrolokalnie-pl-3dseif.clear-id.xyz
 0.0.0.0 allegrolokalnie-pl-3dseif.dostawa-id.live
+0.0.0.0 allegrolokalnie-pl-cybersec.clear-dostawa.xyz
 0.0.0.0 allegrolokalnie-pl-safe.dostawa-safe.today
 0.0.0.0 allegrolokalnie-pl-safe.id-safety.eu
 0.0.0.0 allegrolokalnie-pl.dostawa-safe.today
 0.0.0.0 allegrolokalnie.75843.space
+0.0.0.0 allegrolokalnie.83432.space
 0.0.0.0 allegrolokalnie.939689.space
 0.0.0.0 allegrolokalnie.ordering-parcelinfo.xyz
 0.0.0.0 allegrolokalnii.digital
@@ -4380,6 +4382,7 @@
 0.0.0.0 allegro-m.pl
 0.0.0.0 allegro-pl.lokalnie.digital
 0.0.0.0 allegro-pl-7e2a33.ingress-daribow.easywp.com
+0.0.0.0 allegro-pl.jgax-ord512.sbs
 0.0.0.0 allegro-pl.pols-oiue.sbs
 0.0.0.0 allegro-pl.ustawienie-dostawy.sbs
 0.0.0.0 allegro-pl.zakupy-internetowe.click
@@ -5614,6 +5617,7 @@
 0.0.0.0 chattesla.dexatiam.xyz
 0.0.0.0 chaveiroemgoiania.com
 0.0.0.0 chavoso.tgamesandroid.com
+0.0.0.0 chayotesdealtura.com
 0.0.0.0 chcemyschudnac.pl
 0.0.0.0 chckmailabig32.web.app
 0.0.0.0 cheap.cheaps2021.ru
@@ -8172,6 +8176,8 @@
 0.0.0.0 dpd.formularz.fun
 0.0.0.0 dpdpickuq.top
 0.0.0.0 dpdpi.dostawa-polska-789436532.xyz
+0.0.0.0 dpdpl-info.informationabout-parcelpl.xyz
+0.0.0.0 dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 dpdpl.dostawa-obdior-9874536.xyz
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 dpdpoland.orderingdlvry-courierpoland.xyz
@@ -8871,6 +8877,7 @@
 0.0.0.0 facelessinseattle.com
 0.0.0.0 facewatch.borec.cz
 0.0.0.0 factosphere.com
+0.0.0.0 faecbook.ct8.pl
 0.0.0.0 failmobile.net
 0.0.0.0 faino.xyz
 0.0.0.0 fairandwhiteboutique.com
@@ -10519,6 +10526,7 @@
 0.0.0.0 inpostpl.pwerew24.icu
 0.0.0.0 inpostpl.44112-online.sbs
 0.0.0.0 inpostpl.dostawa-go5152.best
+0.0.0.0 inpostpl.ho-tiq.store
 0.0.0.0 inpostpl.konto24-serwis.space
 0.0.0.0 inpostpl.kontonline-me5125.icu
 0.0.0.0 inpostpl.konto-klasyczne.sbs
@@ -10557,6 +10565,7 @@
 0.0.0.0 inpost-i.id-9843.me
 0.0.0.0 inpost-lgye.id-845.me
 0.0.0.0 inpost-mobile.pl
+0.0.0.0 inpost-oferta.accept77.me
 0.0.0.0 inpost-oferta.su
 0.0.0.0 inpost-oplata.site
 0.0.0.0 inpost-o.id-9843.me
@@ -11703,6 +11712,7 @@
 0.0.0.0 libyunge.com
 0.0.0.0 licencjar.icu
 0.0.0.0 licencjarozkosz.site
+0.0.0.0 lideroxigenio.com.br.deltagases.com.br
 0.0.0.0 lidi.pl
 0.0.0.0 lifanpower.pl
 0.0.0.0 life1maxi.xyz
@@ -11800,6 +11810,7 @@
 0.0.0.0 lnpost.buyplatform-infome.xyz
 0.0.0.0 lnpost.custompl-shipping.xyz
 0.0.0.0 lnpost.kontogivecash-inform.space
+0.0.0.0 lnpost.money-orderinfo.xyz
 0.0.0.0 lnpost.paysell-inform.xyz
 0.0.0.0 lnpost.pl-16290125.xyz
 0.0.0.0 lnstagram.pp.ru
@@ -11817,6 +11828,7 @@
 0.0.0.0 loere.capitalnoster.site
 0.0.0.0 log.majyw.atthost24.pl
 0.0.0.0 logcivil.com
+0.0.0.0 logic.c55.com.au
 0.0.0.0 login.alleor.sbs
 0.0.0.0 login.microsoftorline.com
 0.0.0.0 login.ntf.wojtek.co.pl
@@ -12863,6 +12875,7 @@
 0.0.0.0 ndeloxfilms.com
 0.0.0.0 ndpd.id-093578.me
 0.0.0.0 neatlif.com
+0.0.0.0 nebenam-com.preview-domain.com
 0.0.0.0 nebertole-site.preview-domain.com
 0.0.0.0 nebeska.xyz
 0.0.0.0 nebula-9.com
@@ -13788,6 +13801,7 @@
 0.0.0.0 olx.9494854.space
 0.0.0.0 olx.com-id381949.xyz
 0.0.0.0 olx.custom-packageinfobiz.space
+0.0.0.0 olx.distributionfundspl-ptr.xyz
 0.0.0.0 olx.dostawa-orders.casa
 0.0.0.0 olx.dostawa-secure.com
 0.0.0.0 olx.get-pl.shop
@@ -13810,6 +13824,8 @@
 0.0.0.0 olx.pl-gotpaid.icu
 0.0.0.0 olx.pl-gotpays.cyou
 0.0.0.0 olx.pl-gotpays.icu
+0.0.0.0 olx.pl-id777654.icu
+0.0.0.0 olx.pl-id877654.icu
 0.0.0.0 olx.pl-m-informacja.cyou
 0.0.0.0 olx.pl-m-informacja.icu
 0.0.0.0 olx.pl-m-informacja.info
@@ -15041,6 +15057,7 @@
 0.0.0.0 pikirankitooyamang.co.vu
 0.0.0.0 pikirankitooyamang.tarungdrajatsiokalama.com
 0.0.0.0 pikiranmsjsdg.co.vu
+0.0.0.0 pikonto.com
 0.0.0.0 pilkarskikup.com
 0.0.0.0 pilkarskisklep.com
 0.0.0.0 pillyways.xyz
@@ -15055,7 +15072,6 @@
 0.0.0.0 pinkstar.pl
 0.0.0.0 pinkvod.pl
 0.0.0.0 pinkypants.top
-0.0.0.0 pinnaclepolska.com
 0.0.0.0 pinpey.net
 0.0.0.0 pinspey.net
 0.0.0.0 pinvazo.com
@@ -20680,6 +20696,7 @@
 0.0.0.0 www.chat.dexatiam.xyz
 0.0.0.0 www.chaveiroemgoiania.com
 0.0.0.0 www.chavoso.tgamesandroid.com
+0.0.0.0 www.chayotesdealtura.com
 0.0.0.0 www.chcemyschudnac.pl
 0.0.0.0 www.chckmailabig32.web.app
 0.0.0.0 www.cheap.cheaps2021.ru
@@ -23479,6 +23496,7 @@
 0.0.0.0 www.facelessinseattle.com
 0.0.0.0 www.facewatch.borec.cz
 0.0.0.0 www.factosphere.com
+0.0.0.0 www.faecbook.ct8.pl
 0.0.0.0 www.failmobile.net
 0.0.0.0 www.faino.xyz
 0.0.0.0 www.fairandwhiteboutique.com
@@ -25376,6 +25394,7 @@
 0.0.0.0 www.libyunge.com
 0.0.0.0 www.licencjarozkosz.site
 0.0.0.0 www.licencjar.icu
+0.0.0.0 www.lideroxigenio.com.br.deltagases.com.br
 0.0.0.0 www.lidi.pl
 0.0.0.0 www.lifanpower.pl
 0.0.0.0 www.life1maxi.xyz
@@ -25465,6 +25484,7 @@
 0.0.0.0 www.lodzi.store
 0.0.0.0 www.loere.capitalnoster.site
 0.0.0.0 www.logcivil.com
+0.0.0.0 www.logic.c55.com.au
 0.0.0.0 www.loginauthui.website.yandexcloud.net
 0.0.0.0 www.logintofb.tcp4.me
 0.0.0.0 www.login.alleor.sbs
@@ -27564,6 +27584,7 @@
 0.0.0.0 www.pikirankitooyamang.co.vu
 0.0.0.0 www.pikirankitooyamang.tarungdrajatsiokalama.com
 0.0.0.0 www.pikiranmsjsdg.co.vu
+0.0.0.0 www.pikonto.com
 0.0.0.0 www.pilkarskikup.com
 0.0.0.0 www.pilkarskisklep.com
 0.0.0.0 www.pillyways.xyz
@@ -27577,7 +27598,6 @@
 0.0.0.0 www.pinkstar.pl
 0.0.0.0 www.pinkvod.pl
 0.0.0.0 www.pinkypants.top
-0.0.0.0 www.pinnaclepolska.com
 0.0.0.0 www.pinpey.net
 0.0.0.0 www.pinspey.net
 0.0.0.0 www.pinvazo.com
@@ -31388,10 +31408,12 @@
 0.0.0.0 www.allegrolokalnie-pl-3dsec.dostawa-ids.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dseif.clear-id.xyz
 0.0.0.0 www.allegrolokalnie-pl-3dseif.dostawa-id.live
+0.0.0.0 www.allegrolokalnie-pl-cybersec.clear-dostawa.xyz
 0.0.0.0 www.allegrolokalnie-pl-safe.dostawa-safe.today
 0.0.0.0 www.allegrolokalnie-pl-safe.id-safety.eu
 0.0.0.0 www.allegrolokalnie-pl.dostawa-safe.today
 0.0.0.0 www.allegrolokalnie.75843.space
+0.0.0.0 www.allegrolokalnie.83432.space
 0.0.0.0 www.allegrolokalnie.939689.space
 0.0.0.0 www.allegrolokalnie.ordering-parcelinfo.xyz
 0.0.0.0 www.allegro-ajk.id-4391.me
@@ -31412,6 +31434,7 @@
 0.0.0.0 www.allegro-m.pl
 0.0.0.0 www.allegro-pl.lokalnie.digital
 0.0.0.0 www.allegro-pl-7e2a33.ingress-daribow.easywp.com
+0.0.0.0 www.allegro-pl.jgax-ord512.sbs
 0.0.0.0 www.allegro-pl.pols-oiue.sbs
 0.0.0.0 www.allegro-pl.ustawienie-dostawy.sbs
 0.0.0.0 www.allegro-pl.zakupy-internetowe.click
@@ -31985,6 +32008,8 @@
 0.0.0.0 www.do-kuchni.com
 0.0.0.0 www.do-oddania.waw.pl
 0.0.0.0 www.dpdpi.dostawa-polska-789436532.xyz
+0.0.0.0 www.dpdpl-info.informationabout-parcelpl.xyz
+0.0.0.0 www.dpdpl-info.myparcel-orderinfo.xyz
 0.0.0.0 www.dpdpl.dostawa-obdior-9874536.xyz
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpoland.orderingdlvry-courierpoland.xyz
@@ -32619,6 +32644,7 @@
 0.0.0.0 www.inposta-site.pw
 0.0.0.0 www.inpostpl.44112-online.sbs
 0.0.0.0 www.inpostpl.dostawa-go5152.best
+0.0.0.0 www.inpostpl.ho-tiq.store
 0.0.0.0 www.inpostpl.konto24-serwis.space
 0.0.0.0 www.inpostpl.kontonline-me5125.icu
 0.0.0.0 www.inpostpl.konto-klasyczne.sbs
@@ -32657,6 +32683,7 @@
 0.0.0.0 www.inpost-i.id-9843.me
 0.0.0.0 www.inpost-lgye.id-845.me
 0.0.0.0 www.inpost-mobile.pl
+0.0.0.0 www.inpost-oferta.accept77.me
 0.0.0.0 www.inpost-oferta.su
 0.0.0.0 www.inpost-oplata.site
 0.0.0.0 www.inpost-o.id-9843.me
@@ -33134,6 +33161,7 @@
 0.0.0.0 www.lnpost.buyplatform-infome.xyz
 0.0.0.0 www.lnpost.custompl-shipping.xyz
 0.0.0.0 www.lnpost.kontogivecash-inform.space
+0.0.0.0 www.lnpost.money-orderinfo.xyz
 0.0.0.0 www.lnpost.paysell-inform.xyz
 0.0.0.0 www.lnpost.pl-16290125.xyz
 0.0.0.0 www.locator-fmi.us
@@ -33428,6 +33456,7 @@
 0.0.0.0 www.natural-creeper.xyz
 0.0.0.0 www.na-drodze.waw.pl
 0.0.0.0 www.ndpd.id-093578.me
+0.0.0.0 www.nebenam-com.preview-domain.com
 0.0.0.0 www.nebertole-site.preview-domain.com
 0.0.0.0 www.nebula-9.com
 0.0.0.0 www.negerti-com.preview-domain.com
@@ -33804,6 +33833,7 @@
 0.0.0.0 www.olx.9494854.space
 0.0.0.0 www.olx.com-id381949.xyz
 0.0.0.0 www.olx.custom-packageinfobiz.space
+0.0.0.0 www.olx.distributionfundspl-ptr.xyz
 0.0.0.0 www.olx.dostawa-orders.casa
 0.0.0.0 www.olx.dostawa-secure.com
 0.0.0.0 www.olx.get-pl.shop
@@ -33826,6 +33856,8 @@
 0.0.0.0 www.olx.pl-gotpaid.icu
 0.0.0.0 www.olx.pl-gotpays.cyou
 0.0.0.0 www.olx.pl-gotpays.icu
+0.0.0.0 www.olx.pl-id777654.icu
+0.0.0.0 www.olx.pl-id877654.icu
 0.0.0.0 www.olx.pl-m-informacja.cyou
 0.0.0.0 www.olx.pl-m-informacja.icu
 0.0.0.0 www.olx.pl-m-informacja.info
