@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 26 Feb 2022, 09:23 UTC+01
-# Version: 2022.2.26.0
+# Last modified: Sun, 27 Feb 2022, 09:23 UTC+01
+# Version: 2022.2.27.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4873,6 +4873,7 @@
 0.0.0.0 allegrolokalnie.398543.pw
 0.0.0.0 allegrolokalnie.ordering-parcelinfo.xyz
 0.0.0.0 allegrolokalnii.digital
+0.0.0.0 allegromall.co
 0.0.0.0 allegropay08.info
 0.0.0.0 allegropayu.com
 0.0.0.0 allegrosmart.net
@@ -5058,6 +5059,7 @@
 0.0.0.0 appendixleash.info
 0.0.0.0 appguruspot.online
 0.0.0.0 appieid-apple.com
+0.0.0.0 appieid-find.com
 0.0.0.0 appie.com-id-my.com
 0.0.0.0 appiq.mobi
 0.0.0.0 appi-security.com
@@ -5066,6 +5068,7 @@
 0.0.0.0 appleid-account.com
 0.0.0.0 appleid-map.com
 0.0.0.0 appleid.com-local-id.com
+0.0.0.0 appleinfo.support
 0.0.0.0 appleking.pl
 0.0.0.0 appleservicess.live
 0.0.0.0 applesofgoldretail.com
@@ -6748,6 +6751,7 @@
 0.0.0.0 course-program.us
 0.0.0.0 course-project.biz
 0.0.0.0 courtiersdequartier.com
+0.0.0.0 covercarforyourself.com
 0.0.0.0 covergt.com
 0.0.0.0 covid19-gov.info
 0.0.0.0 covidboxtest.com
@@ -11869,7 +11873,9 @@
 0.0.0.0 inpostpl.gopasj1.me
 0.0.0.0 inpostpl.gor1bak1pio.shop
 0.0.0.0 inpostpl.gorbakpio.com
+0.0.0.0 inpostpl.iruy5bvsx.com
 0.0.0.0 inpostpl.joqpwi41y2.click
+0.0.0.0 inpostpl.kg0rdan1.com
 0.0.0.0 inpostpl.khdjswi22.com
 0.0.0.0 inpostpl.lokawuty.click
 0.0.0.0 inpostpl.makopwer.com
@@ -11891,6 +11897,7 @@
 0.0.0.0 inpostpl.dhej-holy.xyz
 0.0.0.0 inpostpl.domoy-dost.com
 0.0.0.0 inpostpl.foiuq-iq.com
+0.0.0.0 inpostpl.fun-dusz.com
 0.0.0.0 inpostpl.gwart1ja-dos1t2awy.com
 0.0.0.0 inpostpl.konto24-serwis.space
 0.0.0.0 inpostpl.konto-klasyczne.sbs
@@ -11998,6 +12005,7 @@
 0.0.0.0 inpost-pl.534673.xyz
 0.0.0.0 inpost-pl.548131.xyz
 0.0.0.0 inpost-pl.623141.xyz
+0.0.0.0 inpost-pl.643512.space
 0.0.0.0 inpost-pl.651534.xyz
 0.0.0.0 inpost-pl.682367.live
 0.0.0.0 inpost-pl.713262.xyz
@@ -12099,6 +12107,7 @@
 0.0.0.0 inpost.order-pl.art
 0.0.0.0 inpost.pay-058747.xyz
 0.0.0.0 inpost.pl-basederecom.pw
+0.0.0.0 inpost.pl-box15.eu
 0.0.0.0 inpost.pl-dostawa.life
 0.0.0.0 inpost.pl-dostawa.live
 0.0.0.0 inpost.pl-dostawa.shop
@@ -12113,6 +12122,7 @@
 0.0.0.0 inpost.pl-paidcash.icu
 0.0.0.0 inpost.pl-payment.link
 0.0.0.0 inpost.pl-pays.icu
+0.0.0.0 inpost.pl-produkt3.eu
 0.0.0.0 inpost.pl-safe.shop
 0.0.0.0 inpost.pl-safeorder.live
 0.0.0.0 inpost.pl-safeway.cash
@@ -12445,6 +12455,7 @@
 0.0.0.0 i-filmy.pl
 0.0.0.0 i-inpost.polska24-dostawa24.shop
 0.0.0.0 i-ksiazka.pl
+0.0.0.0 i-npost.bankdetails-pl.xyz
 0.0.0.0 i-podgladacz.pl
 0.0.0.0 i.ua-passport.space
 0.0.0.0 j0wsoc.webwave.dev
@@ -13944,6 +13955,7 @@
 0.0.0.0 martanggukikan.tarungdrajatsiokalama.com
 0.0.0.0 martenspolska.co
 0.0.0.0 martenswyprzedaz.com
+0.0.0.0 martensywarszawa.com
 0.0.0.0 martgetitei0.info
 0.0.0.0 martgetituy3.info
 0.0.0.0 martgitao1.info
@@ -14856,6 +14868,7 @@
 0.0.0.0 newsy-onet-74457966795.azureedge.net
 0.0.0.0 newsy-onet-79807026429.azureedge.net
 0.0.0.0 newsy-tygodnia.waw.pl
+0.0.0.0 newsy-wp-82730712497.azureedge.net
 0.0.0.0 news-biznes.waw.pl
 0.0.0.0 news-bussnse.info
 0.0.0.0 news-deck.at
@@ -14864,6 +14877,7 @@
 0.0.0.0 news-l.info
 0.0.0.0 news-ltspl.info
 0.0.0.0 news-newsweek-35675452855.azureedge.net
+0.0.0.0 news-o2-41886677262.azureedge.net
 0.0.0.0 news-onet.pl
 0.0.0.0 news-orlen.biz
 0.0.0.0 news-orlen.us
@@ -18802,6 +18816,7 @@
 0.0.0.0 rakingautotypy.positivisticrivalling.com
 0.0.0.0 ral.ralt.site
 0.0.0.0 ralphlauren-polska.pl
+0.0.0.0 ranamod.xyz
 0.0.0.0 randewoo.ir
 0.0.0.0 randkiero.date
 0.0.0.0 randomarm.info
@@ -19167,6 +19182,7 @@
 0.0.0.0 royaltrend.pl
 0.0.0.0 royal-p.web.app
 0.0.0.0 royal-trades.com
+0.0.0.0 rozasvillage.com
 0.0.0.0 rozbic-alkohol.site
 0.0.0.0 rozbij-bank.click
 0.0.0.0 rozbiterodzinyzkraju.cyou
@@ -20669,6 +20685,7 @@
 0.0.0.0 teasvoi.online
 0.0.0.0 teatrkuffer.pl
 0.0.0.0 tecchgigo.com
+0.0.0.0 techalyans.ru
 0.0.0.0 techcentretraining.com
 0.0.0.0 techepedia.com
 0.0.0.0 techiwant.com
@@ -21946,6 +21963,7 @@
 0.0.0.0 wangparty.com
 0.0.0.0 wangxg.com
 0.0.0.0 wankingplace.com
+0.0.0.0 wansoter.uno
 0.0.0.0 want2learngerman.com
 0.0.0.0 wapster.malutki.pl
 0.0.0.0 wapster.pl
@@ -22934,6 +22952,7 @@
 0.0.0.0 www.allegrolokalnie.work
 0.0.0.0 www.allegrolokalnii.digital
 0.0.0.0 www.allegrolokal.online
+0.0.0.0 www.allegromall.co
 0.0.0.0 www.allegropay08.info
 0.0.0.0 www.allegropayu.com
 0.0.0.0 www.allegrosmart.net
@@ -23076,6 +23095,7 @@
 0.0.0.0 www.append.pl
 0.0.0.0 www.appguruspot.online
 0.0.0.0 www.appiq.mobi
+0.0.0.0 www.appleinfo.support
 0.0.0.0 www.appleking.pl
 0.0.0.0 www.appleservicess.live
 0.0.0.0 www.applesofgoldretail.com
@@ -24290,6 +24310,7 @@
 0.0.0.0 www.courseproject.biz
 0.0.0.0 www.courseproject.us
 0.0.0.0 www.courtiersdequartier.com
+0.0.0.0 www.covercarforyourself.com
 0.0.0.0 www.covergt.com
 0.0.0.0 www.covidboxtest.com
 0.0.0.0 www.covidpagos.xyz
@@ -28294,7 +28315,9 @@
 0.0.0.0 www.inpostpl.gopasj1.me
 0.0.0.0 www.inpostpl.gor1bak1pio.shop
 0.0.0.0 www.inpostpl.gorbakpio.com
+0.0.0.0 www.inpostpl.iruy5bvsx.com
 0.0.0.0 www.inpostpl.joqpwi41y2.click
+0.0.0.0 www.inpostpl.kg0rdan1.com
 0.0.0.0 www.inpostpl.khdjswi22.com
 0.0.0.0 www.inpostpl.lokawuty.click
 0.0.0.0 www.inpostpl.makopwer.com
@@ -29553,6 +29576,7 @@
 0.0.0.0 www.martanggukikan.tarungdrajatsiokalama.com
 0.0.0.0 www.martenspolska.co
 0.0.0.0 www.martenswyprzedaz.com
+0.0.0.0 www.martensywarszawa.com
 0.0.0.0 www.martgetitei0.info
 0.0.0.0 www.martgetituy3.info
 0.0.0.0 www.martgitao1.info
@@ -32308,6 +32332,7 @@
 0.0.0.0 www.raitravag.tk
 0.0.0.0 www.rakingautotypy.positivisticrivalling.com
 0.0.0.0 www.ral.ralt.site
+0.0.0.0 www.ranamod.xyz
 0.0.0.0 www.randewoo.ir
 0.0.0.0 www.randkiero.date
 0.0.0.0 www.randomarm.info
@@ -32600,6 +32625,7 @@
 0.0.0.0 www.royalcapitalinvestment.com
 0.0.0.0 www.royalearn.pl
 0.0.0.0 www.royaltrend.pl
+0.0.0.0 www.rozasvillage.com
 0.0.0.0 www.rozbiterodzinyzkraju.cyou
 0.0.0.0 www.rozmowywtokku.site
 0.0.0.0 www.roznerowzzwiazania.club
@@ -33740,6 +33766,7 @@
 0.0.0.0 www.teasvoi.online
 0.0.0.0 www.teatrkuffer.pl
 0.0.0.0 www.tecchgigo.com
+0.0.0.0 www.techalyans.ru
 0.0.0.0 www.techcentretraining.com
 0.0.0.0 www.techepedia.com
 0.0.0.0 www.techiwant.com
@@ -34630,6 +34657,7 @@
 0.0.0.0 www.wangparty.com
 0.0.0.0 www.wangxg.com
 0.0.0.0 www.wankingplace.com
+0.0.0.0 www.wansoter.uno
 0.0.0.0 www.want2learngerman.com
 0.0.0.0 www.wapster.malutki.pl
 0.0.0.0 www.wapster.pl
@@ -35276,6 +35304,7 @@
 0.0.0.0 www.yunosquares.com
 0.0.0.0 www.yunta.tech
 0.0.0.0 www.yuppipuppy.com
+0.0.0.0 www.yvaslor.xyz
 0.0.0.0 www.yxceermovfotgsh.su
 0.0.0.0 www.z0o.cc
 0.0.0.0 www.z8cwig.webwave.dev
@@ -35398,6 +35427,7 @@
 0.0.0.0 www.zgcslam.apnet.pl
 0.0.0.0 www.zgjzhk.com
 0.0.0.0 www.zgliwic.xyz
+0.0.0.0 www.zgloszenia24.eu
 0.0.0.0 www.zgloszenie0cm.site
 0.0.0.0 www.zgloszenie0mv.site
 0.0.0.0 www.zgloszenie0ob.site
@@ -35964,6 +35994,7 @@
 0.0.0.0 www.apkpkobp.000webhostapp.com
 0.0.0.0 www.appecep.000webhostapp.com
 0.0.0.0 www.appieid-apple.com
+0.0.0.0 www.appieid-find.com
 0.0.0.0 www.appie.com-id-my.com
 0.0.0.0 www.appi-security.com
 0.0.0.0 www.appkonto-payment.centretvntf.co.pl
@@ -37533,6 +37564,7 @@
 0.0.0.0 www.inpostpl.dhej-holy.xyz
 0.0.0.0 www.inpostpl.domoy-dost.com
 0.0.0.0 www.inpostpl.foiuq-iq.com
+0.0.0.0 www.inpostpl.fun-dusz.com
 0.0.0.0 www.inpostpl.gwart1ja-dos1t2awy.com
 0.0.0.0 www.inpostpl.konto24-serwis.space
 0.0.0.0 www.inpostpl.konto-klasyczne.sbs
@@ -37640,6 +37672,7 @@
 0.0.0.0 www.inpost-pl.534673.xyz
 0.0.0.0 www.inpost-pl.548131.xyz
 0.0.0.0 www.inpost-pl.623141.xyz
+0.0.0.0 www.inpost-pl.643512.space
 0.0.0.0 www.inpost-pl.651534.xyz
 0.0.0.0 www.inpost-pl.682367.live
 0.0.0.0 www.inpost-pl.713262.xyz
@@ -37741,6 +37774,7 @@
 0.0.0.0 www.inpost.order-pl.art
 0.0.0.0 www.inpost.pay-058747.xyz
 0.0.0.0 www.inpost.pl-basederecom.pw
+0.0.0.0 www.inpost.pl-box15.eu
 0.0.0.0 www.inpost.pl-dostawa.life
 0.0.0.0 www.inpost.pl-dostawa.live
 0.0.0.0 www.inpost.pl-dostawa.shop
@@ -37755,6 +37789,7 @@
 0.0.0.0 www.inpost.pl-paidcash.icu
 0.0.0.0 www.inpost.pl-payment.link
 0.0.0.0 www.inpost.pl-pays.icu
+0.0.0.0 www.inpost.pl-produkt3.eu
 0.0.0.0 www.inpost.pl-safe.shop
 0.0.0.0 www.inpost.pl-safeorder.live
 0.0.0.0 www.inpost.pl-safeway.cash
@@ -37931,6 +37966,7 @@
 0.0.0.0 www.i-filmy.pl
 0.0.0.0 www.i-inpost.polska24-dostawa24.shop
 0.0.0.0 www.i-ksiazka.pl
+0.0.0.0 www.i-npost.bankdetails-pl.xyz
 0.0.0.0 www.i-podgladacz.pl
 0.0.0.0 www.i.ua-passport.space
 0.0.0.0 www.j4ec-bitly.co
@@ -38592,6 +38628,7 @@
 0.0.0.0 www.newsy-onet-74457966795.azureedge.net
 0.0.0.0 www.newsy-onet-79807026429.azureedge.net
 0.0.0.0 www.newsy-tygodnia.waw.pl
+0.0.0.0 www.newsy-wp-82730712497.azureedge.net
 0.0.0.0 www.news-biznes.waw.pl
 0.0.0.0 www.news-bussnse.info
 0.0.0.0 www.news-deck.at
@@ -38600,6 +38637,7 @@
 0.0.0.0 www.news-l.info
 0.0.0.0 www.news-ltspl.info
 0.0.0.0 www.news-newsweek-35675452855.azureedge.net
+0.0.0.0 www.news-o2-41886677262.azureedge.net
 0.0.0.0 www.news-onet.pl
 0.0.0.0 www.news-orlen.biz
 0.0.0.0 www.news-orlen.us
@@ -41646,6 +41684,7 @@
 0.0.0.0 www.zero-knikse.xyz
 0.0.0.0 www.zestawnaprawczy-do-wgniecen.com
 0.0.0.0 www.ze-swiata.you2.pl
+0.0.0.0 www.zgloszenie-24.eu
 0.0.0.0 www.zimbra231.000webhostapp.com
 0.0.0.0 www.zimbra566.000webhostapp.com
 0.0.0.0 www.zimbramail1111.000webhostapp.com
@@ -41978,6 +42017,7 @@
 0.0.0.0 yunosquares.com
 0.0.0.0 yunta.tech
 0.0.0.0 yuppipuppy.com
+0.0.0.0 yvaslor.xyz
 0.0.0.0 yxceermovfotgsh.su
 0.0.0.0 z0o.cc
 0.0.0.0 z8cwig.webwave.dev
@@ -42161,6 +42201,7 @@
 0.0.0.0 zgcslam.apnet.pl
 0.0.0.0 zgjzhk.com
 0.0.0.0 zgliwic.xyz
+0.0.0.0 zgloszenia24.eu
 0.0.0.0 zgloszenie0cm.site
 0.0.0.0 zgloszenie0mv.site
 0.0.0.0 zgloszenie0ob.site
@@ -42194,6 +42235,7 @@
 0.0.0.0 zgloszenie7113.site
 0.0.0.0 zgloszenie7455.site
 0.0.0.0 zgloszenie8719.site
+0.0.0.0 zgloszenie-24.eu
 0.0.0.0 zhaoyouxiu.com
 0.0.0.0 zheldut.com
 0.0.0.0 zibia40.pl
