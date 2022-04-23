@@ -24,13 +24,13 @@ def main():
             except:
                 print(filename + " error")
 
-    backup_files = os.listdir('./backups')
-    with open('merge.txt', 'w') as outfile:
-        for file_name in backup_files:
-            if file_name != 'merge.txt':
-                with open('./backups/' + file_name) as infile:
-                    outfile.write(infile.read())
-            outfile.write("\n")
+    # backup_files = os.listdir('./backups')
+    # with open('merge.txt', 'w') as outfile:
+    #     for file_name in backup_files:
+    #         if file_name != 'merge.txt':
+    #             with open('./backups/' + file_name) as infile:
+    #                 outfile.write(infile.read())
+    #         outfile.write("\n")
 
     os.system("./commit.sh")
     exit(0)
