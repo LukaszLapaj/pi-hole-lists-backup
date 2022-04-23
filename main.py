@@ -1,7 +1,7 @@
 import json
 import os
-from urllib import request
 from urllib.parse import urlparse
+import requests
 
 
 def main():
@@ -11,9 +11,16 @@ def main():
             url_path = urlparse(item["address"]).path
             filename = url_path.replace('/', '', 1).replace('/', '-')
             try:
-                with request.urlopen(item["address"]) as response, open("backups/" + filename, 'wb') as out_file:
-                    blacklist = response.read()
-                    out_file.write(blacklist)
+                response = requests.get(
+                    item["address"],
+                    headers={
+                        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_15) AppleWebKit/537.36 '
+                                      '(KHTML, like Gecko) Chrome/99.0.4859.164 Safari/537.36'
+                    }
+                )
+                if response.status_code == 200:
+                    with open("backups/" + filename, 'w') as out_file:
+                        out_file.write(response.text)
             except:
                 print(filename + " error")
 
