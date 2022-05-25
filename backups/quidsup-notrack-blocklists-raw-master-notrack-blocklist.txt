@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 23 May 2022
+# Updated: 24 May 2022
 # LatestVersion 22.03
-# Domain Count: 14696
+# Domain Count: 14697
 #===============================================================
 
 1-cl0ud.com #Lead Forensics - Tracker
@@ -594,6 +594,7 @@ api-analytics-ru.huami.com #Huami.com - Tracker
 api-analytics-us.huami.com #Huami.com - Tracker
 api-telemetry.servers.getgo.com #LogMeIn - Tracker
 api.action-media.ru #action-media.ru - Tracker
+apnanalytics.com #Ask Toolbar - Tracker
 app-analytics-cn.huami.com #Huami.com - Tracker
 app-analytics-de.huami.com #Huami.com - Tracker
 app-analytics-in.huami.com #Huami.com - Tracker
