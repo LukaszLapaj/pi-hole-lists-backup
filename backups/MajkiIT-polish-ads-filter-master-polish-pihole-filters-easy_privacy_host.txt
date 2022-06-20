@@ -1,4 +1,4 @@
-#202206130303
+#202206200303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -37,6 +37,7 @@
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 4399stat.5054399.com
+0.0.0.0 4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 520886.xyz
 0.0.0.0 5363316.marketing.numi.com
@@ -1609,6 +1610,7 @@
 0.0.0.0 b.mynewplace.com
 0.0.0.0 b.prod1.youroffers.dominos.ca
 0.0.0.0 b.rwjf.org
+0.0.0.0 b.sli-spark.com
 0.0.0.0 b.your.offers.dominos.com
 0.0.0.0 b1n.carabins.umontreal.ca
 0.0.0.0 b20p6lt350nt.app.polymersearch.com
@@ -2051,6 +2053,7 @@
 0.0.0.0 chiefexecutive.actonservice.com
 0.0.0.0 chihiro.nostalgie.fr
 0.0.0.0 childlikecook.com
+0.0.0.0 childlikecrowd.com
 0.0.0.0 childlikeform.com
 0.0.0.0 chingovernment.com
 0.0.0.0 chinsnakes.com
@@ -2459,6 +2462,7 @@
 0.0.0.0 corporateplatino.americanexpress.it
 0.0.0.0 correctchaos.com
 0.0.0.0 count.asnetworks.de
+0.0.0.0 count.candou.com
 0.0.0.0 count.carrierzone.com
 0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.me.uk
@@ -2587,6 +2591,7 @@
 0.0.0.0 cv.online.ysroad.co.jp
 0.0.0.0 cv.shiryoku1.com
 0.0.0.0 cvhefd.ixbt.com
+0.0.0.0 cvlb.dev
 0.0.0.0 cvs.kireimo.jp
 0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 cws.conviva.com
@@ -2661,6 +2666,7 @@
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
+0.0.0.0 d2j74sjmqqyf26.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
@@ -2983,6 +2989,7 @@
 0.0.0.0 dmpcdn.el-mundo.net
 0.0.0.0 dmpxs.com
 0.0.0.0 dmtgo.upc.biz
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dna.uol.com.br
 0.0.0.0 dngpzy.01net.com
@@ -3087,6 +3094,7 @@
 0.0.0.0 ea.dcshoes-europe.com
 0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.diamant-unique.com
+0.0.0.0 ea.epochbase.com
 0.0.0.0 ea.evaway.com
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.francoisesaget.com
@@ -4289,6 +4297,7 @@
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 handleteeth.com
 0.0.0.0 handsomeindustry.com
+0.0.0.0 handsomelyhealth.com
 0.0.0.0 handyfield.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 happen.spkt.io
@@ -7036,7 +7045,6 @@
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.richardtaylor.dev
 0.0.0.0 ping.smyte.com
-0.0.0.0 ping.staticmoly.me
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pingback.sogou.com
@@ -7072,6 +7080,7 @@
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.augsburger-allgemeine.de
+0.0.0.0 pixel.biano.cz
 0.0.0.0 pixel.biano.ro
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.cdnwidget.com
@@ -7313,6 +7322,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 private.roche.com
 0.0.0.0 processor.asccommunications.com
+0.0.0.0 procroanalytics.com
 0.0.0.0 prod.ew.srp.navigacloud.com
 0.0.0.0 proditor.sparda.de
 0.0.0.0 productivepear.com
@@ -7388,6 +7398,7 @@
 0.0.0.0 px.effirst.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
+0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.pandora.com
 0.0.0.0 px.spiceworks.com
@@ -9563,6 +9574,7 @@
 0.0.0.0 spuriousstranger.com
 0.0.0.0 spysubstance.com
 0.0.0.0 sqdljj.kijiji.ca
+0.0.0.0 sqs.quoka.de
 0.0.0.0 sqtivj.vidaxl.hr
 0.0.0.0 squashfriction.com
 0.0.0.0 squeamishspot.com
@@ -11386,6 +11398,7 @@
 0.0.0.0 track2.mycliplister.com
 0.0.0.0 trackclicks.info
 0.0.0.0 trackcommon.hujiang.com
+0.0.0.0 tracker-rec.smart-bdash.com
 0.0.0.0 tracker.520call.me
 0.0.0.0 tracker.adbinead.com
 0.0.0.0 tracker.affiliate.iqoption.com
@@ -11405,6 +11418,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.icerocket.com
+0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.iltrovatore.it
 0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.keywordintent.com
@@ -11571,6 +11585,7 @@
 0.0.0.0 tracking.info.methodisthealthsystem.org
 0.0.0.0 tracking.info.rcgt.com
 0.0.0.0 tracking.insperity.com
+0.0.0.0 tracking.intentsify.io
 0.0.0.0 tracking.janssenmedicalcloud.de
 0.0.0.0 tracking.janssenmedicalcloud.ru
 0.0.0.0 tracking.jotform.com
@@ -11819,6 +11834,7 @@
 0.0.0.0 trk.business.westernunion.it
 0.0.0.0 trk.business.westernunion.pl
 0.0.0.0 trk.channelfutures.com
+0.0.0.0 trk.clinch.co
 0.0.0.0 trk.contentmarketinginstitute.com
 0.0.0.0 trk.coteriefashionevents.com
 0.0.0.0 trk.darkreading.com
@@ -12286,6 +12302,7 @@
 0.0.0.0 wkdspy.locondo.jp
 0.0.0.0 wknd.ai
 0.0.0.0 wknvmj.cocooncenter.com
+0.0.0.0 wl-analytics.tsp.li
 0.0.0.0 wl.jd.com
 0.0.0.0 wlkojk.orange.ro
 0.0.0.0 wlwtcr.toptoon.com
