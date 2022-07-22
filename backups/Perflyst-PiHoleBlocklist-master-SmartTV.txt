@@ -1,5 +1,5 @@
 # Title: Smart-TV Blocklist for Pi-hole
-# Version: 15December2021v1
+# Version: 6March2022v1
 # Description: This is a blocklist to block smart-TVs sending metadata back home, sometimes with the added benefit of blocking interface ads for apps and movie services.
 # Please help with collecting domains!
 # It could occur that the TV fails to receive new updates, or that other apps or services no longer work. Please report such an incident.
@@ -19,6 +19,8 @@ collect-us-fy2017.myhomescreen.tv
 collect-us-fy2018.myhomescreen.tv
 collect-us-fy2019.myhomescreen.tv
 collect-us-fy2020.myhomescreen.tv
+collect-us-fy2021.myhomescreen.tv
+collect-us-fy2022.myhomescreen.tv
 
 collect-eu-fy2014.myhomescreen.tv
 collect-eu-fy2015.myhomescreen.tv
@@ -27,6 +29,8 @@ collect-eu-fy2016.myhomescreen.tv
 collect-eu-fy2018.myhomescreen.tv
 collect-eu-fy2019.myhomescreen.tv
 collect-eu-fy2020.myhomescreen.tv
+collect-eu-fy2021.myhomescreen.tv
+collect-eu-fy2022.myhomescreen.tv
 
 usage-eu-fy2014.myhomescreen.tv
 usage-eu-fy2015.myhomescreen.tv
@@ -35,6 +39,8 @@ usage-eu-fy2017.myhomescreen.tv
 usage-eu-fy2018.myhomescreen.tv
 usage-eu-fy2019.myhomescreen.tv
 usage-eu-fy2020.myhomescreen.tv
+usage-eu-fy2021.myhomescreen.tv
+usage-eu-fy2022.myhomescreen.tv
 
 usage-us-fy2014.myhomescreen.tv
 usage-us-fy2015.myhomescreen.tv
@@ -43,6 +49,8 @@ usage-us-fy2017.myhomescreen.tv
 usage-us-fy2018.myhomescreen.tv
 usage-us-fy2019.myhomescreen.tv
 usage-us-fy2020.myhomescreen.tv
+usage-us-fy2021.myhomescreen.tv
+usage-us-fy2022.myhomescreen.tv
 
 #mhc-ajax-eu.myhomescreen.tv # internet connection test
 #mhc-ajax-eu-s2.myhomescreen.tv # internet connection test
@@ -274,6 +282,7 @@ trvdp.com
 tv-static.scdn.co
 #tv.deezer.com # Breaks Deezer's smart-TV apps.
 xml.opera.com
+api.thetake.com # https://thetake.ai/
 
 # Netflix
 # secure, api-global, and appboot break Netflix
@@ -311,6 +320,7 @@ unified-ter-na.hismarttv.com
 # These may be needed for software/firmware updates, not sure if it's one or both but the first one tries thousands of times a day to connect.
 api.us.hismarttv.com
 api.euro.hismarttv.com
+api.eu.hismarttv.com
 
 # SiliconDust HDHomeRun
 #tuner-api.hdhomerun.com # required for firmware update
