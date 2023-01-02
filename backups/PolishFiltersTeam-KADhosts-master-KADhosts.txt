@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 01 Jan 2023, 09:21 UTC+01:00
-# Version: 2023.1.1.1
+# Last modified: Mon, 02 Jan 2023, 09:22 UTC+01:00
+# Version: 2023.1.2.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -8266,6 +8266,7 @@
 0.0.0.0 bankfotek.cleverapps.io
 0.0.0.0 bankierpl.com
 0.0.0.0 banking-bendingobank-au.com
+0.0.0.0 banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
 0.0.0.0 banking-pl.site
@@ -13250,11 +13251,15 @@
 0.0.0.0 dhi9ksq8khea1.cloudfront.net
 0.0.0.0 dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 dhl-b70571.ingress-erytho.ewp.live
+0.0.0.0 dhl-de1395.scuflicharthewer.ml
 0.0.0.0 dhl-de1492.swathsorsi.ml
 0.0.0.0 dhl-de1810.listitacepttenspe.ml
+0.0.0.0 dhl-de2561.quevasuhard.ml
 0.0.0.0 dhl-de2845.ramkcompy.ml
+0.0.0.0 dhl-de3285.lankoron.ml
 0.0.0.0 dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 dhl-de4964.sniferam.ml
+0.0.0.0 dhl-de5652.kinglonsipithoga.ml
 0.0.0.0 dhl-de5843.oslausiversimp.ml
 0.0.0.0 dhl-de6061.grifdyedracemdsipeas.ml
 0.0.0.0 dhl-de6293.knownolotancoa.ml
@@ -13263,6 +13268,7 @@
 0.0.0.0 dhl-de8645.compgalamore.ml
 0.0.0.0 dhl-de8739.gaihuara.ml
 0.0.0.0 dhl-de9144.okarak.ml
+0.0.0.0 dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 dhl-de9504.granorbotrola.ml
 0.0.0.0 dhl-de9905.inraconla.ml
 0.0.0.0 dhl-paket-express-international.cfolks.pl
@@ -13276,17 +13282,24 @@
 0.0.0.0 dhlbazeos.tiokickrenimb.cf
 0.0.0.0 dhlfh1l8xj4e6.cloudfront.net
 0.0.0.0 dhlukbvti.listitacepttenspe.ml
+0.0.0.0 dhlukfnyl.clognurtco.ml
+0.0.0.0 dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 dhlukmdwj.tesnitenaho.ml
 0.0.0.0 dhlukmhyp.nuetever.ml
 0.0.0.0 dhlukmxqm.oralderpo.ml
+0.0.0.0 dhluknfsb.lankoron.ml
+0.0.0.0 dhlukoubm.peacofmu.ml
 0.0.0.0 dhluksiph.okarak.ml
+0.0.0.0 dhluktbvo.quevasuhard.ml
 0.0.0.0 dhluktsbh.erreto.ml
 0.0.0.0 dhluktysv.rassnonsdeconsiewhor.ml
 0.0.0.0 dhlukunzq.mutitexpfalechoo.ml
+0.0.0.0 dhlukuwgv.kinglonsipithoga.ml
 0.0.0.0 dhlukvfwp.granorbotrola.ml
 0.0.0.0 dhlukvijg.gytari.ml
 0.0.0.0 dhlukwkwy.nlinernowebtu.ml
 0.0.0.0 dhlukwtbb.vostwohncrim.ml
+0.0.0.0 dhlukyfsb.hecello.ml
 0.0.0.0 dhm8324ka79wc.cloudfront.net
 0.0.0.0 dhougvqhyr.cfolks.pl
 0.0.0.0 dhreak.com
@@ -14160,9 +14173,11 @@
 0.0.0.0 dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 dpdplglgx.listitacepttenspe.ml
+0.0.0.0 dpdplhmea.clognurtco.ml
 0.0.0.0 dpdpliohu.compgalamore.ml
 0.0.0.0 dpdpliyqm.vostwohncrim.ml
 0.0.0.0 dpdplkpbq.onenespi.ml
+0.0.0.0 dpdplkrct.winblawgamoulneumo.ml
 0.0.0.0 dpdpllewj.tuimeptaderpoltgin.ml
 0.0.0.0 dpdpllyfu.gytari.ml
 0.0.0.0 dpdplmbat.rassnonsdeconsiewhor.ml
@@ -14173,6 +14188,7 @@
 0.0.0.0 dpdplpkhj.knownolotancoa.ml
 0.0.0.0 dpdplqcrd.dioturnpestsi.ml
 0.0.0.0 dpdpltwab.gaihuara.ml
+0.0.0.0 dpdpltxzx.hecello.ml
 0.0.0.0 dpdpluirh.erreto.ml
 0.0.0.0 dpdplwcrn.tesnitenaho.ml
 0.0.0.0 dpdplwwuu.tupixmoupo.ml
@@ -15367,6 +15383,7 @@
 0.0.0.0 facebook.put-redirect.pl
 0.0.0.0 facebook.socialinsightly.com
 0.0.0.0 facebook.view-post.pl
+0.0.0.0 facebook.webd.pro
 0.0.0.0 facebookgroups.pl
 0.0.0.0 facebookpolicy01.ddns.net
 0.0.0.0 facebookpolicy3.ddnsking.com
@@ -16640,6 +16657,7 @@
 0.0.0.0 gcijewel.com
 0.0.0.0 gd-l.site
 0.0.0.0 gdansk-l.site
+0.0.0.0 gdfgdfgdfgdfghhhdfgdgdff.blogspot.com
 0.0.0.0 gdnsk-lts.site
 0.0.0.0 gdojmkt1s6e.digital
 0.0.0.0 gdsis.cl
@@ -22579,6 +22597,7 @@
 0.0.0.0 istp27.jp
 0.0.0.0 istrade.cc
 0.0.0.0 istrol.pl
+0.0.0.0 it928a8-fo927a.alporawc.co.pl
 0.0.0.0 it-inwest.info
 0.0.0.0 it-inwest.life
 0.0.0.0 it-inwest.xyz
@@ -25807,12 +25826,17 @@
 0.0.0.0 mingovplberw.rassnonsdeconsiewhor.ml
 0.0.0.0 mingovplepui.tesnitenaho.ml
 0.0.0.0 mingovplgdhf.oslausiversimp.ml
+0.0.0.0 mingovplgfjc.reochilbyo.ml
+0.0.0.0 mingovplidtn.kinglonsipithoga.ml
+0.0.0.0 mingovpliuvc.scuflicharthewer.ml
+0.0.0.0 mingovpliytc.winblawgamoulneumo.ml
 0.0.0.0 mingovpljfcm.swathsorsi.ml
 0.0.0.0 mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 mingovpljmuw.ketpdertantclud.ml
 0.0.0.0 mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 mingovpllaak.oslausiversimp.ml
 0.0.0.0 mingovpllciu.spiroxbar.ml
+0.0.0.0 mingovpllgjn.quevasuhard.ml
 0.0.0.0 mingovplmxxg.faycesbdeals.ml
 0.0.0.0 mingovplnjpo.reacibill.ml
 0.0.0.0 mingovplobnw.tupixmoupo.ml
@@ -25826,6 +25850,8 @@
 0.0.0.0 mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 mingovplvlgo.olunimkallero.ml
 0.0.0.0 mingovplwchc.toughsitehalan.ml
+0.0.0.0 mingovplxheq.peacofmu.ml
+0.0.0.0 mingovplynuq.clognurtco.ml
 0.0.0.0 mingovplyxhy.gaihuara.ml
 0.0.0.0 mini-pl.stat-pr.site
 0.0.0.0 minicant.xyz
@@ -40694,6 +40720,7 @@
 0.0.0.0 vinted-pl-gj32d.bitster.top
 0.0.0.0 vinted-pl-gj32d.bitxion.top
 0.0.0.0 vinted-pl-gj32d.bizful.top
+0.0.0.0 vinted-pl-gj32d.bjmxcyd.top
 0.0.0.0 vinted-pl-gj32d.blissdom.shop
 0.0.0.0 vinted-pl-gj32d.blmfm.top
 0.0.0.0 vinted-pl-gj32d.bna-dan.live
@@ -41007,6 +41034,7 @@
 0.0.0.0 vinted-pl-gj32d.liuwudy.xyz
 0.0.0.0 vinted-pl-gj32d.lldaohang.xyz
 0.0.0.0 vinted-pl-gj32d.loanid.xyz
+0.0.0.0 vinted-pl-gj32d.lovelb.top
 0.0.0.0 vinted-pl-gj32d.lspgdh.top
 0.0.0.0 vinted-pl-gj32d.lu2396.top
 0.0.0.0 vinted-pl-gj32d.lugmtdn7534fng.xyz
@@ -46666,6 +46694,7 @@
 0.0.0.0 www.bankfotek.cleverapps.io
 0.0.0.0 www.bankierpl.com
 0.0.0.0 www.banking-bendingobank-au.com
+0.0.0.0 www.banking-ing.pl-id91hcu1qbah1iosfn18uajrf8990a19fbnqh18ha.com
 0.0.0.0 www.banking-ing.pl-id914haub18ah1vadb1ba0h1bua91gbka.online
 0.0.0.0 www.banking-ing.pl-id5821uhab2d1zhb3412asb1hju4bhdfb5.com
 0.0.0.0 www.banking-pl.site
@@ -51650,11 +51679,15 @@
 0.0.0.0 www.dhi9ksq8khea1.cloudfront.net
 0.0.0.0 www.dhib3cxtfdjncfgy.vdl.pl
 0.0.0.0 www.dhl-b70571.ingress-erytho.ewp.live
+0.0.0.0 www.dhl-de1395.scuflicharthewer.ml
 0.0.0.0 www.dhl-de1492.swathsorsi.ml
 0.0.0.0 www.dhl-de1810.listitacepttenspe.ml
+0.0.0.0 www.dhl-de2561.quevasuhard.ml
 0.0.0.0 www.dhl-de2845.ramkcompy.ml
+0.0.0.0 www.dhl-de3285.lankoron.ml
 0.0.0.0 www.dhl-de4475.mutitexpfalechoo.ml
 0.0.0.0 www.dhl-de4964.sniferam.ml
+0.0.0.0 www.dhl-de5652.kinglonsipithoga.ml
 0.0.0.0 www.dhl-de5843.oslausiversimp.ml
 0.0.0.0 www.dhl-de6061.grifdyedracemdsipeas.ml
 0.0.0.0 www.dhl-de6293.knownolotancoa.ml
@@ -51663,6 +51696,7 @@
 0.0.0.0 www.dhl-de8645.compgalamore.ml
 0.0.0.0 www.dhl-de8739.gaihuara.ml
 0.0.0.0 www.dhl-de9144.okarak.ml
+0.0.0.0 www.dhl-de9413.winblawgamoulneumo.ml
 0.0.0.0 www.dhl-de9504.granorbotrola.ml
 0.0.0.0 www.dhl-de9905.inraconla.ml
 0.0.0.0 www.dhl-paket-express-international.cfolks.pl
@@ -51676,17 +51710,24 @@
 0.0.0.0 www.dhlbazeos.tiokickrenimb.cf
 0.0.0.0 www.dhlfh1l8xj4e6.cloudfront.net
 0.0.0.0 www.dhlukbvti.listitacepttenspe.ml
+0.0.0.0 www.dhlukfnyl.clognurtco.ml
+0.0.0.0 www.dhlukhsbq.winblawgamoulneumo.ml
 0.0.0.0 www.dhlukmdwj.tesnitenaho.ml
 0.0.0.0 www.dhlukmhyp.nuetever.ml
 0.0.0.0 www.dhlukmxqm.oralderpo.ml
+0.0.0.0 www.dhluknfsb.lankoron.ml
+0.0.0.0 www.dhlukoubm.peacofmu.ml
 0.0.0.0 www.dhluksiph.okarak.ml
+0.0.0.0 www.dhluktbvo.quevasuhard.ml
 0.0.0.0 www.dhluktsbh.erreto.ml
 0.0.0.0 www.dhluktysv.rassnonsdeconsiewhor.ml
 0.0.0.0 www.dhlukunzq.mutitexpfalechoo.ml
+0.0.0.0 www.dhlukuwgv.kinglonsipithoga.ml
 0.0.0.0 www.dhlukvfwp.granorbotrola.ml
 0.0.0.0 www.dhlukvijg.gytari.ml
 0.0.0.0 www.dhlukwkwy.nlinernowebtu.ml
 0.0.0.0 www.dhlukwtbb.vostwohncrim.ml
+0.0.0.0 www.dhlukyfsb.hecello.ml
 0.0.0.0 www.dhm8324ka79wc.cloudfront.net
 0.0.0.0 www.dhougvqhyr.cfolks.pl
 0.0.0.0 www.dhreak.com
@@ -52560,9 +52601,11 @@
 0.0.0.0 www.dpdpl.dostawa-order-6744132.xyz
 0.0.0.0 www.dpdpldghz.mutitexpfalechoo.ml
 0.0.0.0 www.dpdplglgx.listitacepttenspe.ml
+0.0.0.0 www.dpdplhmea.clognurtco.ml
 0.0.0.0 www.dpdpliohu.compgalamore.ml
 0.0.0.0 www.dpdpliyqm.vostwohncrim.ml
 0.0.0.0 www.dpdplkpbq.onenespi.ml
+0.0.0.0 www.dpdplkrct.winblawgamoulneumo.ml
 0.0.0.0 www.dpdpllewj.tuimeptaderpoltgin.ml
 0.0.0.0 www.dpdpllyfu.gytari.ml
 0.0.0.0 www.dpdplmbat.rassnonsdeconsiewhor.ml
@@ -52573,6 +52616,7 @@
 0.0.0.0 www.dpdplpkhj.knownolotancoa.ml
 0.0.0.0 www.dpdplqcrd.dioturnpestsi.ml
 0.0.0.0 www.dpdpltwab.gaihuara.ml
+0.0.0.0 www.dpdpltxzx.hecello.ml
 0.0.0.0 www.dpdpluirh.erreto.ml
 0.0.0.0 www.dpdplwcrn.tesnitenaho.ml
 0.0.0.0 www.dpdplwwuu.tupixmoupo.ml
@@ -53767,6 +53811,7 @@
 0.0.0.0 www.facebook.put-redirect.pl
 0.0.0.0 www.facebook.socialinsightly.com
 0.0.0.0 www.facebook.view-post.pl
+0.0.0.0 www.facebook.webd.pro
 0.0.0.0 www.facebookgroups.pl
 0.0.0.0 www.facebookpolicy01.ddns.net
 0.0.0.0 www.facebookpolicy3.ddnsking.com
@@ -55040,6 +55085,7 @@
 0.0.0.0 www.gcijewel.com
 0.0.0.0 www.gd-l.site
 0.0.0.0 www.gdansk-l.site
+0.0.0.0 www.gdfgdfgdfgdfghhhdfgdgdff.blogspot.com
 0.0.0.0 www.gdnsk-lts.site
 0.0.0.0 www.gdojmkt1s6e.digital
 0.0.0.0 www.gdsis.cl
@@ -60979,6 +61025,7 @@
 0.0.0.0 www.istp27.jp
 0.0.0.0 www.istrade.cc
 0.0.0.0 www.istrol.pl
+0.0.0.0 www.it928a8-fo927a.alporawc.co.pl
 0.0.0.0 www.it-inwest.info
 0.0.0.0 www.it-inwest.life
 0.0.0.0 www.it-inwest.xyz
@@ -64207,12 +64254,17 @@
 0.0.0.0 www.mingovplberw.rassnonsdeconsiewhor.ml
 0.0.0.0 www.mingovplepui.tesnitenaho.ml
 0.0.0.0 www.mingovplgdhf.oslausiversimp.ml
+0.0.0.0 www.mingovplgfjc.reochilbyo.ml
+0.0.0.0 www.mingovplidtn.kinglonsipithoga.ml
+0.0.0.0 www.mingovpliuvc.scuflicharthewer.ml
+0.0.0.0 www.mingovpliytc.winblawgamoulneumo.ml
 0.0.0.0 www.mingovpljfcm.swathsorsi.ml
 0.0.0.0 www.mingovpljlie.mutitexpfalechoo.ml
 0.0.0.0 www.mingovpljmuw.ketpdertantclud.ml
 0.0.0.0 www.mingovplkpkx.dioturnpestsi.ml
 0.0.0.0 www.mingovpllaak.oslausiversimp.ml
 0.0.0.0 www.mingovpllciu.spiroxbar.ml
+0.0.0.0 www.mingovpllgjn.quevasuhard.ml
 0.0.0.0 www.mingovplmxxg.faycesbdeals.ml
 0.0.0.0 www.mingovplnjpo.reacibill.ml
 0.0.0.0 www.mingovplobnw.tupixmoupo.ml
@@ -64226,6 +64278,8 @@
 0.0.0.0 www.mingovpltkud.tuimeptaderpoltgin.ml
 0.0.0.0 www.mingovplvlgo.olunimkallero.ml
 0.0.0.0 www.mingovplwchc.toughsitehalan.ml
+0.0.0.0 www.mingovplxheq.peacofmu.ml
+0.0.0.0 www.mingovplynuq.clognurtco.ml
 0.0.0.0 www.mingovplyxhy.gaihuara.ml
 0.0.0.0 www.mini-pl.stat-pr.site
 0.0.0.0 www.minicant.xyz
@@ -78922,6 +78976,7 @@
 0.0.0.0 www.vinted-pl-gj32d.bitster.top
 0.0.0.0 www.vinted-pl-gj32d.bitxion.top
 0.0.0.0 www.vinted-pl-gj32d.bizful.top
+0.0.0.0 www.vinted-pl-gj32d.bjmxcyd.top
 0.0.0.0 www.vinted-pl-gj32d.blissdom.shop
 0.0.0.0 www.vinted-pl-gj32d.blmfm.top
 0.0.0.0 www.vinted-pl-gj32d.bna-dan.live
@@ -79235,6 +79290,7 @@
 0.0.0.0 www.vinted-pl-gj32d.liuwudy.xyz
 0.0.0.0 www.vinted-pl-gj32d.lldaohang.xyz
 0.0.0.0 www.vinted-pl-gj32d.loanid.xyz
+0.0.0.0 www.vinted-pl-gj32d.lovelb.top
 0.0.0.0 www.vinted-pl-gj32d.lspgdh.top
 0.0.0.0 www.vinted-pl-gj32d.lu2396.top
 0.0.0.0 www.vinted-pl-gj32d.lugmtdn7534fng.xyz
@@ -82397,6 +82453,7 @@
 0.0.0.0 www.wypadek-info24news.pl
 0.0.0.0 www.wypadek-szaflary.waw.pl
 0.0.0.0 www.wypadek-ttv.xyz
+0.0.0.0 www.wypadek-videosy.eu
 0.0.0.0 www.wypadek-wp.eu5.net
 0.0.0.0 www.wypadek-zakopianka.waw.pl
 0.0.0.0 www.wypadekenergia.waw.pl
@@ -82743,6 +82800,7 @@
 0.0.0.0 www.yodledfire.com
 0.0.0.0 www.yogoprimary.com
 0.0.0.0 www.yogurteriatirana.com
+0.0.0.0 www.yol8282-js92a.poibnut.co.pl
 0.0.0.0 www.yomdaksw.pl
 0.0.0.0 www.yomdyes.com
 0.0.0.0 www.yomwqksaw.pl
@@ -82833,6 +82891,7 @@
 0.0.0.0 www.yusufyorulmaz.com
 0.0.0.0 www.yuu.gaznf.xyz
 0.0.0.0 www.yvgptnmuj08.digital
+0.0.0.0 www.yw7931.webwave.dev
 0.0.0.0 www.yweem.net
 0.0.0.0 www.ywrat.planticrysa.xyz
 0.0.0.0 www.yxceermovfotgsh.su
@@ -83484,6 +83543,7 @@
 0.0.0.0 wypadek-info24news.pl
 0.0.0.0 wypadek-szaflary.waw.pl
 0.0.0.0 wypadek-ttv.xyz
+0.0.0.0 wypadek-videosy.eu
 0.0.0.0 wypadek-wp.eu5.net
 0.0.0.0 wypadek-zakopianka.waw.pl
 0.0.0.0 wypadekenergia.waw.pl
@@ -83830,6 +83890,7 @@
 0.0.0.0 yodledfire.com
 0.0.0.0 yogoprimary.com
 0.0.0.0 yogurteriatirana.com
+0.0.0.0 yol8282-js92a.poibnut.co.pl
 0.0.0.0 yomdaksw.pl
 0.0.0.0 yomdyes.com
 0.0.0.0 yomwqksaw.pl
@@ -83920,6 +83981,7 @@
 0.0.0.0 yusufyorulmaz.com
 0.0.0.0 yuu.gaznf.xyz
 0.0.0.0 yvgptnmuj08.digital
+0.0.0.0 yw7931.webwave.dev
 0.0.0.0 yweem.net
 0.0.0.0 ywrat.planticrysa.xyz
 0.0.0.0 yxceermovfotgsh.su
