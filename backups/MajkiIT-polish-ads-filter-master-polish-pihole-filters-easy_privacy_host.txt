@@ -1,4 +1,4 @@
-#202303240303
+#202304050303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2123,6 +2123,7 @@
 0.0.0.0 amplify.strategic-i.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ampltd.top.gg
+0.0.0.0 ampltd2.medal.tv
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 amusementmorning.com
 0.0.0.0 amusinggirls.com
@@ -2175,6 +2176,7 @@
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adam.page
 0.0.0.0 analytics.adfreetime.com
+0.0.0.0 analytics.adliners.de
 0.0.0.0 analytics.adonisjs.com
 0.0.0.0 analytics.adultswim.co.uk
 0.0.0.0 analytics.ae.com
@@ -2549,6 +2551,7 @@
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics2-3-meride-tv.akamaized.net
 0.0.0.0 analytics2-meride-tv.akamaized.net
+0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyticsresults.bildungsforum.datev.de
 0.0.0.0 analyticsresults.datev-karriereblog.de
 0.0.0.0 analyticsresults.datev-magazin.de
@@ -2793,6 +2796,7 @@
 0.0.0.0 automation.pemco.com
 0.0.0.0 av6fm8zw2cvz.furucombo.app
 0.0.0.0 avalonalbum.com
+0.0.0.0 averageactivity.com
 0.0.0.0 averageamusement.com
 0.0.0.0 aviite.freaksstore.com
 0.0.0.0 avma.avmaplit.com
@@ -3272,7 +3276,6 @@
 0.0.0.0 cbdatatracker.com
 0.0.0.0 cbmetrics.clickbank.com
 0.0.0.0 cbpgpg.bombshellsportswear.com
-0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cc.conforama.es
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccaas.avaya.com
@@ -3468,6 +3471,7 @@
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 clientservice.alphasimplex.com
 0.0.0.0 clinical.questdiagnostics.com
+0.0.0.0 cliquelead.com
 0.0.0.0 clk.glam-print.com
 0.0.0.0 clk.liberty-e.com
 0.0.0.0 clk.mindfulsuite.com
@@ -4021,7 +4025,6 @@
 0.0.0.0 d-log.bs-asahi.tv
 0.0.0.0 d-log.tv-asahi.co.jp
 0.0.0.0 d.adlpo.com
-0.0.0.0 d.getpocket.com
 0.0.0.0 d.haberler.com
 0.0.0.0 d.image-ad.jp
 0.0.0.0 d.m-net.de
@@ -4081,6 +4084,7 @@
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
+0.0.0.0 d2ef20sk9hi1u3.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2j1fszo1axgmp.cloudfront.net
@@ -4640,6 +4644,7 @@
 0.0.0.0 doorbrazil.com
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
+0.0.0.0 doublestat.info
 0.0.0.0 doubtdrawer.com
 0.0.0.0 doubtfulrainstorm.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
@@ -4656,6 +4661,7 @@
 0.0.0.0 dppublishinginc.actonservice.com
 0.0.0.0 dqqfrs.qatarairways.com
 0.0.0.0 dqs3.darjeeling.fr
+0.0.0.0 dr3fr5q4g2ul9.cloudfront.net
 0.0.0.0 drabsize.com
 0.0.0.0 draconiancurve.com
 0.0.0.0 dragon.moneycoach.io
@@ -5856,6 +5862,7 @@
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gsyegj.shatura.com
 0.0.0.0 gtgvze.chintai.net
+0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 guaranteelamp.com
@@ -6105,6 +6112,7 @@
 0.0.0.0 ig.nadex.com
 0.0.0.0 igorsgtest.branch.rocks
 0.0.0.0 igrid.org
+0.0.0.0 ih.newegg.com
 0.0.0.0 ihmnnz.flo.com.tr
 0.0.0.0 iiajtl.zeit.de
 0.0.0.0 iidoys.wearpact.com
@@ -6579,6 +6587,7 @@
 0.0.0.0 kzsicw.focus.de
 0.0.0.0 kzsicw.tvspielfilm.de
 0.0.0.0 kzsicw.tvtoday.de
+0.0.0.0 l.bfmtv.com
 0.0.0.0 l.create.canva.com
 0.0.0.0 l.ctrl.blog
 0.0.0.0 l.email.livingsocial.co.uk
@@ -6895,7 +6904,6 @@
 0.0.0.0 log.seekda.com
 0.0.0.0 log.sina.cn
 0.0.0.0 log.snapdeal.com
-0.0.0.0 log.suumo.jp
 0.0.0.0 log.tagtic.cn
 0.0.0.0 log.targetpush.co.kr
 0.0.0.0 log.ttbc-hcm.gov.vn
@@ -7739,6 +7747,7 @@
 0.0.0.0 metrics.nba.com
 0.0.0.0 metrics.nero.com
 0.0.0.0 metrics.nespresso.com
+0.0.0.0 metrics.newegg.com
 0.0.0.0 metrics.news.com.au
 0.0.0.0 metrics.nfl.com
 0.0.0.0 metrics.nfm.com
@@ -9034,6 +9043,7 @@
 0.0.0.0 raac33.net
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
+0.0.0.0 rac.ruutu.fi
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 railwayrainstorm.com
 0.0.0.0 railwayreason.com
@@ -9112,6 +9122,7 @@
 0.0.0.0 replaceroute.com
 0.0.0.0 report.meituan.com
 0.0.0.0 report.novinky.cz
+0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports-api.sqreen.io
@@ -9213,6 +9224,7 @@
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rs.smc.tf
 0.0.0.0 rsc.lepoint.fr
+0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 rt.bunte.de
 0.0.0.0 rt.flix360.com
@@ -10147,6 +10159,7 @@
 0.0.0.0 shinesavage.com
 0.0.0.0 shinestuart.com
 0.0.0.0 shiveringspot.com
+0.0.0.0 shiverscissors.com
 0.0.0.0 shockingship.com
 0.0.0.0 shop.iwantclips.com
 0.0.0.0 shopbreakfast.com
@@ -12786,6 +12799,7 @@
 0.0.0.0 target.walgreens.com
 0.0.0.0 target.zeiss.com
 0.0.0.0 targetab.t-mobile.com
+0.0.0.0 targetemsecure.blob.core.windows.net
 0.0.0.0 targeting.focas.jp
 0.0.0.0 targeting.voxus.tv
 0.0.0.0 targeting.washpost.nile.works
@@ -13756,6 +13770,7 @@
 0.0.0.0 track-mail.homage.co
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-visit.monday.com
+0.0.0.0 track.360playvid.info
 0.0.0.0 track.91app.io
 0.0.0.0 track.99acres.com
 0.0.0.0 track.bannedcelebs.com
@@ -14145,6 +14160,7 @@
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 trickycelery.com
 0.0.0.0 triggers.wfxtriggers.com
+0.0.0.0 triplestat.online
 0.0.0.0 triton.companyegg.com
 0.0.0.0 trk-maiorum.com
 0.0.0.0 trk.adbutter.net

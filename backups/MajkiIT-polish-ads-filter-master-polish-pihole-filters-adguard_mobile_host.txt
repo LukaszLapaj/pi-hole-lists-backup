@@ -1,4 +1,4 @@
-#202303240303
+#202304050303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -32,6 +32,8 @@
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 ad-ettoday.cdn.hinet.net
+0.0.0.0 ad-splash-tracking.hktvmall.com
+0.0.0.0 ad-splash.hktvmall.com
 0.0.0.0 ad-stir.com
 0.0.0.0 ad-x.co.uk
 0.0.0.0 ad.apps.fm
@@ -662,7 +664,6 @@
 0.0.0.0 qgss8.com
 0.0.0.0 qist.me
 0.0.0.0 qoisocrldvnesni.ru
-0.0.0.0 qqcdnpictest.mxplay.com
 0.0.0.0 questionmarket.com
 0.0.0.0 r2d2.aotter.net
 0.0.0.0 recreativ.ru
@@ -674,6 +675,7 @@
 0.0.0.0 richpays.com
 0.0.0.0 rossoad.com
 0.0.0.0 rotaban.ru
+0.0.0.0 rqmob.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtb.kds.media
