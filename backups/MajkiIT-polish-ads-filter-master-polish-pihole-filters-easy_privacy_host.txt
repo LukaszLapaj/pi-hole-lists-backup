@@ -1,4 +1,4 @@
-#202308110303
+#202308230303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -2381,6 +2381,7 @@
 0.0.0.0 advancing.acams.org
 0.0.0.0 advantage.digitalsunray.com
 0.0.0.0 advantages.americanexpress.com
+0.0.0.0 adventurousamount.com
 0.0.0.0 advertisementafterthought.com
 0.0.0.0 advise.gallup.com
 0.0.0.0 advisors.links.myvolly.com
@@ -2613,6 +2614,7 @@
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.churchthemes.com
 0.0.0.0 analytics.cincopa.com
+0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.cnblogs.com
@@ -3306,6 +3308,7 @@
 0.0.0.0 audioarctic.com
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
+0.0.0.0 audit.qiuwen.net.cn
 0.0.0.0 audit.shaa.it
 0.0.0.0 audsoa.narumiya-online.jp
 0.0.0.0 auforex.americanexpress.com
@@ -3555,6 +3558,7 @@
 0.0.0.0 bi.medscape.com
 0.0.0.0 biberukalap.com
 0.0.0.0 bidder.mediams.mb.softbank.jp
+0.0.0.0 bidgx.com
 0.0.0.0 bidswitch.net
 0.0.0.0 biergartenapp.customsites.de
 0.0.0.0 bierlanz-test.till-koppers.de
@@ -4975,6 +4979,7 @@
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
+0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
 0.0.0.0 d1r2sy6oc0ariq.cloudfront.net
@@ -4982,6 +4987,8 @@
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
+0.0.0.0 d1tbj6eaenapdy.cloudfront.net
+0.0.0.0 d1vg5xiq7qffdj.cloudfront.net
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
@@ -6173,6 +6180,7 @@
 0.0.0.0 emails.travelchannel.com
 0.0.0.0 emails.verishop.com
 0.0.0.0 emails.watchown.tv
+0.0.0.0 emailsnow.info
 0.0.0.0 emailtest.trustmeimawebsite.com
 0.0.0.0 emb.soothe.com
 0.0.0.0 emc.dr-stick.shop
@@ -6262,6 +6270,7 @@
 0.0.0.0 erraticreaction.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error.videonow.ru
+0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 ert5.rmcsport.tv
 0.0.0.0 es-es.siemensplmevents.com
@@ -9312,6 +9321,7 @@
 0.0.0.0 log.cognex.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.cpex.cz
+0.0.0.0 log.dpa.com
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.etoday.co.kr
 0.0.0.0 log.f-tra.com
@@ -9388,6 +9398,7 @@
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logstash-3.radio-canada.ca
+0.0.0.0 logtail.com
 0.0.0.0 logtake.weidian.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lokalwerben.t-online.de
@@ -10815,6 +10826,7 @@
 0.0.0.0 minerva.healthcentral.com
 0.0.0.0 minormeeting.com
 0.0.0.0 minuterhythm.com
+0.0.0.0 mirabelanalytics.com
 0.0.0.0 miscreantmine.com
 0.0.0.0 miscreantmoon.com
 0.0.0.0 missionhq.astadia.com
@@ -12007,6 +12019,7 @@
 0.0.0.0 plausible.mattpruitt.com
 0.0.0.0 plausible.mcj.co
 0.0.0.0 plausible.moncefbelyamani.com
+0.0.0.0 plausible.motorpresse.de
 0.0.0.0 plausible.myvirtualsuper.com
 0.0.0.0 plausible.nickmazuk.com
 0.0.0.0 plausible.nova.app
@@ -12026,6 +12039,7 @@
 0.0.0.0 plausible.redchamp.net
 0.0.0.0 plausible.regex.help
 0.0.0.0 plausible.riok.ch
+0.0.0.0 plausible.ripped.guide
 0.0.0.0 plausible.safing.io
 0.0.0.0 plausible.sbw.org
 0.0.0.0 plausible.shadygrovepca.org
@@ -12095,6 +12109,7 @@
 0.0.0.0 polhvf.bootbarn.com
 0.0.0.0 politegoldfish.com
 0.0.0.0 politeplanes.com
+0.0.0.0 politicalporter.com
 0.0.0.0 ponyo.cheriefm.fr
 0.0.0.0 pool.onjoyri.de
 0.0.0.0 pop3.happ.social
@@ -12253,7 +12268,6 @@
 0.0.0.0 pu.pretunique.fr
 0.0.0.0 pub.servidoresge.com
 0.0.0.0 pub.sheknows.com
-0.0.0.0 pubgw.yahoo.com
 0.0.0.0 publicidad.daviviendaintl.com
 0.0.0.0 publicschoolworks.actonservice.com
 0.0.0.0 publish.tagstorm.com
@@ -14199,6 +14213,7 @@
 0.0.0.0 smetrics.costcobusinessdelivery.com
 0.0.0.0 smetrics.coulditbehcm.com
 0.0.0.0 smetrics.countryfinancialsecurityblog.com
+0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.covance.com
 0.0.0.0 smetrics.cpaaustralia.com.au
 0.0.0.0 smetrics.cpsenergy.com
@@ -17089,6 +17104,7 @@
 0.0.0.0 stliom.vidaxl.cz
 0.0.0.0 stms.53.com
 0.0.0.0 stockingsneeze.com
+0.0.0.0 stomachscience.com
 0.0.0.0 stopthink.onefamilyadviser.com
 0.0.0.0 store.esquirrel.at
 0.0.0.0 storea8tracking.alc.co.jp
@@ -19333,12 +19349,15 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
+0.0.0.0 tracker.prom.ua
 0.0.0.0 tracker.providence.org
 0.0.0.0 tracker.publico.pt
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.services.vaix.ai
+0.0.0.0 tracker.shanon-services.com
 0.0.0.0 tracker.shopclues.com
+0.0.0.0 tracker.smartseminar.jp
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.ssl0d.com
 0.0.0.0 tracker.stileo.it
