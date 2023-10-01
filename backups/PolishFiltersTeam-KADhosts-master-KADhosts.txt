@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 30 Sep 2023, 10:19 UTC+02:00
-# Version: 2023.9.30.0
+# Last modified: Sun, 01 Oct 2023, 10:19 UTC+02:00
+# Version: 2023.10.1.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -4702,6 +4702,7 @@
 0.0.0.0 overorlenpost.my-free.website
 0.0.0.0 pay.onebip.com
 0.0.0.0 pliki.pw
+0.0.0.0 plushdogry.pl
 0.0.0.0 pobieralnia.com.pl
 0.0.0.0 polski-blog-medyczny.pl
 0.0.0.0 poprof.com
@@ -4901,6 +4902,7 @@
 0.0.0.0 www.overorlenpost.my-free.website
 0.0.0.0 www.pay.onebip.com
 0.0.0.0 www.pliki.pw
+0.0.0.0 www.plushdogry.pl
 0.0.0.0 www.pobieralnia.com.pl
 0.0.0.0 www.polski-blog-medyczny.pl
 0.0.0.0 www.poprof.com
@@ -5169,6 +5171,7 @@
 0.0.0.0 00ea1b98c1e.chefs-kitchen.co.uk
 0.0.0.0 0f0e0.cfd
 0.0.0.0 0f3b976.rcomhost.com
+0.0.0.0 0fb33d4.netsolhost.com
 0.0.0.0 0fb48272.bakerstreetfinance.tv
 0.0.0.0 0ferta-dlugopisy.click
 0.0.0.0 0ferta.click
@@ -5407,6 +5410,7 @@
 0.0.0.0 2yhnjk.s3.us-east-005.backblazeb2.com
 0.0.0.0 2ytk.hair
 0.0.0.0 3-139-92-223.cprapid.com
+0.0.0.0 03-gd.cfd
 0.0.0.0 3-k.homes
 0.0.0.0 3-ske.yachts
 0.0.0.0 3.d1g1marka.click
@@ -5439,6 +5443,7 @@
 0.0.0.0 3filmy.com
 0.0.0.0 3fse.cfd
 0.0.0.0 3gk.pics
+0.0.0.0 3ie-g8.cfd
 0.0.0.0 3kdy.homes
 0.0.0.0 3mark-et-info4.xyz
 0.0.0.0 3mi.beauty
@@ -5698,6 +5703,7 @@
 0.0.0.0 23d.pics
 0.0.0.0 23luckybirdcasino.com
 0.0.0.0 23tsla.net
+0.0.0.0 24-lf3.cfd
 0.0.0.0 24.buamaksd.xyz
 0.0.0.0 24b1de6b9ec8.nfdaspl.pl
 0.0.0.0 24coin.info
@@ -5818,12 +5824,14 @@
 0.0.0.0 74techinnovhub.live
 0.0.0.0 75aa7f0e.bcdashboards.com.br
 0.0.0.0 75f74ze65f7465ze.blogspot.com
+0.0.0.0 76-syf.cfd
 0.0.0.0 076b5.yilmazmuh.com
 0.0.0.0 78cf3fc3.bakerstreetfinance.tv
 0.0.0.0 78da.byseniscon.top
 0.0.0.0 79clubparis.com
 0.0.0.0 80w19v.cn
 0.0.0.0 82-118-23-62.cprapid.com
+0.0.0.0 82-dga.cfd
 0.0.0.0 82a9d4fb409.chefs-kitchen.co.uk
 0.0.0.0 82e7946e1f7.johncornell.com
 0.0.0.0 83hf.skin
@@ -5840,6 +5848,7 @@
 0.0.0.0 90bc2ac1a254ea833f92.all-biuro.pl
 0.0.0.0 90bfecc0d7a526ee0475bd4afeee3fd3.lisapwa.pl
 0.0.0.0 90doddsln.info
+0.0.0.0 92-dgi.cfd
 0.0.0.0 93-93-117-179.cprapid.com
 0.0.0.0 93a6d7ab5f7.chefs-kitchen.co.uk
 0.0.0.0 94acc111f84.chefs-kitchen.co.uk
@@ -6578,12 +6587,15 @@
 0.0.0.0 a246.despachodeabogadosmcr.com
 0.0.0.0 a252.despachodeabogadosmcr.com
 0.0.0.0 a270.espn365.com
+0.0.0.0 a303.despachodeabogadosmcr.com
 0.0.0.0 a304.info
 0.0.0.0 a322e6b1.365software.co.uk
+0.0.0.0 a335.despachodeabogadosmcr.com
 0.0.0.0 a346.despachodeabogadosmcr.com
 0.0.0.0 a348.despachodeabogadosmcr.com
 0.0.0.0 a434.espn365.com
 0.0.0.0 a437.despachodeabogadosmcr.com
+0.0.0.0 a444.despachodeabogadosmcr.com
 0.0.0.0 a457.espn365.com
 0.0.0.0 a459.espn365.com
 0.0.0.0 a472.despachodeabogadosmcr.com
@@ -6593,6 +6605,7 @@
 0.0.0.0 a548.despachodeabogadosmcr.com
 0.0.0.0 a626.espn365.com
 0.0.0.0 a639.despachodeabogadosmcr.com
+0.0.0.0 a641.despachodeabogadosmcr.com
 0.0.0.0 a644.espn365.com
 0.0.0.0 a649.info
 0.0.0.0 a652d1e00df.chefs-kitchen.co.uk
@@ -6603,6 +6616,7 @@
 0.0.0.0 a757.espn365.com
 0.0.0.0 a762.despachodeabogadosmcr.com
 0.0.0.0 a763.espn365.com
+0.0.0.0 a770.despachodeabogadosmcr.com
 0.0.0.0 a796.despachodeabogadosmcr.com
 0.0.0.0 a817.despachodeabogadosmcr.com
 0.0.0.0 a914.espn365.com
@@ -6613,7 +6627,9 @@
 0.0.0.0 a1617ea9b14d9.allbiuro.pl
 0.0.0.0 a04017e0ea0.chefs-kitchen.co.uk
 0.0.0.0 a6861be93d9642360.temporary.link
+0.0.0.0 a12918.paidtomoney.com
 0.0.0.0 a15695.paidtomoney.com
+0.0.0.0 a22756.paidtomoney.com
 0.0.0.0 a23919.paidtomoney.com
 0.0.0.0 a30212.paidtomoney.com
 0.0.0.0 a30940.paidtomoney.com
@@ -6811,6 +6827,7 @@
 0.0.0.0 abq.bostref.top
 0.0.0.0 abra-sklep.pl
 0.0.0.0 abranchial.com
+0.0.0.0 abroadv.sbs
 0.0.0.0 abrogaimks.space
 0.0.0.0 abscisesfi.com
 0.0.0.0 absentmiindedly.site
@@ -6845,6 +6862,7 @@
 0.0.0.0 accadian.info
 0.0.0.0 accdn1tfre.com
 0.0.0.0 acceptthispodcast.com
+0.0.0.0 access-meta-business.com
 0.0.0.0 access-payment-deny.com
 0.0.0.0 acci.com.co
 0.0.0.0 accidentalness.info
@@ -6958,6 +6976,7 @@
 0.0.0.0 actress-collect.webnode.it
 0.0.0.0 actsms.pl
 0.0.0.0 actualinpoilshaas.com
+0.0.0.0 actuallyn.cfd
 0.0.0.0 actudsizeh.com
 0.0.0.0 actv.online-like1.site
 0.0.0.0 actxc.online
@@ -7257,6 +7276,7 @@
 0.0.0.0 ahalmeartaker.site
 0.0.0.0 ahaptakewwe.online
 0.0.0.0 ahaustravinuut.site
+0.0.0.0 aheads.sbs
 0.0.0.0 ahekal.com
 0.0.0.0 ahepot.com
 0.0.0.0 ahgpi.org
@@ -7702,9 +7722,12 @@
 0.0.0.0 allegrolokalnie.platnosc-payu24.pl
 0.0.0.0 allegrolokalnie.platnosc-w-sieci.pl
 0.0.0.0 allegrolokalnie.platnosc-zweryfikowana.pl
+0.0.0.0 allegrolokalnie.polskie-zakupy.pl
+0.0.0.0 allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 allegrolokalnie.szybka-paczka.pl
 0.0.0.0 allegrolokalnie.wygodna-platnosc.pl
+0.0.0.0 allegrolokalnie.wygodny-zakup.pl
 0.0.0.0 allegrolokalnie.wysylka-online.pl
 0.0.0.0 allegrolokalnie.zakup24.pl
 0.0.0.0 allegrolokalnie.zakup-produkt.pl
@@ -7998,6 +8021,7 @@
 0.0.0.0 amaon83.com
 0.0.0.0 amaon85.com
 0.0.0.0 amaon86.com
+0.0.0.0 amaon90.com
 0.0.0.0 amaon96.com
 0.0.0.0 amardeepesand.com
 0.0.0.0 amaresunmilagrogilda.com
@@ -8041,6 +8065,7 @@
 0.0.0.0 amendmentwhirl.cn
 0.0.0.0 americanbatbgroup.com
 0.0.0.0 americanbrokerchallenge.com
+0.0.0.0 americanexpress.volkensolutionss.com.amex-updates.com
 0.0.0.0 americansilverdollars.com
 0.0.0.0 americanxcapsd.com
 0.0.0.0 americasallgutter.com
@@ -8853,6 +8878,7 @@
 0.0.0.0 atacamaluxurytours.com
 0.0.0.0 atalanta55.000webhostapp.com
 0.0.0.0 atapod.apprety.site
+0.0.0.0 atdt1-100272.weeblysite.com
 0.0.0.0 atesla.ro
 0.0.0.0 atest.csamelok.top
 0.0.0.0 atfritunag.cf
@@ -8899,6 +8925,7 @@
 0.0.0.0 atriumset.com
 0.0.0.0 atropinization.live
 0.0.0.0 atsoi.stanrichard.com
+0.0.0.0 att-108456-109723.weeblysite.com
 0.0.0.0 attadbehind.work
 0.0.0.0 attadmins.weebly.com
 0.0.0.0 attaininglife.club
@@ -9453,6 +9480,7 @@
 0.0.0.0 b159.espn365.com
 0.0.0.0 b163.espn365.com
 0.0.0.0 b173.espn365.com
+0.0.0.0 b175.despachodeabogadosmcr.com
 0.0.0.0 b178.espn365.com
 0.0.0.0 b203.despachodeabogadosmcr.com
 0.0.0.0 b227.despachodeabogadosmcr.com
@@ -9499,9 +9527,11 @@
 0.0.0.0 b21580.paidtomoney.com
 0.0.0.0 b31350.paidtomoney.com
 0.0.0.0 b37839.paidtomoney.com
+0.0.0.0 b41598.paidtomoney.com
 0.0.0.0 b43679.paidtomoney.com
 0.0.0.0 b44153.paidtomoney.com
 0.0.0.0 b61681ea.vinylfence.uk
+0.0.0.0 b64399.paidtomoney.com
 0.0.0.0 b70638.paidtomoney.com
 0.0.0.0 b72448.paidtomoney.com
 0.0.0.0 b79243.paidtomoney.com
@@ -10609,6 +10639,7 @@
 0.0.0.0 bestweb-info.webnode.fr
 0.0.0.0 bestxi.net
 0.0.0.0 beswarm.info
+0.0.0.0 bet777red.com
 0.0.0.0 beta-cs2.cc
 0.0.0.0 beta.cs2-strike.com
 0.0.0.0 beta.glenbowcollege.ca
@@ -10651,8 +10682,10 @@
 0.0.0.0 beznowway.com
 0.0.0.0 bezpieczenstwo.site
 0.0.0.0 bezpieczenstwo.tech
+0.0.0.0 bezpieczna-wysylka247.pl
 0.0.0.0 bezpieczne-kupowanie.pl
 0.0.0.0 bezpieczne-ogloszenia.pl
+0.0.0.0 bezpieczne-transakcje.pl
 0.0.0.0 bezposrednie-przetwarzanie-online.xyz
 0.0.0.0 beztroskiemomenty.click
 0.0.0.0 bezugai.com
@@ -12005,6 +12038,7 @@
 0.0.0.0 business-page-meta-12908986524.firebaseapp.com
 0.0.0.0 business-page-meta-12908986524.web.app
 0.0.0.0 business-pl.online
+0.0.0.0 business-support-license-meta.com
 0.0.0.0 businessandtrading.com
 0.0.0.0 businessandtrading.pro
 0.0.0.0 businessbankruptcyphoenix.com
@@ -12173,6 +12207,7 @@
 0.0.0.0 c0030a17d2c5cc533.plwwwnet.pl
 0.0.0.0 c39b126b5cec.ngrok.io
 0.0.0.0 c39ram.webwave.dev
+0.0.0.0 c47.despachodeabogadosmcr.com
 0.0.0.0 c50.despachodeabogadosmcr.com
 0.0.0.0 c67.despachodeabogadosmcr.com
 0.0.0.0 c84bc6a9b1580a33222467368b.tuuups.pl
@@ -12197,6 +12232,7 @@
 0.0.0.0 c399.despachodeabogadosmcr.com
 0.0.0.0 c409.espn365.com
 0.0.0.0 c418.despachodeabogadosmcr.com
+0.0.0.0 c419.despachodeabogadosmcr.com
 0.0.0.0 c457.despachodeabogadosmcr.com
 0.0.0.0 c457.info
 0.0.0.0 c461.despachodeabogadosmcr.com
@@ -12375,6 +12411,7 @@
 0.0.0.0 campsteinberg.com
 0.0.0.0 campusesb.com
 0.0.0.0 camvideosit.grweb.site
+0.0.0.0 can-not-be-ignored2461031.io.vn
 0.0.0.0 canacata.com
 0.0.0.0 canadapro.cloud
 0.0.0.0 canadapro.info
@@ -12462,6 +12499,7 @@
 0.0.0.0 carassistba.com
 0.0.0.0 carbaddictsjourney.com
 0.0.0.0 carboardead1.site
+0.0.0.0 carbocyclic-reason.000webhostapp.com
 0.0.0.0 carbondollararmy.com
 0.0.0.0 carbx.org
 0.0.0.0 cardamour.com
@@ -12832,6 +12870,7 @@
 0.0.0.0 celestialnavigation.xyz
 0.0.0.0 celestialphotography.xyz
 0.0.0.0 celestiialtrance.site
+0.0.0.0 celingpembershiekacha.duckdns.org
 0.0.0.0 cell101.online
 0.0.0.0 cellfons.online
 0.0.0.0 celltranspl.com
@@ -13062,6 +13101,7 @@
 0.0.0.0 changrottawithe.cf
 0.0.0.0 channelstorynewspaper.com
 0.0.0.0 chaprpiress.site
+0.0.0.0 chapter-dd853.web.app
 0.0.0.0 charges-ups.com
 0.0.0.0 charitablyjoules.com
 0.0.0.0 charizmatec.com
@@ -13411,6 +13451,7 @@
 0.0.0.0 cl.news-espc.site
 0.0.0.0 cl.yourchance.top
 0.0.0.0 clafoutisb.com
+0.0.0.0 claim-cs2.com
 0.0.0.0 claim-sentry.com
 0.0.0.0 claim.kim
 0.0.0.0 claimdelude.top
@@ -14026,6 +14067,7 @@
 0.0.0.0 cornkarfoods.com
 0.0.0.0 cornland.co
 0.0.0.0 corollaownersclub.com
+0.0.0.0 corpenterwss.xyz
 0.0.0.0 corperategrowth.site
 0.0.0.0 corpnetflix.co
 0.0.0.0 corporacionsealers.com
@@ -14656,6 +14698,7 @@
 0.0.0.0 d397.despachodeabogadosmcr.com
 0.0.0.0 d430.despachodeabogadosmcr.com
 0.0.0.0 d432.despachodeabogadosmcr.com
+0.0.0.0 d474.despachodeabogadosmcr.com
 0.0.0.0 d508.espn365.com
 0.0.0.0 d520.despachodeabogadosmcr.com
 0.0.0.0 d539.despachodeabogadosmcr.com
@@ -14694,6 +14737,7 @@
 0.0.0.0 d2620c26f1b3d30bf42f845275.warszua.pl
 0.0.0.0 d9067cdd96edc29c62241d0c494.tlsens.pl
 0.0.0.0 d9523a78630.johncornell.com
+0.0.0.0 d15681.paidtomoney.com
 0.0.0.0 d21890.paidtomoney.com
 0.0.0.0 d23668.paidtomoney.com
 0.0.0.0 d25812.paidtomoney.com
@@ -16359,6 +16403,7 @@
 0.0.0.0 downtimes.live
 0.0.0.0 downtownlosangelesdentist.com
 0.0.0.0 downundermeatpie.com
+0.0.0.0 dowoztowary247.shop
 0.0.0.0 dowozy24.cloud
 0.0.0.0 dowt.olled.xyz
 0.0.0.0 doxera.biz
@@ -16682,6 +16727,7 @@
 0.0.0.0 dsq1nf.webwave.dev
 0.0.0.0 dss.rpss-esp.xyz
 0.0.0.0 dst.flsstornw.online
+0.0.0.0 dstn.pl
 0.0.0.0 dsy-disneyplus.ikwb.com
 0.0.0.0 dtdcf.sunddip.com
 0.0.0.0 dtetl.hechicerosybrujos2019.com
@@ -17416,6 +17462,7 @@
 0.0.0.0 emailtestingandsupport.on.drv.tw
 0.0.0.0 emailvoid.com
 0.0.0.0 emarie.info
+0.0.0.0 emarryme.com
 0.0.0.0 embarkup.com
 0.0.0.0 embedtarp.com
 0.0.0.0 emberfiiresiide.site
@@ -17461,6 +17508,7 @@
 0.0.0.0 emoji.fre.bond
 0.0.0.0 emonitoring-poczta-polska.cyou
 0.0.0.0 emonitoring-sz.top
+0.0.0.0 emonitoring.goovau.top
 0.0.0.0 emonitoring.top
 0.0.0.0 emonitoringplc.top
 0.0.0.0 emonitoringplcom.top
@@ -18108,6 +18156,7 @@
 0.0.0.0 express2delivery.com
 0.0.0.0 express-delivery-dhl-parcel.com
 0.0.0.0 express-dhl-del.com
+0.0.0.0 express-platnosci.pl
 0.0.0.0 expressable.info
 0.0.0.0 expresscash.pl
 0.0.0.0 expressconcreteltd.net
@@ -18117,6 +18166,7 @@
 0.0.0.0 expressdigest.site
 0.0.0.0 expressglobar.com
 0.0.0.0 expresspaka.cloud
+0.0.0.0 expressplatnosci.pl
 0.0.0.0 expressplship.co
 0.0.0.0 expresspocztapl.com
 0.0.0.0 expresspocztapolska.com
@@ -18239,6 +18289,7 @@
 0.0.0.0 f89.despachodeabogadosmcr.com
 0.0.0.0 f89.espn365.com
 0.0.0.0 f96a9b65eff82f059a16bc125825525d.mogro.pl
+0.0.0.0 f115.despachodeabogadosmcr.com
 0.0.0.0 f138.espn365.com
 0.0.0.0 f153.espn365.com
 0.0.0.0 f190.despachodeabogadosmcr.com
@@ -18282,6 +18333,7 @@
 0.0.0.0 f764.espn365.com
 0.0.0.0 f800e6f66d71.ngrok.io
 0.0.0.0 f845.espn365.com
+0.0.0.0 f876.despachodeabogadosmcr.com
 0.0.0.0 f930.despachodeabogadosmcr.com
 0.0.0.0 f937.espn365.com
 0.0.0.0 f956.espn365.com
@@ -18342,6 +18394,7 @@
 0.0.0.0 fac.bashus.site
 0.0.0.0 fac.infbal.site
 0.0.0.0 fac.prxof.live
+0.0.0.0 faceb0ok.pl
 0.0.0.0 facebok-desktop.pev.pl
 0.0.0.0 faceboobko.tcp4.me
 0.0.0.0 facebook24-com.cleverapps.io
@@ -18350,6 +18403,7 @@
 0.0.0.0 facebook-pl.hue.boats
 0.0.0.0 facebook-pl.qos.boats
 0.0.0.0 facebook-pl.qos.world
+0.0.0.0 facebook-portal-business-meta.web.app
 0.0.0.0 facebook-veryfication-process2.herokuapp.com
 0.0.0.0 facebook-veryfication-process3.herokuapp.com
 0.0.0.0 facebook-veryfication-process4.herokuapp.com
@@ -18365,6 +18419,7 @@
 0.0.0.0 facebookpolicy12.ddnsking.com
 0.0.0.0 faceinfocus.net
 0.0.0.0 facelessinseattle.com
+0.0.0.0 facelt-shield.com
 0.0.0.0 facemaskup.com
 0.0.0.0 facenook.ct8.pl
 0.0.0.0 faceppies.site
@@ -18385,6 +18440,7 @@
 0.0.0.0 factories.live
 0.0.0.0 factornews.xyz
 0.0.0.0 factoryoutletsolutions.com
+0.0.0.0 factorypolska.online
 0.0.0.0 factosphere.com
 0.0.0.0 facts.welcme-proftr.site
 0.0.0.0 factury-119596-relacja.info03.pl
@@ -20717,6 +20773,7 @@
 0.0.0.0 gielda-samochodowa48.pl
 0.0.0.0 gieldaenergii.online
 0.0.0.0 gieldaenergii.site
+0.0.0.0 gieldamoto-otto.pl
 0.0.0.0 gieldapojazdow-pruszynski.pl
 0.0.0.0 gieldapolska.online
 0.0.0.0 gieldapolska.site
@@ -22673,6 +22730,7 @@
 0.0.0.0 hsj23.eu
 0.0.0.0 hslfgh.s3.us-west-004.backblazeb2.com
 0.0.0.0 hsltnhw1wsl.digital
+0.0.0.0 hst-46.cfd
 0.0.0.0 hsuwdjg1lm.digital
 0.0.0.0 hsyd.tayki.site
 0.0.0.0 ht-43f.cfd
@@ -23899,6 +23957,7 @@
 0.0.0.0 inpost-pl.entelo.bio
 0.0.0.0 inpost-pl.fast-deliv-728282.xyz
 0.0.0.0 inpost-pl.fsiona.site
+0.0.0.0 inpost-pl.fulios.online
 0.0.0.0 inpost-pl.gnerfa.site
 0.0.0.0 inpost-pl.gremsin.site
 0.0.0.0 inpost-pl.gsebon.space
@@ -23940,6 +23999,7 @@
 0.0.0.0 inpost-pl.seopedia.top
 0.0.0.0 inpost-pl.sg9.xyz
 0.0.0.0 inpost-pl.shostka.website
+0.0.0.0 inpost-pl.skabmb.website
 0.0.0.0 inpost-pl.slide.ink
 0.0.0.0 inpost-pl.slotgembira.top
 0.0.0.0 inpost-pl.system-pay2344.ml
@@ -24836,6 +24896,7 @@
 0.0.0.0 jazzmansprings.live
 0.0.0.0 jazzysfishandchips.com.au
 0.0.0.0 jb.eutrty.top
+0.0.0.0 jbah.pro
 0.0.0.0 jbdcst.webwave.dev
 0.0.0.0 jbdfgv.s3.us-east-005.backblazeb2.com
 0.0.0.0 jbfilmyseriale.pl
@@ -26075,6 +26136,7 @@
 0.0.0.0 konto.weryfikacja-uzytkownika.pw
 0.0.0.0 kontoks.com
 0.0.0.0 kontomatik.online
+0.0.0.0 kontoonetpl9.godaddysites.com
 0.0.0.0 kontratakowaac.site
 0.0.0.0 kontrola-bezpieczenstwa.link
 0.0.0.0 kontrola-bezpieczenstwa.top
@@ -26320,6 +26382,7 @@
 0.0.0.0 kupowanie-online.pl
 0.0.0.0 kupsprzedajoddaj.pl
 0.0.0.0 kupuj-online24.pl
+0.0.0.0 kupuj-z-dostawa.pl
 0.0.0.0 kupujemysamochody.com.pl
 0.0.0.0 kupujterazznami.shop
 0.0.0.0 kurbas.apprety.site
@@ -27333,6 +27396,7 @@
 0.0.0.0 lnpost.prikoa.site
 0.0.0.0 lnpost.probit.pw
 0.0.0.0 lnpost.ptleroo.online
+0.0.0.0 lnpost.skabmb.website
 0.0.0.0 lnpost.soco.pics
 0.0.0.0 lnpost.tequilaworm.shop
 0.0.0.0 lnpost.teracure.site
@@ -28832,6 +28896,7 @@
 0.0.0.0 merelys-xyz.preview-domain.com
 0.0.0.0 merf.utulo.site
 0.0.0.0 mergedocsnow.com
+0.0.0.0 mergendumergufe.duckdns.org
 0.0.0.0 mergeone.site
 0.0.0.0 mergesmeta.com
 0.0.0.0 meriandaf.uno
@@ -28900,6 +28965,7 @@
 0.0.0.0 meta-online23.com
 0.0.0.0 meta-privacy-concerns-e7a75.web.app
 0.0.0.0 meta-support-bussiness.web.app
+0.0.0.0 meta.business-manager.live
 0.0.0.0 meta.businessverifys.info
 0.0.0.0 metaa.site
 0.0.0.0 metaanalytics.club
@@ -29453,6 +29519,7 @@
 0.0.0.0 mobilespaphoenix.com
 0.0.0.0 mobilespasandiego.com
 0.0.0.0 mobiljobb.se
+0.0.0.0 mobilna-platnosc.pl
 0.0.0.0 mobilnarecepta.pl
 0.0.0.0 mobilvendor.info
 0.0.0.0 mobiwin.pl
@@ -30553,6 +30620,7 @@
 0.0.0.0 nazwa-pl-6f7aaeae81c.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-6f69b562af1.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-7a9acb9ce92.unicainstrumentacao.com.br
+0.0.0.0 nazwa-pl-7f2611cdf05.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-8a75a9f12a6.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-8ae49193c4c.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-8d3b5e269aa.unicainstrumentacao.com.br
@@ -30621,6 +30689,7 @@
 0.0.0.0 nazwa-pl-c7209099698.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-ca541ed3a58.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-cadec2cfb96.unicainstrumentacao.com.br
+0.0.0.0 nazwa-pl-cdb60631583.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-ce9633d5d5e.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-cf3a28ebb4e.unicainstrumentacao.com.br
 0.0.0.0 nazwa-pl-d2f97f13802.unicainstrumentacao.com.br
@@ -30939,10 +31008,12 @@
 0.0.0.0 new739.despachodeabogadosmcr.com
 0.0.0.0 new768.espn365.com
 0.0.0.0 new782.espn365.com
+0.0.0.0 new788.despachodeabogadosmcr.com
 0.0.0.0 new804.despachodeabogadosmcr.com
 0.0.0.0 new806.despachodeabogadosmcr.com
 0.0.0.0 new810.despachodeabogadosmcr.com
 0.0.0.0 new837.despachodeabogadosmcr.com
+0.0.0.0 new839.despachodeabogadosmcr.com
 0.0.0.0 new841.despachodeabogadosmcr.com
 0.0.0.0 new843.despachodeabogadosmcr.com
 0.0.0.0 new859.despachodeabogadosmcr.com
@@ -32117,6 +32188,7 @@
 0.0.0.0 ogloszenia-4kolka.pl
 0.0.0.0 ogloszenia-24.cba.pl
 0.0.0.0 ogloszenia-autko.pl
+0.0.0.0 ogloszenia-autogielda.pl
 0.0.0.0 ogloszenia-jazda.pl
 0.0.0.0 ogloszenia-lokalnie24.pl
 0.0.0.0 ogloszenia-miejskie24.eu3.biz
@@ -32127,6 +32199,7 @@
 0.0.0.0 ogloszenia-moto.pl
 0.0.0.0 ogloszenia-noweauto.pl
 0.0.0.0 ogloszenia-paczka.pl
+0.0.0.0 ogloszenia-pojazd.pl
 0.0.0.0 ogloszenia-prywatne.pl
 0.0.0.0 ogloszenia-przesylka.pl
 0.0.0.0 ogloszenia-samochodowe.pl
@@ -32136,6 +32209,7 @@
 0.0.0.0 ogloszenia-zadarmo.pl
 0.0.0.0 ogloszenia-zokolicy.pl
 0.0.0.0 ogloszenia.store
+0.0.0.0 ogloszeniacalapolska.pl
 0.0.0.0 ogloszenianet-top.j.pl
 0.0.0.0 ogloszeniastolica.pl
 0.0.0.0 ogloszeniaz-okolicy.pl
@@ -32864,6 +32938,7 @@
 0.0.0.0 openacia.web.app
 0.0.0.0 openaiinfprodforyou.site
 0.0.0.0 openaismart.site
+0.0.0.0 openaml.sea-transactione.online
 0.0.0.0 openenterprises.click
 0.0.0.0 openesinfprodforyou.site
 0.0.0.0 openesoneprodforyou.site
@@ -33424,6 +33499,7 @@
 0.0.0.0 paganizeb.com
 0.0.0.0 page68.xyz
 0.0.0.0 page89.xyz
+0.0.0.0 page-help.case3-violation.click
 0.0.0.0 page-inform.xyz
 0.0.0.0 page-market.tygyro.com
 0.0.0.0 pageolx-market.756421.xyz
@@ -34125,6 +34201,7 @@
 0.0.0.0 pgskmcvlfb.sa.com
 0.0.0.0 pgstartjoin.online
 0.0.0.0 pgttopone.com
+0.0.0.0 ph.djwltm.com
 0.0.0.0 ph.htjnzp.com
 0.0.0.0 phalaenae.live
 0.0.0.0 phalangistidaes.info
@@ -34728,8 +34805,12 @@
 0.0.0.0 platfromforbussines.site
 0.0.0.0 platfromforyourbussines.site
 0.0.0.0 platinggalvanizing.cyou
+0.0.0.0 platnosc-zweryfikowana.pl
+0.0.0.0 platnosci24h.pl
+0.0.0.0 platnosci-express.pl
 0.0.0.0 platnosci-payu.prv.pl
 0.0.0.0 platnosci-sendit.link
+0.0.0.0 platnosciexpress.pl
 0.0.0.0 platosdeducha.com
 0.0.0.0 plausiblec.com
 0.0.0.0 play-esimpl.com
@@ -35712,6 +35793,7 @@
 0.0.0.0 polskie-paczki.com
 0.0.0.0 polskie-sledztwa.pl
 0.0.0.0 polskie-zaginiecia.eu3.org
+0.0.0.0 polskie-zakupy.pl
 0.0.0.0 polskiedrogi-fakty.eu5.net
 0.0.0.0 polskieinfod.site
 0.0.0.0 polskiepaczek.com
@@ -36622,6 +36704,7 @@
 0.0.0.0 prostakierunekprawdziwyduzamapa.space
 0.0.0.0 prostatevibrators.com
 0.0.0.0 prostatorrhea.life
+0.0.0.0 proste-zamowienia.pl
 0.0.0.0 prostle.online
 0.0.0.0 prostozmiasta.b-cdn.net
 0.0.0.0 prostys.com
@@ -36675,6 +36758,8 @@
 0.0.0.0 pryan-offers.com
 0.0.0.0 pryley.com
 0.0.0.0 prywatne-fotki.mywebcommunity.org
+0.0.0.0 prywatne-oferty.pl
+0.0.0.0 prywatne-transakcje.pl
 0.0.0.0 prywatny-zakup.pl
 0.0.0.0 przechodze-dalej.icu
 0.0.0.0 przechodze-dalej.live
@@ -37428,6 +37513,7 @@
 0.0.0.0 raport-892508-twoje.info03.pl
 0.0.0.0 raport-952922-raport.info03.pl
 0.0.0.0 raport-971860-allgr.info03.pl
+0.0.0.0 raportowydzien.click
 0.0.0.0 raporty24.click
 0.0.0.0 rappre.com
 0.0.0.0 rapproblog.site
@@ -37656,6 +37742,7 @@
 0.0.0.0 recordingbiz.top
 0.0.0.0 recordingbiz.xyz
 0.0.0.0 recouvrement-netflix.fr
+0.0.0.0 recover-25d84.web.app
 0.0.0.0 recover-dhl-parcel.com
 0.0.0.0 recoverphrase106.web.app
 0.0.0.0 recoverphrase134.web.app
@@ -39723,6 +39810,7 @@
 0.0.0.0 shetankd.site
 0.0.0.0 shewanes.com
 0.0.0.0 shewlvstate.com
+0.0.0.0 shield-facelt.com
 0.0.0.0 shift-offers.com
 0.0.0.0 shiftdominicana.com
 0.0.0.0 shifterherald.com
@@ -39888,6 +39976,7 @@
 0.0.0.0 sign-apple.com
 0.0.0.0 sign-in-verification-cf707.web.app
 0.0.0.0 sign-trade-kanga-exchange-pl.blogspot.com
+0.0.0.0 signal-unethical-conduct-a8465.web.app
 0.0.0.0 signalavia.com
 0.0.0.0 signalities.com
 0.0.0.0 signalscoach.com
@@ -39912,6 +40001,7 @@
 0.0.0.0 silencehappy.click
 0.0.0.0 silenceraganim.site
 0.0.0.0 silhouetti.com
+0.0.0.0 silke.simazac.de
 0.0.0.0 silkow.website
 0.0.0.0 sill-buyer.webnode.co.uk
 0.0.0.0 sillibibs.xyz
@@ -40771,6 +40861,7 @@
 0.0.0.0 sprzedajkupoddaj.pl
 0.0.0.0 sprzedam-motoryzacja4u.pl
 0.0.0.0 sprzedamkoszty.com
+0.0.0.0 sprzedawaj-samochody.pl
 0.0.0.0 sprzedaz-motoryzacja24.pl
 0.0.0.0 sprzedazwysylki.online
 0.0.0.0 spubili.space
@@ -40845,6 +40936,7 @@
 0.0.0.0 staemcornmunlty-com.profiles-765952901906.ml
 0.0.0.0 staemcrommnunity.com.profiles-7658215377653.ml
 0.0.0.0 stafi.skin
+0.0.0.0 stage.bakeddarzee.com
 0.0.0.0 stagevids.com
 0.0.0.0 stagingturningstone.com
 0.0.0.0 staglydraftsky.netlify.app
@@ -41786,6 +41878,7 @@
 0.0.0.0 szybkie-glosy.eu
 0.0.0.0 szybkie-informacje.eu
 0.0.0.0 szybkie-klikanie.eu
+0.0.0.0 szybkie-wiesci.pl
 0.0.0.0 szybkie-znalezione.eu
 0.0.0.0 szybkiefakty.eu5.net
 0.0.0.0 szybkiepolaczeniaa.site
@@ -41800,6 +41893,7 @@
 0.0.0.0 szytyahpvc7vy.com
 0.0.0.0 t0.t0project.site
 0.0.0.0 t0elvbikyf7f.com
+0.0.0.0 t0kenswap.com
 0.0.0.0 t0uyr1.web.app
 0.0.0.0 t0uyr2.web.app
 0.0.0.0 t0uyr3.web.app
@@ -42870,6 +42964,7 @@
 0.0.0.0 tightrope.sbs
 0.0.0.0 tih-lmtd.com
 0.0.0.0 tiimkor-uno.preview-domain.com
+0.0.0.0 tiket-pl.online
 0.0.0.0 tiket-titimangsa.com
 0.0.0.0 tiktok.canaltelegram.com
 0.0.0.0 tiktok.w77h6.cloud
@@ -42955,6 +43050,7 @@
 0.0.0.0 tmnwortel.com
 0.0.0.0 tmppgt.s3.us-west-004.backblazeb2.com
 0.0.0.0 tmsmicro.com
+0.0.0.0 tmsoandapl.com
 0.0.0.0 tmuk.miliomp.xyz
 0.0.0.0 tmv.autos
 0.0.0.0 tn1.beauty
@@ -44510,6 +44606,7 @@
 0.0.0.0 ups-trackingdelivery.net
 0.0.0.0 ups-trackingexpress.com
 0.0.0.0 ups-trackingship.com
+0.0.0.0 ups-trackmyparcel.com
 0.0.0.0 ups-trackpost.com
 0.0.0.0 ups-trackshipping.com
 0.0.0.0 ups-zoll.net
@@ -45877,6 +45974,7 @@
 0.0.0.0 visitnshop.com
 0.0.0.0 viski.byseniscon.top
 0.0.0.0 vistaalegrehotel.com
+0.0.0.0 vistovka-pay.online
 0.0.0.0 visuafy.com
 0.0.0.0 visualbenefit.com
 0.0.0.0 vitablack.com
@@ -47016,6 +47114,7 @@
 0.0.0.0 wirmw.iamguided.com
 0.0.0.0 wirtaspin-investing.pro
 0.0.0.0 wirtualnapolska24.pl
+0.0.0.0 wirtualne-informacjetrasa.com.pl
 0.0.0.0 wirtualnieonline.com
 0.0.0.0 wirtualnieonline.eu
 0.0.0.0 wirtualnyswiat.click
@@ -47357,6 +47456,7 @@
 0.0.0.0 wspaniialaatmosfera.site
 0.0.0.0 wspaniialapodroz.site
 0.0.0.0 wsparcia-znajomych.eu
+0.0.0.0 wsparciarodzinne.click
 0.0.0.0 wsparcie-subskrypcja.com
 0.0.0.0 wspollpracowac.site
 0.0.0.0 wspolpracauuroda.mom
@@ -47445,6 +47545,7 @@
 0.0.0.0 www.00ea1b98c1e.chefs-kitchen.co.uk
 0.0.0.0 www.0f0e0.cfd
 0.0.0.0 www.0f3b976.rcomhost.com
+0.0.0.0 www.0fb33d4.netsolhost.com
 0.0.0.0 www.0fb48272.bakerstreetfinance.tv
 0.0.0.0 www.0ferta-dlugopisy.click
 0.0.0.0 www.0ferta.click
@@ -47683,6 +47784,7 @@
 0.0.0.0 www.2yhnjk.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.2ytk.hair
 0.0.0.0 www.3-139-92-223.cprapid.com
+0.0.0.0 www.03-gd.cfd
 0.0.0.0 www.3-k.homes
 0.0.0.0 www.3-ske.yachts
 0.0.0.0 www.3.d1g1marka.click
@@ -47715,6 +47817,7 @@
 0.0.0.0 www.3filmy.com
 0.0.0.0 www.3fse.cfd
 0.0.0.0 www.3gk.pics
+0.0.0.0 www.3ie-g8.cfd
 0.0.0.0 www.3kdy.homes
 0.0.0.0 www.3mark-et-info4.xyz
 0.0.0.0 www.3mi.beauty
@@ -47974,6 +48077,7 @@
 0.0.0.0 www.23d.pics
 0.0.0.0 www.23luckybirdcasino.com
 0.0.0.0 www.23tsla.net
+0.0.0.0 www.24-lf3.cfd
 0.0.0.0 www.24.buamaksd.xyz
 0.0.0.0 www.24b1de6b9ec8.nfdaspl.pl
 0.0.0.0 www.24coin.info
@@ -48094,12 +48198,14 @@
 0.0.0.0 www.74techinnovhub.live
 0.0.0.0 www.75aa7f0e.bcdashboards.com.br
 0.0.0.0 www.75f74ze65f7465ze.blogspot.com
+0.0.0.0 www.76-syf.cfd
 0.0.0.0 www.076b5.yilmazmuh.com
 0.0.0.0 www.78cf3fc3.bakerstreetfinance.tv
 0.0.0.0 www.78da.byseniscon.top
 0.0.0.0 www.79clubparis.com
 0.0.0.0 www.80w19v.cn
 0.0.0.0 www.82-118-23-62.cprapid.com
+0.0.0.0 www.82-dga.cfd
 0.0.0.0 www.82a9d4fb409.chefs-kitchen.co.uk
 0.0.0.0 www.82e7946e1f7.johncornell.com
 0.0.0.0 www.83hf.skin
@@ -48116,6 +48222,7 @@
 0.0.0.0 www.90bc2ac1a254ea833f92.all-biuro.pl
 0.0.0.0 www.90bfecc0d7a526ee0475bd4afeee3fd3.lisapwa.pl
 0.0.0.0 www.90doddsln.info
+0.0.0.0 www.92-dgi.cfd
 0.0.0.0 www.93-93-117-179.cprapid.com
 0.0.0.0 www.93a6d7ab5f7.chefs-kitchen.co.uk
 0.0.0.0 www.94acc111f84.chefs-kitchen.co.uk
@@ -48854,12 +48961,15 @@
 0.0.0.0 www.a246.despachodeabogadosmcr.com
 0.0.0.0 www.a252.despachodeabogadosmcr.com
 0.0.0.0 www.a270.espn365.com
+0.0.0.0 www.a303.despachodeabogadosmcr.com
 0.0.0.0 www.a304.info
 0.0.0.0 www.a322e6b1.365software.co.uk
+0.0.0.0 www.a335.despachodeabogadosmcr.com
 0.0.0.0 www.a346.despachodeabogadosmcr.com
 0.0.0.0 www.a348.despachodeabogadosmcr.com
 0.0.0.0 www.a434.espn365.com
 0.0.0.0 www.a437.despachodeabogadosmcr.com
+0.0.0.0 www.a444.despachodeabogadosmcr.com
 0.0.0.0 www.a457.espn365.com
 0.0.0.0 www.a459.espn365.com
 0.0.0.0 www.a472.despachodeabogadosmcr.com
@@ -48869,6 +48979,7 @@
 0.0.0.0 www.a548.despachodeabogadosmcr.com
 0.0.0.0 www.a626.espn365.com
 0.0.0.0 www.a639.despachodeabogadosmcr.com
+0.0.0.0 www.a641.despachodeabogadosmcr.com
 0.0.0.0 www.a644.espn365.com
 0.0.0.0 www.a649.info
 0.0.0.0 www.a652d1e00df.chefs-kitchen.co.uk
@@ -48879,6 +48990,7 @@
 0.0.0.0 www.a757.espn365.com
 0.0.0.0 www.a762.despachodeabogadosmcr.com
 0.0.0.0 www.a763.espn365.com
+0.0.0.0 www.a770.despachodeabogadosmcr.com
 0.0.0.0 www.a796.despachodeabogadosmcr.com
 0.0.0.0 www.a817.despachodeabogadosmcr.com
 0.0.0.0 www.a914.espn365.com
@@ -48889,7 +49001,9 @@
 0.0.0.0 www.a1617ea9b14d9.allbiuro.pl
 0.0.0.0 www.a04017e0ea0.chefs-kitchen.co.uk
 0.0.0.0 www.a6861be93d9642360.temporary.link
+0.0.0.0 www.a12918.paidtomoney.com
 0.0.0.0 www.a15695.paidtomoney.com
+0.0.0.0 www.a22756.paidtomoney.com
 0.0.0.0 www.a23919.paidtomoney.com
 0.0.0.0 www.a30212.paidtomoney.com
 0.0.0.0 www.a30940.paidtomoney.com
@@ -49087,6 +49201,7 @@
 0.0.0.0 www.abq.bostref.top
 0.0.0.0 www.abra-sklep.pl
 0.0.0.0 www.abranchial.com
+0.0.0.0 www.abroadv.sbs
 0.0.0.0 www.abrogaimks.space
 0.0.0.0 www.abscisesfi.com
 0.0.0.0 www.absentmiindedly.site
@@ -49121,6 +49236,7 @@
 0.0.0.0 www.accadian.info
 0.0.0.0 www.accdn1tfre.com
 0.0.0.0 www.acceptthispodcast.com
+0.0.0.0 www.access-meta-business.com
 0.0.0.0 www.access-payment-deny.com
 0.0.0.0 www.acci.com.co
 0.0.0.0 www.accidentalness.info
@@ -49234,6 +49350,7 @@
 0.0.0.0 www.actress-collect.webnode.it
 0.0.0.0 www.actsms.pl
 0.0.0.0 www.actualinpoilshaas.com
+0.0.0.0 www.actuallyn.cfd
 0.0.0.0 www.actudsizeh.com
 0.0.0.0 www.actv.online-like1.site
 0.0.0.0 www.actxc.online
@@ -49533,6 +49650,7 @@
 0.0.0.0 www.ahalmeartaker.site
 0.0.0.0 www.ahaptakewwe.online
 0.0.0.0 www.ahaustravinuut.site
+0.0.0.0 www.aheads.sbs
 0.0.0.0 www.ahekal.com
 0.0.0.0 www.ahepot.com
 0.0.0.0 www.ahgpi.org
@@ -49978,9 +50096,12 @@
 0.0.0.0 www.allegrolokalnie.platnosc-payu24.pl
 0.0.0.0 www.allegrolokalnie.platnosc-w-sieci.pl
 0.0.0.0 www.allegrolokalnie.platnosc-zweryfikowana.pl
+0.0.0.0 www.allegrolokalnie.polskie-zakupy.pl
+0.0.0.0 www.allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 www.allegrolokalnie.szybka-paczka.pl
 0.0.0.0 www.allegrolokalnie.wygodna-platnosc.pl
+0.0.0.0 www.allegrolokalnie.wygodny-zakup.pl
 0.0.0.0 www.allegrolokalnie.wysylka-online.pl
 0.0.0.0 www.allegrolokalnie.zakup24.pl
 0.0.0.0 www.allegrolokalnie.zakup-produkt.pl
@@ -50274,6 +50395,7 @@
 0.0.0.0 www.amaon83.com
 0.0.0.0 www.amaon85.com
 0.0.0.0 www.amaon86.com
+0.0.0.0 www.amaon90.com
 0.0.0.0 www.amaon96.com
 0.0.0.0 www.amardeepesand.com
 0.0.0.0 www.amaresunmilagrogilda.com
@@ -50317,6 +50439,7 @@
 0.0.0.0 www.amendmentwhirl.cn
 0.0.0.0 www.americanbatbgroup.com
 0.0.0.0 www.americanbrokerchallenge.com
+0.0.0.0 www.americanexpress.volkensolutionss.com.amex-updates.com
 0.0.0.0 www.americansilverdollars.com
 0.0.0.0 www.americanxcapsd.com
 0.0.0.0 www.americasallgutter.com
@@ -51129,6 +51252,7 @@
 0.0.0.0 www.atacamaluxurytours.com
 0.0.0.0 www.atalanta55.000webhostapp.com
 0.0.0.0 www.atapod.apprety.site
+0.0.0.0 www.atdt1-100272.weeblysite.com
 0.0.0.0 www.atesla.ro
 0.0.0.0 www.atest.csamelok.top
 0.0.0.0 www.atfritunag.cf
@@ -51175,6 +51299,7 @@
 0.0.0.0 www.atriumset.com
 0.0.0.0 www.atropinization.live
 0.0.0.0 www.atsoi.stanrichard.com
+0.0.0.0 www.att-108456-109723.weeblysite.com
 0.0.0.0 www.attadbehind.work
 0.0.0.0 www.attadmins.weebly.com
 0.0.0.0 www.attaininglife.club
@@ -51729,6 +51854,7 @@
 0.0.0.0 www.b159.espn365.com
 0.0.0.0 www.b163.espn365.com
 0.0.0.0 www.b173.espn365.com
+0.0.0.0 www.b175.despachodeabogadosmcr.com
 0.0.0.0 www.b178.espn365.com
 0.0.0.0 www.b203.despachodeabogadosmcr.com
 0.0.0.0 www.b227.despachodeabogadosmcr.com
@@ -51775,9 +51901,11 @@
 0.0.0.0 www.b21580.paidtomoney.com
 0.0.0.0 www.b31350.paidtomoney.com
 0.0.0.0 www.b37839.paidtomoney.com
+0.0.0.0 www.b41598.paidtomoney.com
 0.0.0.0 www.b43679.paidtomoney.com
 0.0.0.0 www.b44153.paidtomoney.com
 0.0.0.0 www.b61681ea.vinylfence.uk
+0.0.0.0 www.b64399.paidtomoney.com
 0.0.0.0 www.b70638.paidtomoney.com
 0.0.0.0 www.b72448.paidtomoney.com
 0.0.0.0 www.b79243.paidtomoney.com
@@ -52885,6 +53013,7 @@
 0.0.0.0 www.bestweb-info.webnode.fr
 0.0.0.0 www.bestxi.net
 0.0.0.0 www.beswarm.info
+0.0.0.0 www.bet777red.com
 0.0.0.0 www.beta-cs2.cc
 0.0.0.0 www.beta.cs2-strike.com
 0.0.0.0 www.beta.glenbowcollege.ca
@@ -52927,8 +53056,10 @@
 0.0.0.0 www.beznowway.com
 0.0.0.0 www.bezpieczenstwo.site
 0.0.0.0 www.bezpieczenstwo.tech
+0.0.0.0 www.bezpieczna-wysylka247.pl
 0.0.0.0 www.bezpieczne-kupowanie.pl
 0.0.0.0 www.bezpieczne-ogloszenia.pl
+0.0.0.0 www.bezpieczne-transakcje.pl
 0.0.0.0 www.bezposrednie-przetwarzanie-online.xyz
 0.0.0.0 www.beztroskiemomenty.click
 0.0.0.0 www.bezugai.com
@@ -54281,6 +54412,7 @@
 0.0.0.0 www.business-page-meta-12908986524.firebaseapp.com
 0.0.0.0 www.business-page-meta-12908986524.web.app
 0.0.0.0 www.business-pl.online
+0.0.0.0 www.business-support-license-meta.com
 0.0.0.0 www.businessandtrading.com
 0.0.0.0 www.businessandtrading.pro
 0.0.0.0 www.businessbankruptcyphoenix.com
@@ -54449,6 +54581,7 @@
 0.0.0.0 www.c0030a17d2c5cc533.plwwwnet.pl
 0.0.0.0 www.c39b126b5cec.ngrok.io
 0.0.0.0 www.c39ram.webwave.dev
+0.0.0.0 www.c47.despachodeabogadosmcr.com
 0.0.0.0 www.c50.despachodeabogadosmcr.com
 0.0.0.0 www.c67.despachodeabogadosmcr.com
 0.0.0.0 www.c84bc6a9b1580a33222467368b.tuuups.pl
@@ -54473,6 +54606,7 @@
 0.0.0.0 www.c399.despachodeabogadosmcr.com
 0.0.0.0 www.c409.espn365.com
 0.0.0.0 www.c418.despachodeabogadosmcr.com
+0.0.0.0 www.c419.despachodeabogadosmcr.com
 0.0.0.0 www.c457.despachodeabogadosmcr.com
 0.0.0.0 www.c457.info
 0.0.0.0 www.c461.despachodeabogadosmcr.com
@@ -54651,6 +54785,7 @@
 0.0.0.0 www.campsteinberg.com
 0.0.0.0 www.campusesb.com
 0.0.0.0 www.camvideosit.grweb.site
+0.0.0.0 www.can-not-be-ignored2461031.io.vn
 0.0.0.0 www.canacata.com
 0.0.0.0 www.canadapro.cloud
 0.0.0.0 www.canadapro.info
@@ -54738,6 +54873,7 @@
 0.0.0.0 www.carassistba.com
 0.0.0.0 www.carbaddictsjourney.com
 0.0.0.0 www.carboardead1.site
+0.0.0.0 www.carbocyclic-reason.000webhostapp.com
 0.0.0.0 www.carbondollararmy.com
 0.0.0.0 www.carbx.org
 0.0.0.0 www.cardamour.com
@@ -55108,6 +55244,7 @@
 0.0.0.0 www.celestialnavigation.xyz
 0.0.0.0 www.celestialphotography.xyz
 0.0.0.0 www.celestiialtrance.site
+0.0.0.0 www.celingpembershiekacha.duckdns.org
 0.0.0.0 www.cell101.online
 0.0.0.0 www.cellfons.online
 0.0.0.0 www.celltranspl.com
@@ -55338,6 +55475,7 @@
 0.0.0.0 www.changrottawithe.cf
 0.0.0.0 www.channelstorynewspaper.com
 0.0.0.0 www.chaprpiress.site
+0.0.0.0 www.chapter-dd853.web.app
 0.0.0.0 www.charges-ups.com
 0.0.0.0 www.charitablyjoules.com
 0.0.0.0 www.charizmatec.com
@@ -55687,6 +55825,7 @@
 0.0.0.0 www.cl.news-espc.site
 0.0.0.0 www.cl.yourchance.top
 0.0.0.0 www.clafoutisb.com
+0.0.0.0 www.claim-cs2.com
 0.0.0.0 www.claim-sentry.com
 0.0.0.0 www.claim.kim
 0.0.0.0 www.claimdelude.top
@@ -56302,6 +56441,7 @@
 0.0.0.0 www.cornkarfoods.com
 0.0.0.0 www.cornland.co
 0.0.0.0 www.corollaownersclub.com
+0.0.0.0 www.corpenterwss.xyz
 0.0.0.0 www.corperategrowth.site
 0.0.0.0 www.corpnetflix.co
 0.0.0.0 www.corporacionsealers.com
@@ -56932,6 +57072,7 @@
 0.0.0.0 www.d397.despachodeabogadosmcr.com
 0.0.0.0 www.d430.despachodeabogadosmcr.com
 0.0.0.0 www.d432.despachodeabogadosmcr.com
+0.0.0.0 www.d474.despachodeabogadosmcr.com
 0.0.0.0 www.d508.espn365.com
 0.0.0.0 www.d520.despachodeabogadosmcr.com
 0.0.0.0 www.d539.despachodeabogadosmcr.com
@@ -56970,6 +57111,7 @@
 0.0.0.0 www.d2620c26f1b3d30bf42f845275.warszua.pl
 0.0.0.0 www.d9067cdd96edc29c62241d0c494.tlsens.pl
 0.0.0.0 www.d9523a78630.johncornell.com
+0.0.0.0 www.d15681.paidtomoney.com
 0.0.0.0 www.d21890.paidtomoney.com
 0.0.0.0 www.d23668.paidtomoney.com
 0.0.0.0 www.d25812.paidtomoney.com
@@ -58635,6 +58777,7 @@
 0.0.0.0 www.downtimes.live
 0.0.0.0 www.downtownlosangelesdentist.com
 0.0.0.0 www.downundermeatpie.com
+0.0.0.0 www.dowoztowary247.shop
 0.0.0.0 www.dowozy24.cloud
 0.0.0.0 www.dowt.olled.xyz
 0.0.0.0 www.doxera.biz
@@ -58958,6 +59101,7 @@
 0.0.0.0 www.dsq1nf.webwave.dev
 0.0.0.0 www.dss.rpss-esp.xyz
 0.0.0.0 www.dst.flsstornw.online
+0.0.0.0 www.dstn.pl
 0.0.0.0 www.dsy-disneyplus.ikwb.com
 0.0.0.0 www.dtdcf.sunddip.com
 0.0.0.0 www.dtetl.hechicerosybrujos2019.com
@@ -59692,6 +59836,7 @@
 0.0.0.0 www.emailtestingandsupport.on.drv.tw
 0.0.0.0 www.emailvoid.com
 0.0.0.0 www.emarie.info
+0.0.0.0 www.emarryme.com
 0.0.0.0 www.embarkup.com
 0.0.0.0 www.embedtarp.com
 0.0.0.0 www.emberfiiresiide.site
@@ -59737,6 +59882,7 @@
 0.0.0.0 www.emoji.fre.bond
 0.0.0.0 www.emonitoring-poczta-polska.cyou
 0.0.0.0 www.emonitoring-sz.top
+0.0.0.0 www.emonitoring.goovau.top
 0.0.0.0 www.emonitoring.top
 0.0.0.0 www.emonitoringplc.top
 0.0.0.0 www.emonitoringplcom.top
@@ -60384,6 +60530,7 @@
 0.0.0.0 www.express2delivery.com
 0.0.0.0 www.express-delivery-dhl-parcel.com
 0.0.0.0 www.express-dhl-del.com
+0.0.0.0 www.express-platnosci.pl
 0.0.0.0 www.expressable.info
 0.0.0.0 www.expresscash.pl
 0.0.0.0 www.expressconcreteltd.net
@@ -60393,6 +60540,7 @@
 0.0.0.0 www.expressdigest.site
 0.0.0.0 www.expressglobar.com
 0.0.0.0 www.expresspaka.cloud
+0.0.0.0 www.expressplatnosci.pl
 0.0.0.0 www.expressplship.co
 0.0.0.0 www.expresspocztapl.com
 0.0.0.0 www.expresspocztapolska.com
@@ -60515,6 +60663,7 @@
 0.0.0.0 www.f89.despachodeabogadosmcr.com
 0.0.0.0 www.f89.espn365.com
 0.0.0.0 www.f96a9b65eff82f059a16bc125825525d.mogro.pl
+0.0.0.0 www.f115.despachodeabogadosmcr.com
 0.0.0.0 www.f138.espn365.com
 0.0.0.0 www.f153.espn365.com
 0.0.0.0 www.f190.despachodeabogadosmcr.com
@@ -60558,6 +60707,7 @@
 0.0.0.0 www.f764.espn365.com
 0.0.0.0 www.f800e6f66d71.ngrok.io
 0.0.0.0 www.f845.espn365.com
+0.0.0.0 www.f876.despachodeabogadosmcr.com
 0.0.0.0 www.f930.despachodeabogadosmcr.com
 0.0.0.0 www.f937.espn365.com
 0.0.0.0 www.f956.espn365.com
@@ -60618,6 +60768,7 @@
 0.0.0.0 www.fac.bashus.site
 0.0.0.0 www.fac.infbal.site
 0.0.0.0 www.fac.prxof.live
+0.0.0.0 www.faceb0ok.pl
 0.0.0.0 www.facebok-desktop.pev.pl
 0.0.0.0 www.faceboobko.tcp4.me
 0.0.0.0 www.facebook24-com.cleverapps.io
@@ -60626,6 +60777,7 @@
 0.0.0.0 www.facebook-pl.hue.boats
 0.0.0.0 www.facebook-pl.qos.boats
 0.0.0.0 www.facebook-pl.qos.world
+0.0.0.0 www.facebook-portal-business-meta.web.app
 0.0.0.0 www.facebook-veryfication-process2.herokuapp.com
 0.0.0.0 www.facebook-veryfication-process3.herokuapp.com
 0.0.0.0 www.facebook-veryfication-process4.herokuapp.com
@@ -60641,6 +60793,7 @@
 0.0.0.0 www.facebookpolicy12.ddnsking.com
 0.0.0.0 www.faceinfocus.net
 0.0.0.0 www.facelessinseattle.com
+0.0.0.0 www.facelt-shield.com
 0.0.0.0 www.facemaskup.com
 0.0.0.0 www.facenook.ct8.pl
 0.0.0.0 www.faceppies.site
@@ -60661,6 +60814,7 @@
 0.0.0.0 www.factories.live
 0.0.0.0 www.factornews.xyz
 0.0.0.0 www.factoryoutletsolutions.com
+0.0.0.0 www.factorypolska.online
 0.0.0.0 www.factosphere.com
 0.0.0.0 www.facts.welcme-proftr.site
 0.0.0.0 www.factury-119596-relacja.info03.pl
@@ -62993,6 +63147,7 @@
 0.0.0.0 www.gielda-samochodowa48.pl
 0.0.0.0 www.gieldaenergii.online
 0.0.0.0 www.gieldaenergii.site
+0.0.0.0 www.gieldamoto-otto.pl
 0.0.0.0 www.gieldapojazdow-pruszynski.pl
 0.0.0.0 www.gieldapolska.online
 0.0.0.0 www.gieldapolska.site
@@ -64949,6 +65104,7 @@
 0.0.0.0 www.hsj23.eu
 0.0.0.0 www.hslfgh.s3.us-west-004.backblazeb2.com
 0.0.0.0 www.hsltnhw1wsl.digital
+0.0.0.0 www.hst-46.cfd
 0.0.0.0 www.hsuwdjg1lm.digital
 0.0.0.0 www.hsyd.tayki.site
 0.0.0.0 www.ht-43f.cfd
@@ -66175,6 +66331,7 @@
 0.0.0.0 www.inpost-pl.entelo.bio
 0.0.0.0 www.inpost-pl.fast-deliv-728282.xyz
 0.0.0.0 www.inpost-pl.fsiona.site
+0.0.0.0 www.inpost-pl.fulios.online
 0.0.0.0 www.inpost-pl.gnerfa.site
 0.0.0.0 www.inpost-pl.gremsin.site
 0.0.0.0 www.inpost-pl.gsebon.space
@@ -66216,6 +66373,7 @@
 0.0.0.0 www.inpost-pl.seopedia.top
 0.0.0.0 www.inpost-pl.sg9.xyz
 0.0.0.0 www.inpost-pl.shostka.website
+0.0.0.0 www.inpost-pl.skabmb.website
 0.0.0.0 www.inpost-pl.slide.ink
 0.0.0.0 www.inpost-pl.slotgembira.top
 0.0.0.0 www.inpost-pl.system-pay2344.ml
@@ -67112,6 +67270,7 @@
 0.0.0.0 www.jazzmansprings.live
 0.0.0.0 www.jazzysfishandchips.com.au
 0.0.0.0 www.jb.eutrty.top
+0.0.0.0 www.jbah.pro
 0.0.0.0 www.jbdcst.webwave.dev
 0.0.0.0 www.jbdfgv.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.jbfilmyseriale.pl
@@ -68351,6 +68510,7 @@
 0.0.0.0 www.konto.weryfikacja-uzytkownika.pw
 0.0.0.0 www.kontoks.com
 0.0.0.0 www.kontomatik.online
+0.0.0.0 www.kontoonetpl9.godaddysites.com
 0.0.0.0 www.kontratakowaac.site
 0.0.0.0 www.kontrola-bezpieczenstwa.link
 0.0.0.0 www.kontrola-bezpieczenstwa.top
@@ -68596,6 +68756,7 @@
 0.0.0.0 www.kupowanie-online.pl
 0.0.0.0 www.kupsprzedajoddaj.pl
 0.0.0.0 www.kupuj-online24.pl
+0.0.0.0 www.kupuj-z-dostawa.pl
 0.0.0.0 www.kupujemysamochody.com.pl
 0.0.0.0 www.kupujterazznami.shop
 0.0.0.0 www.kurbas.apprety.site
@@ -69609,6 +69770,7 @@
 0.0.0.0 www.lnpost.prikoa.site
 0.0.0.0 www.lnpost.probit.pw
 0.0.0.0 www.lnpost.ptleroo.online
+0.0.0.0 www.lnpost.skabmb.website
 0.0.0.0 www.lnpost.soco.pics
 0.0.0.0 www.lnpost.tequilaworm.shop
 0.0.0.0 www.lnpost.teracure.site
@@ -71108,6 +71270,7 @@
 0.0.0.0 www.merelys-xyz.preview-domain.com
 0.0.0.0 www.merf.utulo.site
 0.0.0.0 www.mergedocsnow.com
+0.0.0.0 www.mergendumergufe.duckdns.org
 0.0.0.0 www.mergeone.site
 0.0.0.0 www.mergesmeta.com
 0.0.0.0 www.meriandaf.uno
@@ -71176,6 +71339,7 @@
 0.0.0.0 www.meta-online23.com
 0.0.0.0 www.meta-privacy-concerns-e7a75.web.app
 0.0.0.0 www.meta-support-bussiness.web.app
+0.0.0.0 www.meta.business-manager.live
 0.0.0.0 www.meta.businessverifys.info
 0.0.0.0 www.metaa.site
 0.0.0.0 www.metaanalytics.club
@@ -71729,6 +71893,7 @@
 0.0.0.0 www.mobilespaphoenix.com
 0.0.0.0 www.mobilespasandiego.com
 0.0.0.0 www.mobiljobb.se
+0.0.0.0 www.mobilna-platnosc.pl
 0.0.0.0 www.mobilnarecepta.pl
 0.0.0.0 www.mobilvendor.info
 0.0.0.0 www.mobiwin.pl
@@ -72830,6 +72995,7 @@
 0.0.0.0 www.nazwa-pl-6f7aaeae81c.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-6f69b562af1.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-7a9acb9ce92.unicainstrumentacao.com.br
+0.0.0.0 www.nazwa-pl-7f2611cdf05.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-8a75a9f12a6.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-8ae49193c4c.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-8d3b5e269aa.unicainstrumentacao.com.br
@@ -72898,6 +73064,7 @@
 0.0.0.0 www.nazwa-pl-c7209099698.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-ca541ed3a58.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-cadec2cfb96.unicainstrumentacao.com.br
+0.0.0.0 www.nazwa-pl-cdb60631583.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-ce9633d5d5e.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-cf3a28ebb4e.unicainstrumentacao.com.br
 0.0.0.0 www.nazwa-pl-d2f97f13802.unicainstrumentacao.com.br
@@ -73216,10 +73383,12 @@
 0.0.0.0 www.new739.despachodeabogadosmcr.com
 0.0.0.0 www.new768.espn365.com
 0.0.0.0 www.new782.espn365.com
+0.0.0.0 www.new788.despachodeabogadosmcr.com
 0.0.0.0 www.new804.despachodeabogadosmcr.com
 0.0.0.0 www.new806.despachodeabogadosmcr.com
 0.0.0.0 www.new810.despachodeabogadosmcr.com
 0.0.0.0 www.new837.despachodeabogadosmcr.com
+0.0.0.0 www.new839.despachodeabogadosmcr.com
 0.0.0.0 www.new841.despachodeabogadosmcr.com
 0.0.0.0 www.new843.despachodeabogadosmcr.com
 0.0.0.0 www.new859.despachodeabogadosmcr.com
@@ -74394,6 +74563,7 @@
 0.0.0.0 www.ogloszenia-4kolka.pl
 0.0.0.0 www.ogloszenia-24.cba.pl
 0.0.0.0 www.ogloszenia-autko.pl
+0.0.0.0 www.ogloszenia-autogielda.pl
 0.0.0.0 www.ogloszenia-jazda.pl
 0.0.0.0 www.ogloszenia-lokalnie24.pl
 0.0.0.0 www.ogloszenia-miejskie24.eu3.biz
@@ -74404,6 +74574,7 @@
 0.0.0.0 www.ogloszenia-moto.pl
 0.0.0.0 www.ogloszenia-noweauto.pl
 0.0.0.0 www.ogloszenia-paczka.pl
+0.0.0.0 www.ogloszenia-pojazd.pl
 0.0.0.0 www.ogloszenia-prywatne.pl
 0.0.0.0 www.ogloszenia-przesylka.pl
 0.0.0.0 www.ogloszenia-samochodowe.pl
@@ -74413,6 +74584,7 @@
 0.0.0.0 www.ogloszenia-zadarmo.pl
 0.0.0.0 www.ogloszenia-zokolicy.pl
 0.0.0.0 www.ogloszenia.store
+0.0.0.0 www.ogloszeniacalapolska.pl
 0.0.0.0 www.ogloszenianet-top.j.pl
 0.0.0.0 www.ogloszeniastolica.pl
 0.0.0.0 www.ogloszeniaz-okolicy.pl
@@ -75141,6 +75313,7 @@
 0.0.0.0 www.openacia.web.app
 0.0.0.0 www.openaiinfprodforyou.site
 0.0.0.0 www.openaismart.site
+0.0.0.0 www.openaml.sea-transactione.online
 0.0.0.0 www.openenterprises.click
 0.0.0.0 www.openesinfprodforyou.site
 0.0.0.0 www.openesoneprodforyou.site
@@ -75701,6 +75874,7 @@
 0.0.0.0 www.paganizeb.com
 0.0.0.0 www.page68.xyz
 0.0.0.0 www.page89.xyz
+0.0.0.0 www.page-help.case3-violation.click
 0.0.0.0 www.page-inform.xyz
 0.0.0.0 www.page-market.tygyro.com
 0.0.0.0 www.pageolx-market.756421.xyz
@@ -76402,6 +76576,7 @@
 0.0.0.0 www.pgskmcvlfb.sa.com
 0.0.0.0 www.pgstartjoin.online
 0.0.0.0 www.pgttopone.com
+0.0.0.0 www.ph.djwltm.com
 0.0.0.0 www.ph.htjnzp.com
 0.0.0.0 www.phalaenae.live
 0.0.0.0 www.phalangistidaes.info
@@ -76904,8 +77079,12 @@
 0.0.0.0 www.platfromforbussines.site
 0.0.0.0 www.platfromforyourbussines.site
 0.0.0.0 www.platinggalvanizing.cyou
+0.0.0.0 www.platnosc-zweryfikowana.pl
+0.0.0.0 www.platnosci24h.pl
+0.0.0.0 www.platnosci-express.pl
 0.0.0.0 www.platnosci-payu.prv.pl
 0.0.0.0 www.platnosci-sendit.link
+0.0.0.0 www.platnosciexpress.pl
 0.0.0.0 www.platosdeducha.com
 0.0.0.0 www.plausiblec.com
 0.0.0.0 www.play-esimpl.com
@@ -77888,6 +78067,7 @@
 0.0.0.0 www.polskie-paczki.com
 0.0.0.0 www.polskie-sledztwa.pl
 0.0.0.0 www.polskie-zaginiecia.eu3.org
+0.0.0.0 www.polskie-zakupy.pl
 0.0.0.0 www.polskiedrogi-fakty.eu5.net
 0.0.0.0 www.polskieinfod.site
 0.0.0.0 www.polskiepaczek.com
@@ -78798,6 +78978,7 @@
 0.0.0.0 www.prostakierunekprawdziwyduzamapa.space
 0.0.0.0 www.prostatevibrators.com
 0.0.0.0 www.prostatorrhea.life
+0.0.0.0 www.proste-zamowienia.pl
 0.0.0.0 www.prostle.online
 0.0.0.0 www.prostozmiasta.b-cdn.net
 0.0.0.0 www.prostys.com
@@ -78851,6 +79032,8 @@
 0.0.0.0 www.pryan-offers.com
 0.0.0.0 www.pryley.com
 0.0.0.0 www.prywatne-fotki.mywebcommunity.org
+0.0.0.0 www.prywatne-oferty.pl
+0.0.0.0 www.prywatne-transakcje.pl
 0.0.0.0 www.prywatny-zakup.pl
 0.0.0.0 www.przechodze-dalej.icu
 0.0.0.0 www.przechodze-dalej.live
@@ -79604,6 +79787,7 @@
 0.0.0.0 www.raport-892508-twoje.info03.pl
 0.0.0.0 www.raport-952922-raport.info03.pl
 0.0.0.0 www.raport-971860-allgr.info03.pl
+0.0.0.0 www.raportowydzien.click
 0.0.0.0 www.raporty24.click
 0.0.0.0 www.rappre.com
 0.0.0.0 www.rapproblog.site
@@ -79832,6 +80016,7 @@
 0.0.0.0 www.recordingbiz.top
 0.0.0.0 www.recordingbiz.xyz
 0.0.0.0 www.recouvrement-netflix.fr
+0.0.0.0 www.recover-25d84.web.app
 0.0.0.0 www.recover-dhl-parcel.com
 0.0.0.0 www.recoverphrase106.web.app
 0.0.0.0 www.recoverphrase134.web.app
@@ -81899,6 +82084,7 @@
 0.0.0.0 www.shetankd.site
 0.0.0.0 www.shewanes.com
 0.0.0.0 www.shewlvstate.com
+0.0.0.0 www.shield-facelt.com
 0.0.0.0 www.shift-offers.com
 0.0.0.0 www.shiftdominicana.com
 0.0.0.0 www.shifterherald.com
@@ -82064,6 +82250,7 @@
 0.0.0.0 www.sign-apple.com
 0.0.0.0 www.sign-in-verification-cf707.web.app
 0.0.0.0 www.sign-trade-kanga-exchange-pl.blogspot.com
+0.0.0.0 www.signal-unethical-conduct-a8465.web.app
 0.0.0.0 www.signalavia.com
 0.0.0.0 www.signalities.com
 0.0.0.0 www.signalscoach.com
@@ -82088,6 +82275,7 @@
 0.0.0.0 www.silencehappy.click
 0.0.0.0 www.silenceraganim.site
 0.0.0.0 www.silhouetti.com
+0.0.0.0 www.silke.simazac.de
 0.0.0.0 www.silkow.website
 0.0.0.0 www.sill-buyer.webnode.co.uk
 0.0.0.0 www.sillibibs.xyz
@@ -82947,6 +83135,7 @@
 0.0.0.0 www.sprzedajkupoddaj.pl
 0.0.0.0 www.sprzedam-motoryzacja4u.pl
 0.0.0.0 www.sprzedamkoszty.com
+0.0.0.0 www.sprzedawaj-samochody.pl
 0.0.0.0 www.sprzedaz-motoryzacja24.pl
 0.0.0.0 www.sprzedazwysylki.online
 0.0.0.0 www.spubili.space
@@ -83021,6 +83210,7 @@
 0.0.0.0 www.staemcornmunlty-com.profiles-765952901906.ml
 0.0.0.0 www.staemcrommnunity.com.profiles-7658215377653.ml
 0.0.0.0 www.stafi.skin
+0.0.0.0 www.stage.bakeddarzee.com
 0.0.0.0 www.stagevids.com
 0.0.0.0 www.stagingturningstone.com
 0.0.0.0 www.staglydraftsky.netlify.app
@@ -83962,6 +84152,7 @@
 0.0.0.0 www.szybkie-glosy.eu
 0.0.0.0 www.szybkie-informacje.eu
 0.0.0.0 www.szybkie-klikanie.eu
+0.0.0.0 www.szybkie-wiesci.pl
 0.0.0.0 www.szybkie-znalezione.eu
 0.0.0.0 www.szybkiefakty.eu5.net
 0.0.0.0 www.szybkiepolaczeniaa.site
@@ -83976,6 +84167,7 @@
 0.0.0.0 www.szytyahpvc7vy.com
 0.0.0.0 www.t0.t0project.site
 0.0.0.0 www.t0elvbikyf7f.com
+0.0.0.0 www.t0kenswap.com
 0.0.0.0 www.t0uyr1.web.app
 0.0.0.0 www.t0uyr2.web.app
 0.0.0.0 www.t0uyr3.web.app
@@ -85046,6 +85238,7 @@
 0.0.0.0 www.tightrope.sbs
 0.0.0.0 www.tih-lmtd.com
 0.0.0.0 www.tiimkor-uno.preview-domain.com
+0.0.0.0 www.tiket-pl.online
 0.0.0.0 www.tiket-titimangsa.com
 0.0.0.0 www.tiktok.canaltelegram.com
 0.0.0.0 www.tiktok.w77h6.cloud
@@ -85131,6 +85324,7 @@
 0.0.0.0 www.tmnwortel.com
 0.0.0.0 www.tmppgt.s3.us-west-004.backblazeb2.com
 0.0.0.0 www.tmsmicro.com
+0.0.0.0 www.tmsoandapl.com
 0.0.0.0 www.tmuk.miliomp.xyz
 0.0.0.0 www.tmv.autos
 0.0.0.0 www.tn1.beauty
@@ -86686,6 +86880,7 @@
 0.0.0.0 www.ups-trackingdelivery.net
 0.0.0.0 www.ups-trackingexpress.com
 0.0.0.0 www.ups-trackingship.com
+0.0.0.0 www.ups-trackmyparcel.com
 0.0.0.0 www.ups-trackpost.com
 0.0.0.0 www.ups-trackshipping.com
 0.0.0.0 www.ups-zoll.net
@@ -88053,6 +88248,7 @@
 0.0.0.0 www.visitnshop.com
 0.0.0.0 www.viski.byseniscon.top
 0.0.0.0 www.vistaalegrehotel.com
+0.0.0.0 www.vistovka-pay.online
 0.0.0.0 www.visuafy.com
 0.0.0.0 www.visualbenefit.com
 0.0.0.0 www.vitablack.com
@@ -89192,6 +89388,7 @@
 0.0.0.0 www.wirmw.iamguided.com
 0.0.0.0 www.wirtaspin-investing.pro
 0.0.0.0 www.wirtualnapolska24.pl
+0.0.0.0 www.wirtualne-informacjetrasa.com.pl
 0.0.0.0 www.wirtualnieonline.com
 0.0.0.0 www.wirtualnieonline.eu
 0.0.0.0 www.wirtualnyswiat.click
@@ -89533,6 +89730,7 @@
 0.0.0.0 www.wspaniialaatmosfera.site
 0.0.0.0 www.wspaniialapodroz.site
 0.0.0.0 www.wsparcia-znajomych.eu
+0.0.0.0 www.wsparciarodzinne.click
 0.0.0.0 www.wsparcie-subskrypcja.com
 0.0.0.0 www.wspollpracowac.site
 0.0.0.0 www.wspolpracauuroda.mom
@@ -89629,6 +89827,7 @@
 0.0.0.0 www.wydarzeniawokolicy.click
 0.0.0.0 www.wyecqcmkyhv.digital
 0.0.0.0 www.wygodnepozyczki.pl
+0.0.0.0 www.wygodny-zakup.pl
 0.0.0.0 www.wygraj-dzisiaj.com
 0.0.0.0 www.wygraj-iphone-x.tujest.pl
 0.0.0.0 www.wygraj-super-nagrode.com
@@ -89817,6 +90016,7 @@
 0.0.0.0 www.xn--a-ogoszenia-w5b.pl
 0.0.0.0 www.xn--badrumsrenovering-gteborg-hsc.se
 0.0.0.0 www.xn--burzyski22-00b.pl
+0.0.0.0 www.xn--fcebook-exa.pl
 0.0.0.0 www.xn--fiqvw12qljq492c.com
 0.0.0.0 www.xn--firuzaismayl-c5b.com
 0.0.0.0 www.xn--hcvienquany-u89e.vn
@@ -90349,6 +90549,7 @@
 0.0.0.0 www.zaktua928skaz-nowyfor29a.nowyalteg.co.pl
 0.0.0.0 www.zakup-auta.pl
 0.0.0.0 www.zakup-auto.pl
+0.0.0.0 www.zakup-natychmiastowy.pl
 0.0.0.0 www.zakupnavint24na7.shop
 0.0.0.0 www.zakupolx.pl
 0.0.0.0 www.zakupuj-auta.pl
@@ -90369,6 +90570,7 @@
 0.0.0.0 www.zamawiaj-online.pl
 0.0.0.0 www.zamegafer.site
 0.0.0.0 www.zamelas-xyz.preview-domain.com
+0.0.0.0 www.zamow-dzisiaj24.pl
 0.0.0.0 www.zamowienie24.shop
 0.0.0.0 www.zamowienie761265261.pl
 0.0.0.0 www.zamowienie.icu
@@ -90908,6 +91110,7 @@
 0.0.0.0 wydarzeniawokolicy.click
 0.0.0.0 wyecqcmkyhv.digital
 0.0.0.0 wygodnepozyczki.pl
+0.0.0.0 wygodny-zakup.pl
 0.0.0.0 wygraj-dzisiaj.com
 0.0.0.0 wygraj-iphone-x.tujest.pl
 0.0.0.0 wygraj-super-nagrode.com
@@ -91096,6 +91299,7 @@
 0.0.0.0 xn--a-ogoszenia-w5b.pl
 0.0.0.0 xn--badrumsrenovering-gteborg-hsc.se
 0.0.0.0 xn--burzyski22-00b.pl
+0.0.0.0 xn--fcebook-exa.pl
 0.0.0.0 xn--fiqvw12qljq492c.com
 0.0.0.0 xn--firuzaismayl-c5b.com
 0.0.0.0 xn--hcvienquany-u89e.vn
@@ -91628,6 +91832,7 @@
 0.0.0.0 zaktua928skaz-nowyfor29a.nowyalteg.co.pl
 0.0.0.0 zakup-auta.pl
 0.0.0.0 zakup-auto.pl
+0.0.0.0 zakup-natychmiastowy.pl
 0.0.0.0 zakupnavint24na7.shop
 0.0.0.0 zakupolx.pl
 0.0.0.0 zakupuj-auta.pl
@@ -91648,6 +91853,7 @@
 0.0.0.0 zamawiaj-online.pl
 0.0.0.0 zamegafer.site
 0.0.0.0 zamelas-xyz.preview-domain.com
+0.0.0.0 zamow-dzisiaj24.pl
 0.0.0.0 zamowienie24.shop
 0.0.0.0 zamowienie761265261.pl
 0.0.0.0 zamowienie.icu
