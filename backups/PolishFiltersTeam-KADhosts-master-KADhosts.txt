@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sat, 14 Oct 2023, 10:19 UTC+02:00
-# Version: 2023.10.14.0
+# Last modified: Sun, 15 Oct 2023, 10:19 UTC+02:00
+# Version: 2023.10.15.1
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -826,6 +826,7 @@
 0.0.0.0 hunterkaloszeoutlet.com
 0.0.0.0 hunterkaloszeoutlet.pl
 0.0.0.0 hurbiott.com
+0.0.0.0 hurt.com.pl
 0.0.0.0 hushpuppiesbuty.pl
 0.0.0.0 huusk-original.com
 0.0.0.0 huusk-store.com
@@ -1210,6 +1211,7 @@
 0.0.0.0 mozebyctwoje.com
 0.0.0.0 mozvur.com
 0.0.0.0 mploutles.com
+0.0.0.0 mpstop.top
 0.0.0.0 mrsry.com
 0.0.0.0 msdreamy.com
 0.0.0.0 msxani.com
@@ -1580,6 +1582,7 @@
 0.0.0.0 repairmastermind.shop
 0.0.0.0 restoring.top
 0.0.0.0 retro-moda-shop.com
+0.0.0.0 retsy.shop
 0.0.0.0 revzinlx.com
 0.0.0.0 reytcc.com
 0.0.0.0 riekerbuty.pl
@@ -2198,6 +2201,7 @@
 0.0.0.0 wrig.pl
 0.0.0.0 wruerstores.com
 0.0.0.0 wszystkomamy.pl
+0.0.0.0 wuggaa.shop
 0.0.0.0 www.1vulkanvegas.com
 0.0.0.0 www.3vulkanvegas.com
 0.0.0.0 www.4fpl.com
@@ -3009,6 +3013,7 @@
 0.0.0.0 www.hunterkaloszeoutlet.com
 0.0.0.0 www.hunterkaloszeoutlet.pl
 0.0.0.0 www.hurbiott.com
+0.0.0.0 www.hurt.com.pl
 0.0.0.0 www.hushpuppiesbuty.pl
 0.0.0.0 www.huusk-original.com
 0.0.0.0 www.huusk-store.com
@@ -3393,6 +3398,7 @@
 0.0.0.0 www.mozebyctwoje.com
 0.0.0.0 www.mozvur.com
 0.0.0.0 www.mploutles.com
+0.0.0.0 www.mpstop.top
 0.0.0.0 www.mrsry.com
 0.0.0.0 www.msdreamy.com
 0.0.0.0 www.msxani.com
@@ -3748,6 +3754,7 @@
 0.0.0.0 www.repairmastermind.shop
 0.0.0.0 www.restoring.top
 0.0.0.0 www.retro-moda-shop.com
+0.0.0.0 www.retsy.shop
 0.0.0.0 www.revzinlx.com
 0.0.0.0 www.reytcc.com
 0.0.0.0 www.riekerbuty.pl
@@ -4366,6 +4373,7 @@
 0.0.0.0 www.wrig.pl
 0.0.0.0 www.wruerstores.com
 0.0.0.0 www.wszystkomamy.pl
+0.0.0.0 www.wuggaa.shop
 0.0.0.0 www.wybierzgdansk.pl
 0.0.0.0 www.wydawnictwo-systherm.pl
 0.0.0.0 www.wyjasniamy.eu
@@ -4706,6 +4714,7 @@
 0.0.0.0 pliki.pw
 0.0.0.0 plushdogry.pl
 0.0.0.0 pobieralnia.com.pl
+0.0.0.0 polowapazdziernika.wixsite.com
 0.0.0.0 polski-blog-medyczny.pl
 0.0.0.0 poprof.com
 0.0.0.0 pusskupibuy.monster
@@ -4906,6 +4915,7 @@
 0.0.0.0 www.pliki.pw
 0.0.0.0 www.plushdogry.pl
 0.0.0.0 www.pobieralnia.com.pl
+0.0.0.0 www.polowapazdziernika.wixsite.com
 0.0.0.0 www.polski-blog-medyczny.pl
 0.0.0.0 www.poprof.com
 0.0.0.0 www.pusskupibuy.monster
@@ -5465,6 +5475,7 @@
 0.0.0.0 3d3c7b5ea62e73acbcfc37258139a39d.vistamal.pl
 0.0.0.0 3d7babce.cftvpinheiro.com.br
 0.0.0.0 3d033.yilmazmuh.com
+0.0.0.0 3dd8f66000766bb766f4506b835f561d.urszulaprzymuszala.net.pl
 0.0.0.0 3dsecure.expresspl.xyz
 0.0.0.0 3dshipmodels.com
 0.0.0.0 03e1i.csb.app
@@ -5857,6 +5868,7 @@
 0.0.0.0 44efe768792.chefs-kitchen.co.uk
 0.0.0.0 45-125-66-72.cprapid.com
 0.0.0.0 45-125-66-155.cprapid.com
+0.0.0.0 45-gdj.cfd
 0.0.0.0 45baee61.chefs-kitchen.co.uk
 0.0.0.0 45e713e0a80.bakerstreet.uk.com
 0.0.0.0 045zov0vxv.zcyrek.com.pl
@@ -6197,6 +6209,7 @@
 0.0.0.0 09193dd438c.chefs-kitchen.co.uk
 0.0.0.0 9229a9506ff.johncornell.com
 0.0.0.0 9272a411ae5.chefs-kitchen.co.uk
+0.0.0.0 9420c4fad58d6f806768304f7eafc257.urszulaprzymuszala.net.pl
 0.0.0.0 9665e14b516.chefs-kitchen.co.uk
 0.0.0.0 9745abee9473d9841bc96c1d0c7ba637.visolaw.pl
 0.0.0.0 09781dbd6bc.chefs-kitchen.co.uk
@@ -7943,6 +7956,7 @@
 0.0.0.0 allegro.3dspayments.com
 0.0.0.0 allegro.bankowosci24.pl
 0.0.0.0 allegro.dstn.pl
+0.0.0.0 allegro.eplatnosci24-7.pl
 0.0.0.0 allegro.net
 0.0.0.0 allegro.pl-0x6.pl
 0.0.0.0 allegro.pl-com
@@ -8012,6 +8026,7 @@
 0.0.0.0 allegrolokalnie.bezpieczne-ogloszenie.pl
 0.0.0.0 allegrolokalnie.bezpieczne-transakcje.pl
 0.0.0.0 allegrolokalnie.bezpieczne-zamowienia.pl
+0.0.0.0 allegrolokalnie.bezpieczne-zamowienie.pl
 0.0.0.0 allegrolokalnie.bezpieczny-platnosci.pl
 0.0.0.0 allegrolokalnie.check-out.pl
 0.0.0.0 allegrolokalnie.com.de
@@ -8049,6 +8064,9 @@
 0.0.0.0 allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 allegrolokalnie.przelew-online24.pl
+0.0.0.0 allegrolokalnie.przesylka-bezpieczna24.pl
+0.0.0.0 allegrolokalnie.przesylka-szybka24.pl
+0.0.0.0 allegrolokalnie.przyjazne-zakupy24.pl
 0.0.0.0 allegrolokalnie.przyjazne-zakupy.pl
 0.0.0.0 allegrolokalnie.skuteczne-zakupy.pl
 0.0.0.0 allegrolokalnie.sprawdzona-platnosc.pl
@@ -8069,10 +8087,15 @@
 0.0.0.0 allegrolokalnie.zakup-produkt.pl
 0.0.0.0 allegrolokalnie.zakup-zweryfikowany.pl
 0.0.0.0 allegrolokalnie.zakupy-bezpieczne.pl
+0.0.0.0 allegrolokalnie.zamow-bezpiecznie.pl
+0.0.0.0 allegrolokalnie.zamow-dzis.pl
 0.0.0.0 allegrolokalnie.zamow-online24.pl
 0.0.0.0 allegrolokalnie.zamow-produkt.pl
 0.0.0.0 allegrolokalnie.zamow-przedmiot.pl
 0.0.0.0 allegrolokalnie.zamow-przesylke.pl
+0.0.0.0 allegrolokalnie.zamow-szybko.pl
+0.0.0.0 allegrolokalnie.zamowienie-online24.pl
+0.0.0.0 allegrolokalnie.zamowienie-szybkie.pl
 0.0.0.0 allegrolokalnie.zaplac-bezpieczenie.pl
 0.0.0.0 allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 allegrolokalnie.zaplac-online24.pl
@@ -8346,6 +8369,7 @@
 0.0.0.0 aluxdereal1.site
 0.0.0.0 aluxupclub.site
 0.0.0.0 aluxuphelp.site
+0.0.0.0 aluxuping9.site
 0.0.0.0 aluxupion8.site
 0.0.0.0 aluxuponline.site
 0.0.0.0 aluxupplus.site
@@ -9605,6 +9629,7 @@
 0.0.0.0 auta-sopot.pl
 0.0.0.0 auta-tarnow.pl
 0.0.0.0 auta-tomaszewski.pl
+0.0.0.0 auta-tomek.pl
 0.0.0.0 auta-torun.pl
 0.0.0.0 auta-warszawskie.pl
 0.0.0.0 auta-wroclaw.pl
@@ -9672,9 +9697,11 @@
 0.0.0.0 autogielda-parzyszek.pl
 0.0.0.0 autogielda-pawelczuk.pl
 0.0.0.0 autogielda-roman.pl
+0.0.0.0 autogielda-sobakowski.pl
 0.0.0.0 autogielda-tomanski.pl
 0.0.0.0 autogielda-tomaszczuk.pl
 0.0.0.0 autogielda-tomaszek.pl
+0.0.0.0 autogielda-traczek.pl
 0.0.0.0 autohandel-banaszek.pl
 0.0.0.0 autohandel-barczynski.pl
 0.0.0.0 autohandel-turek.pl
@@ -9705,6 +9732,7 @@
 0.0.0.0 autotimbre.info
 0.0.0.0 autotrade-group.com
 0.0.0.0 autotradeportal.com
+0.0.0.0 autum.sbs
 0.0.0.0 autumn-bird-8417.on.fleek.co
 0.0.0.0 autumnlicious.com
 0.0.0.0 auxjockey.com
@@ -9885,6 +9913,7 @@
 0.0.0.0 b7.newappco.xyz
 0.0.0.0 b8e5372c835694f68964788-goonlinebnpparibas.pl-pl.es
 0.0.0.0 b9.vertysbos.top
+0.0.0.0 b9b7916e68c92fca8dc8b3c5f3907064.urszulaprzymuszala.net.pl
 0.0.0.0 b9bpuh511a.zanetaszy.pl
 0.0.0.0 b9c2a47ec4b0f577e14f177ff1f9c889.zmielsa.pl
 0.0.0.0 b9f24b2b0e6.johncornell.com
@@ -11208,6 +11237,7 @@
 0.0.0.0 bestchoice2022.site
 0.0.0.0 bestcrtofferings.com
 0.0.0.0 bestcryofferings.com
+0.0.0.0 bestcryptoss.com
 0.0.0.0 bestcryptotransaction.com
 0.0.0.0 bestcryptsaa.com
 0.0.0.0 bestenergy-in.site
@@ -16093,6 +16123,7 @@
 0.0.0.0 dc.yourchance.top
 0.0.0.0 dcd5cde59d4.johncornell.com
 0.0.0.0 dcdcybersecurity.com
+0.0.0.0 dcefeb7a6928031793f889cc476d911d.urszulaprzymuszala.net.pl
 0.0.0.0 dchgloves.com
 0.0.0.0 dchlabs.com
 0.0.0.0 dchs.dddplat.top
@@ -18755,6 +18786,7 @@
 0.0.0.0 emmasinsights.com
 0.0.0.0 emnae.com
 0.0.0.0 emoji.fre.bond
+0.0.0.0 emonitoriing-pocztta-polsska.top
 0.0.0.0 emonitoring-poczta-polska-pl.site
 0.0.0.0 emonitoring-poczta-polska.cyou
 0.0.0.0 emonitoring-poczta.top
@@ -20801,6 +20833,7 @@
 0.0.0.0 fineornot.site
 0.0.0.0 finestc.cfd
 0.0.0.0 finestdeal.store
+0.0.0.0 finesty.sbs
 0.0.0.0 finetopcreate.com
 0.0.0.0 finews.live
 0.0.0.0 finexchnge.com
@@ -27311,6 +27344,7 @@
 0.0.0.0 jheinkel.com
 0.0.0.0 jhfbhbfjd.s3.us-east-005.backblazeb2.com
 0.0.0.0 jhr.goxsite.top
+0.0.0.0 jhtfghjhthrjthjthjtihrhjtiogjkjhgygyugyu.weebly.com
 0.0.0.0 jhurcg.com
 0.0.0.0 jiancarlosmarcos.com
 0.0.0.0 jiberpril.chatprogram.top
@@ -30015,6 +30049,7 @@
 0.0.0.0 lnpost.nerfa.site
 0.0.0.0 lnpost.nybisa.online
 0.0.0.0 lnpost.ojoevoip.pw
+0.0.0.0 lnpost.oparit.site
 0.0.0.0 lnpost.parfisa.online
 0.0.0.0 lnpost.pasodi.online
 0.0.0.0 lnpost.paykasa.top
@@ -30173,6 +30208,7 @@
 0.0.0.0 lokal101.com
 0.0.0.0 lokal-market.pl
 0.0.0.0 lokalalergo.com
+0.0.0.0 lokalna-sprzedaz.pl
 0.0.0.0 lokalne-fakty24h.eu5.net
 0.0.0.0 lokalne-samochody.pl
 0.0.0.0 lokalne-wydarzenia24.eu5.net
@@ -32626,6 +32662,7 @@
 0.0.0.0 motoryzacja-zachodnia.pl
 0.0.0.0 motoryzacjadlaciebie.pl
 0.0.0.0 motoryzacjapolska24.net.pl
+0.0.0.0 motoryzacjazyciem.pl
 0.0.0.0 motoryzacje-info.pl
 0.0.0.0 motoryzacyjnie24.com.pl
 0.0.0.0 motywacjadoprzygoda.shop
@@ -33500,6 +33537,7 @@
 0.0.0.0 nbilaser.com
 0.0.0.0 nbone.infinitypro.top
 0.0.0.0 nbp24.pl
+0.0.0.0 nbplogowanie.pl
 0.0.0.0 nbredwase.site
 0.0.0.0 ncbcbjchas.s3.us-east-005.backblazeb2.com
 0.0.0.0 ncchp6dw5.digital
@@ -37645,6 +37683,7 @@
 0.0.0.0 pl-tr.appco-point.site
 0.0.0.0 pl-tracks.com
 0.0.0.0 pl-trade.za.com
+0.0.0.0 pl-trichomist-forte-lotion.visage-shops.com
 0.0.0.0 pl-w.revoprogramxzsed.com
 0.0.0.0 pl-walidacja-uzytkownika.pw
 0.0.0.0 pl-wiadomosc.com
@@ -39766,6 +39805,7 @@
 0.0.0.0 prosperity-thinkers.info
 0.0.0.0 prosperity-thinkers.us
 0.0.0.0 prosperitycrest.com
+0.0.0.0 prosperitymillion.com
 0.0.0.0 prosppermindset.site
 0.0.0.0 prost.1invm.site
 0.0.0.0 prosta-praca.waw.pl
@@ -39873,7 +39913,9 @@
 0.0.0.0 przestanpracowaczaduzo.site
 0.0.0.0 przestrzeennosc.site
 0.0.0.0 przesylek-sledzenie.com
+0.0.0.0 przesylka-bezpieczna24.pl
 0.0.0.0 przesylka-oix.com
+0.0.0.0 przesylka-szybka24.pl
 0.0.0.0 przesylkaolx.pl
 0.0.0.0 przetwarzanie-bezposrednie.site
 0.0.0.0 przetwarzanie-bezposrednie.xyz
@@ -39882,6 +39924,7 @@
 0.0.0.0 przybyslaw.badura.warszawa.pl
 0.0.0.0 przybyslaw.maximilianbialek.pl
 0.0.0.0 przygodapewnozrownowazenie.bond
+0.0.0.0 przyjazne-zakupy24.pl
 0.0.0.0 przyjazne-zakupy.pl
 0.0.0.0 przyjemnoscawybor.makeup
 0.0.0.0 przyjemnoscizycia.click
@@ -42438,6 +42481,7 @@
 0.0.0.0 security-doge.com
 0.0.0.0 security-pl.info
 0.0.0.0 security-settings-account.42web.io
+0.0.0.0 security-support-qualify-5ac16.firebaseapp.com
 0.0.0.0 security-user-case-a9a7e.firebaseapp.com
 0.0.0.0 security.an-tv.com
 0.0.0.0 securitycontrol.space
@@ -44840,6 +44884,7 @@
 0.0.0.0 support-express-info.cleverapps.io
 0.0.0.0 support-fb.pages.mus.br
 0.0.0.0 support-fb.pages.pro.br
+0.0.0.0 support-fbz.pages.pro.br
 0.0.0.0 support-kb.info
 0.0.0.0 support-setting.serv00.net
 0.0.0.0 support-slo-suupinfo.codeanyapp.com
@@ -51274,6 +51319,7 @@
 0.0.0.0 www.3d3c7b5ea62e73acbcfc37258139a39d.vistamal.pl
 0.0.0.0 www.3d7babce.cftvpinheiro.com.br
 0.0.0.0 www.3d033.yilmazmuh.com
+0.0.0.0 www.3dd8f66000766bb766f4506b835f561d.urszulaprzymuszala.net.pl
 0.0.0.0 www.3dsecure.expresspl.xyz
 0.0.0.0 www.3dshipmodels.com
 0.0.0.0 www.03e1i.csb.app
@@ -51666,6 +51712,7 @@
 0.0.0.0 www.44efe768792.chefs-kitchen.co.uk
 0.0.0.0 www.45-125-66-72.cprapid.com
 0.0.0.0 www.45-125-66-155.cprapid.com
+0.0.0.0 www.45-gdj.cfd
 0.0.0.0 www.45baee61.chefs-kitchen.co.uk
 0.0.0.0 www.45e713e0a80.bakerstreet.uk.com
 0.0.0.0 www.045zov0vxv.zcyrek.com.pl
@@ -52006,6 +52053,7 @@
 0.0.0.0 www.09193dd438c.chefs-kitchen.co.uk
 0.0.0.0 www.9229a9506ff.johncornell.com
 0.0.0.0 www.9272a411ae5.chefs-kitchen.co.uk
+0.0.0.0 www.9420c4fad58d6f806768304f7eafc257.urszulaprzymuszala.net.pl
 0.0.0.0 www.9665e14b516.chefs-kitchen.co.uk
 0.0.0.0 www.9745abee9473d9841bc96c1d0c7ba637.visolaw.pl
 0.0.0.0 www.09781dbd6bc.chefs-kitchen.co.uk
@@ -53752,6 +53800,7 @@
 0.0.0.0 www.allegro.3dspayments.com
 0.0.0.0 www.allegro.bankowosci24.pl
 0.0.0.0 www.allegro.dstn.pl
+0.0.0.0 www.allegro.eplatnosci24-7.pl
 0.0.0.0 www.allegro.net
 0.0.0.0 www.allegro.pl-0x6.pl
 0.0.0.0 www.allegro.pl-com
@@ -53821,6 +53870,7 @@
 0.0.0.0 www.allegrolokalnie.bezpieczne-ogloszenie.pl
 0.0.0.0 www.allegrolokalnie.bezpieczne-transakcje.pl
 0.0.0.0 www.allegrolokalnie.bezpieczne-zamowienia.pl
+0.0.0.0 www.allegrolokalnie.bezpieczne-zamowienie.pl
 0.0.0.0 www.allegrolokalnie.bezpieczny-platnosci.pl
 0.0.0.0 www.allegrolokalnie.check-out.pl
 0.0.0.0 www.allegrolokalnie.com.de
@@ -53858,6 +53908,9 @@
 0.0.0.0 www.allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 www.allegrolokalnie.przelew-online24.pl
+0.0.0.0 www.allegrolokalnie.przesylka-bezpieczna24.pl
+0.0.0.0 www.allegrolokalnie.przesylka-szybka24.pl
+0.0.0.0 www.allegrolokalnie.przyjazne-zakupy24.pl
 0.0.0.0 www.allegrolokalnie.przyjazne-zakupy.pl
 0.0.0.0 www.allegrolokalnie.skuteczne-zakupy.pl
 0.0.0.0 www.allegrolokalnie.sprawdzona-platnosc.pl
@@ -53878,10 +53931,15 @@
 0.0.0.0 www.allegrolokalnie.zakup-produkt.pl
 0.0.0.0 www.allegrolokalnie.zakup-zweryfikowany.pl
 0.0.0.0 www.allegrolokalnie.zakupy-bezpieczne.pl
+0.0.0.0 www.allegrolokalnie.zamow-bezpiecznie.pl
+0.0.0.0 www.allegrolokalnie.zamow-dzis.pl
 0.0.0.0 www.allegrolokalnie.zamow-online24.pl
 0.0.0.0 www.allegrolokalnie.zamow-produkt.pl
 0.0.0.0 www.allegrolokalnie.zamow-przedmiot.pl
 0.0.0.0 www.allegrolokalnie.zamow-przesylke.pl
+0.0.0.0 www.allegrolokalnie.zamow-szybko.pl
+0.0.0.0 www.allegrolokalnie.zamowienie-online24.pl
+0.0.0.0 www.allegrolokalnie.zamowienie-szybkie.pl
 0.0.0.0 www.allegrolokalnie.zaplac-bezpieczenie.pl
 0.0.0.0 www.allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 www.allegrolokalnie.zaplac-online24.pl
@@ -54155,6 +54213,7 @@
 0.0.0.0 www.aluxdereal1.site
 0.0.0.0 www.aluxupclub.site
 0.0.0.0 www.aluxuphelp.site
+0.0.0.0 www.aluxuping9.site
 0.0.0.0 www.aluxupion8.site
 0.0.0.0 www.aluxuponline.site
 0.0.0.0 www.aluxupplus.site
@@ -55414,6 +55473,7 @@
 0.0.0.0 www.auta-sopot.pl
 0.0.0.0 www.auta-tarnow.pl
 0.0.0.0 www.auta-tomaszewski.pl
+0.0.0.0 www.auta-tomek.pl
 0.0.0.0 www.auta-torun.pl
 0.0.0.0 www.auta-warszawskie.pl
 0.0.0.0 www.auta-wroclaw.pl
@@ -55481,9 +55541,11 @@
 0.0.0.0 www.autogielda-parzyszek.pl
 0.0.0.0 www.autogielda-pawelczuk.pl
 0.0.0.0 www.autogielda-roman.pl
+0.0.0.0 www.autogielda-sobakowski.pl
 0.0.0.0 www.autogielda-tomanski.pl
 0.0.0.0 www.autogielda-tomaszczuk.pl
 0.0.0.0 www.autogielda-tomaszek.pl
+0.0.0.0 www.autogielda-traczek.pl
 0.0.0.0 www.autohandel-banaszek.pl
 0.0.0.0 www.autohandel-barczynski.pl
 0.0.0.0 www.autohandel-turek.pl
@@ -55514,6 +55576,7 @@
 0.0.0.0 www.autotimbre.info
 0.0.0.0 www.autotrade-group.com
 0.0.0.0 www.autotradeportal.com
+0.0.0.0 www.autum.sbs
 0.0.0.0 www.autumn-bird-8417.on.fleek.co
 0.0.0.0 www.autumnlicious.com
 0.0.0.0 www.auxjockey.com
@@ -55694,6 +55757,7 @@
 0.0.0.0 www.b7.newappco.xyz
 0.0.0.0 www.b8e5372c835694f68964788-goonlinebnpparibas.pl-pl.es
 0.0.0.0 www.b9.vertysbos.top
+0.0.0.0 www.b9b7916e68c92fca8dc8b3c5f3907064.urszulaprzymuszala.net.pl
 0.0.0.0 www.b9bpuh511a.zanetaszy.pl
 0.0.0.0 www.b9c2a47ec4b0f577e14f177ff1f9c889.zmielsa.pl
 0.0.0.0 www.b9f24b2b0e6.johncornell.com
@@ -57017,6 +57081,7 @@
 0.0.0.0 www.bestchoice2022.site
 0.0.0.0 www.bestcrtofferings.com
 0.0.0.0 www.bestcryofferings.com
+0.0.0.0 www.bestcryptoss.com
 0.0.0.0 www.bestcryptotransaction.com
 0.0.0.0 www.bestcryptsaa.com
 0.0.0.0 www.bestenergy-in.site
@@ -61902,6 +61967,7 @@
 0.0.0.0 www.dc.yourchance.top
 0.0.0.0 www.dcd5cde59d4.johncornell.com
 0.0.0.0 www.dcdcybersecurity.com
+0.0.0.0 www.dcefeb7a6928031793f889cc476d911d.urszulaprzymuszala.net.pl
 0.0.0.0 www.dchgloves.com
 0.0.0.0 www.dchlabs.com
 0.0.0.0 www.dchs.dddplat.top
@@ -64564,6 +64630,7 @@
 0.0.0.0 www.emmasinsights.com
 0.0.0.0 www.emnae.com
 0.0.0.0 www.emoji.fre.bond
+0.0.0.0 www.emonitoriing-pocztta-polsska.top
 0.0.0.0 www.emonitoring-poczta-polska-pl.site
 0.0.0.0 www.emonitoring-poczta-polska.cyou
 0.0.0.0 www.emonitoring-poczta.top
@@ -66610,6 +66677,7 @@
 0.0.0.0 www.fineornot.site
 0.0.0.0 www.finestc.cfd
 0.0.0.0 www.finestdeal.store
+0.0.0.0 www.finesty.sbs
 0.0.0.0 www.finetopcreate.com
 0.0.0.0 www.finews.live
 0.0.0.0 www.finexchnge.com
@@ -73120,6 +73188,7 @@
 0.0.0.0 www.jheinkel.com
 0.0.0.0 www.jhfbhbfjd.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.jhr.goxsite.top
+0.0.0.0 www.jhtfghjhthrjthjthjtihrhjtiogjkjhgygyugyu.weebly.com
 0.0.0.0 www.jhurcg.com
 0.0.0.0 www.jiancarlosmarcos.com
 0.0.0.0 www.jiberpril.chatprogram.top
@@ -75824,6 +75893,7 @@
 0.0.0.0 www.lnpost.nerfa.site
 0.0.0.0 www.lnpost.nybisa.online
 0.0.0.0 www.lnpost.ojoevoip.pw
+0.0.0.0 www.lnpost.oparit.site
 0.0.0.0 www.lnpost.parfisa.online
 0.0.0.0 www.lnpost.pasodi.online
 0.0.0.0 www.lnpost.paykasa.top
@@ -75982,6 +76052,7 @@
 0.0.0.0 www.lokal101.com
 0.0.0.0 www.lokal-market.pl
 0.0.0.0 www.lokalalergo.com
+0.0.0.0 www.lokalna-sprzedaz.pl
 0.0.0.0 www.lokalne-fakty24h.eu5.net
 0.0.0.0 www.lokalne-samochody.pl
 0.0.0.0 www.lokalne-wydarzenia24.eu5.net
@@ -78435,6 +78506,7 @@
 0.0.0.0 www.motoryzacja-zachodnia.pl
 0.0.0.0 www.motoryzacjadlaciebie.pl
 0.0.0.0 www.motoryzacjapolska24.net.pl
+0.0.0.0 www.motoryzacjazyciem.pl
 0.0.0.0 www.motoryzacje-info.pl
 0.0.0.0 www.motoryzacyjnie24.com.pl
 0.0.0.0 www.motywacjadoprzygoda.shop
@@ -79310,6 +79382,7 @@
 0.0.0.0 www.nbilaser.com
 0.0.0.0 www.nbone.infinitypro.top
 0.0.0.0 www.nbp24.pl
+0.0.0.0 www.nbplogowanie.pl
 0.0.0.0 www.nbredwase.site
 0.0.0.0 www.ncbcbjchas.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.ncchp6dw5.digital
@@ -83445,6 +83518,7 @@
 0.0.0.0 www.pl-tr.appco-point.site
 0.0.0.0 www.pl-tracks.com
 0.0.0.0 www.pl-trade.za.com
+0.0.0.0 www.pl-trichomist-forte-lotion.visage-shops.com
 0.0.0.0 www.pl-w.revoprogramxzsed.com
 0.0.0.0 www.pl-walidacja-uzytkownika.pw
 0.0.0.0 www.pl-wiadomosc.com
@@ -85471,6 +85545,7 @@
 0.0.0.0 www.prosperity-thinkers.info
 0.0.0.0 www.prosperity-thinkers.us
 0.0.0.0 www.prosperitycrest.com
+0.0.0.0 www.prosperitymillion.com
 0.0.0.0 www.prosppermindset.site
 0.0.0.0 www.prost.1invm.site
 0.0.0.0 www.prosta-praca.waw.pl
@@ -85578,7 +85653,9 @@
 0.0.0.0 www.przestanpracowaczaduzo.site
 0.0.0.0 www.przestrzeennosc.site
 0.0.0.0 www.przesylek-sledzenie.com
+0.0.0.0 www.przesylka-bezpieczna24.pl
 0.0.0.0 www.przesylka-oix.com
+0.0.0.0 www.przesylka-szybka24.pl
 0.0.0.0 www.przesylkaolx.pl
 0.0.0.0 www.przetwarzanie-bezposrednie.site
 0.0.0.0 www.przetwarzanie-bezposrednie.xyz
@@ -85587,6 +85664,7 @@
 0.0.0.0 www.przybyslaw.badura.warszawa.pl
 0.0.0.0 www.przybyslaw.maximilianbialek.pl
 0.0.0.0 www.przygodapewnozrownowazenie.bond
+0.0.0.0 www.przyjazne-zakupy24.pl
 0.0.0.0 www.przyjazne-zakupy.pl
 0.0.0.0 www.przyjemnoscawybor.makeup
 0.0.0.0 www.przyjemnoscizycia.click
@@ -88143,6 +88221,7 @@
 0.0.0.0 www.security-doge.com
 0.0.0.0 www.security-pl.info
 0.0.0.0 www.security-settings-account.42web.io
+0.0.0.0 www.security-support-qualify-5ac16.firebaseapp.com
 0.0.0.0 www.security-user-case-a9a7e.firebaseapp.com
 0.0.0.0 www.security.an-tv.com
 0.0.0.0 www.securitycontrol.space
@@ -90545,6 +90624,7 @@
 0.0.0.0 www.support-express-info.cleverapps.io
 0.0.0.0 www.support-fb.pages.mus.br
 0.0.0.0 www.support-fb.pages.pro.br
+0.0.0.0 www.support-fbz.pages.pro.br
 0.0.0.0 www.support-kb.info
 0.0.0.0 www.support-setting.serv00.net
 0.0.0.0 www.support-slo-suupinfo.codeanyapp.com
@@ -97437,10 +97517,15 @@
 0.0.0.0 www.zamegafer.site
 0.0.0.0 www.zamelas-xyz.preview-domain.com
 0.0.0.0 www.zamkniety-swiat.pl
+0.0.0.0 www.zamow-bezpiecznie.pl
+0.0.0.0 www.zamow-dzis.pl
 0.0.0.0 www.zamow-dzisiaj24.pl
 0.0.0.0 www.zamow-online24.pl
+0.0.0.0 www.zamow-szybko.pl
 0.0.0.0 www.zamowienie24.shop
 0.0.0.0 www.zamowienie761265261.pl
+0.0.0.0 www.zamowienie-online24.pl
+0.0.0.0 www.zamowienie-szybkie.pl
 0.0.0.0 www.zamowienie.icu
 0.0.0.0 www.zamowienie.info
 0.0.0.0 www.zamowienie.website
@@ -98722,10 +98807,15 @@
 0.0.0.0 zamegafer.site
 0.0.0.0 zamelas-xyz.preview-domain.com
 0.0.0.0 zamkniety-swiat.pl
+0.0.0.0 zamow-bezpiecznie.pl
+0.0.0.0 zamow-dzis.pl
 0.0.0.0 zamow-dzisiaj24.pl
 0.0.0.0 zamow-online24.pl
+0.0.0.0 zamow-szybko.pl
 0.0.0.0 zamowienie24.shop
 0.0.0.0 zamowienie761265261.pl
+0.0.0.0 zamowienie-online24.pl
+0.0.0.0 zamowienie-szybkie.pl
 0.0.0.0 zamowienie.icu
 0.0.0.0 zamowienie.info
 0.0.0.0 zamowienie.website
