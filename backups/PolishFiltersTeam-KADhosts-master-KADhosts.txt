@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Sun, 15 Oct 2023, 10:19 UTC+02:00
-# Version: 2023.10.15.1
+# Last modified: Mon, 16 Oct 2023, 10:22 UTC+02:00
+# Version: 2023.10.16.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -5236,6 +5236,7 @@
 0.0.0.0 1act.plprogram-act.site
 0.0.0.0 1act.views1pl.site
 0.0.0.0 1ap.site
+0.0.0.0 1b0c8b2a2114399385c02b38ff776bcb.sijla.pl
 0.0.0.0 1b542bba02f2.meinetv.pl
 0.0.0.0 1b734d0f4693bcedc4878553c6f7636b.miroosa.pl
 0.0.0.0 1b24463cf5d70f4f6afa1e701de4899e.vipwl.pl
@@ -5624,9 +5625,11 @@
 0.0.0.0 6d5cda989e7.johncornell.com
 0.0.0.0 6dn0h4d3oq.juliankurzela.pl
 0.0.0.0 6e5f1cb1933.johncornell.com
+0.0.0.0 6e5995c81875739d1abb8a7da8a4772c.sijla.pl
 0.0.0.0 6e767853652ba29d06552910972ce4b2.actgro.pl
 0.0.0.0 6f42bf39057.chefs-kitchen.co.uk
 0.0.0.0 6f836cfdc72.chefs-kitchen.co.uk
+0.0.0.0 6f3534b55e1fb2fcaf94203999b93ce4.sijla.pl
 0.0.0.0 6hj.laqwer.online
 0.0.0.0 6q.poland-invest.fun
 0.0.0.0 6smart5nline.xyz
@@ -5894,6 +5897,7 @@
 0.0.0.0 54off.com
 0.0.0.0 55c1d0cda424a55b5be6d.subpocz.pl
 0.0.0.0 55e5ce601b6b31c11c074051d814c795.forgro.pl
+0.0.0.0 56-sfj.cfd
 0.0.0.0 57dbd7d9917.chefs-kitchen.co.uk
 0.0.0.0 57eb0805789.bakerstreet.uk.com
 0.0.0.0 58-dhs.cfd
@@ -5915,6 +5919,8 @@
 0.0.0.0 67e6617a542.chefs-kitchen.co.uk
 0.0.0.0 067ffdb7891557e13f56.benu-nf.pl
 0.0.0.0 68eb0196938.johncornell.com
+0.0.0.0 69-hky.cfd
+0.0.0.0 69b41f240ad380ee149e69c09cbc8032.sijla.pl
 0.0.0.0 69slottica.com
 0.0.0.0 070a01e372f0c9b88752c6d-goonlinebnpparibas.pl-pl.es
 0.0.0.0 70ae7a4f.vinylfence.uk
@@ -6717,6 +6723,7 @@
 0.0.0.0 a43.paidtomoney.com
 0.0.0.0 a58a99ea2c8ffc2af4bb1962.subpocz.pl
 0.0.0.0 a66.espn365.com
+0.0.0.0 a67.papiashvili.top
 0.0.0.0 a68.paidtomoney.com
 0.0.0.0 a77.awicksin.com
 0.0.0.0 a93.org
@@ -7336,6 +7343,7 @@
 0.0.0.0 admitc.sbs
 0.0.0.0 admyteam.com
 0.0.0.0 adn-consulting.com
+0.0.0.0 adnotacjaszybka.click
 0.0.0.0 adobe.ap-south-1.linodeobjects.com
 0.0.0.0 adolf.maciejkwierien.pl
 0.0.0.0 adolf.nikitaandrzej.pl
@@ -8039,12 +8047,14 @@
 0.0.0.0 allegrolokalnie.kup-online24h.pl
 0.0.0.0 allegrolokalnie.kup-sprzedaj.pl
 0.0.0.0 allegrolokalnie.kup-z-bezpieczna-przesylka.pl
+0.0.0.0 allegrolokalnie.kup-z-dostawa.pl
 0.0.0.0 allegrolokalnie.kupowanie-24.pl
 0.0.0.0 allegrolokalnie.kupteraz-24h.pl
 0.0.0.0 allegrolokalnie.kupuj-bezpieczenie.pl
 0.0.0.0 allegrolokalnie.kupuj-lokalnie.pl
 0.0.0.0 allegrolokalnie.kupuj-szybko.pl
 0.0.0.0 allegrolokalnie.kupuj-z-dostawa.pl
+0.0.0.0 allegrolokalnie.kupuj-z-przesylka.pl
 0.0.0.0 allegrolokalnie.mobilnaplatnosc.pl
 0.0.0.0 allegrolokalnie.nowe-ogloszenia24.pl
 0.0.0.0 allegrolokalnie.nssl.pl
@@ -8071,6 +8081,7 @@
 0.0.0.0 allegrolokalnie.skuteczne-zakupy.pl
 0.0.0.0 allegrolokalnie.sprawdzona-platnosc.pl
 0.0.0.0 allegrolokalnie.sprawdzone-platnosci.pl
+0.0.0.0 allegrolokalnie.szybka-dostawa-online.pl
 0.0.0.0 allegrolokalnie.szybka-paczka.pl
 0.0.0.0 allegrolokalnie.szybka-przesylka24.pl
 0.0.0.0 allegrolokalnie.szybka-przesylka.pl
@@ -8100,6 +8111,7 @@
 0.0.0.0 allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 allegrolokalnie.zaplac-online24.pl
 0.0.0.0 allegrolokalnie.zaplac-teraz24.pl
+0.0.0.0 allegrolokalnie.zaplac-teraz24h.pl
 0.0.0.0 allegrolokalnie.zaplac-wygodnie.pl
 0.0.0.0 allegrolokalnie.zaufany-zakup.pl
 0.0.0.0 allegrolokalniie.0841512.xyz
@@ -9603,6 +9615,7 @@
 0.0.0.0 australiamygovalert.myftp.org
 0.0.0.0 australianews-abc.com
 0.0.0.0 australianews-abc.online
+0.0.0.0 auta-adam.pl
 0.0.0.0 auta-bydgoszcz.pl
 0.0.0.0 auta-bytom.pl
 0.0.0.0 auta-czesci.pl
@@ -9614,6 +9627,7 @@
 0.0.0.0 auta-glowacki.pl
 0.0.0.0 auta-gniezno.pl
 0.0.0.0 auta-info.pl
+0.0.0.0 auta-jakub.pl
 0.0.0.0 auta-katowice.pl
 0.0.0.0 auta-koszalin.pl
 0.0.0.0 auta-kowalska.pl
@@ -10811,6 +10825,7 @@
 0.0.0.0 bawinos.com
 0.0.0.0 bawrelot.shop
 0.0.0.0 bawter.space
+0.0.0.0 bax.programtts.top
 0.0.0.0 bax.safars.online
 0.0.0.0 baxetcuxret.club
 0.0.0.0 baxew.meetttaa-prog.top
@@ -16851,6 +16866,7 @@
 0.0.0.0 dhl-tracks-express.com
 0.0.0.0 dhl-transit-online.com
 0.0.0.0 dhl-world.net
+0.0.0.0 dhl.0135.arcbeat.com
 0.0.0.0 dhl.1334.marketiow.co.uk
 0.0.0.0 dhl.243100.ubuntu.buzz
 0.0.0.0 dhl.de.laforma.co.za
@@ -17333,6 +17349,7 @@
 0.0.0.0 document-file-extension-56353.square.site
 0.0.0.0 docunation.com
 0.0.0.0 docusign.cruisingodyssey.org
+0.0.0.0 docusign.danlel.com
 0.0.0.0 dod.loyalmp3.site
 0.0.0.0 dodajogloszenia.pl
 0.0.0.0 dodateknewsy.click
@@ -18787,6 +18804,7 @@
 0.0.0.0 emnae.com
 0.0.0.0 emoji.fre.bond
 0.0.0.0 emonitoriing-pocztta-polsska.top
+0.0.0.0 emonitoriing-pooczta-pollska.top
 0.0.0.0 emonitoring-poczta-polska-pl.site
 0.0.0.0 emonitoring-poczta-polska.cyou
 0.0.0.0 emonitoring-poczta.top
@@ -19253,6 +19271,7 @@
 0.0.0.0 eurizoncapitalinvest.com
 0.0.0.0 euro1vape.com
 0.0.0.0 euro-blg.stat-pr.site
+0.0.0.0 euro-paczka.cloud
 0.0.0.0 euroausili.it
 0.0.0.0 eurocallcenter.pl
 0.0.0.0 euroheater2022.com
@@ -19585,6 +19604,7 @@
 0.0.0.0 f3c83f6767fb919024b8abad24c30087.vistamal.pl
 0.0.0.0 f3e32b2fc4fddcf338f63293313b63fe.kontlso.pl
 0.0.0.0 f5e8cff55d8.johncornell.com
+0.0.0.0 f5fc517a5a98469f8fd3038c985d359a.sijla.pl
 0.0.0.0 f6e0f239181.chefs-kitchen.co.uk
 0.0.0.0 f6ul.ovh
 0.0.0.0 f7a512f462a.chefs-kitchen.co.uk
@@ -25517,6 +25537,7 @@
 0.0.0.0 ilskty90.lisanse.com
 0.0.0.0 iluremoney.com
 0.0.0.0 im2020.vip
+0.0.0.0 im-inpost.top
 0.0.0.0 im-post.top
 0.0.0.0 im-proj.web.app
 0.0.0.0 im-sb.com
@@ -28751,6 +28772,7 @@
 0.0.0.0 kup-online24h.pl
 0.0.0.0 kup-paczka-olx.pl
 0.0.0.0 kup-wysylka-olx.pl
+0.0.0.0 kup-z-dostawa.pl
 0.0.0.0 kupieoddamsprzedam.pl
 0.0.0.0 kupieoddamzamienie.pl
 0.0.0.0 kupiesprzedamzamienie.com
@@ -28762,7 +28784,9 @@
 0.0.0.0 kupterdostawka.shop
 0.0.0.0 kupuj-lokalnie.pl
 0.0.0.0 kupuj-online24.pl
+0.0.0.0 kupuj-wygodnie.pl
 0.0.0.0 kupuj-z-dostawa.pl
+0.0.0.0 kupuj-z-przesylka.pl
 0.0.0.0 kupujemysamochody.com.pl
 0.0.0.0 kupujterazznami.shop
 0.0.0.0 kurbas.apprety.site
@@ -28887,6 +28911,7 @@
 0.0.0.0 labourssuccess.life
 0.0.0.0 labourssuccess.top
 0.0.0.0 labtimetoanswer.com
+0.0.0.0 labzin.com
 0.0.0.0 laccen.site
 0.0.0.0 laccetap.welcme-proftr.site
 0.0.0.0 lacer-offers.com
@@ -31497,6 +31522,7 @@
 0.0.0.0 medo-arauco.com
 0.0.0.0 meds-pro.info
 0.0.0.0 medtreatmentcentre.com
+0.0.0.0 medycynaurody.noahbukowski.pl
 0.0.0.0 mee.start-proff.site
 0.0.0.0 meedfort-xyz.preview-domain.com
 0.0.0.0 meeplescout.com
@@ -31703,6 +31729,7 @@
 0.0.0.0 meta.business-manager.live
 0.0.0.0 meta.businessverifys.info
 0.0.0.0 meta.bussines-suitte.tech
+0.0.0.0 meta.help-center25.click
 0.0.0.0 meta.help-fanpage-suite.com
 0.0.0.0 meta.helpsfanpage-suite.info
 0.0.0.0 meta.online.support-setting.serv00.net
@@ -35586,6 +35613,7 @@
 0.0.0.0 olx.e-ogloszenie.pl
 0.0.0.0 olx.e-platnosc-24.pl
 0.0.0.0 olx.e-przesylka24.pl
+0.0.0.0 olx.e-przesylki24.pl
 0.0.0.0 olx.eplatnosci24.pl
 0.0.0.0 olx.etransakcja.pl
 0.0.0.0 olx.gewen.top
@@ -35614,6 +35642,7 @@
 0.0.0.0 olx.ogloszenie-polskie.pl
 0.0.0.0 olx.ogloszenie-warszawskie.pl
 0.0.0.0 olx.paysend.space
+0.0.0.0 olx.pl24-7.pl
 0.0.0.0 olx.pl-cash.link
 0.0.0.0 olx.pl-getorder.link
 0.0.0.0 olx.pl-pay.link
@@ -37443,6 +37472,7 @@
 0.0.0.0 piroquest.site
 0.0.0.0 pirourf.com
 0.0.0.0 pisaniebadanie.click
+0.0.0.0 pishroshop.com
 0.0.0.0 pisi1488228gmailcom.dmses.ru
 0.0.0.0 piskome.space
 0.0.0.0 pisokeith.space
@@ -37696,6 +37726,7 @@
 0.0.0.0 pl.btcompas.quest
 0.0.0.0 pl.buisc.zzux.com
 0.0.0.0 pl.busan.dns2.us
+0.0.0.0 pl.bussinesscenter.com
 0.0.0.0 pl.catre.ddns.info
 0.0.0.0 pl.cattat.top
 0.0.0.0 pl.ccsai.wikaba.com
@@ -38464,6 +38495,7 @@
 0.0.0.0 pofingarab.site
 0.0.0.0 pofingaral.site
 0.0.0.0 poftrbd.weebly.com
+0.0.0.0 poganiceagro.nataszadrozd.pl
 0.0.0.0 pogaqmai.site
 0.0.0.0 pogoodlacki.site
 0.0.0.0 pogotowie24.e-kei.pl
@@ -39668,6 +39700,7 @@
 0.0.0.0 program-info.pro
 0.0.0.0 program-info.shop
 0.0.0.0 program.iptvss.site
+0.0.0.0 program.offic-progm.top
 0.0.0.0 programinvest.art
 0.0.0.0 programinvest.info
 0.0.0.0 programinvest.pl
@@ -39872,6 +39905,7 @@
 0.0.0.0 pryley.com
 0.0.0.0 prywatne-fotki.mywebcommunity.org
 0.0.0.0 prywatne-oferty.pl
+0.0.0.0 prywatne-ogloszenie24h.pl
 0.0.0.0 prywatne-transakcje.pl
 0.0.0.0 prywatny-zakup.pl
 0.0.0.0 przbmkisur.sa.com
@@ -39924,6 +39958,7 @@
 0.0.0.0 przybyslaw.badura.warszawa.pl
 0.0.0.0 przybyslaw.maximilianbialek.pl
 0.0.0.0 przygodapewnozrownowazenie.bond
+0.0.0.0 przyjazna-przesylka.pl
 0.0.0.0 przyjazne-zakupy24.pl
 0.0.0.0 przyjazne-zakupy.pl
 0.0.0.0 przyjemnoscawybor.makeup
@@ -40420,6 +40455,7 @@
 0.0.0.0 quikhangers.com
 0.0.0.0 quillingblade.site
 0.0.0.0 quiltartistrystudio.com
+0.0.0.0 quilte.sbs
 0.0.0.0 quinabahe.ml
 0.0.0.0 quindorfle.live
 0.0.0.0 quinfo.life
@@ -40879,6 +40915,7 @@
 0.0.0.0 receivebiss.life
 0.0.0.0 receivebiss.top
 0.0.0.0 receivebiss.xyz
+0.0.0.0 recentlly.sbs
 0.0.0.0 recentlyn.sbs
 0.0.0.0 recentm.cfd
 0.0.0.0 receptive-steady-archduke.glitch.me
@@ -41181,6 +41218,7 @@
 0.0.0.0 resmiwepyr.ml
 0.0.0.0 resoluairb.space
 0.0.0.0 resolute-foamy-period.glitch.me
+0.0.0.0 resolve-account-notify-81c28.firebaseapp.com
 0.0.0.0 resolve-user-case-66c57.firebaseapp.com
 0.0.0.0 resonantdev.com
 0.0.0.0 resorbreso.com
@@ -42843,6 +42881,7 @@
 0.0.0.0 serwer2079424.home.pl
 0.0.0.0 serwer2290674.home.pl
 0.0.0.0 serwer2291177.home.pl
+0.0.0.0 serwer2318563.home.pl
 0.0.0.0 serwer2319941.home.pl
 0.0.0.0 serwer2329873.home.pl
 0.0.0.0 serwer2331672.home.pl
@@ -43686,6 +43725,7 @@
 0.0.0.0 snovavboy.host
 0.0.0.0 snow-media.za.com
 0.0.0.0 snowdenworld.com
+0.0.0.0 snowfoxvail.com
 0.0.0.0 snowiceblue2023.web.app
 0.0.0.0 snowsker.link
 0.0.0.0 snowy-grass-3907.on.fleek.co
@@ -44784,6 +44824,7 @@
 0.0.0.0 sun-corpcustomerslogin-au.com
 0.0.0.0 sun-groupecommerce.top
 0.0.0.0 sun-rebel-peak.glitch.me
+0.0.0.0 sun.btc9696.com
 0.0.0.0 sunapplelk.com
 0.0.0.0 sunbook.live
 0.0.0.0 sunceraesmith.com
@@ -45197,6 +45238,7 @@
 0.0.0.0 szukanie-znajdz.eu
 0.0.0.0 szuqfyxruhnds.com
 0.0.0.0 szybcyiwscielki7.wordpress.com
+0.0.0.0 szybka-dostawa-online.pl
 0.0.0.0 szybka-przesylka24.pl
 0.0.0.0 szybka-przesylka.pl
 0.0.0.0 szybkaplatnosc-payu.com
@@ -48558,6 +48600,7 @@
 0.0.0.0 video.h9wd.lat
 0.0.0.0 video.hu4y.lat
 0.0.0.0 video.ils3er.gay
+0.0.0.0 video.j5yee65.cyou
 0.0.0.0 video.j06tr.bio
 0.0.0.0 video.j983o.lat
 0.0.0.0 video.krkpr.click
@@ -49242,6 +49285,7 @@
 0.0.0.0 vintedsk.order7816.eu
 0.0.0.0 vintedsk.order7842.eu
 0.0.0.0 vintedsk.order8143.eu
+0.0.0.0 vintedsk.order8412.eu
 0.0.0.0 vintedsk.order8843.eu
 0.0.0.0 vintedsk.order8943.eu
 0.0.0.0 vintedsk.order9301.shop
@@ -51080,6 +51124,7 @@
 0.0.0.0 www.1act.plprogram-act.site
 0.0.0.0 www.1act.views1pl.site
 0.0.0.0 www.1ap.site
+0.0.0.0 www.1b0c8b2a2114399385c02b38ff776bcb.sijla.pl
 0.0.0.0 www.1b542bba02f2.meinetv.pl
 0.0.0.0 www.1b734d0f4693bcedc4878553c6f7636b.miroosa.pl
 0.0.0.0 www.1b24463cf5d70f4f6afa1e701de4899e.vipwl.pl
@@ -51468,9 +51513,11 @@
 0.0.0.0 www.6d5cda989e7.johncornell.com
 0.0.0.0 www.6dn0h4d3oq.juliankurzela.pl
 0.0.0.0 www.6e5f1cb1933.johncornell.com
+0.0.0.0 www.6e5995c81875739d1abb8a7da8a4772c.sijla.pl
 0.0.0.0 www.6e767853652ba29d06552910972ce4b2.actgro.pl
 0.0.0.0 www.6f42bf39057.chefs-kitchen.co.uk
 0.0.0.0 www.6f836cfdc72.chefs-kitchen.co.uk
+0.0.0.0 www.6f3534b55e1fb2fcaf94203999b93ce4.sijla.pl
 0.0.0.0 www.6hj.laqwer.online
 0.0.0.0 www.6q.poland-invest.fun
 0.0.0.0 www.6smart5nline.xyz
@@ -51738,6 +51785,7 @@
 0.0.0.0 www.54off.com
 0.0.0.0 www.55c1d0cda424a55b5be6d.subpocz.pl
 0.0.0.0 www.55e5ce601b6b31c11c074051d814c795.forgro.pl
+0.0.0.0 www.56-sfj.cfd
 0.0.0.0 www.57dbd7d9917.chefs-kitchen.co.uk
 0.0.0.0 www.57eb0805789.bakerstreet.uk.com
 0.0.0.0 www.58-dhs.cfd
@@ -51759,6 +51807,8 @@
 0.0.0.0 www.67e6617a542.chefs-kitchen.co.uk
 0.0.0.0 www.067ffdb7891557e13f56.benu-nf.pl
 0.0.0.0 www.68eb0196938.johncornell.com
+0.0.0.0 www.69-hky.cfd
+0.0.0.0 www.69b41f240ad380ee149e69c09cbc8032.sijla.pl
 0.0.0.0 www.69slottica.com
 0.0.0.0 www.070a01e372f0c9b88752c6d-goonlinebnpparibas.pl-pl.es
 0.0.0.0 www.70ae7a4f.vinylfence.uk
@@ -52561,6 +52611,7 @@
 0.0.0.0 www.a43.paidtomoney.com
 0.0.0.0 www.a58a99ea2c8ffc2af4bb1962.subpocz.pl
 0.0.0.0 www.a66.espn365.com
+0.0.0.0 www.a67.papiashvili.top
 0.0.0.0 www.a68.paidtomoney.com
 0.0.0.0 www.a77.awicksin.com
 0.0.0.0 www.a93.org
@@ -53180,6 +53231,7 @@
 0.0.0.0 www.admitc.sbs
 0.0.0.0 www.admyteam.com
 0.0.0.0 www.adn-consulting.com
+0.0.0.0 www.adnotacjaszybka.click
 0.0.0.0 www.adobe.ap-south-1.linodeobjects.com
 0.0.0.0 www.adolf.maciejkwierien.pl
 0.0.0.0 www.adolf.nikitaandrzej.pl
@@ -53883,12 +53935,14 @@
 0.0.0.0 www.allegrolokalnie.kup-online24h.pl
 0.0.0.0 www.allegrolokalnie.kup-sprzedaj.pl
 0.0.0.0 www.allegrolokalnie.kup-z-bezpieczna-przesylka.pl
+0.0.0.0 www.allegrolokalnie.kup-z-dostawa.pl
 0.0.0.0 www.allegrolokalnie.kupowanie-24.pl
 0.0.0.0 www.allegrolokalnie.kupteraz-24h.pl
 0.0.0.0 www.allegrolokalnie.kupuj-bezpieczenie.pl
 0.0.0.0 www.allegrolokalnie.kupuj-lokalnie.pl
 0.0.0.0 www.allegrolokalnie.kupuj-szybko.pl
 0.0.0.0 www.allegrolokalnie.kupuj-z-dostawa.pl
+0.0.0.0 www.allegrolokalnie.kupuj-z-przesylka.pl
 0.0.0.0 www.allegrolokalnie.mobilnaplatnosc.pl
 0.0.0.0 www.allegrolokalnie.nowe-ogloszenia24.pl
 0.0.0.0 www.allegrolokalnie.nssl.pl
@@ -53915,6 +53969,7 @@
 0.0.0.0 www.allegrolokalnie.skuteczne-zakupy.pl
 0.0.0.0 www.allegrolokalnie.sprawdzona-platnosc.pl
 0.0.0.0 www.allegrolokalnie.sprawdzone-platnosci.pl
+0.0.0.0 www.allegrolokalnie.szybka-dostawa-online.pl
 0.0.0.0 www.allegrolokalnie.szybka-paczka.pl
 0.0.0.0 www.allegrolokalnie.szybka-przesylka24.pl
 0.0.0.0 www.allegrolokalnie.szybka-przesylka.pl
@@ -53944,6 +53999,7 @@
 0.0.0.0 www.allegrolokalnie.zaplac-bezpiecznie24.pl
 0.0.0.0 www.allegrolokalnie.zaplac-online24.pl
 0.0.0.0 www.allegrolokalnie.zaplac-teraz24.pl
+0.0.0.0 www.allegrolokalnie.zaplac-teraz24h.pl
 0.0.0.0 www.allegrolokalnie.zaplac-wygodnie.pl
 0.0.0.0 www.allegrolokalnie.zaufany-zakup.pl
 0.0.0.0 www.allegrolokalniie.0841512.xyz
@@ -55447,6 +55503,7 @@
 0.0.0.0 www.australiamygovalert.myftp.org
 0.0.0.0 www.australianews-abc.com
 0.0.0.0 www.australianews-abc.online
+0.0.0.0 www.auta-adam.pl
 0.0.0.0 www.auta-bydgoszcz.pl
 0.0.0.0 www.auta-bytom.pl
 0.0.0.0 www.auta-czesci.pl
@@ -55458,6 +55515,7 @@
 0.0.0.0 www.auta-glowacki.pl
 0.0.0.0 www.auta-gniezno.pl
 0.0.0.0 www.auta-info.pl
+0.0.0.0 www.auta-jakub.pl
 0.0.0.0 www.auta-katowice.pl
 0.0.0.0 www.auta-koszalin.pl
 0.0.0.0 www.auta-kowalska.pl
@@ -56655,6 +56713,7 @@
 0.0.0.0 www.bawinos.com
 0.0.0.0 www.bawrelot.shop
 0.0.0.0 www.bawter.space
+0.0.0.0 www.bax.programtts.top
 0.0.0.0 www.bax.safars.online
 0.0.0.0 www.baxetcuxret.club
 0.0.0.0 www.baxew.meetttaa-prog.top
@@ -62695,6 +62754,7 @@
 0.0.0.0 www.dhl-tracks-express.com
 0.0.0.0 www.dhl-transit-online.com
 0.0.0.0 www.dhl-world.net
+0.0.0.0 www.dhl.0135.arcbeat.com
 0.0.0.0 www.dhl.1334.marketiow.co.uk
 0.0.0.0 www.dhl.243100.ubuntu.buzz
 0.0.0.0 www.dhl.de.laforma.co.za
@@ -63177,6 +63237,7 @@
 0.0.0.0 www.document-file-extension-56353.square.site
 0.0.0.0 www.docunation.com
 0.0.0.0 www.docusign.cruisingodyssey.org
+0.0.0.0 www.docusign.danlel.com
 0.0.0.0 www.dod.loyalmp3.site
 0.0.0.0 www.dodajogloszenia.pl
 0.0.0.0 www.dodateknewsy.click
@@ -64631,6 +64692,7 @@
 0.0.0.0 www.emnae.com
 0.0.0.0 www.emoji.fre.bond
 0.0.0.0 www.emonitoriing-pocztta-polsska.top
+0.0.0.0 www.emonitoriing-pooczta-pollska.top
 0.0.0.0 www.emonitoring-poczta-polska-pl.site
 0.0.0.0 www.emonitoring-poczta-polska.cyou
 0.0.0.0 www.emonitoring-poczta.top
@@ -65097,6 +65159,7 @@
 0.0.0.0 www.eurizoncapitalinvest.com
 0.0.0.0 www.euro1vape.com
 0.0.0.0 www.euro-blg.stat-pr.site
+0.0.0.0 www.euro-paczka.cloud
 0.0.0.0 www.euroausili.it
 0.0.0.0 www.eurocallcenter.pl
 0.0.0.0 www.euroheater2022.com
@@ -65429,6 +65492,7 @@
 0.0.0.0 www.f3c83f6767fb919024b8abad24c30087.vistamal.pl
 0.0.0.0 www.f3e32b2fc4fddcf338f63293313b63fe.kontlso.pl
 0.0.0.0 www.f5e8cff55d8.johncornell.com
+0.0.0.0 www.f5fc517a5a98469f8fd3038c985d359a.sijla.pl
 0.0.0.0 www.f6e0f239181.chefs-kitchen.co.uk
 0.0.0.0 www.f6ul.ovh
 0.0.0.0 www.f7a512f462a.chefs-kitchen.co.uk
@@ -71361,6 +71425,7 @@
 0.0.0.0 www.ilskty90.lisanse.com
 0.0.0.0 www.iluremoney.com
 0.0.0.0 www.im2020.vip
+0.0.0.0 www.im-inpost.top
 0.0.0.0 www.im-post.top
 0.0.0.0 www.im-proj.web.app
 0.0.0.0 www.im-sb.com
@@ -74595,6 +74660,7 @@
 0.0.0.0 www.kup-online24h.pl
 0.0.0.0 www.kup-paczka-olx.pl
 0.0.0.0 www.kup-wysylka-olx.pl
+0.0.0.0 www.kup-z-dostawa.pl
 0.0.0.0 www.kupieoddamsprzedam.pl
 0.0.0.0 www.kupieoddamzamienie.pl
 0.0.0.0 www.kupiesprzedamzamienie.com
@@ -74606,7 +74672,9 @@
 0.0.0.0 www.kupterdostawka.shop
 0.0.0.0 www.kupuj-lokalnie.pl
 0.0.0.0 www.kupuj-online24.pl
+0.0.0.0 www.kupuj-wygodnie.pl
 0.0.0.0 www.kupuj-z-dostawa.pl
+0.0.0.0 www.kupuj-z-przesylka.pl
 0.0.0.0 www.kupujemysamochody.com.pl
 0.0.0.0 www.kupujterazznami.shop
 0.0.0.0 www.kurbas.apprety.site
@@ -74731,6 +74799,7 @@
 0.0.0.0 www.labourssuccess.life
 0.0.0.0 www.labourssuccess.top
 0.0.0.0 www.labtimetoanswer.com
+0.0.0.0 www.labzin.com
 0.0.0.0 www.laccen.site
 0.0.0.0 www.laccetap.welcme-proftr.site
 0.0.0.0 www.lacer-offers.com
@@ -77341,6 +77410,7 @@
 0.0.0.0 www.medo-arauco.com
 0.0.0.0 www.meds-pro.info
 0.0.0.0 www.medtreatmentcentre.com
+0.0.0.0 www.medycynaurody.noahbukowski.pl
 0.0.0.0 www.mee.start-proff.site
 0.0.0.0 www.meedfort-xyz.preview-domain.com
 0.0.0.0 www.meeplescout.com
@@ -77547,6 +77617,7 @@
 0.0.0.0 www.meta.business-manager.live
 0.0.0.0 www.meta.businessverifys.info
 0.0.0.0 www.meta.bussines-suitte.tech
+0.0.0.0 www.meta.help-center25.click
 0.0.0.0 www.meta.help-fanpage-suite.com
 0.0.0.0 www.meta.helpsfanpage-suite.info
 0.0.0.0 www.meta.online.support-setting.serv00.net
@@ -81431,6 +81502,7 @@
 0.0.0.0 www.olx.e-ogloszenie.pl
 0.0.0.0 www.olx.e-platnosc-24.pl
 0.0.0.0 www.olx.e-przesylka24.pl
+0.0.0.0 www.olx.e-przesylki24.pl
 0.0.0.0 www.olx.eplatnosci24.pl
 0.0.0.0 www.olx.etransakcja.pl
 0.0.0.0 www.olx.gewen.top
@@ -81459,6 +81531,7 @@
 0.0.0.0 www.olx.ogloszenie-polskie.pl
 0.0.0.0 www.olx.ogloszenie-warszawskie.pl
 0.0.0.0 www.olx.paysend.space
+0.0.0.0 www.olx.pl24-7.pl
 0.0.0.0 www.olx.pl-cash.link
 0.0.0.0 www.olx.pl-getorder.link
 0.0.0.0 www.olx.pl-pay.link
@@ -83288,6 +83361,7 @@
 0.0.0.0 www.piroquest.site
 0.0.0.0 www.pirourf.com
 0.0.0.0 www.pisaniebadanie.click
+0.0.0.0 www.pishroshop.com
 0.0.0.0 www.pisi1488228gmailcom.dmses.ru
 0.0.0.0 www.piskome.space
 0.0.0.0 www.pisokeith.space
@@ -84204,6 +84278,7 @@
 0.0.0.0 www.pofingarab.site
 0.0.0.0 www.pofingaral.site
 0.0.0.0 www.poftrbd.weebly.com
+0.0.0.0 www.poganiceagro.nataszadrozd.pl
 0.0.0.0 www.pogaqmai.site
 0.0.0.0 www.pogoodlacki.site
 0.0.0.0 www.pogotowie24.e-kei.pl
@@ -85408,6 +85483,7 @@
 0.0.0.0 www.program-info.pro
 0.0.0.0 www.program-info.shop
 0.0.0.0 www.program.iptvss.site
+0.0.0.0 www.program.offic-progm.top
 0.0.0.0 www.programinvest.art
 0.0.0.0 www.programinvest.info
 0.0.0.0 www.programinvest.pl
@@ -85612,6 +85688,7 @@
 0.0.0.0 www.pryley.com
 0.0.0.0 www.prywatne-fotki.mywebcommunity.org
 0.0.0.0 www.prywatne-oferty.pl
+0.0.0.0 www.prywatne-ogloszenie24h.pl
 0.0.0.0 www.prywatne-transakcje.pl
 0.0.0.0 www.prywatny-zakup.pl
 0.0.0.0 www.przbmkisur.sa.com
@@ -85664,6 +85741,7 @@
 0.0.0.0 www.przybyslaw.badura.warszawa.pl
 0.0.0.0 www.przybyslaw.maximilianbialek.pl
 0.0.0.0 www.przygodapewnozrownowazenie.bond
+0.0.0.0 www.przyjazna-przesylka.pl
 0.0.0.0 www.przyjazne-zakupy24.pl
 0.0.0.0 www.przyjazne-zakupy.pl
 0.0.0.0 www.przyjemnoscawybor.makeup
@@ -86160,6 +86238,7 @@
 0.0.0.0 www.quikhangers.com
 0.0.0.0 www.quillingblade.site
 0.0.0.0 www.quiltartistrystudio.com
+0.0.0.0 www.quilte.sbs
 0.0.0.0 www.quinabahe.ml
 0.0.0.0 www.quindorfle.live
 0.0.0.0 www.quinfo.life
@@ -86619,6 +86698,7 @@
 0.0.0.0 www.receivebiss.life
 0.0.0.0 www.receivebiss.top
 0.0.0.0 www.receivebiss.xyz
+0.0.0.0 www.recentlly.sbs
 0.0.0.0 www.recentlyn.sbs
 0.0.0.0 www.recentm.cfd
 0.0.0.0 www.receptive-steady-archduke.glitch.me
@@ -86921,6 +87001,7 @@
 0.0.0.0 www.resmiwepyr.ml
 0.0.0.0 www.resoluairb.space
 0.0.0.0 www.resolute-foamy-period.glitch.me
+0.0.0.0 www.resolve-account-notify-81c28.firebaseapp.com
 0.0.0.0 www.resolve-user-case-66c57.firebaseapp.com
 0.0.0.0 www.resonantdev.com
 0.0.0.0 www.resorbreso.com
@@ -88583,6 +88664,7 @@
 0.0.0.0 www.serwer2079424.home.pl
 0.0.0.0 www.serwer2290674.home.pl
 0.0.0.0 www.serwer2291177.home.pl
+0.0.0.0 www.serwer2318563.home.pl
 0.0.0.0 www.serwer2319941.home.pl
 0.0.0.0 www.serwer2329873.home.pl
 0.0.0.0 www.serwer2331672.home.pl
@@ -89426,6 +89508,7 @@
 0.0.0.0 www.snovavboy.host
 0.0.0.0 www.snow-media.za.com
 0.0.0.0 www.snowdenworld.com
+0.0.0.0 www.snowfoxvail.com
 0.0.0.0 www.snowiceblue2023.web.app
 0.0.0.0 www.snowsker.link
 0.0.0.0 www.snowy-grass-3907.on.fleek.co
@@ -90524,6 +90607,7 @@
 0.0.0.0 www.sun-corpcustomerslogin-au.com
 0.0.0.0 www.sun-groupecommerce.top
 0.0.0.0 www.sun-rebel-peak.glitch.me
+0.0.0.0 www.sun.btc9696.com
 0.0.0.0 www.sunapplelk.com
 0.0.0.0 www.sunbook.live
 0.0.0.0 www.sunceraesmith.com
@@ -90937,6 +91021,7 @@
 0.0.0.0 www.szukanie-znajdz.eu
 0.0.0.0 www.szuqfyxruhnds.com
 0.0.0.0 www.szybcyiwscielki7.wordpress.com
+0.0.0.0 www.szybka-dostawa-online.pl
 0.0.0.0 www.szybka-przesylka24.pl
 0.0.0.0 www.szybka-przesylka.pl
 0.0.0.0 www.szybkaplatnosc-payu.com
@@ -94298,6 +94383,7 @@
 0.0.0.0 www.video.h9wd.lat
 0.0.0.0 www.video.hu4y.lat
 0.0.0.0 www.video.ils3er.gay
+0.0.0.0 www.video.j5yee65.cyou
 0.0.0.0 www.video.j06tr.bio
 0.0.0.0 www.video.j983o.lat
 0.0.0.0 www.video.krkpr.click
@@ -94982,6 +95068,7 @@
 0.0.0.0 www.vintedsk.order7816.eu
 0.0.0.0 www.vintedsk.order7842.eu
 0.0.0.0 www.vintedsk.order8143.eu
+0.0.0.0 www.vintedsk.order8412.eu
 0.0.0.0 www.vintedsk.order8843.eu
 0.0.0.0 www.vintedsk.order8943.eu
 0.0.0.0 www.vintedsk.order9301.shop
@@ -97547,6 +97634,7 @@
 0.0.0.0 www.zaplaan.se
 0.0.0.0 www.zaplac-bezpiecznie24.pl
 0.0.0.0 www.zaplac-bezpieczniej.pl
+0.0.0.0 www.zaplac-teraz24h.pl
 0.0.0.0 www.zaplac-wygodnie.pl
 0.0.0.0 www.zaplacals.pl
 0.0.0.0 www.zaplacmandat.online
@@ -98837,6 +98925,7 @@
 0.0.0.0 zaplaan.se
 0.0.0.0 zaplac-bezpiecznie24.pl
 0.0.0.0 zaplac-bezpieczniej.pl
+0.0.0.0 zaplac-teraz24h.pl
 0.0.0.0 zaplac-wygodnie.pl
 0.0.0.0 zaplacals.pl
 0.0.0.0 zaplacmandat.online
