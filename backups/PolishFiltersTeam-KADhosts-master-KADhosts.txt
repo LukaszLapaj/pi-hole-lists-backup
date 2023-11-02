@@ -1,7 +1,7 @@
 # Title: KADhosts
 # Description: Filtry chroniace przed roznego rodzaju przekretami i oszustwami, takimi jak np. subskrypcje SMS, wirusy i falszywe sklepy internetowe. Oprocz wlasnego zestawu, zawieraja one rowniez wpisy z list stworzonych przez takie zespoly jak np. CERT Polska, legalniewsieci.pl i KNF.
-# Last modified: Wed, 01 Nov 2023, 09:21 UTC+01:00
-# Version: 2023.11.1.0
+# Last modified: Thu, 02 Nov 2023, 09:20 UTC+01:00
+# Version: 2023.11.2.0
 # Expires: 2 days
 # Website: https://kadantiscam.netlify.app/
 # Based on: https://github.com/FiltersHeroes/KAD
@@ -8337,6 +8337,8 @@
 0.0.0.0 allegrolokalnie.aukcja-24h.pl
 0.0.0.0 allegrolokalnie.aukcja-payu.pl
 0.0.0.0 allegrolokalnie.aukcja-prywatna24.pl
+0.0.0.0 allegrolokalnie.aukcja-prywatna247.pl
+0.0.0.0 allegrolokalnie.aukcja-prywatnie24.pl
 0.0.0.0 allegrolokalnie.aukcja.store
 0.0.0.0 allegrolokalnie.aukcje-online.pl
 0.0.0.0 allegrolokalnie.bezpieczna-przesylka.pl
@@ -8378,14 +8380,18 @@
 0.0.0.0 allegrolokalnie.kup-bezpiecznie-24.pl
 0.0.0.0 allegrolokalnie.kup-online24h.pl
 0.0.0.0 allegrolokalnie.kup-online247.pl
+0.0.0.0 allegrolokalnie.kup-prywatnie247.pl
 0.0.0.0 allegrolokalnie.kup-prywatnie.pl
 0.0.0.0 allegrolokalnie.kup-przedmiot.pl
 0.0.0.0 allegrolokalnie.kup-sprzedaj.pl
 0.0.0.0 allegrolokalnie.kup-z-bezpieczna-przesylka.pl
 0.0.0.0 allegrolokalnie.kup-z-dostawa.pl
 0.0.0.0 allegrolokalnie.kupie-prywatnie24.pl
+0.0.0.0 allegrolokalnie.kupie-prywatnie247.pl
+0.0.0.0 allegrolokalnie.kupie-prywatnie.pl
 0.0.0.0 allegrolokalnie.kupie-przedmiot24.pl
 0.0.0.0 allegrolokalnie.kupie-przedmiot247.pl
+0.0.0.0 allegrolokalnie.kupie-teraz247.pl
 0.0.0.0 allegrolokalnie.kupno24-7.pl
 0.0.0.0 allegrolokalnie.kupno24h-7.pl
 0.0.0.0 allegrolokalnie.kupowanie-24.pl
@@ -8417,6 +8423,7 @@
 0.0.0.0 allegrolokalnie.pl-kupuj-lokalnie.pl
 0.0.0.0 allegrolokalnie.pl-oferta-uzytkownika.pl
 0.0.0.0 allegrolokalnie.pl-platnosc-24h.pl
+0.0.0.0 allegrolokalnie.pl-platnosc-payu.pl
 0.0.0.0 allegrolokalnie.pl-zakup-dzis.pl
 0.0.0.0 allegrolokalnie.pl-zakup-przedmiot.pl
 0.0.0.0 allegrolokalnie.pl-zakupy-online.pl
@@ -8431,16 +8438,21 @@
 0.0.0.0 allegrolokalnie.platnosc-zweryfikowana.pl
 0.0.0.0 allegrolokalnie.platnosci-24h.pl
 0.0.0.0 allegrolokalnie.platnosci-z-ochrona.pl
+0.0.0.0 allegrolokalnie.platnoscwsieci.pl
 0.0.0.0 allegrolokalnie.polskie-zakupy.pl
 0.0.0.0 allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 allegrolokalnie.prywanty-zakup24.pl
 0.0.0.0 allegrolokalnie.prywatna-aukcja24.pl
 0.0.0.0 allegrolokalnie.prywatna-aukcja247.pl
 0.0.0.0 allegrolokalnie.prywatna-aukcja-uzytkownika.pl
+0.0.0.0 allegrolokalnie.prywatna-oferta.pl
+0.0.0.0 allegrolokalnie.prywatne-zakup24.pl
 0.0.0.0 allegrolokalnie.prywatne-zakupy247.pl
 0.0.0.0 allegrolokalnie.prywatne-zakupy.pl
 0.0.0.0 allegrolokalnie.prywatnie-kupuj.pl
 0.0.0.0 allegrolokalnie.prywatnie-kupuje247.pl
+0.0.0.0 allegrolokalnie.prywatnie-oferuj.pl
+0.0.0.0 allegrolokalnie.prywatnie-zakup.pl
 0.0.0.0 allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 allegrolokalnie.przelew-online24.pl
 0.0.0.0 allegrolokalnie.przelew-online.pl
@@ -8468,6 +8480,7 @@
 0.0.0.0 allegrolokalnie.szybkie-ogloszenie.pl
 0.0.0.0 allegrolokalnie.szybkie-zamowienie.pl
 0.0.0.0 allegrolokalnie.szybkie-zaplac.pl
+0.0.0.0 allegrolokalnie.szybkiezakupyonline.pl
 0.0.0.0 allegrolokalnie.szybko-kupuj.pl
 0.0.0.0 allegrolokalnie.szybko-zakup24.pl
 0.0.0.0 allegrolokalnie.tani-zakup.pl
@@ -8481,9 +8494,12 @@
 0.0.0.0 allegrolokalnie.zakup24.pl
 0.0.0.0 allegrolokalnie.zakup-bezpieczny.pl
 0.0.0.0 allegrolokalnie.zakup-dzis.pl
+0.0.0.0 allegrolokalnie.zakup-kontrolowany247.pl
+0.0.0.0 allegrolokalnie.zakup-online24h.pl
 0.0.0.0 allegrolokalnie.zakup-payu.pl
 0.0.0.0 allegrolokalnie.zakup-produkt.pl
 0.0.0.0 allegrolokalnie.zakup-przez-internet.pl
+0.0.0.0 allegrolokalnie.zakup-teraz24h.pl
 0.0.0.0 allegrolokalnie.zakup-z-gwarancja.pl
 0.0.0.0 allegrolokalnie.zakup-zweryfikowany.pl
 0.0.0.0 allegrolokalnie.zakupw-sieci.pl
@@ -8491,6 +8507,7 @@
 0.0.0.0 allegrolokalnie.zakupy24h-7.pl
 0.0.0.0 allegrolokalnie.zakupy-24h.pl
 0.0.0.0 allegrolokalnie.zakupy-bezpieczne.pl
+0.0.0.0 allegrolokalnie.zakupy-payu.pl
 0.0.0.0 allegrolokalnie.zakupy-z-ochrona.pl
 0.0.0.0 allegrolokalnie.zakupybezpieczne.pl
 0.0.0.0 allegrolokalnie.zamawiaj-taniej.pl
@@ -9423,6 +9440,7 @@
 0.0.0.0 apptionate.com
 0.0.0.0 apptk66live.com
 0.0.0.0 apptopgame.com
+0.0.0.0 apptorrefiel.com
 0.0.0.0 apptrader.com
 0.0.0.0 apr-breaking-news.sa.com
 0.0.0.0 april30.online
@@ -10203,6 +10221,7 @@
 0.0.0.0 auta-ciesielski.pl
 0.0.0.0 auta-czesci.pl
 0.0.0.0 auta-czestochowa.pl
+0.0.0.0 auta-dabrowski.pl
 0.0.0.0 auta-daniel.pl
 0.0.0.0 auta-darek.pl
 0.0.0.0 auta-dawid.pl
@@ -10221,12 +10240,14 @@
 0.0.0.0 auta-info.pl
 0.0.0.0 auta-jacek.pl
 0.0.0.0 auta-jackowiak.pl
+0.0.0.0 auta-jackowski.pl
 0.0.0.0 auta-jakub.pl
 0.0.0.0 auta-jan.pl
 0.0.0.0 auta-jarek.pl
 0.0.0.0 auta-kalinowski.pl
 0.0.0.0 auta-kaminski.pl
 0.0.0.0 auta-karol.pl
+0.0.0.0 auta-kaszubski.pl
 0.0.0.0 auta-katowice.pl
 0.0.0.0 auta-kosowski.pl
 0.0.0.0 auta-koszalin.pl
@@ -10234,12 +10255,14 @@
 0.0.0.0 auta-kowalscy.pl
 0.0.0.0 auta-kowalska.pl
 0.0.0.0 auta-krzysztof.pl
+0.0.0.0 auta-krzyzanowski.pl
 0.0.0.0 auta-kuba.pl
 0.0.0.0 auta-kwiatkowski.pl
 0.0.0.0 auta-leszczynski.pl
 0.0.0.0 auta-lewandowski.pl
 0.0.0.0 auta-lisiecki.pl
 0.0.0.0 auta-lublin.pl
+0.0.0.0 auta-lukasz.pl
 0.0.0.0 auta-maciek.pl
 0.0.0.0 auta-malinowski.pl
 0.0.0.0 auta-marcin.pl
@@ -10260,6 +10283,7 @@
 0.0.0.0 auta-opole.pl
 0.0.0.0 auta-oskar.pl
 0.0.0.0 auta-patryk.pl
+0.0.0.0 auta-patrykowski.pl
 0.0.0.0 auta-pawel.pl
 0.0.0.0 auta-pawlikowski.pl
 0.0.0.0 auta-pilarscy.pl
@@ -10270,6 +10294,7 @@
 0.0.0.0 auta-radek.pl
 0.0.0.0 auta-roman.pl
 0.0.0.0 auta-romanowski.pl
+0.0.0.0 auta-sikora.pl
 0.0.0.0 auta-sklepy.pl
 0.0.0.0 auta-skowronscy.pl
 0.0.0.0 auta-slupsk.pl
@@ -10286,6 +10311,7 @@
 0.0.0.0 auta-waldek.pl
 0.0.0.0 auta-warszawskie.pl
 0.0.0.0 auta-wiejska.pl
+0.0.0.0 auta-winnicki.pl
 0.0.0.0 auta-wojciech.pl
 0.0.0.0 auta-wojtek.pl
 0.0.0.0 auta-wozniak.pl
@@ -10487,6 +10513,7 @@
 0.0.0.0 avast-investment.web.app
 0.0.0.0 avaxrtw.xyz
 0.0.0.0 avaxvoices.com
+0.0.0.0 avayacdn.com
 0.0.0.0 avayb.retroplugins.com
 0.0.0.0 avazai.com
 0.0.0.0 avbewwbivwwririwooiq.site
@@ -10602,6 +10629,7 @@
 0.0.0.0 azaqw.utulo.site
 0.0.0.0 azare7.online
 0.0.0.0 azbib.lasorquideashome.com
+0.0.0.0 azbvxj.s3.us-east-005.backblazeb2.com
 0.0.0.0 azcongo.com
 0.0.0.0 azcybersec.com
 0.0.0.0 azdrowieja.site
@@ -12138,6 +12166,7 @@
 0.0.0.0 betelgeuxs.info
 0.0.0.0 betenor-com.preview-domain.com
 0.0.0.0 betflikaa.com
+0.0.0.0 bethanked.sbs
 0.0.0.0 bethanyramirez.com
 0.0.0.0 bethelcity.com
 0.0.0.0 bethgreen-tweddlerealestate.com
@@ -13290,6 +13319,7 @@
 0.0.0.0 bowlingburg.de
 0.0.0.0 bowseer.website
 0.0.0.0 bowstem.store
+0.0.0.0 box2youcs2.com
 0.0.0.0 box5597.temp.domains
 0.0.0.0 boxesfly.com
 0.0.0.0 boxnepal.com
@@ -15804,6 +15834,7 @@
 0.0.0.0 colossalpicture.com
 0.0.0.0 coloureds.fun
 0.0.0.0 colourinthewarmg.cyou
+0.0.0.0 colourofthewarmb.cyou
 0.0.0.0 colr-inwest.web.app
 0.0.0.0 colt.vividrriver.pw
 0.0.0.0 columbusparkour.com
@@ -16543,6 +16574,7 @@
 0.0.0.0 cs2-go.com
 0.0.0.0 cs2-natus.pro
 0.0.0.0 cs2-source.pro
+0.0.0.0 cs2lucky.pro
 0.0.0.0 cs2navi.fun
 0.0.0.0 cs2newtour.com
 0.0.0.0 cs2skin4you.com
@@ -17523,6 +17555,7 @@
 0.0.0.0 decolorizations.com
 0.0.0.0 deconstruc.xyz
 0.0.0.0 decorticators.life
+0.0.0.0 decorview.online
 0.0.0.0 decouldentionely.site
 0.0.0.0 decoupage.cfd
 0.0.0.0 decrease.cci-fa.com
@@ -18520,6 +18553,7 @@
 0.0.0.0 dmcqdc.com
 0.0.0.0 dmensvgwtkargq.com
 0.0.0.0 dmfbraj8u4zvgpx.com
+0.0.0.0 dmgeevents.com
 0.0.0.0 dmjs.interfoxprog.click
 0.0.0.0 dmkjgzqchwey.com
 0.0.0.0 dmsull.com
@@ -20569,6 +20603,7 @@
 0.0.0.0 eskum.top
 0.0.0.0 esl-give.com
 0.0.0.0 esla.interfoxprog.click
+0.0.0.0 eslenglish-hk.com
 0.0.0.0 esn-apple.com
 0.0.0.0 esnafbank.com
 0.0.0.0 esnrn.steamingmugcafe.com
@@ -20951,6 +20986,7 @@
 0.0.0.0 express-packs.net
 0.0.0.0 express-platnosci.pl
 0.0.0.0 expressable.info
+0.0.0.0 expressaodaliberdade.com.br
 0.0.0.0 expresscash.pl
 0.0.0.0 expressconcreteltd.net
 0.0.0.0 expressdeliveryfastfailldhi.com
@@ -24137,6 +24173,7 @@
 0.0.0.0 glasurried.com
 0.0.0.0 glaurs.life
 0.0.0.0 glbinformatique.fr
+0.0.0.0 gleeblog.com
 0.0.0.0 glendaleazbeeremoval.com
 0.0.0.0 glenmorecentral.com
 0.0.0.0 glennharmonjr.com
@@ -24441,6 +24478,7 @@
 0.0.0.0 goingapp.net
 0.0.0.0 goingapp.nl
 0.0.0.0 goingapp.org
+0.0.0.0 goinlow.com
 0.0.0.0 goinvest.beauty
 0.0.0.0 goinvest.cfd
 0.0.0.0 goinvest.cyou
@@ -30017,6 +30055,7 @@
 0.0.0.0 kbehi42a8.digital
 0.0.0.0 kbepm.mineralaggregates.com
 0.0.0.0 kbm.bitgarage.com.np
+0.0.0.0 kbmjhx.s3.us-east-005.backblazeb2.com
 0.0.0.0 kbpfrnq0rfr.digital
 0.0.0.0 kbplgzs.cn
 0.0.0.0 kbs5.skin
@@ -30859,11 +30898,13 @@
 0.0.0.0 kup-online24h.pl
 0.0.0.0 kup-online247.pl
 0.0.0.0 kup-paczka-olx.pl
+0.0.0.0 kup-prywatnie247.pl
 0.0.0.0 kup-prywatnie.pl
 0.0.0.0 kup-przedmiot.pl
 0.0.0.0 kup-wysylka-olx.pl
 0.0.0.0 kup-z-dostawa.pl
 0.0.0.0 kupie-prywatnie24.pl
+0.0.0.0 kupie-prywatnie.pl
 0.0.0.0 kupie-przedmiot24.pl
 0.0.0.0 kupie-przedmiot247.pl
 0.0.0.0 kupie-teraz24h.pl
@@ -33928,6 +33969,7 @@
 0.0.0.0 mesportbet.com
 0.0.0.0 mess-voterti.vercel.app
 0.0.0.0 message.bellyplant.com
+0.0.0.0 message.pantychallenges.com
 0.0.0.0 messenger-20-21-update.blogspot.com
 0.0.0.0 messengered.live
 0.0.0.0 mestiuff.site
@@ -34493,6 +34535,7 @@
 0.0.0.0 mkas.apprety.site
 0.0.0.0 mkauie.com
 0.0.0.0 mke2morrow.com
+0.0.0.0 mkkjcx.s3.us-east-005.backblazeb2.com
 0.0.0.0 mkknbih.s3.us-west-004.backblazeb2.com
 0.0.0.0 mkkolerosoft.com
 0.0.0.0 mkm3x2kbbwrzcqhkrucm5oozallcy-ipfs-dweb-link.translate.goog
@@ -36764,6 +36807,7 @@
 0.0.0.0 neytron.papiashvili.top
 0.0.0.0 neznaybrodu.online
 0.0.0.0 nf-info.pl
+0.0.0.0 nfamaxl.online
 0.0.0.0 nfarm.org
 0.0.0.0 nfbio.com
 0.0.0.0 nfdj39.cyou
@@ -38072,6 +38116,8 @@
 0.0.0.0 olx.52154986451.xyz
 0.0.0.0 olx.ahsoftware.space
 0.0.0.0 olx.aukcja-24.pl
+0.0.0.0 olx.aukcja-prywatna247.pl
+0.0.0.0 olx.aukcja-prywatnie24.pl
 0.0.0.0 olx.bdimonet.org
 0.0.0.0 olx.bezpieczne-kupno.pl
 0.0.0.0 olx.bezpieczne-placenie.pl
@@ -38096,9 +38142,13 @@
 0.0.0.0 olx.info-oglaszamy.pl
 0.0.0.0 olx.ink
 0.0.0.0 olx.key-pl.pw
+0.0.0.0 olx.kup-prywatnie247.pl
 0.0.0.0 olx.kup-prywatnie.pl
 0.0.0.0 olx.kupie-prywatnie24.pl
+0.0.0.0 olx.kupie-prywatnie247.pl
+0.0.0.0 olx.kupie-prywatnie.pl
 0.0.0.0 olx.kupie-przedmiot247.pl
+0.0.0.0 olx.kupie-teraz247.pl
 0.0.0.0 olx.kupteraz-przedmiot.pl
 0.0.0.0 olx.kupuj-online24.pl
 0.0.0.0 olx.kupuje-prywatnie.pl
@@ -38130,6 +38180,7 @@
 0.0.0.0 olx.pl-getorder.link
 0.0.0.0 olx.pl-pay.link
 0.0.0.0 olx.pl-payment.oferta-pay.com
+0.0.0.0 olx.pl-platnosc-payu.pl
 0.0.0.0 olx.pl-safecash.link
 0.0.0.0 olx.pl-safedeal.link
 0.0.0.0 olx.pl-safety.oferta-payment.link
@@ -38152,8 +38203,12 @@
 0.0.0.0 olx.prostaprzesylka.pl
 0.0.0.0 olx.prosteprzesylki.pl
 0.0.0.0 olx.prostewysylki.pl
+0.0.0.0 olx.prywatna-oferta.pl
+0.0.0.0 olx.prywatne-zakup24.pl
 0.0.0.0 olx.prywatne-zakupy.pl
 0.0.0.0 olx.prywatnie-kupuj.pl
+0.0.0.0 olx.prywatnie-oferuj.pl
+0.0.0.0 olx.prywatnie-zakup.pl
 0.0.0.0 olx.prywatny-zakup.pl
 0.0.0.0 olx.przesylka24-7.pl
 0.0.0.0 olx.przewiezienie.pl
@@ -38164,6 +38219,7 @@
 0.0.0.0 olx.rwpay.ru
 0.0.0.0 olx.swell-redirect.pw
 0.0.0.0 olx.szybki-zakupy24.pl
+0.0.0.0 olx.szybkiezakupyonline.pl
 0.0.0.0 olx.tani-zakup.pl
 0.0.0.0 olx.tanie-zaplac.pl
 0.0.0.0 olx.themilitia.shop
@@ -38183,7 +38239,11 @@
 0.0.0.0 olx.z-przesylka.pl
 0.0.0.0 olx.zakup24-7.pl
 0.0.0.0 olx.zakup-bezpieczny.pl
+0.0.0.0 olx.zakup-kontrolowany247.pl
+0.0.0.0 olx.zakup-online24h.pl
 0.0.0.0 olx.zakup-teraz24.pl
+0.0.0.0 olx.zakup-teraz24h.pl
+0.0.0.0 olx.zakupy-payu.pl
 0.0.0.0 olx.zakupybezpieczne.pl
 0.0.0.0 olx.zakupyogloszenia.pl
 0.0.0.0 olx.zamawiaj-taniej.pl
@@ -38525,6 +38585,7 @@
 0.0.0.0 opteimization.lat
 0.0.0.0 opti-saving.site
 0.0.0.0 optical2web.com
+0.0.0.0 opticaura.pw
 0.0.0.0 opticrefractionn.xyz
 0.0.0.0 opticsspectrumc.xyz
 0.0.0.0 opticstransparentp.xyz
@@ -38865,6 +38926,7 @@
 0.0.0.0 ovaflame-pl.cyou
 0.0.0.0 ovariosteresis.com
 0.0.0.0 ovd54lp8fzv9.com
+0.0.0.0 ovd84.cfd
 0.0.0.0 oveercardiss.site
 0.0.0.0 overactivity.info
 0.0.0.0 overallbetter.com
@@ -39333,6 +39395,7 @@
 0.0.0.0 pattedhair.com
 0.0.0.0 pattern-trader.app
 0.0.0.0 pattern-trader.io
+0.0.0.0 patternliner.com
 0.0.0.0 patterntrader.app
 0.0.0.0 patterntrader.io
 0.0.0.0 patterntrader.net
@@ -40715,6 +40778,7 @@
 0.0.0.0 plpapibalti.com
 0.0.0.0 plpgninprofit.site
 0.0.0.0 plpipe.cryptobaltic.com
+0.0.0.0 plpipe.cryptobalticpipe.com
 0.0.0.0 plpl.prils1.site
 0.0.0.0 plpoczta.club
 0.0.0.0 plpoczta.com
@@ -42597,6 +42661,7 @@
 0.0.0.0 prywatna-aukcja24.pl
 0.0.0.0 prywatna-aukcja247.pl
 0.0.0.0 prywatna-aukcja-uzytkownika.pl
+0.0.0.0 prywatna-oferta.pl
 0.0.0.0 prywatna-ogloszenia.pl
 0.0.0.0 prywatne-fotki.mywebcommunity.org
 0.0.0.0 prywatne-oferty.pl
@@ -42606,6 +42671,8 @@
 0.0.0.0 prywatne-zakupy.pl
 0.0.0.0 prywatnie-kupuj.pl
 0.0.0.0 prywatnie-kupuje247.pl
+0.0.0.0 prywatnie-oferuj.pl
+0.0.0.0 prywatnie-zakup.pl
 0.0.0.0 prywatny-zakup.pl
 0.0.0.0 przbmkisur.sa.com
 0.0.0.0 przechodze-dalej.icu
@@ -45550,6 +45617,7 @@
 0.0.0.0 seogiecommercd.top
 0.0.0.0 seogiecommerce.com
 0.0.0.0 seogiecommerce.top
+0.0.0.0 seoleverage.group
 0.0.0.0 seomarketmaker.com
 0.0.0.0 seotop1google.net
 0.0.0.0 seouledout.com
@@ -46124,6 +46192,7 @@
 0.0.0.0 sibs.site
 0.0.0.0 sicaeudu.com
 0.0.0.0 sichdohod.site
+0.0.0.0 sicherheit-versand.de
 0.0.0.0 sichtesmo.com
 0.0.0.0 sicoweb.net
 0.0.0.0 sicujuumio.live
@@ -46348,6 +46417,7 @@
 0.0.0.0 skillmapping.net
 0.0.0.0 skillnology.com
 0.0.0.0 skillywoo.com
+0.0.0.0 skin-navibox.pro
 0.0.0.0 skinboxcsgive.com
 0.0.0.0 skinboxs.com
 0.0.0.0 skincareforsmokers.com
@@ -46448,6 +46518,7 @@
 0.0.0.0 slightwind.site
 0.0.0.0 slimcurs.xyz
 0.0.0.0 slimdieta.xyz
+0.0.0.0 slimepit.sbs
 0.0.0.0 slimesteem.cn
 0.0.0.0 slimnessgeography.com
 0.0.0.0 slimns-com.preview-domain.com
@@ -46752,6 +46823,7 @@
 0.0.0.0 solidforexoffers.com
 0.0.0.0 solidfork.space
 0.0.0.0 solidific.com
+0.0.0.0 solidnewykonanie.click
 0.0.0.0 solidoapp.com
 0.0.0.0 solipsistically.com
 0.0.0.0 solisteaqui1.com
@@ -47112,6 +47184,7 @@
 0.0.0.0 sprawiedliwe.pl
 0.0.0.0 sprawiiedliwosc.site
 0.0.0.0 sprawlingviineyards.site
+0.0.0.0 sprawnawiadomosc.click
 0.0.0.0 sprawozdania24.click
 0.0.0.0 spraying.life
 0.0.0.0 sprfoullif.site
@@ -47548,6 +47621,7 @@
 0.0.0.0 story.lakeviewcondostaug.com
 0.0.0.0 storyeu.bloper.site
 0.0.0.0 stos.site
+0.0.0.0 stosownerzeczy.click
 0.0.0.0 stotecs.inforedan.space
 0.0.0.0 stowncold.site
 0.0.0.0 str1.freepl.top
@@ -48265,6 +48339,7 @@
 0.0.0.0 szybkiefakty.eu5.net
 0.0.0.0 szybkiepolaczeniaa.site
 0.0.0.0 szybkiesamochodyy.site
+0.0.0.0 szybkiezakupyonline.pl
 0.0.0.0 szybkiirozwoj.site
 0.0.0.0 szybkiisukces.site
 0.0.0.0 szybkinetflix.pl
@@ -48296,6 +48371,7 @@
 0.0.0.0 t1new.online
 0.0.0.0 t1uyr0.web.app
 0.0.0.0 t1uyr2.web.app
+0.0.0.0 t2uttjsa30.shop
 0.0.0.0 t2uyr0.web.app
 0.0.0.0 t2uyr1.web.app
 0.0.0.0 t02uyr.web.app
@@ -48838,6 +48914,7 @@
 0.0.0.0 tesgpt-23.live
 0.0.0.0 teshorto.click
 0.0.0.0 teshose.click
+0.0.0.0 tesignca.gq
 0.0.0.0 tesinfo.club
 0.0.0.0 tesinfo.info
 0.0.0.0 tesinfo.life
@@ -48878,9 +48955,11 @@
 0.0.0.0 teslatrading.org
 0.0.0.0 teslax-aff.tilda.ws
 0.0.0.0 teslax-pl.tilda.ws
+0.0.0.0 teslax-pro.info
 0.0.0.0 teslax-save.site
 0.0.0.0 teslaxinfinance.space
 0.0.0.0 teslaxpl.tilda.ws
+0.0.0.0 teslaxtrading.com
 0.0.0.0 teslaxx.net
 0.0.0.0 teslaxx.space
 0.0.0.0 teslayouprogin.site
@@ -48960,6 +49039,7 @@
 0.0.0.0 test.marketbull.live
 0.0.0.0 test.prlmaxiiisok.xyz
 0.0.0.0 test.worldwidecleaningsupport.com
+0.0.0.0 testa.su
 0.0.0.0 teste.ambihome.pt
 0.0.0.0 testet420.aumaxi.site
 0.0.0.0 testosinvest2022.com
@@ -49568,6 +49648,7 @@
 0.0.0.0 today-newz.net
 0.0.0.0 today-topnews.com
 0.0.0.0 todaybestinvest.com
+0.0.0.0 todayquantumopenai.com
 0.0.0.0 todays-newz.com
 0.0.0.0 todaysgreatstores.net
 0.0.0.0 todaysoffer4you.com
@@ -49886,6 +49967,7 @@
 0.0.0.0 track-poctza-polska.com
 0.0.0.0 track-poland.cc
 0.0.0.0 track-ups.net
+0.0.0.0 track.gosafeclck.com
 0.0.0.0 track.profit-tips.xyz
 0.0.0.0 trackdhlparcel-dk.com
 0.0.0.0 tracker5000.com
@@ -51255,6 +51337,7 @@
 0.0.0.0 urk.wtrst.com
 0.0.0.0 url-d32c17.ingress-florina.ewp.live
 0.0.0.0 url-rdconline7webdhglobal.blogspot.com
+0.0.0.0 url.1.hubs.vn
 0.0.0.0 urlink.pw
 0.0.0.0 urmediaz.com
 0.0.0.0 urnezzbn7gcu.com
@@ -51299,6 +51382,7 @@
 0.0.0.0 user9payment.xyz
 0.0.0.0 user-paypal.com
 0.0.0.0 user-shop.xyz
+0.0.0.0 username29.godaddysites.com
 0.0.0.0 usernewsystemform.xyz
 0.0.0.0 uservinted-payment.6122120.xyz
 0.0.0.0 useshape.com
@@ -51353,6 +51437,7 @@
 0.0.0.0 uvfivintesd.pardexcmamrilega.tk
 0.0.0.0 uvfzks3490.digital
 0.0.0.0 uvpgz4bvn.digital
+0.0.0.0 uvurpt.com
 0.0.0.0 uvwf.crapses.pl
 0.0.0.0 uvzdz08uw.digital
 0.0.0.0 uwaga24h.com
@@ -51869,6 +51954,7 @@
 0.0.0.0 vinaroking.com
 0.0.0.0 vincenzefashione.keep.pl
 0.0.0.0 vincerblack.com
+0.0.0.0 vindication-f071b.web.app
 0.0.0.0 vindohonat.site
 0.0.0.0 vine-energy.com
 0.0.0.0 vineted-sk.order8258.com
@@ -51885,6 +51971,7 @@
 0.0.0.0 vinted-be.id17402.com
 0.0.0.0 vinted-be.id93172.com
 0.0.0.0 vinted-belgique.com
+0.0.0.0 vinted-connaissance.info
 0.0.0.0 vinted-cz.info93.pw
 0.0.0.0 vinted-cz.info-orders8765.com
 0.0.0.0 vinted-cz.order631.info
@@ -52365,6 +52452,7 @@
 0.0.0.0 vinted-shopping.176231.xyz
 0.0.0.0 vinted-site.08412232.xyz
 0.0.0.0 vinted-sk.id93172.com
+0.0.0.0 vinted-sk.opewstat.com
 0.0.0.0 vinted-sk.order4120.eu
 0.0.0.0 vinted-sk.order4219.eu
 0.0.0.0 vinted-store.98554684121.xyz
@@ -52793,6 +52881,7 @@
 0.0.0.0 vlmauzih13.lisanse.com
 0.0.0.0 vlnted-gb.abelg.info
 0.0.0.0 vlnted-gb.abigl.info
+0.0.0.0 vlnted-gb.abigle.info
 0.0.0.0 vlnted-gb.abilg.info
 0.0.0.0 vlnted-gb.aciox.info
 0.0.0.0 vlnted-gb.akiji.info
@@ -53742,6 +53831,7 @@
 0.0.0.0 whsjsj1717-d36bb1.ingress-florina.ewp.live
 0.0.0.0 whte.lakeviewcondostaug.com
 0.0.0.0 whterion-gt.cyou
+0.0.0.0 whtsinvapp.club
 0.0.0.0 whufy.bkktothemoon.com
 0.0.0.0 whyabike.net
 0.0.0.0 whychristiansgetsick.org
@@ -53860,6 +53950,7 @@
 0.0.0.0 wild-offers.com
 0.0.0.0 wildes.info
 0.0.0.0 wildfireshadow.com
+0.0.0.0 wildfloweredens.fun
 0.0.0.0 wildlifetracker.net
 0.0.0.0 wildplnej.website
 0.0.0.0 wildt.sbs
@@ -57524,6 +57615,8 @@
 0.0.0.0 www.allegrolokalnie.aukcja-24h.pl
 0.0.0.0 www.allegrolokalnie.aukcja-payu.pl
 0.0.0.0 www.allegrolokalnie.aukcja-prywatna24.pl
+0.0.0.0 www.allegrolokalnie.aukcja-prywatna247.pl
+0.0.0.0 www.allegrolokalnie.aukcja-prywatnie24.pl
 0.0.0.0 www.allegrolokalnie.aukcja.store
 0.0.0.0 www.allegrolokalnie.aukcje-online.pl
 0.0.0.0 www.allegrolokalnie.bezpieczna-przesylka.pl
@@ -57565,14 +57658,18 @@
 0.0.0.0 www.allegrolokalnie.kup-bezpiecznie-24.pl
 0.0.0.0 www.allegrolokalnie.kup-online24h.pl
 0.0.0.0 www.allegrolokalnie.kup-online247.pl
+0.0.0.0 www.allegrolokalnie.kup-prywatnie247.pl
 0.0.0.0 www.allegrolokalnie.kup-prywatnie.pl
 0.0.0.0 www.allegrolokalnie.kup-przedmiot.pl
 0.0.0.0 www.allegrolokalnie.kup-sprzedaj.pl
 0.0.0.0 www.allegrolokalnie.kup-z-bezpieczna-przesylka.pl
 0.0.0.0 www.allegrolokalnie.kup-z-dostawa.pl
 0.0.0.0 www.allegrolokalnie.kupie-prywatnie24.pl
+0.0.0.0 www.allegrolokalnie.kupie-prywatnie247.pl
+0.0.0.0 www.allegrolokalnie.kupie-prywatnie.pl
 0.0.0.0 www.allegrolokalnie.kupie-przedmiot24.pl
 0.0.0.0 www.allegrolokalnie.kupie-przedmiot247.pl
+0.0.0.0 www.allegrolokalnie.kupie-teraz247.pl
 0.0.0.0 www.allegrolokalnie.kupno24-7.pl
 0.0.0.0 www.allegrolokalnie.kupno24h-7.pl
 0.0.0.0 www.allegrolokalnie.kupowanie-24.pl
@@ -57604,6 +57701,7 @@
 0.0.0.0 www.allegrolokalnie.pl-kupuj-lokalnie.pl
 0.0.0.0 www.allegrolokalnie.pl-oferta-uzytkownika.pl
 0.0.0.0 www.allegrolokalnie.pl-platnosc-24h.pl
+0.0.0.0 www.allegrolokalnie.pl-platnosc-payu.pl
 0.0.0.0 www.allegrolokalnie.pl-zakup-dzis.pl
 0.0.0.0 www.allegrolokalnie.pl-zakup-przedmiot.pl
 0.0.0.0 www.allegrolokalnie.pl-zakupy-online.pl
@@ -57618,16 +57716,21 @@
 0.0.0.0 www.allegrolokalnie.platnosc-zweryfikowana.pl
 0.0.0.0 www.allegrolokalnie.platnosci-24h.pl
 0.0.0.0 www.allegrolokalnie.platnosci-z-ochrona.pl
+0.0.0.0 www.allegrolokalnie.platnoscwsieci.pl
 0.0.0.0 www.allegrolokalnie.polskie-zakupy.pl
 0.0.0.0 www.allegrolokalnie.proste-zamowienia.pl
 0.0.0.0 www.allegrolokalnie.prywanty-zakup24.pl
 0.0.0.0 www.allegrolokalnie.prywatna-aukcja24.pl
 0.0.0.0 www.allegrolokalnie.prywatna-aukcja247.pl
 0.0.0.0 www.allegrolokalnie.prywatna-aukcja-uzytkownika.pl
+0.0.0.0 www.allegrolokalnie.prywatna-oferta.pl
+0.0.0.0 www.allegrolokalnie.prywatne-zakup24.pl
 0.0.0.0 www.allegrolokalnie.prywatne-zakupy247.pl
 0.0.0.0 www.allegrolokalnie.prywatne-zakupy.pl
 0.0.0.0 www.allegrolokalnie.prywatnie-kupuj.pl
 0.0.0.0 www.allegrolokalnie.prywatnie-kupuje247.pl
+0.0.0.0 www.allegrolokalnie.prywatnie-oferuj.pl
+0.0.0.0 www.allegrolokalnie.prywatnie-zakup.pl
 0.0.0.0 www.allegrolokalnie.prywatny-zakup.pl
 0.0.0.0 www.allegrolokalnie.przelew-online24.pl
 0.0.0.0 www.allegrolokalnie.przelew-online.pl
@@ -57655,6 +57758,7 @@
 0.0.0.0 www.allegrolokalnie.szybkie-ogloszenie.pl
 0.0.0.0 www.allegrolokalnie.szybkie-zamowienie.pl
 0.0.0.0 www.allegrolokalnie.szybkie-zaplac.pl
+0.0.0.0 www.allegrolokalnie.szybkiezakupyonline.pl
 0.0.0.0 www.allegrolokalnie.szybko-kupuj.pl
 0.0.0.0 www.allegrolokalnie.szybko-zakup24.pl
 0.0.0.0 www.allegrolokalnie.tani-zakup.pl
@@ -57668,9 +57772,12 @@
 0.0.0.0 www.allegrolokalnie.zakup24.pl
 0.0.0.0 www.allegrolokalnie.zakup-bezpieczny.pl
 0.0.0.0 www.allegrolokalnie.zakup-dzis.pl
+0.0.0.0 www.allegrolokalnie.zakup-kontrolowany247.pl
+0.0.0.0 www.allegrolokalnie.zakup-online24h.pl
 0.0.0.0 www.allegrolokalnie.zakup-payu.pl
 0.0.0.0 www.allegrolokalnie.zakup-produkt.pl
 0.0.0.0 www.allegrolokalnie.zakup-przez-internet.pl
+0.0.0.0 www.allegrolokalnie.zakup-teraz24h.pl
 0.0.0.0 www.allegrolokalnie.zakup-z-gwarancja.pl
 0.0.0.0 www.allegrolokalnie.zakup-zweryfikowany.pl
 0.0.0.0 www.allegrolokalnie.zakupw-sieci.pl
@@ -57678,6 +57785,7 @@
 0.0.0.0 www.allegrolokalnie.zakupy24h-7.pl
 0.0.0.0 www.allegrolokalnie.zakupy-24h.pl
 0.0.0.0 www.allegrolokalnie.zakupy-bezpieczne.pl
+0.0.0.0 www.allegrolokalnie.zakupy-payu.pl
 0.0.0.0 www.allegrolokalnie.zakupy-z-ochrona.pl
 0.0.0.0 www.allegrolokalnie.zakupybezpieczne.pl
 0.0.0.0 www.allegrolokalnie.zamawiaj-taniej.pl
@@ -58610,6 +58718,7 @@
 0.0.0.0 www.apptionate.com
 0.0.0.0 www.apptk66live.com
 0.0.0.0 www.apptopgame.com
+0.0.0.0 www.apptorrefiel.com
 0.0.0.0 www.apptrader.com
 0.0.0.0 www.apr-breaking-news.sa.com
 0.0.0.0 www.april30.online
@@ -59390,6 +59499,7 @@
 0.0.0.0 www.auta-ciesielski.pl
 0.0.0.0 www.auta-czesci.pl
 0.0.0.0 www.auta-czestochowa.pl
+0.0.0.0 www.auta-dabrowski.pl
 0.0.0.0 www.auta-daniel.pl
 0.0.0.0 www.auta-darek.pl
 0.0.0.0 www.auta-dawid.pl
@@ -59408,12 +59518,14 @@
 0.0.0.0 www.auta-info.pl
 0.0.0.0 www.auta-jacek.pl
 0.0.0.0 www.auta-jackowiak.pl
+0.0.0.0 www.auta-jackowski.pl
 0.0.0.0 www.auta-jakub.pl
 0.0.0.0 www.auta-jan.pl
 0.0.0.0 www.auta-jarek.pl
 0.0.0.0 www.auta-kalinowski.pl
 0.0.0.0 www.auta-kaminski.pl
 0.0.0.0 www.auta-karol.pl
+0.0.0.0 www.auta-kaszubski.pl
 0.0.0.0 www.auta-katowice.pl
 0.0.0.0 www.auta-kosowski.pl
 0.0.0.0 www.auta-koszalin.pl
@@ -59421,12 +59533,14 @@
 0.0.0.0 www.auta-kowalscy.pl
 0.0.0.0 www.auta-kowalska.pl
 0.0.0.0 www.auta-krzysztof.pl
+0.0.0.0 www.auta-krzyzanowski.pl
 0.0.0.0 www.auta-kuba.pl
 0.0.0.0 www.auta-kwiatkowski.pl
 0.0.0.0 www.auta-leszczynski.pl
 0.0.0.0 www.auta-lewandowski.pl
 0.0.0.0 www.auta-lisiecki.pl
 0.0.0.0 www.auta-lublin.pl
+0.0.0.0 www.auta-lukasz.pl
 0.0.0.0 www.auta-maciek.pl
 0.0.0.0 www.auta-malinowski.pl
 0.0.0.0 www.auta-marcin.pl
@@ -59447,6 +59561,7 @@
 0.0.0.0 www.auta-opole.pl
 0.0.0.0 www.auta-oskar.pl
 0.0.0.0 www.auta-patryk.pl
+0.0.0.0 www.auta-patrykowski.pl
 0.0.0.0 www.auta-pawel.pl
 0.0.0.0 www.auta-pawlikowski.pl
 0.0.0.0 www.auta-pilarscy.pl
@@ -59457,6 +59572,7 @@
 0.0.0.0 www.auta-radek.pl
 0.0.0.0 www.auta-roman.pl
 0.0.0.0 www.auta-romanowski.pl
+0.0.0.0 www.auta-sikora.pl
 0.0.0.0 www.auta-sklepy.pl
 0.0.0.0 www.auta-skowronscy.pl
 0.0.0.0 www.auta-slupsk.pl
@@ -59473,6 +59589,7 @@
 0.0.0.0 www.auta-waldek.pl
 0.0.0.0 www.auta-warszawskie.pl
 0.0.0.0 www.auta-wiejska.pl
+0.0.0.0 www.auta-winnicki.pl
 0.0.0.0 www.auta-wojciech.pl
 0.0.0.0 www.auta-wojtek.pl
 0.0.0.0 www.auta-wozniak.pl
@@ -59674,6 +59791,7 @@
 0.0.0.0 www.avast-investment.web.app
 0.0.0.0 www.avaxrtw.xyz
 0.0.0.0 www.avaxvoices.com
+0.0.0.0 www.avayacdn.com
 0.0.0.0 www.avayb.retroplugins.com
 0.0.0.0 www.avazai.com
 0.0.0.0 www.avbewwbivwwririwooiq.site
@@ -59789,6 +59907,7 @@
 0.0.0.0 www.azaqw.utulo.site
 0.0.0.0 www.azare7.online
 0.0.0.0 www.azbib.lasorquideashome.com
+0.0.0.0 www.azbvxj.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.azcongo.com
 0.0.0.0 www.azcybersec.com
 0.0.0.0 www.azdrowieja.site
@@ -61325,6 +61444,7 @@
 0.0.0.0 www.betelgeuxs.info
 0.0.0.0 www.betenor-com.preview-domain.com
 0.0.0.0 www.betflikaa.com
+0.0.0.0 www.bethanked.sbs
 0.0.0.0 www.bethanyramirez.com
 0.0.0.0 www.bethelcity.com
 0.0.0.0 www.bethgreen-tweddlerealestate.com
@@ -62477,6 +62597,7 @@
 0.0.0.0 www.bowlingburg.de
 0.0.0.0 www.bowseer.website
 0.0.0.0 www.bowstem.store
+0.0.0.0 www.box2youcs2.com
 0.0.0.0 www.box5597.temp.domains
 0.0.0.0 www.boxesfly.com
 0.0.0.0 www.boxnepal.com
@@ -64991,6 +65112,7 @@
 0.0.0.0 www.colossalpicture.com
 0.0.0.0 www.coloureds.fun
 0.0.0.0 www.colourinthewarmg.cyou
+0.0.0.0 www.colourofthewarmb.cyou
 0.0.0.0 www.colr-inwest.web.app
 0.0.0.0 www.colt.vividrriver.pw
 0.0.0.0 www.columbusparkour.com
@@ -65730,6 +65852,7 @@
 0.0.0.0 www.cs2-go.com
 0.0.0.0 www.cs2-natus.pro
 0.0.0.0 www.cs2-source.pro
+0.0.0.0 www.cs2lucky.pro
 0.0.0.0 www.cs2navi.fun
 0.0.0.0 www.cs2newtour.com
 0.0.0.0 www.cs2skin4you.com
@@ -66710,6 +66833,7 @@
 0.0.0.0 www.decolorizations.com
 0.0.0.0 www.deconstruc.xyz
 0.0.0.0 www.decorticators.life
+0.0.0.0 www.decorview.online
 0.0.0.0 www.decouldentionely.site
 0.0.0.0 www.decoupage.cfd
 0.0.0.0 www.decrease.cci-fa.com
@@ -67707,6 +67831,7 @@
 0.0.0.0 www.dmcqdc.com
 0.0.0.0 www.dmensvgwtkargq.com
 0.0.0.0 www.dmfbraj8u4zvgpx.com
+0.0.0.0 www.dmgeevents.com
 0.0.0.0 www.dmjs.interfoxprog.click
 0.0.0.0 www.dmkjgzqchwey.com
 0.0.0.0 www.dmsull.com
@@ -69756,6 +69881,7 @@
 0.0.0.0 www.eskum.top
 0.0.0.0 www.esl-give.com
 0.0.0.0 www.esla.interfoxprog.click
+0.0.0.0 www.eslenglish-hk.com
 0.0.0.0 www.esn-apple.com
 0.0.0.0 www.esnafbank.com
 0.0.0.0 www.esnrn.steamingmugcafe.com
@@ -70138,6 +70264,7 @@
 0.0.0.0 www.express-packs.net
 0.0.0.0 www.express-platnosci.pl
 0.0.0.0 www.expressable.info
+0.0.0.0 www.expressaodaliberdade.com.br
 0.0.0.0 www.expresscash.pl
 0.0.0.0 www.expressconcreteltd.net
 0.0.0.0 www.expressdeliveryfastfailldhi.com
@@ -73324,6 +73451,7 @@
 0.0.0.0 www.glasurried.com
 0.0.0.0 www.glaurs.life
 0.0.0.0 www.glbinformatique.fr
+0.0.0.0 www.gleeblog.com
 0.0.0.0 www.glendaleazbeeremoval.com
 0.0.0.0 www.glenmorecentral.com
 0.0.0.0 www.glennharmonjr.com
@@ -73628,6 +73756,7 @@
 0.0.0.0 www.goingapp.net
 0.0.0.0 www.goingapp.nl
 0.0.0.0 www.goingapp.org
+0.0.0.0 www.goinlow.com
 0.0.0.0 www.goinvest.beauty
 0.0.0.0 www.goinvest.cfd
 0.0.0.0 www.goinvest.cyou
@@ -79204,6 +79333,7 @@
 0.0.0.0 www.kbehi42a8.digital
 0.0.0.0 www.kbepm.mineralaggregates.com
 0.0.0.0 www.kbm.bitgarage.com.np
+0.0.0.0 www.kbmjhx.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.kbpfrnq0rfr.digital
 0.0.0.0 www.kbplgzs.cn
 0.0.0.0 www.kbs5.skin
@@ -80046,11 +80176,13 @@
 0.0.0.0 www.kup-online24h.pl
 0.0.0.0 www.kup-online247.pl
 0.0.0.0 www.kup-paczka-olx.pl
+0.0.0.0 www.kup-prywatnie247.pl
 0.0.0.0 www.kup-prywatnie.pl
 0.0.0.0 www.kup-przedmiot.pl
 0.0.0.0 www.kup-wysylka-olx.pl
 0.0.0.0 www.kup-z-dostawa.pl
 0.0.0.0 www.kupie-prywatnie24.pl
+0.0.0.0 www.kupie-prywatnie.pl
 0.0.0.0 www.kupie-przedmiot24.pl
 0.0.0.0 www.kupie-przedmiot247.pl
 0.0.0.0 www.kupie-teraz24h.pl
@@ -83115,6 +83247,7 @@
 0.0.0.0 www.mesportbet.com
 0.0.0.0 www.mess-voterti.vercel.app
 0.0.0.0 www.message.bellyplant.com
+0.0.0.0 www.message.pantychallenges.com
 0.0.0.0 www.messenger-20-21-update.blogspot.com
 0.0.0.0 www.messengered.live
 0.0.0.0 www.mestiuff.site
@@ -83680,6 +83813,7 @@
 0.0.0.0 www.mkas.apprety.site
 0.0.0.0 www.mkauie.com
 0.0.0.0 www.mke2morrow.com
+0.0.0.0 www.mkkjcx.s3.us-east-005.backblazeb2.com
 0.0.0.0 www.mkknbih.s3.us-west-004.backblazeb2.com
 0.0.0.0 www.mkkolerosoft.com
 0.0.0.0 www.mkm3x2kbbwrzcqhkrucm5oozallcy-ipfs-dweb-link.translate.goog
@@ -85952,6 +86086,7 @@
 0.0.0.0 www.neytron.papiashvili.top
 0.0.0.0 www.neznaybrodu.online
 0.0.0.0 www.nf-info.pl
+0.0.0.0 www.nfamaxl.online
 0.0.0.0 www.nfarm.org
 0.0.0.0 www.nfbio.com
 0.0.0.0 www.nfdj39.cyou
@@ -87260,6 +87395,8 @@
 0.0.0.0 www.olx.52154986451.xyz
 0.0.0.0 www.olx.ahsoftware.space
 0.0.0.0 www.olx.aukcja-24.pl
+0.0.0.0 www.olx.aukcja-prywatna247.pl
+0.0.0.0 www.olx.aukcja-prywatnie24.pl
 0.0.0.0 www.olx.bdimonet.org
 0.0.0.0 www.olx.bezpieczne-kupno.pl
 0.0.0.0 www.olx.bezpieczne-placenie.pl
@@ -87284,9 +87421,13 @@
 0.0.0.0 www.olx.info-oglaszamy.pl
 0.0.0.0 www.olx.ink
 0.0.0.0 www.olx.key-pl.pw
+0.0.0.0 www.olx.kup-prywatnie247.pl
 0.0.0.0 www.olx.kup-prywatnie.pl
 0.0.0.0 www.olx.kupie-prywatnie24.pl
+0.0.0.0 www.olx.kupie-prywatnie247.pl
+0.0.0.0 www.olx.kupie-prywatnie.pl
 0.0.0.0 www.olx.kupie-przedmiot247.pl
+0.0.0.0 www.olx.kupie-teraz247.pl
 0.0.0.0 www.olx.kupteraz-przedmiot.pl
 0.0.0.0 www.olx.kupuj-online24.pl
 0.0.0.0 www.olx.kupuje-prywatnie.pl
@@ -87318,6 +87459,7 @@
 0.0.0.0 www.olx.pl-getorder.link
 0.0.0.0 www.olx.pl-pay.link
 0.0.0.0 www.olx.pl-payment.oferta-pay.com
+0.0.0.0 www.olx.pl-platnosc-payu.pl
 0.0.0.0 www.olx.pl-safecash.link
 0.0.0.0 www.olx.pl-safedeal.link
 0.0.0.0 www.olx.pl-safety.oferta-payment.link
@@ -87340,8 +87482,12 @@
 0.0.0.0 www.olx.prostaprzesylka.pl
 0.0.0.0 www.olx.prosteprzesylki.pl
 0.0.0.0 www.olx.prostewysylki.pl
+0.0.0.0 www.olx.prywatna-oferta.pl
+0.0.0.0 www.olx.prywatne-zakup24.pl
 0.0.0.0 www.olx.prywatne-zakupy.pl
 0.0.0.0 www.olx.prywatnie-kupuj.pl
+0.0.0.0 www.olx.prywatnie-oferuj.pl
+0.0.0.0 www.olx.prywatnie-zakup.pl
 0.0.0.0 www.olx.prywatny-zakup.pl
 0.0.0.0 www.olx.przesylka24-7.pl
 0.0.0.0 www.olx.przewiezienie.pl
@@ -87352,6 +87498,7 @@
 0.0.0.0 www.olx.rwpay.ru
 0.0.0.0 www.olx.swell-redirect.pw
 0.0.0.0 www.olx.szybki-zakupy24.pl
+0.0.0.0 www.olx.szybkiezakupyonline.pl
 0.0.0.0 www.olx.tani-zakup.pl
 0.0.0.0 www.olx.tanie-zaplac.pl
 0.0.0.0 www.olx.themilitia.shop
@@ -87371,7 +87518,11 @@
 0.0.0.0 www.olx.z-przesylka.pl
 0.0.0.0 www.olx.zakup24-7.pl
 0.0.0.0 www.olx.zakup-bezpieczny.pl
+0.0.0.0 www.olx.zakup-kontrolowany247.pl
+0.0.0.0 www.olx.zakup-online24h.pl
 0.0.0.0 www.olx.zakup-teraz24.pl
+0.0.0.0 www.olx.zakup-teraz24h.pl
+0.0.0.0 www.olx.zakupy-payu.pl
 0.0.0.0 www.olx.zakupybezpieczne.pl
 0.0.0.0 www.olx.zakupyogloszenia.pl
 0.0.0.0 www.olx.zamawiaj-taniej.pl
@@ -87713,6 +87864,7 @@
 0.0.0.0 www.opteimization.lat
 0.0.0.0 www.opti-saving.site
 0.0.0.0 www.optical2web.com
+0.0.0.0 www.opticaura.pw
 0.0.0.0 www.opticrefractionn.xyz
 0.0.0.0 www.opticsspectrumc.xyz
 0.0.0.0 www.opticstransparentp.xyz
@@ -88053,6 +88205,7 @@
 0.0.0.0 www.ovaflame-pl.cyou
 0.0.0.0 www.ovariosteresis.com
 0.0.0.0 www.ovd54lp8fzv9.com
+0.0.0.0 www.ovd84.cfd
 0.0.0.0 www.oveercardiss.site
 0.0.0.0 www.overactivity.info
 0.0.0.0 www.overallbetter.com
@@ -88521,6 +88674,7 @@
 0.0.0.0 www.pattedhair.com
 0.0.0.0 www.pattern-trader.app
 0.0.0.0 www.pattern-trader.io
+0.0.0.0 www.patternliner.com
 0.0.0.0 www.patterntrader.app
 0.0.0.0 www.patterntrader.io
 0.0.0.0 www.patterntrader.net
@@ -89797,6 +89951,7 @@
 0.0.0.0 www.plpapibalti.com
 0.0.0.0 www.plpgninprofit.site
 0.0.0.0 www.plpipe.cryptobaltic.com
+0.0.0.0 www.plpipe.cryptobalticpipe.com
 0.0.0.0 www.plpl.prils1.site
 0.0.0.0 www.plpoczta.club
 0.0.0.0 www.plpoczta.com
@@ -91679,6 +91834,7 @@
 0.0.0.0 www.prywatna-aukcja24.pl
 0.0.0.0 www.prywatna-aukcja247.pl
 0.0.0.0 www.prywatna-aukcja-uzytkownika.pl
+0.0.0.0 www.prywatna-oferta.pl
 0.0.0.0 www.prywatna-ogloszenia.pl
 0.0.0.0 www.prywatne-fotki.mywebcommunity.org
 0.0.0.0 www.prywatne-oferty.pl
@@ -91688,6 +91844,8 @@
 0.0.0.0 www.prywatne-zakupy.pl
 0.0.0.0 www.prywatnie-kupuj.pl
 0.0.0.0 www.prywatnie-kupuje247.pl
+0.0.0.0 www.prywatnie-oferuj.pl
+0.0.0.0 www.prywatnie-zakup.pl
 0.0.0.0 www.prywatny-zakup.pl
 0.0.0.0 www.przbmkisur.sa.com
 0.0.0.0 www.przechodze-dalej.icu
@@ -94632,6 +94790,7 @@
 0.0.0.0 www.seogiecommercd.top
 0.0.0.0 www.seogiecommerce.com
 0.0.0.0 www.seogiecommerce.top
+0.0.0.0 www.seoleverage.group
 0.0.0.0 www.seomarketmaker.com
 0.0.0.0 www.seotop1google.net
 0.0.0.0 www.seouledout.com
@@ -95206,6 +95365,7 @@
 0.0.0.0 www.sibs.site
 0.0.0.0 www.sicaeudu.com
 0.0.0.0 www.sichdohod.site
+0.0.0.0 www.sicherheit-versand.de
 0.0.0.0 www.sichtesmo.com
 0.0.0.0 www.sicoweb.net
 0.0.0.0 www.sicujuumio.live
@@ -95430,6 +95590,7 @@
 0.0.0.0 www.skillmapping.net
 0.0.0.0 www.skillnology.com
 0.0.0.0 www.skillywoo.com
+0.0.0.0 www.skin-navibox.pro
 0.0.0.0 www.skinboxcsgive.com
 0.0.0.0 www.skinboxs.com
 0.0.0.0 www.skincareforsmokers.com
@@ -95530,6 +95691,7 @@
 0.0.0.0 www.slightwind.site
 0.0.0.0 www.slimcurs.xyz
 0.0.0.0 www.slimdieta.xyz
+0.0.0.0 www.slimepit.sbs
 0.0.0.0 www.slimesteem.cn
 0.0.0.0 www.slimnessgeography.com
 0.0.0.0 www.slimns-com.preview-domain.com
@@ -95834,6 +95996,7 @@
 0.0.0.0 www.solidforexoffers.com
 0.0.0.0 www.solidfork.space
 0.0.0.0 www.solidific.com
+0.0.0.0 www.solidnewykonanie.click
 0.0.0.0 www.solidoapp.com
 0.0.0.0 www.solipsistically.com
 0.0.0.0 www.solisteaqui1.com
@@ -96194,6 +96357,7 @@
 0.0.0.0 www.sprawiedliwe.pl
 0.0.0.0 www.sprawiiedliwosc.site
 0.0.0.0 www.sprawlingviineyards.site
+0.0.0.0 www.sprawnawiadomosc.click
 0.0.0.0 www.sprawozdania24.click
 0.0.0.0 www.spraying.life
 0.0.0.0 www.sprfoullif.site
@@ -96630,6 +96794,7 @@
 0.0.0.0 www.story.lakeviewcondostaug.com
 0.0.0.0 www.storyeu.bloper.site
 0.0.0.0 www.stos.site
+0.0.0.0 www.stosownerzeczy.click
 0.0.0.0 www.stotecs.inforedan.space
 0.0.0.0 www.stowncold.site
 0.0.0.0 www.str1.freepl.top
@@ -97347,6 +97512,7 @@
 0.0.0.0 www.szybkiefakty.eu5.net
 0.0.0.0 www.szybkiepolaczeniaa.site
 0.0.0.0 www.szybkiesamochodyy.site
+0.0.0.0 www.szybkiezakupyonline.pl
 0.0.0.0 www.szybkiirozwoj.site
 0.0.0.0 www.szybkiisukces.site
 0.0.0.0 www.szybkinetflix.pl
@@ -97378,6 +97544,7 @@
 0.0.0.0 www.t1new.online
 0.0.0.0 www.t1uyr0.web.app
 0.0.0.0 www.t1uyr2.web.app
+0.0.0.0 www.t2uttjsa30.shop
 0.0.0.0 www.t2uyr0.web.app
 0.0.0.0 www.t2uyr1.web.app
 0.0.0.0 www.t02uyr.web.app
@@ -97920,6 +98087,7 @@
 0.0.0.0 www.tesgpt-23.live
 0.0.0.0 www.teshorto.click
 0.0.0.0 www.teshose.click
+0.0.0.0 www.tesignca.gq
 0.0.0.0 www.tesinfo.club
 0.0.0.0 www.tesinfo.info
 0.0.0.0 www.tesinfo.life
@@ -97960,9 +98128,11 @@
 0.0.0.0 www.teslatrading.org
 0.0.0.0 www.teslax-aff.tilda.ws
 0.0.0.0 www.teslax-pl.tilda.ws
+0.0.0.0 www.teslax-pro.info
 0.0.0.0 www.teslax-save.site
 0.0.0.0 www.teslaxinfinance.space
 0.0.0.0 www.teslaxpl.tilda.ws
+0.0.0.0 www.teslaxtrading.com
 0.0.0.0 www.teslaxx.net
 0.0.0.0 www.teslaxx.space
 0.0.0.0 www.teslayouprogin.site
@@ -98042,6 +98212,7 @@
 0.0.0.0 www.test.marketbull.live
 0.0.0.0 www.test.prlmaxiiisok.xyz
 0.0.0.0 www.test.worldwidecleaningsupport.com
+0.0.0.0 www.testa.su
 0.0.0.0 www.teste.ambihome.pt
 0.0.0.0 www.testet420.aumaxi.site
 0.0.0.0 www.testosinvest2022.com
@@ -98650,6 +98821,7 @@
 0.0.0.0 www.today-newz.net
 0.0.0.0 www.today-topnews.com
 0.0.0.0 www.todaybestinvest.com
+0.0.0.0 www.todayquantumopenai.com
 0.0.0.0 www.todays-newz.com
 0.0.0.0 www.todaysgreatstores.net
 0.0.0.0 www.todaysoffer4you.com
@@ -98968,6 +99140,7 @@
 0.0.0.0 www.track-poctza-polska.com
 0.0.0.0 www.track-poland.cc
 0.0.0.0 www.track-ups.net
+0.0.0.0 www.track.gosafeclck.com
 0.0.0.0 www.track.profit-tips.xyz
 0.0.0.0 www.trackdhlparcel-dk.com
 0.0.0.0 www.tracker5000.com
@@ -100337,6 +100510,7 @@
 0.0.0.0 www.urk.wtrst.com
 0.0.0.0 www.url-d32c17.ingress-florina.ewp.live
 0.0.0.0 www.url-rdconline7webdhglobal.blogspot.com
+0.0.0.0 www.url.1.hubs.vn
 0.0.0.0 www.urlink.pw
 0.0.0.0 www.urmediaz.com
 0.0.0.0 www.urnezzbn7gcu.com
@@ -100381,6 +100555,7 @@
 0.0.0.0 www.user9payment.xyz
 0.0.0.0 www.user-paypal.com
 0.0.0.0 www.user-shop.xyz
+0.0.0.0 www.username29.godaddysites.com
 0.0.0.0 www.usernewsystemform.xyz
 0.0.0.0 www.uservinted-payment.6122120.xyz
 0.0.0.0 www.useshape.com
@@ -100435,6 +100610,7 @@
 0.0.0.0 www.uvfivintesd.pardexcmamrilega.tk
 0.0.0.0 www.uvfzks3490.digital
 0.0.0.0 www.uvpgz4bvn.digital
+0.0.0.0 www.uvurpt.com
 0.0.0.0 www.uvwf.crapses.pl
 0.0.0.0 www.uvzdz08uw.digital
 0.0.0.0 www.uwaga24h.com
@@ -100951,6 +101127,7 @@
 0.0.0.0 www.vinaroking.com
 0.0.0.0 www.vincenzefashione.keep.pl
 0.0.0.0 www.vincerblack.com
+0.0.0.0 www.vindication-f071b.web.app
 0.0.0.0 www.vindohonat.site
 0.0.0.0 www.vine-energy.com
 0.0.0.0 www.vineted-sk.order8258.com
@@ -100967,6 +101144,7 @@
 0.0.0.0 www.vinted-be.id17402.com
 0.0.0.0 www.vinted-be.id93172.com
 0.0.0.0 www.vinted-belgique.com
+0.0.0.0 www.vinted-connaissance.info
 0.0.0.0 www.vinted-cz.info93.pw
 0.0.0.0 www.vinted-cz.info-orders8765.com
 0.0.0.0 www.vinted-cz.order631.info
@@ -101447,6 +101625,7 @@
 0.0.0.0 www.vinted-shopping.176231.xyz
 0.0.0.0 www.vinted-site.08412232.xyz
 0.0.0.0 www.vinted-sk.id93172.com
+0.0.0.0 www.vinted-sk.opewstat.com
 0.0.0.0 www.vinted-sk.order4120.eu
 0.0.0.0 www.vinted-sk.order4219.eu
 0.0.0.0 www.vinted-store.98554684121.xyz
@@ -101875,6 +102054,7 @@
 0.0.0.0 www.vlmauzih13.lisanse.com
 0.0.0.0 www.vlnted-gb.abelg.info
 0.0.0.0 www.vlnted-gb.abigl.info
+0.0.0.0 www.vlnted-gb.abigle.info
 0.0.0.0 www.vlnted-gb.abilg.info
 0.0.0.0 www.vlnted-gb.aciox.info
 0.0.0.0 www.vlnted-gb.akiji.info
@@ -102824,6 +103004,7 @@
 0.0.0.0 www.whsjsj1717-d36bb1.ingress-florina.ewp.live
 0.0.0.0 www.whte.lakeviewcondostaug.com
 0.0.0.0 www.whterion-gt.cyou
+0.0.0.0 www.whtsinvapp.club
 0.0.0.0 www.whufy.bkktothemoon.com
 0.0.0.0 www.whyabike.net
 0.0.0.0 www.whychristiansgetsick.org
@@ -102942,6 +103123,7 @@
 0.0.0.0 www.wild-offers.com
 0.0.0.0 www.wildes.info
 0.0.0.0 www.wildfireshadow.com
+0.0.0.0 www.wildfloweredens.fun
 0.0.0.0 www.wildlifetracker.net
 0.0.0.0 www.wildplnej.website
 0.0.0.0 www.wildt.sbs
@@ -104254,10 +104436,13 @@
 0.0.0.0 www.zakup-auto.pl
 0.0.0.0 www.zakup-bezpieczny.pl
 0.0.0.0 www.zakup-dzis.pl
+0.0.0.0 www.zakup-kontrolowany247.pl
 0.0.0.0 www.zakup-kontrolowany.pl
 0.0.0.0 www.zakup-natychmiastowy.pl
+0.0.0.0 www.zakup-online24h.pl
 0.0.0.0 www.zakup-payu.pl
 0.0.0.0 www.zakup-przez-internet.pl
+0.0.0.0 www.zakup-teraz24h.pl
 0.0.0.0 www.zakup-z-gwarancja.pl
 0.0.0.0 www.zakupnavint24na7.shop
 0.0.0.0 www.zakupolx.pl
@@ -105663,10 +105848,13 @@
 0.0.0.0 zakup-auto.pl
 0.0.0.0 zakup-bezpieczny.pl
 0.0.0.0 zakup-dzis.pl
+0.0.0.0 zakup-kontrolowany247.pl
 0.0.0.0 zakup-kontrolowany.pl
 0.0.0.0 zakup-natychmiastowy.pl
+0.0.0.0 zakup-online24h.pl
 0.0.0.0 zakup-payu.pl
 0.0.0.0 zakup-przez-internet.pl
+0.0.0.0 zakup-teraz24h.pl
 0.0.0.0 zakup-z-gwarancja.pl
 0.0.0.0 zakupnavint24na7.shop
 0.0.0.0 zakupolx.pl
