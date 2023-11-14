@@ -1,14 +1,41 @@
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_lcdOjg8X+/IZZHQbNKySBzjTpQFy45nQ5lqDBlwOqIO6KdjeLrJpqqrp+gHhKxuRdvJ+x7p+yG0yfN0nwjK4ag==" lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
+    <title>blocklist.site</title>
+    <meta content="NOW" name="expires">
+    <meta content="index, follow, all" name="GOOGLEBOT">
+    <meta content="index, follow, all" name="robots">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <style>
+        html, body, #partner, iframe
+        {
+            height:         100%;
+            width:          100%;
+            margin:         0;
+            padding:        0;
+            border:         0;
+            outline:        0;
+            font-size:      100%;
+            vertical-align: baseline;
+            background:     transparent;
+        }
+
+        body
+        {
+            overflow: hidden;
+        }
+    </style>
 </head>
 <body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYzg2YmQxZTUtYWI4NS00MjY0LWI3NTctM2NjMWYyZDk5MjY1IiwicGFnZV90aW1lIjoxNjk2NTAwMDQxLCJwYWdlX3VybCI6Imh0dHBzOi8vYmxvY2tsaXN0LnNpdGUvYXBwL2RsL3RyYWNraW5nIiwicGFnZV9tZXRob2QiOiJHRVQiLCJwYWdlX3JlcXVlc3QiOnt9LCJwYWdlX2hlYWRlcnMiOnt9LCJob3N0IjoiYmxvY2tsaXN0LnNpdGUiLCJpcCI6Ijg5LjY0LjQxLjE5OCJ9Cg==";</script>
-<script src="/aziCCECdC.js"></script>
+
+<div id="partner"></div>
+
+<script>
+    document.write(
+        '<script src="\/\/sedoparking.com/frmpark/blocklist.site/sedopark/park.js">' +
+        '<\/script>'
+    );
+</script>
 </body>
 </html>

@@ -1,4 +1,4 @@
-#202311080303
+#202311130303
 # Adguard Mobile Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -118,6 +118,7 @@
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 adquota.com
+0.0.0.0 adrouter-charter-vod.cadenttech.tv
 0.0.0.0 ads-api.kidsnote.com
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -727,6 +728,7 @@
 0.0.0.0 tappx.com
 0.0.0.0 tapsell.ir
 0.0.0.0 tapsense.com
+0.0.0.0 tapulsads.ru
 0.0.0.0 targetspot.com
 0.0.0.0 tccbanner.com
 0.0.0.0 teachscape.vo.llnwd.net

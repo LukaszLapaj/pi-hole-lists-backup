@@ -1,4 +1,4 @@
-#202311080303
+#202311130303
 # EasyPrivacy Host filters for Pi hole
 # Collaborators: xxcriticxx, MajkiIT
 # Homepage: https://www.certyficate.it/
@@ -3384,6 +3384,7 @@
 0.0.0.0 ax.idg.se
 0.0.0.0 axentis.arclogics.com
 0.0.0.0 axiomaticalley.com
+0.0.0.0 axiomaticanger.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 axjfkc.kobayashi.co.jp
 0.0.0.0 axoqvl.daf-shoes.com
@@ -3917,6 +3918,7 @@
 0.0.0.0 bsytzb.hago.kr
 0.0.0.0 bt.astadia.com
 0.0.0.0 btaenrolment.americanexpress.at
+0.0.0.0 btdmp.com
 0.0.0.0 btloader.com
 0.0.0.0 btn.listonic.com
 0.0.0.0 btn.rtl2.de
@@ -4004,6 +4006,7 @@
 0.0.0.0 c.vrt.be
 0.0.0.0 c.wen.ru
 0.0.0.0 c.werally.com
+0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c0012.brsimg.com
@@ -4112,6 +4115,7 @@
 0.0.0.0 catracking.finning.com
 0.0.0.0 cats.d20.rs
 0.0.0.0 catschickens.com
+0.0.0.0 catsunrunjam.com
 0.0.0.0 causecherry.com
 0.0.0.0 cautiouscamera.com
 0.0.0.0 cautiouscherries.com
@@ -4343,7 +4347,6 @@
 0.0.0.0 cloud-miner.de
 0.0.0.0 cloud-miner.eu
 0.0.0.0 cloud.aspiresys.com
-0.0.0.0 cloud.degoo.com
 0.0.0.0 cloud.webtrack.online
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
@@ -5093,6 +5096,7 @@
 0.0.0.0 d2wa5sea6guof0.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 d2zue0pgsssbc6.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
@@ -5123,6 +5127,7 @@
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d3tglifpd8whs6.cloudfront.net
 0.0.0.0 d3uvwl4wtkgzo1.cloudfront.net
+0.0.0.0 d3vebqdofhigrn.cloudfront.net
 0.0.0.0 d4ax0r5detcsu.cloudfront.net
 0.0.0.0 d6ek.pandasuite.io
 0.0.0.0 d761erxl2qywg.cloudfront.net
@@ -5401,6 +5406,7 @@
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delicatecascade.com
 0.0.0.0 delicateducks.com
+0.0.0.0 deliciousducks.com
 0.0.0.0 delightfulhour.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 delivery.email-pepipost.branch.rocks
@@ -5414,6 +5420,7 @@
 0.0.0.0 demojobsapp.epoise.com
 0.0.0.0 dep.hmgroup.com
 0.0.0.0 depeliculah.indonesiya.com
+0.0.0.0 dependenttrip.com
 0.0.0.0 des.me.coact.org.au
 0.0.0.0 descargar.billeteramango.com
 0.0.0.0 desertedbreath.com
@@ -5510,7 +5517,6 @@
 0.0.0.0 dig.lianjia.com
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 digi-ping.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 digital-engineering.de
 0.0.0.0 digital.acutx.org
 0.0.0.0 digital.anicom-sompo.co.jp
@@ -6711,6 +6717,7 @@
 0.0.0.0 firstparty1.dentsplysirona.com
 0.0.0.0 firstpartycookie.gettyimages.com
 0.0.0.0 firstpartycookie.istockphoto.com
+0.0.0.0 firsttexture.com
 0.0.0.0 fishing.daigostudio.com
 0.0.0.0 fiwinet.firmenwissen.com
 0.0.0.0 fiwinet.firmenwissen.de
@@ -6723,6 +6730,7 @@
 0.0.0.0 fkwc.sfr.fr
 0.0.0.0 fl5dpe.oui.sncf
 0.0.0.0 flakyfeast.com
+0.0.0.0 flameuncle.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fleet-eml.postmates.com
 0.0.0.0 fleraprt.com
@@ -11839,6 +11847,7 @@
 0.0.0.0 paqqlk.motatos.de
 0.0.0.0 paradoxfactor.com
 0.0.0.0 parallel6.actonservice.com
+0.0.0.0 parallelbulb.com
 0.0.0.0 paramedicexam.quantresear.ch
 0.0.0.0 parcelcreature.com
 0.0.0.0 parchedangle.com
@@ -12516,6 +12525,7 @@
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.qualicocommunitieswinnipeg.com
 0.0.0.0 qc.vogue.com
+0.0.0.0 qc.wired.com
 0.0.0.0 qerpks.rollei.de
 0.0.0.0 qexbcx.olx.kz
 0.0.0.0 qfbles.elefant.ro
@@ -12668,6 +12678,7 @@
 0.0.0.0 realcomm.actonservice.com
 0.0.0.0 realeducation.kangan.edu.au
 0.0.0.0 realize.goldenspiralmarketing.com
+0.0.0.0 realizedoor.com
 0.0.0.0 realizerecess.com
 0.0.0.0 realizevacation.com
 0.0.0.0 realm.hearst3pcc.com
@@ -12885,6 +12896,7 @@
 0.0.0.0 rhxkzd.jane.com
 0.0.0.0 rhymezebra.com
 0.0.0.0 rhythmmoney.com
+0.0.0.0 rhythmrule.com
 0.0.0.0 richreceipt.com
 0.0.0.0 richstring.com
 0.0.0.0 righteouscrayon.com
@@ -16394,6 +16406,7 @@
 0.0.0.0 staging-refer.rooam.co
 0.0.0.0 staging.narrateapp.com
 0.0.0.0 staging.refer.wagr.us
+0.0.0.0 stakingbasket.com
 0.0.0.0 stakingscrew.com
 0.0.0.0 stakingslope.com
 0.0.0.0 stakingsmile.com
@@ -19961,6 +19974,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 trackv-test.esearchvision.com
 0.0.0.0 tradeshows.aem.org
+0.0.0.0 tradetooth.com
 0.0.0.0 traffic.acwebconnecting.com
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.shareaholic.com
@@ -21470,7 +21484,6 @@
 0.0.0.0 x88s.pandasuite.io
 0.0.0.0 x9.shinobi.jp
 0.0.0.0 xait.actonservice.com
-0.0.0.0 xapi.ozon.ru
 0.0.0.0 xay5o.toscane-boutique.fr
 0.0.0.0 xbmady.daimaru-matsuzakaya.jp
 0.0.0.0 xbwpfs.fotocasa.es
